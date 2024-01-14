@@ -1,0 +1,330 @@
+overlays:
+### RESOLUTIONS ###
+
+  4k_dv:
+    overlay:
+      name: 4k_dv
+      group: resolution-4k
+      weight: 120
+    plex_search:
+      all:
+        resolution.regex: '(?i)2160|4k'
+      validate: false
+    filters:
+      has_dolby_vision: true
+  
+  4k_hdr:
+    overlay:
+      name: 4k_hdr
+      group: resolution-4k
+      weight: 110
+    plex_search:
+      all:
+        resolution.regex: '(?i)2160|4k'
+        hdr: true
+      validate: false
+  
+  4k:
+    overlay:
+      name: 4k
+      group: resolution-4k
+      weight: 100
+    plex_search:
+      all:
+        resolution.regex: '(?i)2160|4k'
+      validate: false
+  
+  1080p_dv:
+    overlay:
+      name: 1080p_dv
+      group: resolution-1080p
+      weight: 120
+    plex_search:
+      all:
+        resolution.regex: '(?i)1080|2k'
+      validate: false
+    filters:
+      has_dolby_vision: true
+      validate: false
+  
+  1080p_hdr:
+    overlay:
+      name: 1080p_hdr
+      group: resolution-1080p
+      weight: 110
+    plex_search:
+      all:
+        resolution.regex: '(?i)1080|2k'
+        hdr: true
+      validate: false
+      
+  1080p:
+    overlay:
+      name: 1080p
+      group: resolution-1080p
+      weight: 100
+    plex_search:
+      all:
+        resolution.regex: '(?i)1080|2k'
+      validate: false
+
+  720p:
+    overlay:
+      name: 720p
+      group: resolution-720p
+      weight: 100
+    plex_search:
+      all:
+        resolution.regex: '(?i)720'
+      validate: false
+
+  480p:
+    overlay:
+      name: 480p
+      group: resolution-480p
+      weight: 100
+    plex_search:
+      all:
+        resolution.regex: '(?i)480'
+      validate: false
+
+  SD:
+    overlay:
+      name: SD
+      group: resolution-SD
+      weight: 100
+    plex_search:
+      all:
+        resolution.regex: '(?i)SD'
+      validate: false
+
+### RESOLUTIONS ###
+
+### AUDIO CODEC ###
+
+  truehd_atmos:
+    overlay:
+      name: truehd_atmos
+      group: audio
+      weight: 120
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)^(?=.*\btrue[ ._-]?hd(\b|\d))(?=.*\batmos(\b|\d))'
+  
+  dtsx:
+    overlay:
+      name: dtsx
+      group: audio
+      weight: 110
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\bdts[ ._-]?x\b'
+  
+  plus_atmos:
+    overlay:
+      name: plus_atmos
+      group: audio
+      weight: 100
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)^(?=.*\b(dd[p+])|(dolby digital plus)\b)(?=.*\batmos(\b|\d))'
+  
+  dolby_atmos:
+    overlay:
+      name: dolby_atmos
+      group: audio
+      weight: 90
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\batmos(\b|\d)'
+  
+  truehd:
+    overlay:
+      name: truehd
+      group: audio
+      weight: 80
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\btrue[ ._-]?hd(\b|\d)'
+  
+  ma:
+    overlay:
+      name: ma
+      group: audio
+      weight: 70
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\bdts[ ._-]?(hd[ ._-])?(ma|xll|hd)(\b|\d)(?![ ._-]hra)'
+  
+  hra:
+    overlay:
+      name: hra
+      group: audio
+      weight: 60
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\bdts[ ._-]?(hd[ ._-])?(hr|hra|hi|ra)(\b|\d)'
+  
+  plus:
+    overlay:
+      name: plus
+      group: audio
+      weight: 50
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\b(dd[p+])|(dolby digital plus)|(e[ ._-]?ac3)\b'
+  
+  dtses:
+    overlay:
+      name: dtses
+      group: audio
+      weight: 40
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\bdts[ ._-]?es(\b|\d)'
+  
+  dts:
+    overlay:
+      name: dts
+      group: audio
+      weight: 30
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\bdts(\b|\d)'
+  
+  digital:
+    overlay:
+      name: digital
+      group: audio
+      weight: 20
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\b(dd)|(ac3)|(dolby)(\b|\d)'
+  
+  aac:
+    overlay:
+      name: aac
+      group: audio
+      weight: 10
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\b(aac|stereo|2\.0)\b'
+
+### AUDIO CODEC ###
+
+### TMDB TRENDING / IMDB AWARDS ###
+
+  Trending:
+    overlay:
+      name: trending
+      group: awards
+      weight: 400
+    plex_search:
+      all:
+        collection: "Trending"
+
+  Awards_1:
+    overlay:
+      group: awards
+      weight: 900
+      name: oscar
+    imdb_search:
+      event.winning: oscar
+      limit: 2000
+    
+  Awards_2:
+    overlay:
+      group: awards
+      weight: 899
+      name: golden
+    imdb_search:
+      event.winning: golden
+      limit: 2000
+    
+  Awards_3:
+    overlay:
+      group: awards
+      weight: 898
+      name: emmy
+    imdb_search:
+      event.winning: emmy
+      limit: 2000
+
+  Awards_4:
+    overlay:
+      group: awards
+      weight: 800
+      name: imdb_250
+    imdb_search:
+      type: movie
+      imdb_top: 250
+      limit: 250
+
+  Awards_5:
+    overlay:
+      group: awards
+      weight: 700
+      name: imdb_1000
+    imdb_search:
+      type: movie
+      imdb_top: 1000
+      limit: 1000
+
+#  rt_bronze:
+#    overlay:
+#      group: awards
+#      weight: 598
+#      name: rt_bronze
+#    plex_search:
+#      all:
+#        audience_rating.gte: 7.0
+#        audience_rating.lte: 7.9
+#  rt_silver:
+#    overlay:
+#      group: awards
+#      weight: 599
+#      name: rt_silver
+#    plex_search:
+#      all:
+#        audience_rating.gte: 8.0
+#        audience_rating.lte: 8.9
+#  rt_gold:
+#    overlay:
+#      group: awards
+#      weight: 600
+#      name: rt_gold
+#    plex_search:
+#      all:
+#        audience_rating.gte: 9.0
+
+#  rt_bronze_trending:
+#    overlay:
+#      group: awards
+#      weight: 601
+#      name: rt_bronze_trending
+#    plex_search:
+#      all:
+#        collection: "Trending"
+#        audience_rating.gte: 7.0
+#        audience_rating.lte: 7.9
+#  rt_silver_trending:
+#    overlay:
+#      group: awards
+#      weight: 602
+#      name: rt_silver_trending
+#    plex_search:
+#      all:
+#        collection: "Trending"
+#        audience_rating.gte: 8.0
+#        audience_rating.lte: 8.9
+#  rt_gold_trending:
+#    overlay:
+#      group: awards
+#      weight: 603
+#      name: rt_gold_trending
+#    plex_search:
+#      all:
+#        collection: "Trending"
+#        audience_rating.gte: 9.0
+
+### TMDB TRENDING / IMDB AWARDS ###
