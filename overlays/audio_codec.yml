@@ -1,5 +1,7 @@
 ### AUDIO CODEC ###
 
+overlays:
+
   truehd_atmos:
     overlay:
       name: truehd_atmos

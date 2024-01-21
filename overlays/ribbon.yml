@@ -1,5 +1,7 @@
 ### TMDB TRENDING / IMDB AWARDS ###
 
+overlays:
+
   Trending:
     overlay:
       name: trending
