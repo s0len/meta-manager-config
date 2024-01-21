@@ -1,47 +1,4 @@
-overlays:
 
-### SHOW STATUS ###
-
-  Weekly:
-    overlay:
-      name: airing
-      group: STATUS
-      weight: 900
-    tmdb_on_the_air: 5000
-
-  Returning:
-    overlay:
-      name: returning
-      group: STATUS
-      weight: 800
-    plex_all: true
-    filters:
-      tmdb_status:
-         - returning
-         - planned
-         - production
-
-  Ended:
-    overlay:
-      name: ended
-      group: STATUS
-      weight: 600
-    plex_all: true
-    filters:
-      tmdb_status:
-         - ended
-
-  Cancelled:
-    overlay:
-      name: cancelled
-      group: STATUS
-      weight: 700
-    plex_all: true
-    filters:
-      tmdb_status:
-         - canceled
-
-### SHOW STATUS ###
 
 ### TMDB TRENDING / NETWORKS ###
 

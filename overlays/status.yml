@@ -1,0 +1,48 @@
+overlays:
+
+### SHOW STATUS ###
+
+  Weekly:
+    overlay:
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/status-top-left/<<name>>.png
+      name: airing
+      group: STATUS
+      weight: 900
+    tmdb_on_the_air: 5000
+
+  Returning:
+    overlay:
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/status-top-left/<<name>>.png
+      name: returning
+      group: STATUS
+      weight: 800
+    plex_all: true
+    filters:
+      tmdb_status:
+         - returning
+         - planned
+         - production
+
+  Ended:
+    overlay:
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/status-top-left/<<name>>.png
+      name: ended
+      group: STATUS
+      weight: 600
+    plex_all: true
+    filters:
+      tmdb_status:
+         - ended
+
+  Cancelled:
+    overlay:
+      name: cancelled
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/status-top-left/<<name>>.png
+      group: STATUS
+      weight: 700
+    plex_all: true
+    filters:
+      tmdb_status:
+         - canceled
+
+### SHOW STATUS ###
