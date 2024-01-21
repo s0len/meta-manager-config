@@ -1,0 +1,102 @@
+overlays:
+### RESOLUTIONS ###
+
+  4k_dv:
+    overlay:
+      name: 4k_dv
+      url: 
+      group: resolution-4k
+      weight: 120
+    plex_search:
+      all:
+        resolution.regex: '(?i)2160|4k'
+      validate: false
+    filters:
+      has_dolby_vision: true
+  
+  4k_hdr:
+    overlay:
+      name: 4k_hdr
+      group: resolution-4k
+      weight: 110
+    plex_search:
+      all:
+        resolution.regex: '(?i)2160|4k'
+        hdr: true
+      validate: false
+  
+  4k:
+    overlay:
+      name: 4k
+      group: resolution-4k
+      weight: 100
+    plex_search:
+      all:
+        resolution.regex: '(?i)2160|4k'
+      validate: false
+  
+  1080p_dv:
+    overlay:
+      name: 1080p_dv
+      group: resolution-1080p
+      weight: 120
+    plex_search:
+      all:
+        resolution.regex: '(?i)1080|2k'
+      validate: false
+    filters:
+      has_dolby_vision: true
+      validate: false
+  
+  1080p_hdr:
+    overlay:
+      name: 1080p_hdr
+      group: resolution-1080p
+      weight: 110
+    plex_search:
+      all:
+        resolution.regex: '(?i)1080|2k'
+        hdr: true
+      validate: false
+      
+  1080p:
+    overlay:
+      name: 1080p
+      group: resolution-1080p
+      weight: 100
+    plex_search:
+      all:
+        resolution.regex: '(?i)1080|2k'
+      validate: false
+
+  720p:
+    overlay:
+      name: 720p
+      group: resolution-720p
+      weight: 100
+    plex_search:
+      all:
+        resolution.regex: '(?i)720'
+      validate: false
+
+  480p:
+    overlay:
+      name: 480p
+      group: resolution-480p
+      weight: 100
+    plex_search:
+      all:
+        resolution.regex: '(?i)480'
+      validate: false
+
+  SD:
+    overlay:
+      name: SD
+      group: resolution-SD
+      weight: 100
+    plex_search:
+      all:
+        resolution.regex: '(?i)SD'
+      validate: false
+
+### RESOLUTIONS ###
