@@ -1,0 +1,111 @@
+### AUDIO CODEC ###
+
+  truehd_atmos:
+    overlay:
+      name: truehd_atmos
+      group: audio
+      weight: 120
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)^(?=.*\btrue[ ._-]?hd(\b|\d))(?=.*\batmos(\b|\d))'
+  
+  dtsx:
+    overlay:
+      name: dtsx
+      group: audio
+      weight: 110
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\bdts[ ._-]?x\b'
+  
+  plus_atmos:
+    overlay:
+      name: plus_atmos
+      group: audio
+      weight: 100
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)^(?=.*\b(dd[p+])|(dolby digital plus)\b)(?=.*\batmos(\b|\d))'
+  
+  dolby_atmos:
+    overlay:
+      name: dolby_atmos
+      group: audio
+      weight: 90
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\batmos(\b|\d)'
+  
+  truehd:
+    overlay:
+      name: truehd
+      group: audio
+      weight: 80
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\btrue[ ._-]?hd(\b|\d)'
+  
+  ma:
+    overlay:
+      name: ma
+      group: audio
+      weight: 70
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\bdts[ ._-]?(hd[ ._-])?(ma|xll|hd)(\b|\d)(?![ ._-]hra)'
+  
+  hra:
+    overlay:
+      name: hra
+      group: audio
+      weight: 60
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\bdts[ ._-]?(hd[ ._-])?(hr|hra|hi|ra)(\b|\d)'
+  
+  plus:
+    overlay:
+      name: plus
+      group: audio
+      weight: 50
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\b(dd[p+])|(dolby digital plus)|(e[ ._-]?ac3)\b'
+  
+  dtses:
+    overlay:
+      name: dtses
+      group: audio
+      weight: 40
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\bdts[ ._-]?es(\b|\d)'
+  
+  dts:
+    overlay:
+      name: dts
+      group: audio
+      weight: 30
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\bdts(\b|\d)'
+  
+  digital:
+    overlay:
+      name: digital
+      group: audio
+      weight: 20
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\b(dd)|(ac3)|(dolby)(\b|\d)'
+  
+  aac:
+    overlay:
+      name: aac
+      group: audio
+      weight: 10
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\b(aac|stereo|2\.0)\b'
+
+### AUDIO CODEC ###

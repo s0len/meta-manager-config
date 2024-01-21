@@ -4,7 +4,6 @@ overlays:
   4k_dv:
     overlay:
       name: 4k_dv
-      url: 
       group: resolution-4k
       weight: 120
     plex_search:

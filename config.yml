@@ -1,0 +1,18 @@
+libraries:
+  Movies:
+    overlay_files:
+      # Resolution in the upper left corner
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution.yml
+        template_variable: 
+          url: https://github.com/s0len/meta-manager-config/blob/main/overlays/resolution-top-left/<<name>>.png
+
+      # Audio in the upper left corner besides resolution
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/audio_codec.yml
+        template_variable: 
+          url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
+
+      # Ribbons in the bottom right corner
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon.yml
+        template_variable: 
+          url: https://github.com/s0len/meta-manager-config/blob/main/overlays/ribbon-bottom-right/<<name>>.png
+          use_rt_bronze: false
