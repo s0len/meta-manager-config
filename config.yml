@@ -14,10 +14,7 @@ libraries:
       # Ribbons in the bottom right corner
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon.yml
         template_variables: 
-          url: https://github.com/s0len/meta-manager-config/blob/main/overlays/ribbon-bottom-right/<<name>>.png
           use_rt_bronze: false
 
       # Status in the top left corner
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status.yml
-        template_variables: 
-          url: https://github.com/s0len/meta-manager-config/blob/main/overlays/status-top-left/<<name>>.png
