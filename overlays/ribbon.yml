@@ -1,130 +1,74 @@
 ### TMDB TRENDING / IMDB AWARDS ###
 
-overlays:
-
+templates:
   Trending:
-    overlay:
-      name: trending
-      group: awards
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon-bottom-right/<<name>>.png
-      weight: 400
     plex_search:
       all:
-        collection: "Trending"
+        collection: <<target_collection>>
+        audience_rating.gte: <<gte>>
+        audience_rating.lte: <<lte>>
+    overlay:
+      name: <<overlay_name>>
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon-bottom-right/<<overlay_name>>.png
+      group: <<group>>
+      weight: <<weight>>
+  
+  Awards:
+    imdb_search:
+      event.winning: <<target_collection>>
+      limit: 3000
+    overlay:
+      name: <<overlay_name>>
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon-bottom-right/<<overlay_name>>.png
+      group: <<group>>
+      weight: <<weight>>
 
-  Awards_1:
-    overlay:
-      group: awards
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon-bottom-right/<<name>>.png
-      weight: 900
-      name: oscar
-    imdb_search:
-      event.winning: oscar
-      limit: 2000
-    
-  Awards_2:
-    overlay:
-      group: awards
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon-bottom-right/<<name>>.png
-      weight: 899
-      name: golden
-    imdb_search:
-      event.winning: golden
-      limit: 2000
-    
-  Awards_3:
-    overlay:
-      group: awards
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon-bottom-right/<<name>>.png
-      weight: 898
-      name: emmy
-    imdb_search:
-      event.winning: emmy
-      limit: 2000
-
-  Awards_4:
-    overlay:
-      group: awards
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon-bottom-right/<<name>>.png
-      weight: 800
-      name: imdb_250
+  IMDB:
     imdb_search:
       type: movie
-      imdb_top: 250
-      limit: 250
-
-  Awards_5:
+      imdb_top: <<top>>
+      limit: 3000
     overlay:
-      group: awards
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon-bottom-right/<<name>>.png
-      weight: 700
-      name: imdb_1000
-    imdb_search:
-      type: movie
-      imdb_top: 1000
-      limit: 1000
+      name: <<overlay_name>>
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon-bottom-right/<<overlay_name>>.png
+      group: <<group>>
+      weight: <<weight>>
 
+  Rotten:
+    plex_search:
+      all:
+        audience_rating.gte: <<gte>>
+        audience_rating.lte: <<lte>>
+    overlay:
+      name: <<overlay_name>>
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon-bottom-right/<<overlay_name>>.png
+      group: <<group>>
+      weight: <<weight>>
+
+overlays:
+  trending:
+    template: {name: Trending, target_collection: "Trending", group: "awards", weight: 400} 
+  oscar:
+    template: {name: Awards, target_collection: "oscar", group: "awards", weight: 900} 
+  golden:
+    template: {name: Awards, target_collection: "golden", group: "awards", weight: 899} 
+  emmy:
+    template: {name: Awards, target_collection: "emmy", group: "awards", weight: 898} 
+  imdb_250:
+    template: {name: IMDB, group: "awards", weight: 799, top: 250}
+  imdb_1000:
+    template: {name: IMDB, group: "awards", weight: 798, top: 1000}
   rt_bronze:
-    overlay:
-      group: awards
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon-bottom-right/<<name>>.png
-      weight: 598
-      name: rt_bronze
-    plex_search:
-      all:
-        audience_rating.gte: 7.0
-        audience_rating.lte: 7.9
+    template: {name: Rotten, group: "awards", weight: 598, gte: 7.0, lte: 7.9}
   rt_silver:
-    overlay:
-      group: awards
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon-bottom-right/<<name>>.png
-      weight: 599
-      name: rt_silver
-    plex_search:
-      all:
-        audience_rating.gte: 8.0
-        audience_rating.lte: 8.9
+    template: {name: Rotten, group: "awards", weight: 599, gte: 8.0, lte: 8.9}
   rt_gold:
-    overlay:
-      group: awards
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon-bottom-right/<<name>>.png
-      weight: 600
-      name: rt_gold
-    plex_search:
-      all:
-        audience_rating.gte: 9.0
-
+    template: {name: Rotten, group: "awards", weight: 600, gte: 9.0, lte: 10}
   rt_bronze_trending:
-    overlay:
-      group: awards
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon-bottom-right/<<name>>.png
-      weight: 601
-      name: rt_bronze_trending
-    plex_search:
-      all:
-        collection: "Trending"
-        audience_rating.gte: 7.0
-        audience_rating.lte: 7.9
+    template: {name: Trending, target_collection: "Trending", group: "awards", weight: 601, gte: 7.0, lte: 7.9} 
   rt_silver_trending:
-    overlay:
-      group: awards
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon-bottom-right/<<name>>.png
-      weight: 602
-      name: rt_silver_trending
-    plex_search:
-      all:
-        collection: "Trending"
-        audience_rating.gte: 8.0
-        audience_rating.lte: 8.9
+    template: {name: Trending, target_collection: "Trending", group: "awards", weight: 602, gte: 8.0, lte: 8.9} 
   rt_gold_trending:
-    overlay:
-      group: awards
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon-bottom-right/<<name>>.png
-      weight: 603
-      name: rt_gold_trending
-    plex_search:
-      all:
-        collection: "Trending"
-        audience_rating.gte: 9.0
+    template: {name: Trending, target_collection: "Trending", group: "awards", weight: 603, gte: 9.0, lte: 10} 
 
 ### TMDB TRENDING / IMDB AWARDS ###
