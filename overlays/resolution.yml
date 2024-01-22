@@ -9,11 +9,10 @@ templates:
       has_dolby_vision: <<DV>>
     overlay:
       name: <<overlay_name>>
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution_top_left/<<overlay_name>>.png
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left/<<overlay_name>>.png
       group: <<group>>
       weight: <<weight>>
   
-
 overlays:
 ### RESOLUTIONS ###
 
