@@ -4,18 +4,26 @@ This is where you'll find all my config files related to Plex Meta Manager. I've
 ## Movies
 
 ### Resolution in the upper left corner
-`- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution.yml`
+```yaml
+- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution.yml
+```
 
 ### Audio in the upper left corner besides resolution
-`- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/audio_codec.yml`
+```yaml
+- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/audio_codec.yml
+```
 
 ### Ribbons in the bottom right corner
-`- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon.yml`
+```yaml
+- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon.yml
+```
 
 ## TV Shows
 
 ### Status in the top left corner
-`- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status.yml`
+```yaml
+- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status.yml
+```
 
 ### Network the show originated from in the top left corner
 ```yaml
