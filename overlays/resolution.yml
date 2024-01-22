@@ -4,7 +4,7 @@ overlays:
   4k_dv:
     overlay:
       name: 4k_dv
-      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/resolution-top-left/<<name>>.png
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left/<<name>>.png
       group: resolution-4k
       weight: 120
     plex_search:
@@ -17,7 +17,7 @@ overlays:
   4k_hdr:
     overlay:
       name: 4k_hdr
-      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/resolution-top-left/<<name>>.png
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left/<<name>>.png
       group: resolution-4k
       weight: 110
     plex_search:
@@ -29,7 +29,7 @@ overlays:
   4k:
     overlay:
       name: 4k
-      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/resolution-top-left/<<name>>.png
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left/<<name>>.png
       group: resolution-4k
       weight: 100
     plex_search:
@@ -40,7 +40,7 @@ overlays:
   1080p_dv:
     overlay:
       name: 1080p_dv
-      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/resolution-top-left/<<name>>.png
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left/<<name>>.png
       group: resolution-1080p
       weight: 120
     plex_search:
@@ -54,7 +54,7 @@ overlays:
   1080p_hdr:
     overlay:
       name: 1080p_hdr
-      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/resolution-top-left/<<name>>.png
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left/<<name>>.png
       group: resolution-1080p
       weight: 110
     plex_search:
@@ -66,7 +66,7 @@ overlays:
   1080p:
     overlay:
       name: 1080p
-      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/resolution-top-left/<<name>>.png
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left/<<name>>.png
       group: resolution-1080p
       weight: 100
     plex_search:
@@ -77,7 +77,7 @@ overlays:
   720p:
     overlay:
       name: 720p
-      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/resolution-top-left/<<name>>.png
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left/<<name>>.png
       group: resolution-720p
       weight: 100
     plex_search:
@@ -88,7 +88,7 @@ overlays:
   480p:
     overlay:
       name: 480p
-      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/resolution-top-left/<<name>>.png
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left/<<name>>.png
       group: resolution-480p
       weight: 100
     plex_search:
@@ -99,7 +99,7 @@ overlays:
   SD:
     overlay:
       name: SD
-      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/resolution-top-left/<<name>>.png
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left/<<name>>.png
       group: resolution-SD
       weight: 100
     plex_search:

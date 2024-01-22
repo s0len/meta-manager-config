@@ -5,6 +5,7 @@ overlays:
   truehd_atmos:
     overlay:
       name: truehd_atmos
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
       group: audio
       weight: 120
     plex_all: true
@@ -14,6 +15,7 @@ overlays:
   dtsx:
     overlay:
       name: dtsx
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
       group: audio
       weight: 110
     plex_all: true
@@ -23,6 +25,7 @@ overlays:
   plus_atmos:
     overlay:
       name: plus_atmos
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
       group: audio
       weight: 100
     plex_all: true
@@ -32,6 +35,7 @@ overlays:
   dolby_atmos:
     overlay:
       name: dolby_atmos
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
       group: audio
       weight: 90
     plex_all: true
@@ -41,6 +45,7 @@ overlays:
   truehd:
     overlay:
       name: truehd
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
       group: audio
       weight: 80
     plex_all: true
@@ -50,6 +55,7 @@ overlays:
   ma:
     overlay:
       name: ma
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
       group: audio
       weight: 70
     plex_all: true
@@ -59,6 +65,7 @@ overlays:
   hra:
     overlay:
       name: hra
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
       group: audio
       weight: 60
     plex_all: true
@@ -68,6 +75,7 @@ overlays:
   plus:
     overlay:
       name: plus
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
       group: audio
       weight: 50
     plex_all: true
@@ -77,6 +85,7 @@ overlays:
   dtses:
     overlay:
       name: dtses
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
       group: audio
       weight: 40
     plex_all: true
@@ -86,6 +95,7 @@ overlays:
   dts:
     overlay:
       name: dts
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
       group: audio
       weight: 30
     plex_all: true
@@ -95,6 +105,7 @@ overlays:
   digital:
     overlay:
       name: digital
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
       group: audio
       weight: 20
     plex_all: true
@@ -104,6 +115,7 @@ overlays:
   aac:
     overlay:
       name: aac
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
       group: audio
       weight: 10
     plex_all: true
