@@ -54,3 +54,23 @@ This is where you'll find all my config files related to Plex Meta Manager. I've
           url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/<<key>>.png 
           back_color: 00 
 ```
+
+### Award ribbons in the bottom right corner
+```yaml
+- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon_awards.yml
+```
+
+### Trending ribbons in the bottom right corner
+```yaml
+- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon_trending.yml
+```
+
+### IMDB ribbons in the bottom right corner
+```yaml
+- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon_imdb.yml
+```
+
+### Rotten tomatoes ribbons in the bottom right corner
+```yaml
+- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon_rotten.yml
+```
