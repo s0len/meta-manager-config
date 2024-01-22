@@ -1,110 +1,39 @@
+templates:
+  Resolution:
+    plex_search:
+      all:
+        resolution.regex: <<regex>>
+        hdr: <<hdr>>
+      validate: false
+    filters:
+      has_dolby_vision: <<DV>>
+    overlay:
+      name: <<overlay_name>>
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution_top_left/<<overlay_name>>.png
+      group: <<group>>
+      weight: <<weight>>
+  
+
 overlays:
 ### RESOLUTIONS ###
 
   4k_dv:
-    overlay:
-      name: 4k_dv
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left/<<name>>.png
-      group: resolution-4k
-      weight: 120
-    plex_search:
-      all:
-        resolution.regex: '(?i)2160|4k'
-      validate: false
-    filters:
-      has_dolby_vision: true
-  
+    template: {name: Resolution, regex: '(?i)2160|4k', hdr: false, DV: true, group: "resolution-4k", weight: 120}
   4k_hdr:
-    overlay:
-      name: 4k_hdr
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left/<<name>>.png
-      group: resolution-4k
-      weight: 110
-    plex_search:
-      all:
-        resolution.regex: '(?i)2160|4k'
-        hdr: true
-      validate: false
-  
+    template: {name: Resolution, regex: '(?i)2160|4k', hdr: true, DV: false, group: "resolution-4k", weight: 110} 
   4k:
-    overlay:
-      name: 4k
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left/<<name>>.png
-      group: resolution-4k
-      weight: 100
-    plex_search:
-      all:
-        resolution.regex: '(?i)2160|4k'
-      validate: false
-  
+    template: {name: Resolution, regex: '(?i)2160|4k', hdr: false, DV: false, group: "resolution-4k", weight: 100}
   1080p_dv:
-    overlay:
-      name: 1080p_dv
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left/<<name>>.png
-      group: resolution-1080p
-      weight: 120
-    plex_search:
-      all:
-        resolution.regex: '(?i)1080|2k'
-      validate: false
-    filters:
-      has_dolby_vision: true
-      validate: false
-  
+    template: {name: Resolution, regex: '(?i)1080|2k', hdr: false, DV: true, group: "resolution-1080p", weight: 120}
   1080p_hdr:
-    overlay:
-      name: 1080p_hdr
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left/<<name>>.png
-      group: resolution-1080p
-      weight: 110
-    plex_search:
-      all:
-        resolution.regex: '(?i)1080|2k'
-        hdr: true
-      validate: false
-      
+    template: {name: Resolution, regex: '(?i)1080|2k', hdr: true, DV: false, group: "resolution-1080p", weight: 110}
   1080p:
-    overlay:
-      name: 1080p
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left/<<name>>.png
-      group: resolution-1080p
-      weight: 100
-    plex_search:
-      all:
-        resolution.regex: '(?i)1080|2k'
-      validate: false
-
+    template: {name: Resolution, regex: '(?i)1080|2k', hdr: false, DV: false, group: "resolution-1080p", weight: 100}
   720p:
-    overlay:
-      name: 720p
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left/<<name>>.png
-      group: resolution-720p
-      weight: 100
-    plex_search:
-      all:
-        resolution.regex: '(?i)720'
-      validate: false
-
+    template: {name: Resolution, regex: '(?i)720', hdr: false, DV: false, group: "resolution-720p", weight: 100}
   480p:
-    overlay:
-      name: 480p
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left/<<name>>.png
-      group: resolution-480p
-      weight: 100
-    plex_search:
-      all:
-        resolution.regex: '(?i)480'
-      validate: false
-
+    template: {name: Resolution, regex: '(?i)480', hdr: false, DV: false, group: "resolution-480p", weight: 100}
   SD:
-    overlay:
-      name: SD
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left/<<name>>.png
-      group: resolution-SD
-      weight: 100
-    plex_search:
-      all:
-        resolution.regex: '(?i)SD'
-      validate: false
+    template: {name: Resolution, regex: '(?i)SD', hdr: false, DV: false, group: "resolution-SD", weight: 100}
 
 ### RESOLUTIONS ###
