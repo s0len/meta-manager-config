@@ -320,3 +320,126 @@
       all:
         resolution.regex: '(?i)SD'
       validate: false
+
+
+overlays:
+
+  truehd_atmos:
+    overlay:
+      name: truehd_atmos
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
+      group: audio
+      weight: 120
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)^(?=.*\btrue[ ._-]?hd(\b|\d))(?=.*\batmos(\b|\d))'
+  
+  dtsx:
+    overlay:
+      name: dtsx
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
+      group: audio
+      weight: 110
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\bdts[ ._-]?x\b'
+  
+  plus_atmos:
+    overlay:
+      name: plus_atmos
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
+      group: audio
+      weight: 100
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)^(?=.*\b(dd[p+])|(dolby digital plus)\b)(?=.*\batmos(\b|\d))'
+  
+  dolby_atmos:
+    overlay:
+      name: dolby_atmos
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
+      group: audio
+      weight: 90
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\batmos(\b|\d)'
+  
+  truehd:
+    overlay:
+      name: truehd
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
+      group: audio
+      weight: 80
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\btrue[ ._-]?hd(\b|\d)'
+  
+  ma:
+    overlay:
+      name: ma
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
+      group: audio
+      weight: 70
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\bdts[ ._-]?(hd[ ._-])?(ma|xll|hd)(\b|\d)(?![ ._-]hra)'
+  
+  hra:
+    overlay:
+      name: hra
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
+      group: audio
+      weight: 60
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\bdts[ ._-]?(hd[ ._-])?(hr|hra|hi|ra)(\b|\d)'
+  
+  plus:
+    overlay:
+      name: plus
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
+      group: audio
+      weight: 50
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\b(dd[p+])|(dolby digital plus)|(e[ ._-]?ac3)\b'
+  
+  dtses:
+    overlay:
+      name: dtses
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
+      group: audio
+      weight: 40
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\bdts[ ._-]?es(\b|\d)'
+  
+  dts:
+    overlay:
+      name: dts
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
+      group: audio
+      weight: 30
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\bdts(\b|\d)'
+  
+  digital:
+    overlay:
+      name: digital
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
+      group: audio
+      weight: 20
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\b(dd)|(ac3)|(dolby)(\b|\d)'
+  
+  aac:
+    overlay:
+      name: aac
+      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
+      group: audio
+      weight: 10
+    plex_all: true
+    filters:
+      - audio_track_title.regex: '(?i)\b(aac|stereo|2\.0)\b'

@@ -1,125 +1,43 @@
 ### AUDIO CODEC ###
+templates:
+  Audio:
+    plex_all: true
+    filters:
+      - audio_track_title.regex: <<audioTitle>>
+    overlay:
+      name: <<overlay_name>>
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/audio-top-left/<<overlay_name>>.png
+      group: <<group>>
+      weight: <<weight>>
+    
+  
 
 overlays:
+### RESOLUTIONS ###
 
   truehd_atmos:
-    overlay:
-      name: truehd_atmos
-      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
-      group: audio
-      weight: 120
-    plex_all: true
-    filters:
-      - audio_track_title.regex: '(?i)^(?=.*\btrue[ ._-]?hd(\b|\d))(?=.*\batmos(\b|\d))'
-  
+    template: {name: truehd_atmos, audioTitle: '(?i)^(?=.*\btrue[ ._-]?hd(\b|\d))(?=.*\batmos(\b|\d))', group: "audio", weight: 120}
   dtsx:
-    overlay:
-      name: dtsx
-      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
-      group: audio
-      weight: 110
-    plex_all: true
-    filters:
-      - audio_track_title.regex: '(?i)\bdts[ ._-]?x\b'
-  
+    template: {name: dtsx, audioTitle: '(?i)\bdts[ ._-]?x\b', group: "audio", weight: 110}
   plus_atmos:
-    overlay:
-      name: plus_atmos
-      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
-      group: audio
-      weight: 100
-    plex_all: true
-    filters:
-      - audio_track_title.regex: '(?i)^(?=.*\b(dd[p+])|(dolby digital plus)\b)(?=.*\batmos(\b|\d))'
-  
+    template: {name: plus_atmos, audioTitle: '(?i)^(?=.*\b(dd[p+])|(dolby digital plus)\b)(?=.*\batmos(\b|\d))', group: "audio", weight: 100}
   dolby_atmos:
-    overlay:
-      name: dolby_atmos
-      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
-      group: audio
-      weight: 90
-    plex_all: true
-    filters:
-      - audio_track_title.regex: '(?i)\batmos(\b|\d)'
-  
+    template: {name: dolby_atmos, audioTitle: '(?i)\batmos(\b|\d)', group: "audio", weight: 90}
   truehd:
-    overlay:
-      name: truehd
-      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
-      group: audio
-      weight: 80
-    plex_all: true
-    filters:
-      - audio_track_title.regex: '(?i)\btrue[ ._-]?hd(\b|\d)'
-  
+    template: {name: truehd, audioTitle: '(?i)\btrue[ ._-]?hd(\b|\d)', group: "audio", weight: 80}
   ma:
-    overlay:
-      name: ma
-      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
-      group: audio
-      weight: 70
-    plex_all: true
-    filters:
-      - audio_track_title.regex: '(?i)\bdts[ ._-]?(hd[ ._-])?(ma|xll|hd)(\b|\d)(?![ ._-]hra)'
-  
+    template: {name: ma, audioTitle: '(?i)\bdts[ ._-]?(hd[ ._-])?(ma|xll|hd)(\b|\d)(?![ ._-]hra)', group: "audio", weight: 70}
   hra:
-    overlay:
-      name: hra
-      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
-      group: audio
-      weight: 60
-    plex_all: true
-    filters:
-      - audio_track_title.regex: '(?i)\bdts[ ._-]?(hd[ ._-])?(hr|hra|hi|ra)(\b|\d)'
-  
+    template: {name: hra, audioTitle: '(?i)\bdts[ ._-]?(hd[ ._-])?(hr|hra|hi|ra)(\b|\d)', group: "audio", weight: 60}
   plus:
-    overlay:
-      name: plus
-      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
-      group: audio
-      weight: 50
-    plex_all: true
-    filters:
-      - audio_track_title.regex: '(?i)\b(dd[p+])|(dolby digital plus)|(e[ ._-]?ac3)\b'
-  
+    template: {name: plus, audioTitle: '(?i)\b(dd[p+])|(dolby digital plus)|(e[ ._-]?ac3)\b', group: "audio", weight: 50}
   dtses:
-    overlay:
-      name: dtses
-      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
-      group: audio
-      weight: 40
-    plex_all: true
-    filters:
-      - audio_track_title.regex: '(?i)\bdts[ ._-]?es(\b|\d)'
-  
+    template: {name: dtses, audioTitle: '(?i)\bdts[ ._-]?es(\b|\d)', group: "audio", weight: 40}
   dts:
-    overlay:
-      name: dts
-      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
-      group: audio
-      weight: 30
-    plex_all: true
-    filters:
-      - audio_track_title.regex: '(?i)\bdts(\b|\d)'
-  
+    template: {name: dts, audioTitle: '(?i)\bdts(\b|\d)', group: "audio", weight: 30}
   digital:
-    overlay:
-      name: digital
-      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
-      group: audio
-      weight: 20
-    plex_all: true
-    filters:
-      - audio_track_title.regex: '(?i)\b(dd)|(ac3)|(dolby)(\b|\d)'
-  
+    template: {name: digital, audioTitle: '(?i)\b(dd)|(ac3)|(dolby)(\b|\d)', group: "audio", weight: 20}
   aac:
-    overlay:
-      name: aac
-      url: https://github.com/s0len/meta-manager-config/blob/main/overlays/audio-top-left/<<name>>.png
-      group: audio
-      weight: 10
-    plex_all: true
-    filters:
-      - audio_track_title.regex: '(?i)\b(aac|stereo|2\.0)\b'
+    template: {name: aac, audioTitle: '(?i)\b(aac|stereo|2\.0)\b', group: "audio", weight: 10}
 
 ### AUDIO CODEC ###
