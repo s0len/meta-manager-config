@@ -17,22 +17,22 @@ overlays:
 ### RESOLUTIONS ###
 
   4k_dv:
-    template: {name: Resolution, regex: '(?i)2160|4k', hdr: false, DV: true, group: "resolution-4k", weight: 120}
+    template: {name: Resolution, regex: '(?i)2160|4k', hdr: , DV: true, group: "resolution-4k", weight: 120}
   4k_hdr:
-    template: {name: Resolution, regex: '(?i)2160|4k', hdr: true, DV: false, group: "resolution-4k", weight: 110} 
+    template: {name: Resolution, regex: '(?i)2160|4k', hdr: true, DV: , group: "resolution-4k", weight: 110} 
   4k:
-    template: {name: Resolution, regex: '(?i)2160|4k', hdr: false, DV: false, group: "resolution-4k", weight: 100}
+    template: {name: Resolution, regex: '(?i)2160|4k', hdr: , DV: , group: "resolution-4k", weight: 100}
   1080p_dv:
-    template: {name: Resolution, regex: '(?i)1080|2k', hdr: false, DV: true, group: "resolution-1080p", weight: 120}
+    template: {name: Resolution, regex: '(?i)1080|2k', hdr: , DV: true, group: "resolution-1080p", weight: 120}
   1080p_hdr:
-    template: {name: Resolution, regex: '(?i)1080|2k', hdr: true, DV: false, group: "resolution-1080p", weight: 110}
+    template: {name: Resolution, regex: '(?i)1080|2k', hdr: true, DV: , group: "resolution-1080p", weight: 110}
   1080p:
-    template: {name: Resolution, regex: '(?i)1080|2k', hdr: false, DV: false, group: "resolution-1080p", weight: 100}
+    template: {name: Resolution, regex: '(?i)1080|2k', hdr: , DV: , group: "resolution-1080p", weight: 100}
   720p:
-    template: {name: Resolution, regex: '(?i)720', hdr: false, DV: false, group: "resolution-720p", weight: 100}
+    template: {name: Resolution, regex: '(?i)720', hdr: , DV: , group: "resolution-720p", weight: 100}
   480p:
-    template: {name: Resolution, regex: '(?i)480', hdr: false, DV: false, group: "resolution-480p", weight: 100}
+    template: {name: Resolution, regex: '(?i)480', hdr: , DV: , group: "resolution-480p", weight: 100}
   SD:
-    template: {name: Resolution, regex: '(?i)SD', hdr: false, DV: false, group: "resolution-SD", weight: 100}
+    template: {name: Resolution, regex: '(?i)SD', hdr: , DV: , group: "resolution-SD", weight: 100}
 
 ### RESOLUTIONS ###

@@ -12,5 +12,18 @@ libraries:
         template_variables: 
           use_Rotten: false
 
+  TV Shows:
       # Status in the top left corner
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status.yml
+
+      # Uses the default PMM network but replaces the image with custom ones
+      - pmm: network
+        template_variables:
+          horizontal_align: left
+          horizontal_offset: 0
+          vertical_offset: 0
+          vertical_align: top
+          back_width: 1000
+          back_height: 1500
+          url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/<<key>>.png 
+          back_color: 00 
