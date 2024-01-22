@@ -16,28 +16,28 @@ overlays:
 ### RESOLUTIONS ###
 
   truehd_atmos:
-    template: {name: truehd_atmos, audioTitle: '(?i)^(?=.*\btrue[ ._-]?hd(\b|\d))(?=.*\batmos(\b|\d))', group: "audio", weight: 120}
+    template: {name: Audio, audioTitle: '(?i)^(?=.*\btrue[ ._-]?hd(\b|\d))(?=.*\batmos(\b|\d))', group: "audio", weight: 120}
   dtsx:
-    template: {name: dtsx, audioTitle: '(?i)\bdts[ ._-]?x\b', group: "audio", weight: 110}
+    template: {name: Audio, audioTitle: '(?i)\bdts[ ._-]?x\b', group: "audio", weight: 110}
   plus_atmos:
-    template: {name: plus_atmos, audioTitle: '(?i)^(?=.*\b(dd[p+])|(dolby digital plus)\b)(?=.*\batmos(\b|\d))', group: "audio", weight: 100}
+    template: {name: Audio, audioTitle: '(?i)^(?=.*\b(dd[p+])|(dolby digital plus)\b)(?=.*\batmos(\b|\d))', group: "audio", weight: 100}
   dolby_atmos:
-    template: {name: dolby_atmos, audioTitle: '(?i)\batmos(\b|\d)', group: "audio", weight: 90}
+    template: {name: Audio, audioTitle: '(?i)\batmos(\b|\d)', group: "audio", weight: 90}
   truehd:
-    template: {name: truehd, audioTitle: '(?i)\btrue[ ._-]?hd(\b|\d)', group: "audio", weight: 80}
+    template: {name: Audio, audioTitle: '(?i)\btrue[ ._-]?hd(\b|\d)', group: "audio", weight: 80}
   ma:
-    template: {name: ma, audioTitle: '(?i)\bdts[ ._-]?(hd[ ._-])?(ma|xll|hd)(\b|\d)(?![ ._-]hra)', group: "audio", weight: 70}
+    template: {name: Audio, audioTitle: '(?i)\bdts[ ._-]?(hd[ ._-])?(ma|xll|hd)(\b|\d)(?![ ._-]hra)', group: "audio", weight: 70}
   hra:
-    template: {name: hra, audioTitle: '(?i)\bdts[ ._-]?(hd[ ._-])?(hr|hra|hi|ra)(\b|\d)', group: "audio", weight: 60}
+    template: {name: Audio, audioTitle: '(?i)\bdts[ ._-]?(hd[ ._-])?(hr|hra|hi|ra)(\b|\d)', group: "audio", weight: 60}
   plus:
-    template: {name: plus, audioTitle: '(?i)\b(dd[p+])|(dolby digital plus)|(e[ ._-]?ac3)\b', group: "audio", weight: 50}
+    template: {name: Audio, audioTitle: '(?i)\b(dd[p+])|(dolby digital plus)|(e[ ._-]?ac3)\b', group: "audio", weight: 50}
   dtses:
-    template: {name: dtses, audioTitle: '(?i)\bdts[ ._-]?es(\b|\d)', group: "audio", weight: 40}
+    template: {name: Audio, audioTitle: '(?i)\bdts[ ._-]?es(\b|\d)', group: "audio", weight: 40}
   dts:
-    template: {name: dts, audioTitle: '(?i)\bdts(\b|\d)', group: "audio", weight: 30}
+    template: {name: Audio, audioTitle: '(?i)\bdts(\b|\d)', group: "audio", weight: 30}
   digital:
-    template: {name: digital, audioTitle: '(?i)\b(dd)|(ac3)|(dolby)(\b|\d)', group: "audio", weight: 20}
+    template: {name: Audio, audioTitle: '(?i)\b(dd)|(ac3)|(dolby)(\b|\d)', group: "audio", weight: 20}
   aac:
-    template: {name: aac, audioTitle: '(?i)\b(aac|stereo|2\.0)\b', group: "audio", weight: 10}
+    template: {name: Audio, audioTitle: '(?i)\b(aac|stereo|2\.0)\b', group: "audio", weight: 10}
 
 ### AUDIO CODEC ###

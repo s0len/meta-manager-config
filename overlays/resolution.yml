@@ -29,10 +29,10 @@ overlays:
   1080p:
     template: {name: Resolution, regex: '(?i)1080|2k', hdr: , DV: , group: "resolution-1080p", weight: 100}
   720p:
-    template: {name: Resolution, regex: '(?i)720', hdr: , DV: , group: "resolution-720p", weight: 100}
+    template: {name: Resolution, regex: '(?i)720', hdr: , DV: , group: "resolution-720p", weight: 90}
   480p:
-    template: {name: Resolution, regex: '(?i)480', hdr: , DV: , group: "resolution-480p", weight: 100}
+    template: {name: Resolution, regex: '(?i)480', hdr: , DV: , group: "resolution-480p", weight: 80}
   SD:
-    template: {name: Resolution, regex: '(?i)SD', hdr: , DV: , group: "resolution-SD", weight: 100}
+    template: {name: Resolution, regex: '(?i)SD', hdr: , DV: , group: "resolution-SD", weight: 70}
 
 ### RESOLUTIONS ###
