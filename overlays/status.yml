@@ -4,7 +4,7 @@ overlays:
 
   Weekly:
     overlay:
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/<<name>>.png
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/airing.png
       name: airing
       group: STATUS
       weight: 900
@@ -12,7 +12,7 @@ overlays:
 
   Returning:
     overlay:
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/<<name>>.png
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/returning.png
       name: returning
       group: STATUS
       weight: 800
@@ -25,7 +25,7 @@ overlays:
 
   Ended:
     overlay:
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/<<name>>.png
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/ended.png
       name: ended
       group: STATUS
       weight: 600
@@ -37,7 +37,7 @@ overlays:
   Cancelled:
     overlay:
       name: cancelled
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/<<name>>.png
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/cancelled.png
       group: STATUS
       weight: 700
     plex_all: true
