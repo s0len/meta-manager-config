@@ -2,7 +2,7 @@
 This is where you'll find all my config files related to Plex Meta Manager. I've included an example of how you could fire off each overlay in my example config [exampleConfig.yml](https://raw.githubusercontent.com/s0len/meta-manager-config/main/exampleConfig.yml).
 
 ## Movies
-
+![Movie_overlay](https://github.com/s0len/meta-manager-config/assets/35483234/36da84a7-d15e-4691-a010-86117d64b16b)
 ### Resolution in the upper left corner
 ```yaml
 - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution.yml
@@ -19,6 +19,7 @@ This is where you'll find all my config files related to Plex Meta Manager. I've
 ```
 
 ## TV Shows
+![series_overlay](https://github.com/s0len/meta-manager-config/assets/35483234/0d578c63-f99d-44da-941e-d51a8a70ef50)
 
 ### Status in the top left corner
 ```yaml
