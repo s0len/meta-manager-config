@@ -1,0 +1,12 @@
+external_template:
+  url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/templates.yml
+
+### TMDB TRENDING / IMDB AWARDS ###
+
+overlays:
+  imdb_250:
+    template: {name: IMDB, group: "awards", weight: 799, top: 250}
+  imdb_1000:
+    template: {name: IMDB, group: "awards", weight: 798, top: 1000}
+
+### TMDB TRENDING / IMDB AWARDS ###

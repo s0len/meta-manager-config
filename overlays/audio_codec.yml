@@ -1,20 +1,9 @@
+external_template:
+  url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/templates.yml
+
 ### AUDIO CODEC ###
-templates:
-  Audio:
-    plex_all: true
-    filters:
-      - audio_track_title.regex: <<audioTitle>>
-    overlay:
-      name: <<overlay_name>>
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/audio-top-left/<<overlay_name>>.png
-      group: <<group>>
-      weight: <<weight>>
-    
-  
 
 overlays:
-### RESOLUTIONS ###
-
   truehd_atmos:
     template: {name: Audio, audioTitle: '(?i)^(?=.*\btrue[ ._-]?hd(\b|\d))(?=.*\batmos(\b|\d))', group: "audio", weight: 120}
   dtsx:

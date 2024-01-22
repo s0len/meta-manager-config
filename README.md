@@ -13,9 +13,24 @@ This is where you'll find all my config files related to Plex Meta Manager. I've
 - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/audio_codec.yml
 ```
 
-### Ribbons in the bottom right corner
+### Award ribbons in the bottom right corner
 ```yaml
-- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon.yml
+- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon_awards.yml
+```
+
+### Trending ribbons in the bottom right corner
+```yaml
+- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon_trending.yml
+```
+
+### IMDB ribbons in the bottom right corner
+```yaml
+- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon_imdb.yml
+```
+
+### Rotten tomatoes ribbons in the bottom right corner
+```yaml
+- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon_rotten.yml
 ```
 
 ## TV Shows

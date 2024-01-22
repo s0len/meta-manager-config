@@ -1,17 +1,5 @@
-templates:
-  Resolution:
-    plex_search:
-      all:
-        resolution.regex: <<regex>>
-        hdr: <<hdr>>
-      validate: false
-    filters:
-      has_dolby_vision: <<DV>>
-    overlay:
-      name: <<overlay_name>>
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left/<<overlay_name>>.png
-      group: <<group>>
-      weight: <<weight>>
+external_template:
+  url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/templates.yml
   
 overlays:
 ### RESOLUTIONS ###

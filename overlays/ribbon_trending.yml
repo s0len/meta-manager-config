@@ -1,0 +1,12 @@
+external_template:
+  url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/templates.yml
+
+### TMDB TRENDING / IMDB AWARDS ###
+
+overlays:
+  trending:
+    template: {name: Trending, target_collection: "Trending Movies", group: "awards", weight: 400} 
+  trending:
+    template: {name: Trending, tmdbTrendDaily: 100, target_collection: "Trending", group: "awards", weight: 400} 
+
+### TMDB TRENDING / IMDB AWARDS ###

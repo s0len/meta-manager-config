@@ -1,0 +1,15 @@
+external_template:
+  url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/templates.yml
+
+### TMDB TRENDING / IMDB AWARDS ###
+
+overlays:
+  oscar:
+    template: {name: Awards, target_collection: "oscar", group: "awards", weight: 900} 
+  golden:
+    template: {name: Awards, target_collection: "golden", group: "awards", weight: 899} 
+  emmy:
+    template: {name: Awards, target_collection: "emmy", group: "awards", weight: 898} 
+
+
+### TMDB TRENDING / IMDB AWARDS ###
