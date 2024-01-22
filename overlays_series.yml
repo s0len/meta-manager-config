@@ -135,12 +135,12 @@
       weight: 425
     tmdb_network: 174
 
-  Plex:
-    overlay:
-      name: plex
-      group: ICONS
-      weight: 100
-    plex_all: true
+    Plex:
+      overlay:
+        name: plex
+        group: ICONS
+        weight: 100
+      plex_all: true
 
 ### TMDB TRENDING / NETWORKS ###
 
