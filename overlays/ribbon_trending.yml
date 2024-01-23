@@ -6,7 +6,7 @@ external_template:
 overlays:
   trending:
     template: {name: Trending, target_collection: "Trending Movies", group: "awards", weight: 400} 
-  trending:
+  trendingTmdb:
     template: {name: Trending, tmdbTrendDaily: 100, target_collection: "Trending", group: "awards", weight: 400} 
 
 ### TMDB TRENDING / IMDB AWARDS ###
