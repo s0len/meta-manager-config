@@ -24,6 +24,9 @@ libraries:
       # Status in the top left corner
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status.yml
 
+      # Fallback Network logo which is overwritten by pmm: network if it finds an image for the network. Must run before pmm: network.
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network_fallback.yml
+
       # Uses the default PMM network but replaces the image with custom ones
       - pmm: network
         template_variables:

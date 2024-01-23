@@ -1,0 +1,8 @@
+overlays:
+  Plex:
+    overlay:
+      name: plex
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/Plex.png
+      group: ICONS
+      weight: 100
+    plex_all: true
