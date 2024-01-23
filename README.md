@@ -34,7 +34,7 @@ This is where you'll find all my config files related to Plex Meta Manager. I've
 ```
 
 ## TV Shows
-![series_overlay](https://github.com/s0len/meta-manager-config/assets/35483234/0d578c63-f99d-44da-941e-d51a8a70ef50)
+![series-overlay](https://github.com/s0len/meta-manager-config/assets/35483234/d0fac6f2-9114-4cc0-a012-1f5e241fe7a8)
 
 ### Status in the top left corner
 ```yaml
