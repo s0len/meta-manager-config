@@ -1,4 +1,4 @@
-external_template:
+external_templates:
   url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/templates.yml
 
 ### TMDB TRENDING / IMDB AWARDS ###
