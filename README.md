@@ -41,6 +41,13 @@ This is where you'll find all my config files related to Plex Meta Manager. I've
 - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status.yml
 ```
 
+### Fallback Network logo 
+This is a bit of a workaround to fill up the missing network logos by first writing a plex logo on all overlays. Then AFTER this is run we run the below `pmm: network` so that it is overwritten by pmm: network if it finds an image for the network. 
+** Must run before `pmm: network`. ** 
+```yml
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network_fallback.yml
+```
+
 ### Network the show originated from in the top left corner
 ```yaml
       - pmm: network
