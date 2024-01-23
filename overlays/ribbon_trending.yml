@@ -5,8 +5,8 @@ external_templates:
 
 overlays:
   trending:
-    template: {name: Trending, audience_rating.gte: "", audience_rating.lte: "", target_collection: "Trending", group: "awards", weight: 400, tmdb_trending_daily: ""} 
-  trendingTmdb:
-    template: {name: Trending, audience_rating.gte: "", audience_rating.lte: "", tmdbTrendDaily: 100, target_collection: "Trending", group: "awards", weight: 400, tmdb_trending_daily: ""} 
+    template: {name: Trending, gte: "", lte: "", target_collection: "Trending", group: "awards", weight: 400, tmdb_trending_daily: ""} 
+  trending:
+    template: {name: Trending, gte: "", lte: "", tmdbTrendDaily: 100, target_collection: "", group: "awards", weight: 400} 
 
 ### TMDB TRENDING / IMDB AWARDS ###
