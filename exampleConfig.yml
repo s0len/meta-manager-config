@@ -4,7 +4,7 @@ libraries:
       # Resolution in the upper left corner
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution.yml
 
-      # Audio in the upper left corner besides resolution
+      # Audio in the lower right corner
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/audio_codec.yml
 
       # Award ribbons in the bottom right corner
