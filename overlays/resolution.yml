@@ -21,6 +21,6 @@ overlays:
   480p:
     template: {name: Resolution, regex: '(?i)480', hdr: false, DV: '', group: "resolution-480p", weight: 80}
   SD:
-    template: {name: Resolution, regex: '(?i)SD', hdr: false, DV: falsegit, group: "resolution-SD", weight: 70}
+    template: {name: Resolution, regex: '(?i)SD', hdr: false, DV: '', group: "resolution-SD", weight: 70}
 
 ### RESOLUTIONS ###
