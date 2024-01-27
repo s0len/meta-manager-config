@@ -1,0 +1,32 @@
+external_templates:
+  url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/templates.yml
+
+### AUDIO CODEC ###
+
+overlays:
+  truehd_atmos:
+    template: {name: Audio, audioTitle: '(?i)^(?=.*\btrue[ ._-]?hd(\b|\d))(?=.*\batmos(\b|\d))', group: "audio", weight: 120, position: 'audio-bottom-right'}
+  dtsx:
+    template: {name: Audio, audioTitle: '(?i)\bdts[ ._-]?x\b', group: "audio", weight: 110, position: 'audio-bottom-right'}
+  plus_atmos:
+    template: {name: Audio, audioTitle: '(?i)^(?=.*\b(dd[p+])|(dolby digital plus)\b)(?=.*\batmos(\b|\d))', group: "audio", weight: 100, position: 'audio-bottom-right'}
+  dolby_atmos:
+    template: {name: Audio, audioTitle: '(?i)\batmos(\b|\d)', group: "audio", weight: 90, position: 'audio-bottom-right'}
+  truehd:
+    template: {name: Audio, audioTitle: '(?i)\btrue[ ._-]?hd(\b|\d)', group: "audio", weight: 80, position: 'audio-bottom-right'}
+  ma:
+    template: {name: Audio, audioTitle: '(?i)\bdts[ ._-]?(hd[ ._-])?(ma|xll|hd)(\b|\d)(?![ ._-]hra)', group: "audio", weight: 70, position: 'audio-bottom-right'}
+  hra:
+    template: {name: Audio, audioTitle: '(?i)\bdts[ ._-]?(hd[ ._-])?(hr|hra|hi|ra)(\b|\d)', group: "audio", weight: 60, position: 'audio-bottom-right'}
+  plus:
+    template: {name: Audio, audioTitle: '(?i)\b(dd[p+])|(dolby digital plus)|(e[ ._-]?ac3)\b', group: "audio", weight: 50, position: 'audio-bottom-right'}
+  dtses:
+    template: {name: Audio, audioTitle: '(?i)\bdts[ ._-]?es(\b|\d)', group: "audio", weight: 40, position: 'audio-bottom-right'}
+  dts:
+    template: {name: Audio, audioTitle: '(?i)\bdts(\b|\d)', group: "audio", weight: 30, position: 'audio-bottom-right'}
+  digital:
+    template: {name: Audio, audioTitle: '(?i)\b(dd)|(ac3)|(dolby)(\b|\d)', group: "audio", weight: 20, position: 'audio-bottom-right'}
+  aac:
+    template: {name: Audio, audioTitle: '(?i)\b(aac|stereo|2\.0)\b', group: "audio", weight: 10, position: 'audio-bottom-right'}
+
+### AUDIO CODEC ###
