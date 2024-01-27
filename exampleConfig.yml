@@ -5,8 +5,9 @@ libraries:
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution.yml
 
       # Audio in the lower right corner
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/audio_codec.yml
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/audio_codec_lower_right.yml
 
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/audio_codec_upper_right.yml
       # Award ribbons in the bottom right corner
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon_awards.yml
 
