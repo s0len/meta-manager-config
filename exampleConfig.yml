@@ -1,11 +1,56 @@
 libraries:
   Movies:
     overlay_files:
-      # Resolution in the upper left corner
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution.yml
+      # Creates a ribbon style background in the top left corner with a width of 313 pixels
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/background_top_left_313_wide.yml
+      
+      # Resolution in the upper left corner in horizontal format
+      - pmm: resolution
+        template_variables:
+          url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left-horizontal/<<overlay_name>>.png
+          horizontal_align: left
+          horizontal_offset: 0
+          vertical_offset: 0
+          vertical_align: top
+          back_width: 1000
+          back_height: 1500
+          back_color: 00
 
-      # Audio in the lower right corner
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/audio_codec_lower_right.yml
+      # Resolution in the upper left corner in 45 degree format
+      - pmm: resolution
+        template_variables:
+          url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left-45deg/<<overlay_name>>.png
+          horizontal_align: left
+          horizontal_offset: 0
+          vertical_offset: 0
+          vertical_align: top
+          back_width: 1000
+          back_height: 1500
+          back_color: 00
+
+      # Audio in the upper left corner in horizontal format
+      - pmm: audio_codec
+        template_variables:
+          url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/audio-top-left-horizontal/<<key>>.png
+          horizontal_align: left
+          horizontal_offset: 0
+          vertical_offset: 0
+          vertical_align: top
+          back_width: 1000
+          back_height: 1500
+          back_color: 00
+
+      # Audio in the upper left corner in 45 degree format
+      - pmm: audio_codec
+        template_variables:
+          url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/audio-top-left-45deg/<<key>>.png
+          horizontal_align: left
+          horizontal_offset: 0
+          vertical_offset: 0
+          vertical_align: top
+          back_width: 1000
+          back_height: 1500
+          back_color: 00
 
       # Audio in the upper right corner
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/audio_codec_upper_right.yml

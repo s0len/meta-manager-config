@@ -1,0 +1,8 @@
+overlays:
+## Creates a black background ribbon in the top left corner
+  Background:
+    overlay:
+      name: top-left-313-wide
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/background/<<overlay_name>>.png
+      weight: 2
+    plex_all: true
