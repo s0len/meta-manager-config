@@ -1,7 +1,7 @@
 libraries:
   Movies:
     overlay_files:
-      # Creates a ribbon style background in the top left corner with a width of 313 pixels
+      # Creates a ribbon style background in the top left corner with a width of 313 pixels. Keep in mind, it has to be run before any overlay which is supposed to be on top of the background
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/background_top_left_313_wide.yml
       
       # Resolution in the upper left corner in horizontal format
@@ -31,7 +31,7 @@ libraries:
       # Audio in the upper left corner in horizontal format
       - pmm: audio_codec
         template_variables:
-          url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/audio-top-left-horizontal/<<key>>.png
+          url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/audio-top-left/<<key>>.png
           horizontal_align: left
           horizontal_offset: 0
           vertical_offset: 0

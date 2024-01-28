@@ -3,6 +3,6 @@ overlays:
   Background:
     overlay:
       name: top-left-313-wide
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/background/<<overlay_name>>.png
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/background/top-left-313-wide.png
       weight: 2
     plex_all: true

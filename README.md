@@ -4,14 +4,65 @@ This is where you'll find all my config files related to Plex Meta Manager. I've
 ## Movies
 ![movie overlay res and codec](https://github.com/s0len/meta-manager-config/assets/35483234/b7a6bb56-9415-4883-b9f9-6a03073a5012)
 
-### Resolution as a ribbon style in the upper left corner
+### Creates a ribbon style background in the top left corner with a width of 313 pixels. Keep in mind, it has to be run before any overlay which is supposed to be on top of the background
 ```yaml
-- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution.yml
+- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/background_top_left_313_wide.yml
 ```
 
-### Audio as a ribbon style in the lower right corner
+### Resolution in the upper left corner in horizontal format
 ```yaml
-- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/audio_codec.yml
+- pmm: resolution
+      template_variables:
+            url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left-horizontal/<<overlay_name>>.png
+            horizontal_align: left
+            horizontal_offset: 0
+            vertical_offset: 0
+            vertical_align: top
+            back_width: 1000
+            back_height: 1500
+            back_color: 00
+```
+
+### Resolution in the upper left corner in 45 degree format
+```yaml
+- pmm: resolution
+      template_variables:
+            url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left-45deg/<<overlay_name>>.png
+            horizontal_align: left
+            horizontal_offset: 0
+            vertical_offset: 0
+            vertical_align: top
+            back_width: 1000
+            back_height: 1500
+            back_color: 00
+```
+
+### Audio in the upper left corner in horizontal format
+```yaml
+- pmm: audio_codec
+      template_variables:
+          url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/audio-top-left/<<key>>.png
+          horizontal_align: left
+          horizontal_offset: 0
+          vertical_offset: 0
+          vertical_align: top
+          back_width: 1000
+          back_height: 1500
+          back_color: 00
+```
+
+### Audio in the upper left corner in 45 degree format
+```yaml
+- pmm: audio_codec
+      template_variables:
+          url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/audio-top-left-45deg/<<key>>.png
+          horizontal_align: left
+          horizontal_offset: 0
+          vertical_offset: 0
+          vertical_align: top
+          back_width: 1000
+          back_height: 1500
+          back_color: 00
 ```
 
 ### Award ribbons in the bottom right corner
