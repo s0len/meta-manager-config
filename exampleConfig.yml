@@ -12,6 +12,8 @@ libraries:
           horizontal_offset: 0
           vertical_offset: 0
           vertical_align: top
+          final_horizontal_offset: 0
+          final_vertical_offset: 0
           back_width: 1000
           back_height: 1500
           back_color: 00
@@ -24,6 +26,8 @@ libraries:
           horizontal_offset: 0
           vertical_offset: 0
           vertical_align: top
+          final_horizontal_offset: 0
+          final_vertical_offset: 0
           back_width: 1000
           back_height: 1500
           back_color: 00
