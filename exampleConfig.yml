@@ -56,9 +56,6 @@ libraries:
           back_height: 1500
           back_color: 00
 
-      # Audio in the upper right corner
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/audio_codec_upper_right.yml
-
       # Award ribbons in the bottom right corner
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon_awards.yml
 
