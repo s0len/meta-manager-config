@@ -38,6 +38,10 @@ Below you'll find the config which then if used will generate the image below.
           back_color: 00
 ```
 ![movies_resolution_audio_codec_horizontal](https://github.com/s0len/meta-manager-config/assets/35483234/55b9f52c-e057-4a47-939a-4819b50ba4d0)
+### Creates a ribbon style background in the top left corner with a width of 313 pixels. Keep in mind, it has to be run before any overlay which is supposed to be on top of the background
+```yaml
+- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/background_top_left_313_wide.yml
+```
 
 ### Resolution in the upper left corner in 45 degree format
 ```yaml
