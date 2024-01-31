@@ -2,7 +2,7 @@
 This is where you'll find all my config files related to Plex Meta Manager. I've included an example of how you could fire off each overlay in my example config [exampleConfig.yml](https://raw.githubusercontent.com/s0len/meta-manager-config/main/exampleConfig.yml).
 
 ## Movies
-Below you'll find the config which then if used will generate the image below.
+Below you'll find the yaml config which then if used will generate the image below.
 ### Creates a ribbon style background in the top left corner with a width of 313 pixels. Keep in mind, it has to be run before any overlay which is supposed to be on top of the background
 ```yaml
 - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/background_top_left_313_wide.yml
@@ -95,7 +95,7 @@ Below you'll find the config which then if used will generate the image below.
 ![movies_rotten](https://github.com/s0len/meta-manager-config/assets/35483234/6b0a7070-e5e3-4e13-aed5-73e1ab2cc8bf)
 
 ## TV Shows
-![series-overlay](https://github.com/s0len/meta-manager-config/assets/35483234/d0fac6f2-9114-4cc0-a012-1f5e241fe7a8)
+Below the you'll find the yaml config which then if used will generate the image below.
 
 ### Status in the top left corner
 ```yaml
@@ -122,6 +122,7 @@ This is a bit of a workaround to fill up the missing network logos by first writ
           url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/<<key>>.png 
           back_color: 00 
 ```
+![series_status_network_overlay](https://github.com/s0len/meta-manager-config/assets/35483234/f3a64377-b16b-46bc-9a77-4852f3695db4)
 
 ### Award ribbons in the bottom right corner
 ```yaml
