@@ -35,6 +35,14 @@ templates:
       group: <<group>>
       weight: <<weight>>
     tmdb_trending_daily: <<tmdbTrendDaily>>
+
+  TrendingSeries:
+    overlay:
+      name: <<overlay_name>>
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon-bottom-right/<<overlay_name>>.png
+      group: <<group>>
+      weight: <<weight>>
+    tmdb_trending_daily: <<tmdbTrendDaily>>
   
   Awards:
     imdb_search:
