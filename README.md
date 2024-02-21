@@ -115,8 +115,8 @@ This is a bit of a workaround to fill up the missing network logos by first writ
 
 ### Network the show originated from in the top left corner
 ```yaml
-      - pmm: network
-        template_variables:
+- pmm: network
+      template_variables:
           horizontal_align: left
           horizontal_offset: 0
           vertical_offset: 0
@@ -127,6 +127,20 @@ This is a bit of a workaround to fill up the missing network logos by first writ
           back_color: 00 
 ```
 ![series_status_network_overlay](https://github.com/s0len/meta-manager-config/assets/35483234/f3a64377-b16b-46bc-9a77-4852f3695db4)
+
+### Studio the anime show originated from in the top left corner
+```yaml
+- pmm: studio
+      template_variables:
+            horizontal_align: left
+            horizontal_offset: 0
+            vertical_align: top
+            vertical_offset: 0
+            back_width: 1000
+            back_height: 1500
+            url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/studio-top-left/<<key>>.png
+            back_color: 00
+```
 
 ### Award ribbons in the bottom right corner
 ```yaml
@@ -147,3 +161,4 @@ This is a bit of a workaround to fill up the missing network logos by first writ
 ```yaml
 - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon_rotten.yml
 ```
+

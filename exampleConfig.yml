@@ -62,3 +62,16 @@ libraries:
           back_height: 1500
           url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/<<key>>.png 
           back_color: 00 
+
+  Anime Series:
+    overlay_files:
+      - pmm: studio
+        template_variables:
+          horizontal_align: left
+          horizontal_offset: 0
+          vertical_align: top
+          vertical_offset: 0
+          back_width: 1000
+          back_height: 1500
+          url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/studio-top-left/<<key>>.png
+          back_color: 00
