@@ -128,7 +128,7 @@ This is a bit of a workaround to fill up the missing network logos by first writ
 ```
 ![series_status_network_overlay](https://github.com/s0len/meta-manager-config/assets/35483234/f3a64377-b16b-46bc-9a77-4852f3695db4)
 
-### Studio the anime show originated from in the top left corner
+### Studio overlay in ribbon style in the top left corner
 ```yaml
 - pmm: studio
       template_variables:
