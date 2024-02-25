@@ -74,6 +74,21 @@ Below you'll find the yaml config which then if used will generate the image bel
 ```
 ![movies_resolution_audio_codec_45degree](https://github.com/s0len/meta-manager-config/assets/35483234/bbb9469c-8190-441d-a23f-9405af21ab7c)
 
+### Studio overlay in ribbon style in the top left corner
+```yaml
+- pmm: studio
+      template_variables:
+            horizontal_align: left
+            horizontal_offset: 0
+            vertical_align: top
+            vertical_offset: 0
+            back_width: 1000
+            back_height: 1500
+            url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/studio-top-left/<<key>>.png
+            back_color: 00
+```
+![studio overlay movies](https://github.com/s0len/meta-manager-config/assets/35483234/467d2aa1-afc7-4d7e-b038-425492e1c880)
+
 
 ### Award ribbons in the bottom right corner
 ```yaml
@@ -141,6 +156,8 @@ This is a bit of a workaround to fill up the missing network logos by first writ
             url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/studio-top-left/<<key>>.png
             back_color: 00
 ```
+![studio overlay shows](https://github.com/s0len/meta-manager-config/assets/35483234/c5763240-abdd-4810-860c-5d78eef07521)
+
 
 ### Award ribbons in the bottom right corner
 ```yaml
