@@ -158,6 +158,20 @@ This is a bit of a workaround to fill up the missing network logos by first writ
 ```
 ![studio overlay shows](https://github.com/s0len/meta-manager-config/assets/35483234/c5763240-abdd-4810-860c-5d78eef07521)
 
+### Streaming Service in the upper left corner
+```yaml
+- pmm: streaming
+      template_variables:
+          horizontal_align: left
+          horizontal_offset: 0
+          vertical_offset: 0
+          vertical_align: top
+          back_width: 1000
+          back_height: 1500
+          url: https://raw.githubusercontent.com/LanceAlthouse/forked-meta-manager-config/main/overlays/streaming-top-left/<<key>>.png
+          back_color: 00
+```
+
 
 ### Award ribbons in the bottom right corner
 ```yaml

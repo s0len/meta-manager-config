@@ -1,0 +1,8 @@
+overlays:
+## Creates a black background ribbon in the top left corner
+  Background:
+    overlay:
+      name: movie-background
+      url: https://raw.githubusercontent.com/LanceAlthouse/forked-meta-manager-config/main/overlays/background/movie_background.png
+      weight: 2
+    plex_all: true
