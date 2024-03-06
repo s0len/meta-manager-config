@@ -75,3 +75,9 @@ libraries:
           back_height: 1500
           url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/studio-top-left/<<key>>.png
           back_color: 00
+
+  Formula 1:
+    metadata_files:
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/formula1.yml
+    operations:
+      assets_for_all: true 
