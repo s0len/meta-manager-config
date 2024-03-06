@@ -174,8 +174,45 @@ This is a bit of a workaround to fill up the missing network logos by first writ
 - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon_imdb.yml
 ```
 
+
 ### Rotten tomatoes ribbons in the bottom right corner
 ```yaml
 - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon_rotten.yml
 ```
 
+## Formula 1 poster overlay
+
+Complete config for Formula 1 with awesome posters. 
+
+### This requires your folder structure to be like this
+```sh
+Formula                                   -> Library Folder
+└── Season 2023                           -> Folder for each F1 Season
+    └── 04 - Azerbaijan GP                -> Folder for each Race in a season
+        ├── 04x01 - Azerbaijan GP - Pre-Qualifying Buildup.mkv
+        ├── 04x02 - Azerbaijan GP - Qualifying Session.mkv
+        ├── 04x03 - Azerbaijan GP - Post-Qualifying Analysis.mkv
+        ├── 04x04 - Azerbaijan GP - Ted's Qualifying Notebook.mkv
+        ├── 04x05 - Azerbaijan GP - Pre-Sprint Shootout Buildup.mkv
+        ├── 04x06 - Azerbaijan GP - Sprint Shootout Session.mkv
+        ├── 04x07 - Azerbaijan GP - Post-Sprint Shootout Analysis.mkv
+        ├── 04x08 - Azerbaijan GP - Pre-Sprint Race Buildup.mkv
+        ├── 04x09 - Azerbaijan GP - Sprint Race Session.mkv
+        ├── 04x10 - Azerbaijan GP - Post-Sprint Race Analysis.mkv
+        ├── 04x11 - Azerbaijan GP - Ted's Sprint Notebook.mkv
+        ├── 04x12 - Azerbaijan GP - Pre-Race Buildup.mkv
+        ├── 04x13 - Azerbaijan GP - Race Session.mkv
+        ├── 04x14 - Azerbaijan GP - Post-Race Analysis.mkv
+        └── 04x15 - Azerbaijan GP - Ted's Race Notebook.mkv
+```
+
+### This is the yaml for your config.yml
+```yaml
+  Formula 1: # This is your plex library
+    metadata_files:
+    - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/formula1.yml
+    operations:
+      assets_for_all: true 
+```
+
+<img width="912" alt="Formula 1 poster overlay" src="https://github.com/s0len/meta-manager-config/assets/35483234/e142cd73-74f1-46bb-aa86-0db79e2f3040">
