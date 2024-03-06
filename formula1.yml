@@ -55,7 +55,8 @@ templates:
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/Season22.jpg
       23:
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/Season23.jpg
-
+      24:
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/Season24.jpg
 metadata:
   Formula1 2023:
     template: {name: solen_f1, season: 2023, round: true, shorten: true, summary: A season which was dominated by Red Bull but if you were to look beyond there are quite a few surprises during to entire season.}
