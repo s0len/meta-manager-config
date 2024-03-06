@@ -1,0 +1,63 @@
+templates:
+  solen_f1:
+    default:
+      season: 2023
+      round: true
+      shorten: true
+    f1_season: <<season>>
+    round_prefix: <<round>>
+    shorten_gp: <<shorten>>
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/poster.jpg
+    seasons:
+      1:
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/Season01.jpg
+      2:
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/Season02.jpg
+      3:
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/Season03.jpg
+      4:
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/Season04.jpg
+      5:
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/Season05.jpg
+      6:
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/Season06.jpg
+      7:
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/Season07.jpg
+      8:
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/Season08.jpg
+      9:
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/Season09.jpg
+      10:
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/Season10.jpg
+      11:
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/Season11.jpg
+      12:
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/Season12.jpg
+      13:
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/Season13.jpg
+      14:
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/Season14.jpg
+      15:
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/Season15.jpg
+      16:
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/Season16.jpg
+      17:
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/Season17.jpg
+      18:
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/Season18.jpg
+      19:
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/Season19.jpg
+      20:
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/Season20.jpg
+      21:
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/Season21.jpg
+      22:
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/Season22.jpg
+      23:
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_<<season>>/Season23.jpg
+
+metadata:
+  Formula1 2023:
+    template: {name: solen_f1, season: 2023, round: true, shorten: true, summary: A season which was dominated by Red Bull but if you were to look beyond there are quite a few surprises during to entire season.}
+  Formula1 2024:
+    template: {name: solen_f1, season: 2024, round: true, shorten: true, summary: Formula 1 is back with teams wanting to break Red Bulls streak. Will Ferrari be plagued with bad reliability or have they got it sorted? Will McLaren continue their impressive pickup from last season? Mercedes finally managed to sign that last minute contract with Hamilton, but will it be enough? Lets hope for a very interesting season and LETS GO!}
