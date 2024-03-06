@@ -185,7 +185,7 @@ This is a bit of a workaround to fill up the missing network logos by first writ
 Complete config for Formula 1 with awesome posters. 
 
 ### This requires your folder structure to be like this
-```sh
+```txt
 Formula                                   -> Library Folder
 └── Season 2023                           -> Folder for each F1 Season
     └── 04 - Azerbaijan GP                -> Folder for each Race in a season
@@ -215,4 +215,5 @@ Formula                                   -> Library Folder
       assets_for_all: true 
 ```
 
-<img width="912" alt="Formula 1 poster overlay" src="https://github.com/s0len/meta-manager-config/assets/35483234/e142cd73-74f1-46bb-aa86-0db79e2f3040">
+<img width="924" alt="Formula_1_poster_overlay" src="https://github.com/s0len/meta-manager-config/assets/35483234/ca747f2c-b529-4add-8a95-113c5cf84b25">
+
