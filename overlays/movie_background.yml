@@ -3,6 +3,6 @@ overlays:
   Background:
     overlay:
       name: movie-background
-      url: https://raw.githubusercontent.com/LanceAlthouse/forked-meta-manager-config/main/overlays/background/movie_background.png
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/background/movie_background.png
       weight: 2
     plex_all: true
