@@ -17,7 +17,7 @@ collections:
     smart_filter:
       sort_by: random
       all:
-        episode_added: 15
+        episode_added: 30
         any:
           episode_air_date.not: 365
           label.not: New Release 
