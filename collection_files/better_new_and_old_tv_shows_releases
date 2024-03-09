@@ -22,7 +22,7 @@ collections:
           episode_air_date.not: 365
           label.not: New Release 
       limit: 250
-    summary: Older shows added in the past two weeks. Sorted by Date Added.
+    summary: Older shows added in the past month. Sorted by Date Added.
     visible_library: true
     visible_home: true
     visible_shared: true

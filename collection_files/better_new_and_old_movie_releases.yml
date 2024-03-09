@@ -23,7 +23,7 @@ collections:
         added: 30
         release.not: 365
       limit: 250
-    summary: Older releases added in the past two weeks. Sorted by Date Added.
+    summary: Older releases added in the past month. Sorted by Date Added.
     visible_library: true
     visible_home: true
     visible_shared: true
