@@ -1,5 +1,7 @@
 libraries:
   Movies:
+    collection_files:
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/better_new_and_old_movie_releases.yml
     overlay_files:
       # Creates a ribbon style background in the top left corner with a width of 313 pixels. Keep in mind, it has to be run before any overlay which is supposed to be on top of the background
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/background_top_left_313_wide.yml
@@ -44,6 +46,8 @@ libraries:
 
 
   TV Shows:
+    collection_files:
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/better_new_and_old_tv_shows_releases.yml
     overlay_files:
       # Status in the top left corner
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status.yml
@@ -78,6 +82,6 @@ libraries:
 
   Formula 1:
     metadata_files:
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/formula1.yml
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata_files/•formula1.yml
     operations:
       assets_for_all: true 

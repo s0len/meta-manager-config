@@ -6,6 +6,13 @@ This is where you'll find all my config files related to Plex Meta Manager. I've
 
 Below you'll find the yaml config which then if used will generate the image below.
 
+### Creates two collections which replace Plex default "New Releases" collection for Movies
+
+These collections are a substantial improvement upon Plex defaults. New Releases shows Movies which has been added in the last 92 days to the Library AND has been Released in the last 365 days. This means in this collection you will always find the freshest media available.
+Old Movies Just Added however is a collection of Movies who has been Released more then 365 days ago AND has been added to the Library in the last 30 days. This means in this collection you will find all the Movies which has just recently been added to the Library but has been around for longer then a year.
+
+![new movie releases and old movies just added](https://github.com/s0len/meta-manager-config/blob/main/images/new-movie-releases-and-old-movies-just-added.png)
+
 ### Creates a ribbon style background in the top left corner with a width of 313 pixels
 
 **Keep in mind**, it has to be run before any overlay which is supposed to be on top of the background**
@@ -138,6 +145,13 @@ Below you'll find the yaml config which then if used will generate the image bel
 ## TV Shows
 
 Below the you'll find the yaml config which then if used will generate the image below.
+
+### Creates two collections which replace Plex default "New Releases" for TV Shows
+
+These collections are a substantial improvement upon Plex defaults. New Releases shows TV Shows which has been added in the last 92 days to the Library AND has been Released in the last 365 days. This means in this collection you will always find the freshest media available.
+Old TV Shows Just Added however is a collection of TV Shows who has been Released more then 365 days ago AND has been added to the Library in the last 30 days. This means in this collection you will find all the TV Shows which has just recently been added to the Library but has been around for longer then a year.
+
+![new tv show releases and old TV Shows just added](https://github.com/s0len/meta-manager-config/blob/main/images/new-movie-releases-and-old-tv-shows-just-added.png)
 
 ### Status in the top left corner
 

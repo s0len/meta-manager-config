@@ -1,0 +1,29 @@
+collections:
+  New TV Show Releases:
+    item_label: New Release
+    smart_filter:
+      sort_by: episode_added.desc
+      all:
+        episode_added: 92
+        episode_air_date: 365
+      limit: 250
+    summary: New releases added in the past three months. Sorted by Date Added.
+    visible_library: true
+    visible_home: true
+    visible_shared: true
+    sort_title: "!008_New_Releases"
+
+  Old TV Shows Just Added:
+    smart_filter:
+      sort_by: random
+      all:
+        episode_added: 15
+        any:
+          episode_air_date.not: 365
+          label.not: New Release 
+      limit: 250
+    summary: Older shows added in the past two weeks. Sorted by Date Added.
+    visible_library: true
+    visible_home: true
+    visible_shared: true
+    sort_title: "!009_Old_Movies_Just_Added"
