@@ -48,6 +48,7 @@ libraries:
   TV Shows:
     collection_files:
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/better_new_and_old_tv_shows_releases.yml
+      
     overlay_files:
       # Status in the top left corner
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status.yml

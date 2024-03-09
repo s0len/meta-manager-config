@@ -11,6 +11,10 @@ Below you'll find the yaml config which then if used will generate the image bel
 These collections are a substantial improvement upon Plex defaults. New Releases shows Movies which has been added in the last 92 days to the Library AND has been Released in the last 365 days. This means in this collection you will always find the freshest media available.
 Old Movies Just Added however is a collection of Movies who has been Released more then 365 days ago AND has been added to the Library in the last 30 days. This means in this collection you will find all the Movies which has just recently been added to the Library but has been around for longer then a year.
 
+```yaml
+- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/better_new_and_old_movie_releases.yml
+```
+
 ![new movie releases and old movies just added](https://github.com/s0len/meta-manager-config/blob/main/images/new-movie-releases-and-old-movies-just-added.png)
 
 ### Creates a ribbon style background in the top left corner with a width of 313 pixels
@@ -150,6 +154,10 @@ Below the you'll find the yaml config which then if used will generate the image
 
 These collections are a substantial improvement upon Plex defaults. New Releases shows TV Shows which has been added in the last 92 days to the Library AND has been Released in the last 365 days. This means in this collection you will always find the freshest media available.
 Old TV Shows Just Added however is a collection of TV Shows who has been Released more then 365 days ago AND has been added to the Library in the last 30 days. This means in this collection you will find all the TV Shows which has just recently been added to the Library but has been around for longer then a year.
+
+```yaml
+- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/better_new_and_old_tv_shows_releases.yml
+```
 
 ![new tv show releases and old TV Shows just added](https://github.com/s0len/meta-manager-config/blob/main/images/new-movie-releases-and-old-tv-shows-just-added.png)
 
