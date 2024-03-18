@@ -17,6 +17,20 @@ Old Movies Just Added however is a collection of Movies who has been Released mo
 
 ![new movie releases and old movies just added](https://github.com/s0len/meta-manager-config/blob/main/images/new-movie-releases-and-old-movies-just-added.png)
 
+### Common Sense Collection with custom posters
+
+Creates collections for all your media inside the library and sorts it according to the age restriction based on Common Sense.
+
+```yaml
+    - pmm: content_rating_cs
+      template_variables:
+        use_separator: false
+        collection_mode: hide
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/commonsense/<<key>>.jpg
+```
+
+![new movie releases and old movies just added](https://github.com/s0len/meta-manager-config/blob/main/images/commonsense-collection.png)
+
 ### Creates a ribbon style background in the top left corner with a width of 313 pixels
 
 **Keep in mind**, it has to be run before any overlay which is supposed to be on top of the background**
