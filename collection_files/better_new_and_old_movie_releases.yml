@@ -13,7 +13,7 @@ collections:
     visible_home: true
     visible_shared: true
     sort_title: "!008_New_Releases"
-    url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/new-releases/New Movie Releases Collection.jpg
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/new-releases/New Movie Releases Collection.jpg
 
   Old Movies Just Added: # SMART COLLECTION
     #variables: {your variables}
@@ -29,4 +29,4 @@ collections:
     visible_home: true
     visible_shared: true
     sort_title: "!009_Old_Movies_Just_Added"
-    url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/new-releases/Old Movies Just Added.jpg
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/new-releases/Old Movies Just Added.jpg
