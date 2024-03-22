@@ -295,12 +295,19 @@ This is a bit of a workaround to fill up the missing network logos by first writ
 
 ## Formula 1 poster overlay
 
-Complete config for Formula 1 with awesome posters.
+Complete config for Formula 1 with awesome posters. Be sure to read through the requirements.
 
-### This requires your folder structure to be like this
+### Requirements
+
+First off you need to create a filesystem which mirrors the below example. The libary name does **not** have to be `Formula 1` but it needs to be standalone. This means in this library there will __only__ be formula 1 episodes. 
+The folder you mount to this libary has to contain the season you want to show. The config works for 2023 and 2024 currently so add two folders under your main folder (the one which is mapped to this libary). Then name the first folder `Formula1 2023` and the second `Formula1 2024` these names can __NOT__ be changed and need to be exactly this. 
+Under each of these folders you will then add a folder for each round. What's required is that the folder **has** to start with <<round_number>>. In the below example i also add the name if the round, just to make it easier to see which is helpful.
+Under each `round folder` you will place each media file (episode) you want to be able to watch. Each episode has to contain the following: `<<round_number>>x<<episode_number>> <<type_of_episode>>`
+`episode number` does not need to match something, it just has to match in chronological order which means episode 1 can not be Free Practise 2 if you're going to add Free Practise 1 as well.
+`type of episode` has to contain what type of episode this is. For example `FP1` or `Free Practise 1` are both good examples of valid types.
 
 ```txt
-Formula                                   -> Library Folder
+Formula 1                                  -> Library Folder
 └── Formula1 2023                           -> Folder for each F1 Season
     └── 04 - Azerbaijan GP                -> Folder for each Race in a season
         ├── 04x01 - Azerbaijan GP - Pre-Qualifying Buildup.mkv
@@ -320,10 +327,16 @@ Formula                                   -> Library Folder
         └── 04x15 - Azerbaijan GP - Ted's Race Notebook.mkv
 ```
 
+After your filesystem is setup you also need to make sure that your Plex media scanner is set to __PERSONAL__ as otherwise this will not work.
+<img width="732" alt="Screenshot 2024-03-22 at 17 20 57" src="https://github.com/s0len/meta-manager-config/assets/35483234/e15c2da0-7ada-4510-a337-4694b0ebc6e1">
+
+The last thing you need to do is to add the relevant yaml to your `config.yml` please se below example.
+
+
 ### This is the yaml for your config.yml
 
 ```yaml
-  Formula 1: # This is your plex library
+  Formula 1: # This is your Plex Library
     metadata_files:
     - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/formula1.yml
     operations:
