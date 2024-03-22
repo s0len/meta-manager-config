@@ -301,7 +301,7 @@ Complete config for Formula 1 with awesome posters.
 
 ```txt
 Formula                                   -> Library Folder
-└── Season 2023                           -> Folder for each F1 Season
+└── Formula1 2023                           -> Folder for each F1 Season
     └── 04 - Azerbaijan GP                -> Folder for each Race in a season
         ├── 04x01 - Azerbaijan GP - Pre-Qualifying Buildup.mkv
         ├── 04x02 - Azerbaijan GP - Qualifying Session.mkv
