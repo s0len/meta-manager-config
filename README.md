@@ -327,7 +327,7 @@ Formula 1                                  -> Library Folder
         └── 04x15 - Azerbaijan GP - Ted's Race Notebook.mkv
 ```
 
-After your filesystem is setup you also need to make sure that your Plex media scanner is set to __PERSONAL__ as otherwise this will not work.
+After your filesystem is setup you also need to make sure that your Plex media agent is set to __PERSONAL__ as otherwise this will not work.
 <img width="732" alt="Screenshot 2024-03-22 at 17 20 57" src="https://github.com/s0len/meta-manager-config/assets/35483234/e15c2da0-7ada-4510-a337-4694b0ebc6e1">
 
 The last thing you need to do is to add the relevant yaml to your `config.yml` please se below example.
