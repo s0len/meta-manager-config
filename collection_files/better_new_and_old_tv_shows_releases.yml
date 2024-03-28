@@ -12,7 +12,7 @@ collections:
     visible_home: true
     visible_shared: true
     sort_title: "!008_New_Releases"
-    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/new-releases/New_TV_Show_Releases_Collection.jpg
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/new-releases/New_TV_Show_Releases.jpg
 
   Old TV Shows Just Added:
     smart_filter:
@@ -21,7 +21,7 @@ collections:
         episode_added: 30
         any:
           episode_air_date.not: 365
-          label.not: New Release 
+          label.not: New Release
       limit: 250
     summary: Older shows added in the past month. Sorted by Date Added.
     visible_library: true
