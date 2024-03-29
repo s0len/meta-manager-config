@@ -12,7 +12,7 @@ collections:
     visible_home: true
     visible_shared: true
     sort_title: "!008_New_Releases"
-    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/new-releases/New_TV_Show_Releases_Collection.jpg
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/new-releases/New_TV_Show_Releases.jpg
 
   Old TV Shows Just Added:
     smart_filter:
