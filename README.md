@@ -31,7 +31,7 @@ Creates collections for all your media inside the library and sorts it according
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/commonsense/<<key>>.jpg
 ```
 
-![new movie releases and old movies just added](https://github.com/s0len/meta-manager-config/blob/main/images/commonsense-collection.png)
+![new movie releases and old movies just added](https://github.com/s0len/meta-manager-config/blob/main/images/commonsense-collection.jpg)
 
 ### Creates a ribbon style background in the top left corner with a width of 313 pixels
 
