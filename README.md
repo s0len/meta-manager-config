@@ -346,3 +346,20 @@ The last thing you need to do is to add the relevant yaml to your `config.yml` p
 ```
 
 ![Formula_1_poster_overlay](https://github.com/s0len/meta-manager-config/assets/35483234/ca747f2c-b529-4add-8a95-113c5cf84b25)
+
+## Formula 1 Title Cards posters
+
+### Requirements
+
+Sonarr with Forumula 1 added as a show
+TrashGuides setup
+
+```yaml
+  Sports: # Your library name where formula 1 is located
+    metadata_files:
+    - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata_files/formula1_title_cards_2024.yml
+    operations:
+      assets_for_all: true
+```
+
+![new movie releases and old movies just added](https://github.com/s0len/meta-manager-config/blob/main/images/new-movie-releases-and-old-movies-just-added.png)
