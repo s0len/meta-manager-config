@@ -1,0 +1,12 @@
+metadata:
+  81083:
+    seasons:
+      2024:
+        # url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/round_03_q.png
+        episodes:
+          66:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/round_03_quali.png
+          72:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/round_03_sprint.png
+          76:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/round_03_race.png
