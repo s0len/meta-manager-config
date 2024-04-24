@@ -2,11 +2,37 @@ metadata:
   81083:
     seasons:
       2024:
-        # url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/round_03_q.png
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/poster.jpg
         episodes:
+          20:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/round_01_quali1.png
+          21:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/round_01_quali2.png
+          27:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/round_01_sprint.png
+          32:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/round_01_race.png
+          44:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/round_02_quali1.png
+          45:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/round_02_quali2.png
+          50:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/round_02_sprint.png
+          54:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/round_02_race.png
           66:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/round_03_quali.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/round_03_quali1.png
+          67:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/round_03_quali2.png
           72:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/round_03_sprint.png
           76:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/round_03_race.png
+          88:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/round_04_quali1.png
+          89:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/round_04_quali2.png
+          94:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/round_04_sprint.png
+          98:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/round_04_race.png
