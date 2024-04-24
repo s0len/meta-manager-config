@@ -6,74 +6,74 @@ metadata:
         url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/background.jpg
         episodes:
           10:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R01_QUAL.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R01_QUAL.jpg
           13:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R01_SPRINT.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R01_SPRINT.jpg
           17:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R01_RACE.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R01_RACE.jpg
           27:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R02_QUAL.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R02_QUAL.jpg
           30:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R02_SPRINT.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R02_SPRINT.jpg
           34:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R02_RACE.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R02_RACE.jpg
           44:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R03_QUAL.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R03_QUAL.jpg
           47:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R03_SPRINT.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R03_SPRINT.jpg
           50:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R03_RACE.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R03_RACE.jpg
           60:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R04_QUAL.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R04_QUAL.jpg
           63:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R04_SPRINT.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R04_SPRINT.jpg
           66:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R04_RACE.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R04_RACE.jpg
           74:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R05_QUAL.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R05_QUAL.jpg
           77:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R05_SPRINT.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R05_SPRINT.jpg
           80:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R05_RACE.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R05_RACE.jpg
           88:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R06_QUAL.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R06_QUAL.jpg
           91:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R06_SPRINT.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R06_SPRINT.jpg
           94:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R06_RACE.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R06_RACE.jpg
           102:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R07_QUAL.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R07_QUAL.jpg
           105:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R07_SPRINT.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R07_SPRINT.jpg
           108:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R07_RACE.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R07_RACE.jpg
           116:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R08_QUAL.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R08_QUAL.jpg
           119:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R08_SPRINT.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R08_SPRINT.jpg
           122:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R08_RACE.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R08_RACE.jpg
           130:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R09_QUAL.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R09_QUAL.jpg
           133:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R09_SPRINT.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R09_SPRINT.jpg
           136:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R09_RACE.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R09_RACE.jpg
           144:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R10_QUAL.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R10_QUAL.jpg
           147:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R10_SPRINT.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R10_SPRINT.jpg
           150:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R10_RACE.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R10_RACE.jpg
           158:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R11_QUAL.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R11_QUAL.jpg
           161:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R11_SPRINT.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R11_SPRINT.jpg
           164:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R11_RACE.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R11_RACE.jpg
           116:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R12_QUAL.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R12_QUAL.jpg
           119:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R12_SPRINT.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R12_SPRINT.jpg
           122:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R12_RACE.png
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/R12_RACE.jpg
