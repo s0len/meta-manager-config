@@ -44,3 +44,12 @@ collections:
         episode_year: 2024
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season05.jpg
     sort_title: F1 05
+  Round 06 USA GP:
+    builder_level: episode
+    smart_filter:
+      all:
+        title: Formula 1
+        episode_title: Miami
+        episode_year: 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season06.jpg
+    sort_title: F1 06
