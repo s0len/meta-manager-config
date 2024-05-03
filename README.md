@@ -295,7 +295,54 @@ This is a bit of a workaround to fill up the missing network logos by first writ
 - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon_rotten.yml
 ```
 
-## Formula 1 poster overlay
+## Formula 1 Title Cards posters
+
+Perfect if you're using Sonarr to download sports and this one in particular is for Formula 1 where we add nice title cards for each episode and also add them into a collection to separate all episodes by round.
+
+### Requirements
+
+- Sonarr with Formula 1 added as a show
+- TrashGuides setup
+- Plex needs to use TVDB as the library Agent (selected inside Advanced under edit library)
+
+```yaml
+  Sports: # Your library name where your Sports shows from Sonarr is located
+    collection_files:
+    - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/formula1_2024.yml
+    metadata_files:
+    - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata_files/formula1_title_cards_2024.yml
+    operations:
+      assets_for_all: true
+```
+
+![view of created collections and how they look](https://github.com/s0len/meta-manager-config/blob/main/images/formula1_view_of_collections.png)
+![view of created title cards and how they look](https://github.com/s0len/meta-manager-config/blob/main/images/formula1_view_of_title_cards.png)
+
+## MotoGP Title Cards posters
+
+Perfect if you're using Sonarr to download sports and this one in particular is for MotoGP where we add nice title cards for each episode and also add them into a collection to separate all episodes by round. There are titlecards for Season 2022 through 2024.
+
+### Requirements
+
+- Sonarr with MotoGP added as a show
+- TrashGuides setup
+- Plex needs to use TVDB as the library Agent (selected inside Advanced under edit library)
+
+```yaml
+  Sports: # Your library name where your Sports shows from Sonarr is located
+    collection_files:
+    - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/motogp_2024.yml
+    metadata_files:
+    - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata_files/motogp_posters_and_title_cards.yml
+    operations:
+      assets_for_all: true
+    minimum_items: 1
+```
+
+![view of created collections and how they look](https://github.com/s0len/meta-manager-config/blob/main/images/motogp_view_of_collections.png)
+![view of created title cards and how they look](https://github.com/s0len/meta-manager-config/blob/main/images/motogp_view_of_title_cards.png)
+
+## Formula 1 poster overlay (deprecated)
 
 Complete config for Formula 1 with awesome posters. Be sure to read through the requirements.
 
@@ -334,7 +381,6 @@ After your filesystem is setup you also need to make sure that your Plex media a
 
 The last thing you need to do is to add the relevant yaml to your `config.yml` please se below example.
 
-
 ### This is the yaml for your config.yml
 
 ```yaml
@@ -346,20 +392,3 @@ The last thing you need to do is to add the relevant yaml to your `config.yml` p
 ```
 
 ![Formula_1_poster_overlay](https://github.com/s0len/meta-manager-config/assets/35483234/ca747f2c-b529-4add-8a95-113c5cf84b25)
-
-## Formula 1 Title Cards posters
-
-### Requirements
-
-Sonarr with Forumula 1 added as a show
-TrashGuides setup
-
-```yaml
-  Sports: # Your library name where formula 1 is located
-    metadata_files:
-    - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata_files/formula1_title_cards_2024.yml
-    operations:
-      assets_for_all: true
-```
-
-![new movie releases and old movies just added](https://github.com/s0len/meta-manager-config/blob/main/images/new-movie-releases-and-old-movies-just-added.png)
