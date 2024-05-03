@@ -267,7 +267,7 @@ This is a bit of a workaround to fill up the missing network logos by first writ
           vertical_align: top
           back_width: 1000
           back_height: 1500
-          url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/streaming-top-left/<<originals_key>>.png
+          url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/streaming-top-left/<<key>>.png
           back_color: 00
 ```
 
