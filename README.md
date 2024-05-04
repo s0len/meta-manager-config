@@ -1,6 +1,6 @@
-# Plex Meta Manager Configs
+# Kometa Configs
 
-This is where you'll find all my config files related to Plex Meta Manager. I've included an example of how you could fire off each overlay in my example config [exampleConfig.yml](https://raw.githubusercontent.com/s0len/meta-manager-config/main/exampleConfig.yml).
+This is where you'll find all my config files related to Kometa. I've included an example of how you could fire off each overlay in my example config [exampleConfig.yml](https://raw.githubusercontent.com/s0len/meta-manager-config/main/exampleConfig.yml).
 
 <a href="https://www.buymeacoffee.com/solen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
@@ -24,7 +24,7 @@ Old Movies Just Added however is a collection of Movies who has been Released mo
 Creates collections for all your media inside the library and sorts it according to the age restriction based on Common Sense.
 
 ```yaml
-    - pmm: content_rating_cs
+    - default: content_rating_cs
       template_variables:
         use_separator: false
         collection_mode: hide
@@ -44,7 +44,7 @@ Creates collections for all your media inside the library and sorts it according
 ### Resolution in the upper left corner in horizontal format
 
 ```yaml
-- pmm: resolution
+- default: resolution
       template_variables:
             url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left-horizontal/<<overlay_name>>.png
             horizontal_align: left
@@ -61,7 +61,7 @@ Creates collections for all your media inside the library and sorts it according
 ### Audio in the upper left corner in horizontal format
 
 ```yaml
-- pmm: audio_codec
+- default: audio_codec
       template_variables:
           url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/audio-top-left/<<key>>.png
           horizontal_align: left
@@ -84,7 +84,7 @@ Creates collections for all your media inside the library and sorts it according
 ### Resolution in the upper left corner in 45 degree format
 
 ```yaml
-- pmm: resolution
+- default: resolution
       template_variables:
             url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left-45deg/<<overlay_name>>.png
             horizontal_align: left
@@ -101,7 +101,7 @@ Creates collections for all your media inside the library and sorts it according
 ### Audio in the upper left corner in 45 degree format
 
 ```yaml
-- pmm: audio_codec
+- default: audio_codec
       template_variables:
           url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/audio-top-left-45deg/<<key>>.png
           horizontal_align: left
@@ -118,7 +118,7 @@ Creates collections for all your media inside the library and sorts it according
 ### Studio overlay in ribbon style in the top left corner
 
 ```yaml
-- pmm: studio
+- default: studio
       template_variables:
             horizontal_align: left
             horizontal_offset: 0
@@ -180,7 +180,7 @@ Old TV Shows Just Added however is a collection of TV Shows who has been Release
 ### Status in the top left corner
 
 ```yaml
-- pmm: status
+- default: status
       template_variables:
           text_airing: .
           url_airing: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/airing.png
@@ -215,8 +215,8 @@ Old TV Shows Just Added however is a collection of TV Shows who has been Release
 
 ### Fallback Network logo
 
-This is a bit of a workaround to fill up the missing network logos by first writing a plex logo on all overlays. Then AFTER this is run we run the below `pmm: network` so that it is overwritten by pmm: network if it finds an image for the network.
-**Must run before `pmm: network`.**
+This is a bit of a workaround to fill up the missing network logos by first writing a plex logo on all overlays. Then AFTER this is run we run the below `default: network` so that it is overwritten by default: network if it finds an image for the network.
+**Must run before `default: network`.**
 
 ```yml
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network_fallback.yml
@@ -225,7 +225,7 @@ This is a bit of a workaround to fill up the missing network logos by first writ
 ### Network the show originated from in the top left corner
 
 ```yaml
-- pmm: network
+- default: network
       template_variables:
           horizontal_align: left
           horizontal_offset: 0
@@ -242,7 +242,7 @@ This is a bit of a workaround to fill up the missing network logos by first writ
 ### Studio overlay in ribbon style in the top left corner
 
 ```yaml
-- pmm: studio
+- default: studio
       template_variables:
             horizontal_align: left
             horizontal_offset: 0
@@ -259,7 +259,7 @@ This is a bit of a workaround to fill up the missing network logos by first writ
 ### Streaming Service in the upper left corner
 
 ```yaml
-- pmm: streaming
+- default: streaming
       template_variables:
           horizontal_align: left
           horizontal_offset: 0
