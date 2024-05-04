@@ -1,5 +1,14 @@
 libraries:
   Movies:
+    collection_files:
+    - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/better_new_and_old_movie_releases.yml
+
+    - pmm: content_rating_cs
+      template_variables:
+        use_separator: false
+        collection_mode: hide
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/commonsense/<<key>>.jpg
+
     overlay_files:
       # Creates a ribbon style background in the top left corner with a width of 313 pixels. Keep in mind, it has to be run before any overlay which is supposed to be on top of the background
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/background_top_left_313_wide.yml
@@ -44,9 +53,42 @@ libraries:
 
 
   TV Shows:
+    collection_files:
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/better_new_and_old_tv_shows_releases.yml
+      
     overlay_files:
       # Status in the top left corner
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status.yml
+      - pmm: status
+        template_variables:
+          text_airing: .
+          url_airing: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/airing.png
+          text_returning: .
+          url_returning: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/returning.png
+          text_canceled: . 
+          url_canceled: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/cancelled.png
+          text_ended: .
+          url_ended: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/ended.png
+          horizontal_align: left
+          horizontal_offset: 25
+          vertical_align: top
+          vertical_offset: 0
+          font_size: 1
+          font_color: '#00000000'
+          back_color: '#00000000'
+          back_width_airing: 1000
+          back_width_returning: 1000
+          back_width_ended: 1000
+          back_width_cancelled: 1000
+          back_width: 1000
+          back_height_airing: 1500
+          back_height_returning: 1500
+          back_height_ended: 1500
+          back_height_cancelled: 1500
+          back_height: 1500
+          back_padding: 0
+          back_line_width: 1000
+          final_horizontal_offset: 0
+          final_vertical_offset: 0
 
       # Fallback Network logo which is overwritten by pmm: network if it finds an image for the network. Must run before pmm: network.
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network_fallback.yml
@@ -75,9 +117,40 @@ libraries:
           back_height: 1500
           url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/studio-top-left/<<key>>.png
           back_color: 00
+      - pmm: status
+        template_variables:
+          text_airing: .
+          url_airing: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/airing.png
+          text_returning: .
+          url_returning: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/returning.png
+          text_canceled: . 
+          url_canceled: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/cancelled.png
+          text_ended: .
+          url_ended: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/ended.png
+          horizontal_align: left
+          horizontal_offset: 25
+          vertical_align: top
+          vertical_offset: 0
+          font_size: 1
+          font_color: '#00000000'
+          back_color: '#00000000'
+          back_width_airing: 1000
+          back_width_returning: 1000
+          back_width_ended: 1000
+          back_width_cancelled: 1000
+          back_width: 1000
+          back_height_airing: 1500
+          back_height_returning: 1500
+          back_height_ended: 1500
+          back_height_cancelled: 1500
+          back_height: 1500
+          back_padding: 0
+          back_line_width: 1000
+          final_horizontal_offset: 0
+          final_vertical_offset: 0
 
   Formula 1:
     metadata_files:
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/formula1.yml
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata_files/•formula1.yml
     operations:
       assets_for_all: true 

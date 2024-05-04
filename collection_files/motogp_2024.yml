@@ -1,0 +1,37 @@
+collections:
+  Round 01 Grand Prix of Qatar:
+    builder_level: episode
+    smart_filter:
+      all:
+        title: MotoGP
+        episode_title: Qatar
+        episode_year: 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R01.jpg
+    sort_title: MotoGP 01
+  Round 02 Grande Prémio de Portugal:
+    builder_level: episode
+    smart_filter:
+      all:
+        title: MotoGP
+        episode_title: Portugal
+        episode_year: 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R02.jpg
+    sort_title: MotoGP 02
+  Round 03 Grand Prix of The Americas:
+    builder_level: episode
+    smart_filter:
+      all:
+        title: MotoGP
+        episode_title: Americas
+        episode_year: 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R03.jpg
+    sort_title: MotoGP 03
+  Round 04 Gran Premio de España:
+    builder_level: episode
+    smart_filter:
+      all:
+        title: MotoGP
+        episode_title: España
+        episode_year: 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R04.jpg
+    sort_title: MotoGP 04

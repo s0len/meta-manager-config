@@ -1,0 +1,72 @@
+metadata:
+  387219:
+    seasons:
+      2024:
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/poster.jpg
+        episodes:
+          1:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season00_day1.jpg
+          2:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season00_day2.jpg
+          3:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season00_day3.jpg
+          4:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season01_practice1.jpg
+          5:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season01_practice2.jpg
+          6:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season01_practice3.jpg
+          7:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season01_quali.jpg
+          8:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season01_race.jpg
+          9:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season02_practice1.jpg
+          10:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season02_practice2.jpg
+          11:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season02_practice3.jpg
+          12:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season02_quali.jpg
+          13:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season02_race.jpg
+          14:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season03_practice1.jpg
+          15:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season03_practice2.jpg
+          16:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season03_practice3.jpg
+          17:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season03_quali.jpg
+          18:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season03_race.jpg
+          19:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season04_practice1.jpg
+          20:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season04_practice2.jpg
+          21:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season04_practice3.jpg
+          22:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season04_quali.jpg
+          23:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season04_race.jpg
+          24:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season05_practice1.jpg
+          25:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season05_shootout.jpg
+          26:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season05_sprint.jpg
+          27:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season05_quali.jpg
+          28:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season05_race.jpg
+          29:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season06_practice1.jpg
+          30:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season06_shootout.jpg
+          31:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season06_sprint.jpg
+          32:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season06_quali.jpg
+          33:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season06_race.jpg
