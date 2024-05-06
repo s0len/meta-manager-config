@@ -5,7 +5,7 @@ external_templates:
 
 overlays:
   trendingMovies:
-    template: {name: Trending, gte: "6", lte: "10", target_collection: "Trending", group: "awards", weight: 400, tmdb_trending_daily: ""} 
+    template: {name: Trending, gte: "6", lte: "10", target_collection: "Trending", group: "awards", weight: 400, tmdb_trending_daily: "1"} 
   trendingSeries:
     template: {name: TrendingSeries, tmdbTrendDaily: 100, group: "awards", weight: 400} 
 
