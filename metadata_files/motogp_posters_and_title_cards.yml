@@ -38,13 +38,13 @@ metadata:
           98:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R04_RACE.jpg
           110:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R04_QUAL.jpg
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R05_QUAL.jpg
           111:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R04_QUAL.jpg
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R05_QUAL.jpg
           116:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R04_SPRINT.jpg
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R05_SPRINT.jpg
           120:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R04_RACE.jpg
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R05_RACE.jpg
       2023:
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/poster.jpg
         url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/background.jpg
