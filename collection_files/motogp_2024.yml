@@ -35,3 +35,12 @@ collections:
         episode_year: 2024
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R04.jpg
     sort_title: MotoGP 04
+  Round 05 Grand Prix de France:
+    builder_level: episode
+    smart_filter:
+      all:
+        title: MotoGP
+        episode_title: France
+        episode_year: 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R05.jpg
+    sort_title: MotoGP 05
