@@ -11,10 +11,10 @@ overlays:
   rt_gold:
     template: {name: Rotten, group: "awards", weight: 600, gte: 9.0, lte: 10}
   rt_bronze_trending:
-    template: {name: Trending, target_collection: "Trending", group: "awards", weight: 601, gte: 7.0, lte: 7.9, tmdbTrendDaily: 100} 
+    template: {name: TrendingMovies, target_collection: "Trending", group: "awards", weight: 601, gte: 7.0, lte: 7.9, tmdbTrendDaily: 100} 
   rt_silver_trending:
-    template: {name: Trending, target_collection: "Trending", group: "awards", weight: 602, gte: 8.0, lte: 8.9, tmdbTrendDaily: 100} 
+    template: {name: TrendingMovies, target_collection: "Trending", group: "awards", weight: 602, gte: 8.0, lte: 8.9, tmdbTrendDaily: 100} 
   rt_gold_trending:
-    template: {name: Trending, target_collection: "Trending", group: "awards", weight: 603, gte: 9.0, lte: 10, tmdbTrendDaily: 100} 
+    template: {name: TrendingMovies, target_collection: "Trending", group: "awards", weight: 603, gte: 9.0, lte: 10, tmdbTrendDaily: 100} 
 
 ### TMDB TRENDING / IMDB AWARDS ###
