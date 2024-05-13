@@ -317,6 +317,7 @@ Perfect if you're using Sonarr to download sports and this one in particular is 
 
 ![view of created collections and how they look](https://github.com/s0len/meta-manager-config/blob/main/images/formula1_view_of_collections.png)
 ![view of created title cards and how they look](https://github.com/s0len/meta-manager-config/blob/main/images/formula1_view_of_title_cards.png)
+![correct settings for plex library](https://github.com/s0len/meta-manager-config/blob/main/images/correct-plex-libary-setting.png)
 
 ## MotoGP Title Cards posters
 
@@ -341,6 +342,7 @@ Perfect if you're using Sonarr to download sports and this one in particular is 
 
 ![view of created collections and how they look](https://github.com/s0len/meta-manager-config/blob/main/images/motogp_view_of_collections.png)
 ![view of created title cards and how they look](https://github.com/s0len/meta-manager-config/blob/main/images/motogp_view_of_title_cards.png)
+![correct settings for plex library](https://github.com/s0len/meta-manager-config/blob/main/images/correct-plex-libary-setting.png)
 
 ## Formula 1 poster overlay (deprecated)
 
