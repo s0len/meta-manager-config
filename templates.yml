@@ -23,7 +23,7 @@ templates:
       group: <<group>>
       weight: <<weight>>
 
-  Trending:
+  TrendingMovies:
     plex_search:
       all:
         collection: <<target_collection>>
