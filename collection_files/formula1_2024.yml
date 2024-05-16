@@ -53,3 +53,12 @@ collections:
         episode_year: 2024
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season06.jpg
     sort_title: F1 06
+  Round 07 Emilia-Romagna GP:
+    builder_level: episode
+    smart_filter:
+      all:
+        title: Formula 1
+        episode_title: Emilia
+        episode_year: 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season07.jpg
+    sort_title: F1 07
