@@ -54,6 +54,14 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R06_SPRINT.jpg
           142:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R06_RACE.jpg
+          154:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R07_QUAL.jpg
+          155:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R07_QUAL.jpg
+          138:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R06_SPRINT.jpg
+          142:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R06_RACE.jpg
       2023:
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/poster.jpg
         url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/background.jpg
