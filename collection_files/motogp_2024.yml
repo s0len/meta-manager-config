@@ -53,7 +53,7 @@ collections:
         episode_year: 2024
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R06.jpg
     sort_title: MotoGP 06
-   Round 06 Grand Prix de Italy:
+  Round 06 Grand Prix de Catalunya:
     builder_level: episode
     smart_filter:
       all:
