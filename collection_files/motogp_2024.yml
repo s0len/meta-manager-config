@@ -58,7 +58,7 @@ collections:
     smart_filter:
       all:
         title: MotoGP
-        episode_title: Italia
+        episode_title: d'Italia
         episode_year: 2024
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R07.jpg
     sort_title: MotoGP 07
