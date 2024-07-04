@@ -98,3 +98,21 @@ collections:
         episode_year: 2024
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season11.jpg
     sort_title: F1 11
+  Round 12 British GP:
+    builder_level: episode
+    smart_filter:
+      all:
+        title: Formula 1
+        episode_title: British
+        episode_year: 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season12.jpg
+    sort_title: F1 12
+  Round 13 Hungary GP:
+    builder_level: episode
+    smart_filter:
+      all:
+        title: Formula 1
+        episode_title: Hungary
+        episode_year: 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season13.jpg
+    sort_title: F1 13
