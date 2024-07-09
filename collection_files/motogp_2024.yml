@@ -71,3 +71,12 @@ collections:
         episode_year: 2024
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R08.jpg
     sort_title: MotoGP 08
+  Round 09 Liqui Moly Motarrd Grand Prix Deutschland:
+    builder_level: episode
+    smart_filter:
+      all:
+        title: MotoGP
+        episode_title: Liqui Moly Motarrd Grand Prix Deutschland
+        episode_year: 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R09.jpg
+    sort_title: MotoGP 09 
