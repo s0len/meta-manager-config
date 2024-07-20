@@ -103,7 +103,7 @@ collections:
     smart_filter:
       all:
         title: Formula 1
-        episode_title: British
+        episode_title: Britain
         episode_year: 2024
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season12.jpg
     sort_title: F1 12
