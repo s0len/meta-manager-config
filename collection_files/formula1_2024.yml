@@ -116,3 +116,12 @@ collections:
         episode_year: 2024
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season13.jpg
     sort_title: F1 13
+  Round 13 Belgian GP:
+    builder_level: episode
+    smart_filter:
+      all:
+        title: Formula 1
+        episode_title: Belgium
+        episode_year: 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season14.jpg
+    sort_title: F1 14
