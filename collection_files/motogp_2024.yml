@@ -80,3 +80,12 @@ collections:
         episode_year: 2024
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R09.jpg
     sort_title: MotoGP 09 
+  Round 10 Grand Prix Deutschland:
+    builder_level: episode
+    smart_filter:
+      all:
+        title: MotoGP
+        episode_title: Grand Prix British
+        episode_year: 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R10.jpg
+    sort_title: MotoGP 10
