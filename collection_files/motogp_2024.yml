@@ -80,3 +80,12 @@ collections:
         episode_year: 2024
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R09.jpg
     sort_title: MotoGP 09 
+  Round 10 Monster Energy British Grand Prix:
+    builder_level: episode
+    smart_filter:
+      all:
+        title: MotoGP
+        episode_title: British
+        episode_year: 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R10.jpg
+    sort_title: MotoGP 10
