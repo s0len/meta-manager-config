@@ -116,7 +116,7 @@ collections:
         episode_year: 2024
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season13.jpg
     sort_title: F1 13
-  Round 13 Belgian GP:
+  Round 14 Belgian GP:
     builder_level: episode
     smart_filter:
       all:
@@ -125,3 +125,30 @@ collections:
         episode_year: 2024
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season14.jpg
     sort_title: F1 14
+  Round 15 Dutch GP:
+    builder_level: episode
+    smart_filter:
+      all:
+        title: Formula 1
+        episode_title: Netherlands
+        episode_year: 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season15.jpg
+    sort_title: F1 15
+  Round 16 Italian GP:
+    builder_level: episode
+    smart_filter:
+      all:
+        title: Formula 1
+        episode_title: Italy
+        episode_year: 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season16.jpg
+    sort_title: F1 16
+  Round 17 Azerbaijan GP:
+    builder_level: episode
+    smart_filter:
+      all:
+        title: Formula 1
+        episode_title: Azerbaijan
+        episode_year: 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season17.jpg
+    sort_title: F1 17
