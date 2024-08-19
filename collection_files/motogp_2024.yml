@@ -89,3 +89,12 @@ collections:
         episode_year: 2024
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R10.jpg
     sort_title: MotoGP 10
+  Round 11 Motorrad Grand Prix von Osterreich:
+    builder_level: episode
+    smart_filter:
+      all:
+        title: MotoGP
+        episode_title: Osterreich
+        episode_year: 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R11.jpg
+    sort_title: MotoGP 11  
