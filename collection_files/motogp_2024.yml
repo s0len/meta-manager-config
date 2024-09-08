@@ -107,3 +107,12 @@ collections:
         episode_year: 2024
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R12.jpg
     sort_title: MotoGP 12
+  Round 13 San Marino MotoGP:
+    builder_level: episode
+    smart_filter:
+      all:
+        title: MotoGP
+        episode_title: San Marino
+        episode_year: 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R13.jpg
+    sort_title: MotoGP 13
