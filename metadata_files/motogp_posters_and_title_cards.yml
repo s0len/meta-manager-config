@@ -86,6 +86,30 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R10_SPRINT.jpg
           249:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R10_RACE.jpg
+          260:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R11_QUAL.jpg
+          261:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R11_QUAL.jpg
+          266:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R11_SPRINT.jpg
+          270:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R11_RACE.jpg
+          280:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R12_QUAL.jpg
+          281:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R12_QUAL.jpg
+          286:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R12_SPRINT.jpg
+          290:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R12_RACE.jpg 
+          300:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R13_QUAL.jpg
+          301:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R13_QUAL.jpg
+          306:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R13_SPRINT.jpg
+          310:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R13_RACE.jpg  
       2023:
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/poster.jpg
         url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2023/background.jpg
