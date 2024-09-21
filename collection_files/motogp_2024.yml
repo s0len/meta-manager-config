@@ -116,3 +116,12 @@ collections:
         episode_year: 2024
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R13.jpg
     sort_title: MotoGP 13
+  Round 14 Emilia-Romagna MotoGP:
+    builder_level: episode
+    smart_filter:
+      all:
+        title: MotoGP
+        episode_title: Emilia-Romagna
+        episode_year: 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R14.jpg
+    sort_title: MotoGP 14
