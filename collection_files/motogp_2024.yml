@@ -125,3 +125,12 @@ collections:
         episode_year: 2024
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R14.jpg
     sort_title: MotoGP 14
+  Round 15 Indonesia MotoGP:
+    builder_level: episode
+    smart_filter:
+      all:
+        title: MotoGP
+        episode_title: Indonesia
+        episode_year: 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R15.jpg
+    sort_title: MotoGP 15
