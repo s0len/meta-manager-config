@@ -134,3 +134,12 @@ collections:
         episode_year: 2024
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R15.jpg
     sort_title: MotoGP 15
+  Round 16 Japan MotoGP:
+    builder_level: episode
+    smart_filter:
+      all:
+        title: MotoGP
+        episode_title: Japan
+        episode_year: 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R16.jpg
+    sort_title: MotoGP 16
