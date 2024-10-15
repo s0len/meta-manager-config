@@ -152,7 +152,7 @@ collections:
         episode_year: 2024
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season17.jpg
     sort_title: F1 17
-  Round 17 Singapore GP:
+  Round 18 Singapore GP:
     builder_level: episode
     smart_filter:
       all:
@@ -161,3 +161,12 @@ collections:
         episode_year: 2024
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season18.jpg
     sort_title: F1 18
+  Round 19 Austin GP:
+    builder_level: episode
+    smart_filter:
+      all:
+        title: Formula 1
+        episode_title: United States
+        episode_year: 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1_2024/Season19.jpg
+    sort_title: F1 19
