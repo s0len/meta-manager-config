@@ -10,8 +10,6 @@ collections:
       limit: 250
     summary: New releases added in the past three months. Sorted by Date Added.
     visible_library: true
-    visible_home: true
-    visible_shared: true
     sort_title: "!008_New_Releases"
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/new-releases/New_Movie_Releases.jpg
 
@@ -26,7 +24,5 @@ collections:
       limit: 250
     summary: Older releases added in the past month. Sorted by Date Added.
     visible_library: true
-    visible_home: true
-    visible_shared: true
     sort_title: "!009_Old_Movies_Just_Added"
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/new-releases/Old_Movies_Just_Added.jpg
