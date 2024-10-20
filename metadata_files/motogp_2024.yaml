@@ -2,6 +2,7 @@ metadata:
   Motogp 2024:
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/poster.jpg
     url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/background.jpg
+    summary: The 2024 FIM MotoGP World Championship is the premier class of the 76th Fédération Internationale de Motocyclisme (FIM) Road Racing World Championship season, the highest level of competition in motorcycle road racing. 
     seasons:
       1:
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R01.jpg
