@@ -180,13 +180,18 @@ metadata:
           4:        
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R16_RACE.jpg
       17:
+        title: Round 17 Australian GP
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R17.jpg
         episodes:
           1:
+            title: Qualifying One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R17_QUAL.jpg
-          2:        
+          2:
+            title: Qualifying Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R17_QUAL.jpg
           3:
+            title: Sprint
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R17_SPRINT.jpg
           4:
+            title: Race
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R17_RACE.jpg
