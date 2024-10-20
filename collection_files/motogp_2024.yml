@@ -143,3 +143,12 @@ collections:
         episode_year: 2024
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R16.jpg
     sort_title: MotoGP 16
+  Round 17 Australian MotoGP:
+    builder_level: episode
+    smart_filter:
+      all:
+        title: MotoGP
+        episode_title: Australian
+        episode_year: 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R17.jpg
+    sort_title: MotoGP 17
