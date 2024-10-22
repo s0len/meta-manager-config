@@ -9,7 +9,7 @@ metadata:
         sort_title: 1. V-Híd Rally Hungary
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/r1.jpg
         summary: The ERC V-Híd Rally Hungary is a thrilling and highly anticipated motorsport event in the heart of Europe. Nestled within the captivating landscapes of Hungary, the rally offers a challenging and diverse course that pushes drivers to their limits. The ERC V-Híd Rally Hungary not only celebrates the nation's rich motorsport heritage but also embodies the relentless pursuit of excellence and the sheer excitement of rallying.
-                episodes:
+        episodes:
           0:
             title: Qualifying
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/r1-stage.jpg
