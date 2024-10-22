@@ -1,10 +1,20 @@
 #!/bin/bash
 
-# Source directory where the files or subfolders are located
-SOURCE_DIR="/mnt/rust/data/torrents/sport"  # Replace with actual source directory
-DEST_DIR="/mnt/rust/data/media/motorsport/MotoGP 2024"  # Destination directory
+SEASON_YEAR="2024"
+SOURCE_DIR="/mnt/rust/data/torrents/sport/motor"  # Replace with actual source directory
+DEST_DIR="/mnt/rust/data/media/motorsport/MotoGP $SEASON_YEAR"  # Destination directory
 USER="apps"
 GROUP="apps"
+DRY_RUN=false
+
+# Parse command line arguments
+while [[ "$#" -gt 0 ]]; do
+    case $1 in
+        --dry-run) DRY_RUN=true ;;
+        *) echo "Unknown parameter passed: $1"; exit 1 ;;
+    esac
+    shift
+done
 
 # Function to zero-pad numbers
 pad_number() {
@@ -75,13 +85,18 @@ find "$SOURCE_DIR" -type f -name "*.mkv" | while read -r file; do
 
       # Check if the file already exists in the destination
       if [ ! -f "$destination_path" ]; then
-        # Create a hardlink to the file in the destination
-        ln "$file" "$destination_path"
-        
-        # Set the correct ownership
-        chown "$USER:$GROUP" "$destination_path"
-        
-        echo "Created hardlink and set ownership: $file -> $destination_path"
+        if [ "$DRY_RUN" = true ]; then
+          echo "[DRY RUN] Would create hardlink: $file -> $destination_path"
+          echo "[DRY RUN] Would set ownership to $USER:$GROUP for $destination_path"
+        else
+          # Create a hardlink to the file in the destination
+          ln "$file" "$destination_path"
+          
+          # Set the correct ownership
+          chown "$USER:$GROUP" "$destination_path"
+          
+          echo "Created hardlink and set ownership: $file -> $destination_path"
+        fi
       else
         echo "File already exists, skipping: $destination_path"
       fi
@@ -92,4 +107,8 @@ find "$SOURCE_DIR" -type f -name "*.mkv" | while read -r file; do
 done
 
 # Clean up any empty directories in the destination
-find "$DEST_DIR" -type d -empty -delete
+if [ "$DRY_RUN" = true ]; then
+  echo "[DRY RUN] Would clean up empty directories in $DEST_DIR"
+else
+  find "$DEST_DIR" -type d -empty -delete
+fi
