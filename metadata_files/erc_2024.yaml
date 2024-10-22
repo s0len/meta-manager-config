@@ -9,7 +9,10 @@ metadata:
         sort_title: 1. V-Híd Rally Hungary
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/r1.jpg
         summary: The ERC V-Híd Rally Hungary is a thrilling and highly anticipated motorsport event in the heart of Europe. Nestled within the captivating landscapes of Hungary, the rally offers a challenging and diverse course that pushes drivers to their limits. The ERC V-Híd Rally Hungary not only celebrates the nation's rich motorsport heritage but also embodies the relentless pursuit of excellence and the sheer excitement of rallying.
-        episodes:
+                episodes:
+          0:
+            title: Qualifying
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/r1-stage.jpg
           1:
             title: Stage 1
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/r1-stage.jpg
@@ -55,6 +58,9 @@ metadata:
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/r2.jpg
         summary: Rally Islas Canarias is a challenging event set in the beautiful Canary Islands. Known for its twisty tarmac roads and stunning coastal views, this rally tests drivers' skills on a unique island terrain.
         episodes:
+          0:
+            title: Qualifying
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/r1-stage.jpg
           1:
             title: Stage 1
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/r2-stage.jpg
@@ -100,6 +106,9 @@ metadata:
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/r3.jpg
         summary: The Royal Rally of Scandinavia brings the ERC to the picturesque landscapes of Northern Europe. This event is characterized by fast gravel roads winding through dense forests, offering a true test of speed and precision.
         episodes:
+          0:
+            title: Qualifying
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/r1-stage.jpg
           1:
             title: Stage 1
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/r3-stage.jpg
@@ -130,6 +139,9 @@ metadata:
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/r4.jpg
         summary: Rally Estonia is known for its high-speed gravel stages and spectacular jumps. Set in the beautiful Estonian countryside, this rally demands both bravery and precision from drivers.
         episodes:
+          0:
+            title: Qualifying
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/r1-stage.jpg
           1:
             title: Stage 1
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/r4-stage.jpg
@@ -163,6 +175,9 @@ metadata:
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/r5.jpg
         summary: Rally di Roma Capitale brings the ERC to the heart of Italy. This tarmac rally combines the challenge of narrow, twisty roads with the beauty of the Italian countryside and the historic backdrop of Rome.
         episodes:
+          0:
+            title: Qualifying
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/r1-stage.jpg
           1:
             title: Stage 1
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/r5-stage.jpg
@@ -208,6 +223,9 @@ metadata:
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/r6.jpg
         summary: Barum Czech Rally Zlín is a challenging tarmac rally set in the picturesque Moravian region of the Czech Republic. Known for its demanding stages and enthusiastic fans, this rally is a true test of driver skill and car performance.
         episodes:
+          0:
+            title: Qualifying
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/r1-stage.jpg
           1:
             title: Stage 1
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/r6-stage.jpg
@@ -259,6 +277,9 @@ metadata:
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/r7.jpg
         summary: ERC JDS Machinery Rali Ceredigion brings the championship to the stunning landscapes of Wales. This rally features challenging stages on both tarmac and gravel, showcasing the versatility required in modern rallying.
         episodes:
+          0:
+            title: Qualifying
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/r1-stage.jpg
           1:
             title: Stage 1
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/r7-stage.jpg
@@ -307,6 +328,9 @@ metadata:
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/r8.jpg
         summary: Rally Silesia takes the championship to the heart of Poland, featuring a mix of fast tarmac and challenging gravel stages.
         episodes:
+          0:
+            title: Qualifying
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/r1-stage.jpg
           1:
             title: Stage 1
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/r8-stage.jpg
