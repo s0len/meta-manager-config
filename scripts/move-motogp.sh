@@ -69,20 +69,19 @@ find "$SOURCE_DIR" -type f -name "*.mkv" | while read -r file; do
       # Create the season directory if it doesn't exist
       mkdir -p "$season_dir"
 
-
       # Prepare the destination filename and path
       new_filename="$(pad_number "$round")x$(pad_number "$episode_number") $session_name.mkv"
       destination_path="$season_dir/$new_filename"
 
       # Check if the file already exists in the destination
       if [ ! -f "$destination_path" ]; then
-        # Copy the file to the destination
-        cp "$file" "$destination_path"
+        # Create a hardlink to the file in the destination
+        ln "$file" "$destination_path"
         
         # Set the correct ownership
         chown "$USER:$GROUP" "$destination_path"
         
-        echo "Copied and set ownership: $file -> $destination_path"
+        echo "Created hardlink and set ownership: $file -> $destination_path"
       else
         echo "File already exists, skipping: $destination_path"
       fi
