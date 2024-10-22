@@ -1,0 +1,252 @@
+metadata:
+  ERC 2024:
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/background.jpg
+    summary: The 2024 European Rally Championship is the 72nd season of the FIA European Rally Championship, the European continental championship series in rallying. The season is also the eleventh following the merge between the European Rally Championship and the Intercontinental Rally Challenge. Hayden Paddon is the defending drivers champion. 
+    seasons:
+      1:
+        title: V-Híd Rally Hungary
+        sort_title: 1. V-Híd Rally Hungary
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/R01.jpg
+        summary: The ERC V-Híd Rally Hungary is a thrilling and highly anticipated motorsport event in the heart of Europe. Nestled within the captivating landscapes of Hungary, the rally offers a challenging and diverse course that pushes drivers to their limits. The ERC V-Híd Rally Hungary not only celebrates the nation's rich motorsport heritage but also embodies the relentless pursuit of excellence and the sheer excitement of rallying.
+        episodes:
+          1:
+            title: Stage 1
+          2:
+            title: Stage 2
+          3:
+            title: Stage 3
+          4:
+            title: Stage 4
+          5:
+            title: Stage 5
+          6:
+            title: Stage 6
+          7:
+            title: Stage 7
+          8:
+            title: Stage 8
+          9:
+            title: Stage 9
+          10:
+            title: Stage 10
+          11:
+            title: Stage 11
+          12:
+            title: Stage 12
+          13:
+            title: Stage 13
+      2:
+        title: Rally Islas Canarias
+        sort_title: 2. Rally Islas Canarias
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/R02.jpg
+        summary: Rally Islas Canarias is a challenging event set in the beautiful Canary Islands. Known for its twisty tarmac roads and stunning coastal views, this rally tests drivers' skills on a unique island terrain.
+        episodes:
+          1:
+            title: Stage 1
+          2:
+            title: Stage 2
+          3:
+            title: Stage 3
+          4:
+            title: Stage 4
+          5:
+            title: Stage 5
+          6:
+            title: Stage 6
+          7:
+            title: Stage 7
+          8:
+            title: Stage 8
+          9:
+            title: Stage 9
+          10:
+            title: Stage 10
+          11:
+            title: Stage 11
+          12:
+            title: Stage 12
+          13:
+            title: Stage 13
+      3:
+        title: Royal Rally of Scandinavia
+        sort_title: 3. Royal Rally of Scandinavia
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/R03.jpg
+        summary: The Royal Rally of Scandinavia brings the ERC to the picturesque landscapes of Northern Europe. This event is characterized by fast gravel roads winding through dense forests, offering a true test of speed and precision.
+        episodes:
+          1:
+            title: Stage 1
+          2:
+            title: Stage 2
+          3:
+            title: Stage 3
+          4:
+            title: Stage 4
+          5:
+            title: Stage 5
+          6:
+            title: Stage 6
+          7:
+            title: Stage 7
+          8:
+            title: Stage 8
+      4:
+        title: Rally Estonia
+        sort_title: 4. Rally Estonia
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/R04.jpg
+        summary: Rally Estonia is known for its high-speed gravel stages and spectacular jumps. Set in the beautiful Estonian countryside, this rally demands both bravery and precision from drivers.
+        episodes:
+          1:
+            title: Stage 1
+          2:
+            title: Stage 2
+          3:
+            title: Stage 3
+          4:
+            title: Stage 4
+          5:
+            title: Stage 5
+          6:
+            title: Stage 6
+          7:
+            title: Stage 7
+          8:
+            title: Stage 8
+          9:
+            title: Stage 9
+      5:
+        title: Rally di Roma Capitale
+        sort_title: 5. Rally di Roma Capitale
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/R05.jpg
+        summary: Rally di Roma Capitale brings the ERC to the heart of Italy. This tarmac rally combines the challenge of narrow, twisty roads with the beauty of the Italian countryside and the historic backdrop of Rome.
+        episodes:
+          1:
+            title: Stage 1
+          2:
+            title: Stage 2
+          3:
+            title: Stage 3
+          4:
+            title: Stage 4
+          5:
+            title: Stage 5
+          6:
+            title: Stage 6
+          7:
+            title: Stage 7
+          8:
+            title: Stage 8
+          9:
+            title: Stage 9
+          10:
+            title: Stage 10
+          11:
+            title: Stage 11
+          12:
+            title: Stage 12
+          13:
+            title: Stage 13
+      6:
+        title: Barum Czech Rally Zlín
+        sort_title: 6. Barum Czech Rally Zlín
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/R06.jpg
+        summary: Barum Czech Rally Zlín is a challenging tarmac rally set in the picturesque Moravian region of the Czech Republic. Known for its demanding stages and enthusiastic fans, this rally is a true test of driver skill and car performance.
+        episodes:
+          1:
+            title: Stage 1
+          2:
+            title: Stage 2
+          3:
+            title: Stage 3
+          4:
+            title: Stage 4
+          5:
+            title: Stage 5
+          6:
+            title: Stage 6
+          7:
+            title: Stage 7
+          8:
+            title: Stage 8
+          9:
+            title: Stage 9
+          10:
+            title: Stage 10
+          11:
+            title: Stage 11
+          12:
+            title: Stage 12
+          13:
+            title: Stage 13
+          14:
+            title: Stage 14
+          15:
+            title: Stage 15
+      7:
+        title: ERC JDS Machinery Rali Ceredigion
+        sort_title: 7. ERC JDS Machinery Rali Ceredigion
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/R07.jpg
+        summary: ERC JDS Machinery Rali Ceredigion brings the championship to the stunning landscapes of Wales. This rally features challenging stages on both tarmac and gravel, showcasing the versatility required in modern rallying.
+        episodes:
+          1:
+            title: Stage 1
+          2:
+            title: Stage 2
+          3:
+            title: Stage 3
+          4:
+            title: Stage 4
+          5:
+            title: Stage 5
+          6:
+            title: Stage 6
+          7:
+            title: Stage 7
+          8:
+            title: Stage 8
+          9:
+            title: Stage 9
+          10:
+            title: Stage 10
+          11:
+            title: Stage 11
+          12:
+            title: Stage 12
+          13:
+            title: Stage 13
+          14:
+            title: Stage 14
+      8:
+        title: Rally Silesia
+        sort_title: 8. Rally Silesia
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/erc/2024/R08.jpg
+        summary: Rally Silesia takes the championship to the heart of Poland, featuring a mix of fast tarmac and challenging gravel stages.
+        episodes:
+          1:
+            title: Stage 1
+          2:
+            title: Stage 2
+          3:
+            title: Stage 3
+          4:
+            title: Stage 4
+          5:
+            title: Stage 5
+          6:
+            title: Stage 6
+          7:
+            title: Stage 7
+          8:
+            title: Stage 8
+          9:
+            title: Stage 9
+          10:
+            title: Stage 10
+          11:
+            title: Stage 11
+          12:
+            title: Stage 12
+          13:
+            title: Stage 13
+          14:
+            title: Stage 14
