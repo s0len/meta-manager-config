@@ -1,5 +1,11 @@
 #!/bin/bash
 
+################################################################################
+# Script to move files from a source directory to a destination directory
+# Author: solen
+# Works with WRC content with All Stages included in one directory
+################################################################################
+
 SEASON_YEAR="2024"
 SOURCE_DIR="/mnt/rust/data/torrents/sport/motor"  # Replace with the actual source directory
 DEST_DIR="/mnt/rust/data/media/motorsport/WRC $SEASON_YEAR"  # Destination directory
@@ -29,10 +35,13 @@ find "$SOURCE_DIR" -type f \( -name "*.mp4" -o -name "*.mkv" \) | while read -r 
   if [[ "$file" == *"WRC $SEASON_YEAR"* ]]; then
     if [[ -f "$file" ]]; then
       # Extract the round (e.g., "Round04"), rally name (e.g., "Rally Estonia"), and stage (e.g., "SS01" or "Qualifying")
-      if [[ "$file" =~ WRC\ $SEASON_YEAR\ (Round[0-9]+)\ Rally\ ([a-zA-Z\ ]+)\ (SS[0-9]+(-SS[0-9]+)?|Qualifying) ]]; then
+      if [[ "$file" =~ WRC\ $SEASON_YEAR\ (Round[0-9]+)\ (.+)\ (SS[0-9]+(-SS[0-9]+)?|Qualifying) ]]; then
         round="${BASH_REMATCH[1]}"
-        rally="${BASH_REMATCH[2]}"
+        full_rally_name="${BASH_REMATCH[2]}"
         stage="${BASH_REMATCH[3]}"  
+
+        # Extract just the rally name without extra information
+        rally=$(echo "$full_rally_name" | sed -E 's/ All Stages.*$//')
 
         # Set episode number
         if [[ "$stage" == "Qualifying" ]]; then
@@ -48,31 +57,23 @@ find "$SOURCE_DIR" -type f \( -name "*.mp4" -o -name "*.mkv" \) | while read -r 
         continue
       fi
 
-      # Convert rally name to lowercase for case-insensitive matching
-      rally_lower=$(echo "$rally" | tr '[:upper:]' '[:lower:]')
+      # Extract the round number and pad it to two digits
+      round_number=$(echo "$round" | sed 's/Round//')
+      padded_round_number=$(printf "%02d" "$round_number")
 
-      # Find the season directory (case-insensitive search) that contains the rally name
-      season_dir=$(find "$DEST_DIR" -type d -iname "*${rally_lower}*" -print -quit)
-
-      if [[ -z "$season_dir" ]]; then
-        # If the season directory does not exist, create it
-        season_number=$(echo "$round" | sed 's/Round//')
-        season_dir="$DEST_DIR/${season_number} $rally"
-        if [ "$DRY_RUN" = true ]; then
-          echo "[DRY RUN] Would create season directory: $season_dir"
-        else
-          mkdir -p "$season_dir"
-          echo "Created season directory: $season_dir"
-        fi
+      # Create the season directory
+      season_dir="$DEST_DIR/$padded_round_number $rally"
+      if [ "$DRY_RUN" = true ]; then
+        echo "[DRY RUN] Would create season directory: $season_dir"
       else
-        # Extract the season number (e.g., "08" from "08 Estonia")
-        season_number=$(basename "$season_dir" | cut -d ' ' -f 1)
+        mkdir -p "$season_dir"
+        echo "Created season directory: $season_dir"
       fi
 
       # Prepare the destination filename and path
       file_extension="${file##*.}"
-      new_filename="${season_number}x$(pad_number "$episode").${file_extension}"
-      destination_path="$season_dir/$new_filename"
+      new_filename="${padded_round_number}x$(pad_number "$episode").${file_extension}"
+      destination_path="$season_dir/$new_filename"  
 
       # Check if the file already exists in the destination
       if [ ! -f "$destination_path" ]; then
@@ -91,7 +92,7 @@ find "$SOURCE_DIR" -type f \( -name "*.mp4" -o -name "*.mkv" \) | while read -r 
         echo "File already exists, skipping: $destination_path"
       fi
     else
-      echo "Season directory for '$rally' not found, skipping file: $file"
+      echo "File not found, skipping: $file"
     fi
   else
     echo "Skipping unrelated file: $file"

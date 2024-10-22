@@ -1,9 +1,11 @@
 #!/bin/bash
+
 ################################################################################
 # Script to move files from a source directory to a destination directory
 # Author: solen
 # Works with ERC content with All Stages included in one directory
 ################################################################################
+
 # Source directory where the files are located
 SOURCE_DIR="/mnt/rust/data/torrents/sport/motor"    # Replace with the actual source directory
 DEST_DIR="/mnt/rust/data/media/motorsport/ERC 2024" # Destination directory
