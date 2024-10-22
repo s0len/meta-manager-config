@@ -1,11 +1,10 @@
 #!/bin/bash
 
-# Source directory where the files are located
+SEASON_YEAR="2024"
 SOURCE_DIR="/mnt/rust/data/torrents/sport/motor"  # Replace with the actual source directory
-DEST_DIR="/mnt/rust/data/media/motorsport/WRC 2024"  # Destination directory
+DEST_DIR="/mnt/rust/data/media/motorsport/WRC $SEASON_YEAR"  # Destination directory
 USER="apps"
 GROUP="apps"
-SEASON_YEAR="2024"
 DRY_RUN=false
 
 # Parse command line arguments
@@ -24,53 +23,75 @@ pad_number() {
   printf "%02d" "$number"
 }
 
-# Recursively search for all .mkv files in the source directory and its subdirectories
-find "$SOURCE_DIR" -type f -name "*.mkv" | while read -r file; do
-  # Check if the file path contains "wrc" to avoid touching unrelated files
-  if [[ "$file" == *"wrc"* ]]; then
+# Recursively search for all .mp4 and .mkv files in the source directory and its subdirectories
+find "$SOURCE_DIR" -type f \( -name "*.mp4" -o -name "*.mkv" \) | while read -r file; do
+  # Check if the file path contains "WRC 2024" to avoid touching unrelated files
+  if [[ "$file" == *"WRC $SEASON_YEAR"* ]]; then
     if [[ -f "$file" ]]; then
-      # Extract the season (e.g., "silesia") and episode number (e.g., "01")
-      if [[ "$file" =~ wrc\.fia\.european\.rally\.championship\.$SEASON_YEAR\.([a-zA-Z]+)\.ss([0-9]{2}) ]]; then
-        season="${BASH_REMATCH[1]}"
-        episode="${BASH_REMATCH[2]}"
+      # Extract the round (e.g., "Round04"), rally name (e.g., "Rally Estonia"), and stage (e.g., "SS01" or "Qualifying")
+      if [[ "$file" =~ WRC\ $SEASON_YEAR\ (Round[0-9]+)\ Rally\ ([a-zA-Z\ ]+)\ (SS[0-9]+(-SS[0-9]+)?|Qualifying) ]]; then
+        round="${BASH_REMATCH[1]}"
+        rally="${BASH_REMATCH[2]}"
+        stage="${BASH_REMATCH[3]}"  
+
+        # Set episode number
+        if [[ "$stage" == "Qualifying" ]]; then
+          episode="00"
+        elif [[ "$stage" =~ SS([0-9]+)-SS([0-9]+) ]]; then
+          # For combined stages, use the first stage number
+          episode="${BASH_REMATCH[1]}"
+        else
+          episode="${stage#SS}" # Remove "SS" prefix
+        fi
       else
-        echo "Unable to extract season and episode from filename: $file"
+        echo "Unable to extract round, rally, and stage from filename: $file"
         continue
       fi
 
-      # Convert season name to lowercase for case-insensitive matching
-      season_lower=$(echo "$season" | tr '[:upper:]' '[:lower:]')
+      # Convert rally name to lowercase for case-insensitive matching
+      rally_lower=$(echo "$rally" | tr '[:upper:]' '[:lower:]')
 
-      # Find the season directory (case-insensitive search) that contains the season name
-      season_dir=$(find "$DEST_DIR" -type d -iname "*${season_lower}*" -print -quit)
+      # Find the season directory (case-insensitive search) that contains the rally name
+      season_dir=$(find "$DEST_DIR" -type d -iname "*${rally_lower}*" -print -quit)
 
-      if [[ -n "$season_dir" ]]; then
-        # Extract the season number (e.g., "08" from "08 Silesia")
-        season_number=$(basename "$season_dir" | cut -d ' ' -f 1)
-
-        # Prepare the destination filename and path
-        new_filename="${season_number}x$(pad_number "$episode").mkv"
-        destination_path="$season_dir/$new_filename"
-
-        # Check if the file already exists in the destination
-        if [ ! -f "$destination_path" ]; then
-          if [ "$DRY_RUN" = true ]; then
-            echo "[DRY RUN] Would create hardlink: $file -> $destination_path"
-          else
-            # Create a hardlink to the file in the destination
-            ln "$file" "$destination_path"
-            
-            # Set the correct ownership
-            chown "$USER:$GROUP" "$destination_path"
-            
-            echo "Created hardlink and set ownership: $file -> $destination_path"
-          fi
+      if [[ -z "$season_dir" ]]; then
+        # If the season directory does not exist, create it
+        season_number=$(echo "$round" | sed 's/Round//')
+        season_dir="$DEST_DIR/${season_number} $rally"
+        if [ "$DRY_RUN" = true ]; then
+          echo "[DRY RUN] Would create season directory: $season_dir"
         else
-          echo "File already exists, skipping: $destination_path"
+          mkdir -p "$season_dir"
+          echo "Created season directory: $season_dir"
         fi
       else
-        echo "Season directory for '$season' not found, skipping file: $file"
+        # Extract the season number (e.g., "08" from "08 Estonia")
+        season_number=$(basename "$season_dir" | cut -d ' ' -f 1)
       fi
+
+      # Prepare the destination filename and path
+      file_extension="${file##*.}"
+      new_filename="${season_number}x$(pad_number "$episode").${file_extension}"
+      destination_path="$season_dir/$new_filename"
+
+      # Check if the file already exists in the destination
+      if [ ! -f "$destination_path" ]; then
+        if [ "$DRY_RUN" = true ]; then
+          echo "[DRY RUN] Would create hardlink: $file -> $destination_path"
+        else
+          # Create a hardlink to the file in the destination
+          ln "$file" "$destination_path"
+          
+          # Set the correct ownership
+          chown "$USER:$GROUP" "$destination_path"
+          
+          echo "Created hardlink and set ownership: $file -> $destination_path"
+        fi
+      else
+        echo "File already exists, skipping: $destination_path"
+      fi
+    else
+      echo "Season directory for '$rally' not found, skipping file: $file"
     fi
   else
     echo "Skipping unrelated file: $file"

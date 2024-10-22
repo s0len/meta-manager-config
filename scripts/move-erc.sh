@@ -34,7 +34,7 @@ pad_number() {
 # Recursively search for all .mp4 files in the source directory and its subdirectories
 find "$SOURCE_DIR" -type f \( -name "*.mp4" -o -name "*.mkv" \) | while read -r file; do
     # Check if the file path contains "ERC 2024" to avoid touching unrelated files
-    if [[ "$file" == *"ERC 2024"* ]]; then
+    if [[ "$file" == *"ERC $SEASON_YEAR"* ]]; then
         if [[ -f "$file" ]]; then
             # Extract the round (e.g., "Round04"), rally name (e.g., "Rally Estonia"), and stage (e.g., "SS01" or "Qualifying")
             if [[ "$file" =~ ERC\ 2024\ (Round[0-9]+)\ Rally\ ([a-zA-Z\ ]+)\ (SS[0-9]+(-SS[0-9]+)?|Qualifying) ]]; then

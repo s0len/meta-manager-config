@@ -1,0 +1,846 @@
+metadata:
+  WRC 2024:
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/background.jpg
+    summary: The 2024 World Rally Championship is the 52nd season of the World Rally Championship, an auto racing championship recognized by the Fédération Internationale de l'Automobile (FIA) as the highest class of international rallying.
+    seasons:
+      1:
+        title: Rallye Automobile Monte Carlo
+        sort_title: 1. Rallye Automobile Monte Carlo
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r1.jpg
+        summary: The Monte Carlo Rally is the oldest and most prestigious event in the WRC calendar. Known for its challenging mix of tarmac and snow, often in the same stage, it's a true test of driver skill and tyre choice.
+        episodes:
+          0:
+            title: Qualifying
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r1-stage.jpg
+          1:
+            title: Stage 1
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r1-stage.jpg
+          2:
+            title: Stage 2
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r1-stage.jpg
+          3:
+            title: Stage 3
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r1-stage.jpg
+          4:
+            title: Stage 4
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r1-stage.jpg
+          5:
+            title: Stage 5
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r1-stage.jpg
+          6:
+            title: Stage 6
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r1-stage.jpg
+          7:
+            title: Stage 7
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r1-stage.jpg
+          8:
+            title: Stage 8
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r1-stage.jpg
+          9:
+            title: Stage 9
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r1-stage.jpg
+          10:
+            title: Stage 10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r1-stage.jpg
+          11:
+            title: Stage 11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r1-stage.jpg
+          12:
+            title: Stage 12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r1-stage.jpg
+          13:
+            title: Stage 13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r1-stage.jpg
+          14:
+            title: Stage 14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r1-stage.jpg
+          15:
+            title: Stage 15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r1-stage.jpg
+          16:
+            title: Stage 16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r1-stage.jpg
+          17:
+            title: Stage 17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r1-stage.jpg
+      2:
+        title: Rally Sweden
+        sort_title: 2. Rally Sweden
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r2.jpg
+        summary: Rally Sweden is the only full winter event in the WRC. Drivers race on snow and ice, using special studded tyres to find grip in these challenging conditions.
+        episodes:
+          0:
+            title: Qualifying
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r2-stage.jpg
+          1:
+            title: Stage 1
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r2-stage.jpg
+          2:
+            title: Stage 2
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r2-stage.jpg
+          3:
+            title: Stage 3
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r2-stage.jpg
+          4:
+            title: Stage 4
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r2-stage.jpg
+          5:
+            title: Stage 5
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r2-stage.jpg
+          6:
+            title: Stage 6
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r2-stage.jpg
+          7:
+            title: Stage 7
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r2-stage.jpg
+          8:
+            title: Stage 8
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r2-stage.jpg
+          9:
+            title: Stage 9
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r2-stage.jpg
+          10:
+            title: Stage 10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r2-stage.jpg
+          11:
+            title: Stage 11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r2-stage.jpg
+          12:
+            title: Stage 12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r2-stage.jpg
+          13:
+            title: Stage 13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r2-stage.jpg
+          14:
+            title: Stage 14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r2-stage.jpg
+          15:
+            title: Stage 15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r2-stage.jpg
+          16:
+            title: Stage 16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r2-stage.jpg
+          17:
+            title: Stage 17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r2-stage.jpg
+          18:
+            title: Stage 18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r2-stage.jpg
+      3:
+        title: Safari Rally Kenya
+        sort_title: 3. Safari Rally Kenya
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r3.jpg
+        summary: The Safari Rally is known for its grueling terrain and unpredictable weather. It's a true test of endurance for both car and crew, set against the backdrop of Kenya's stunning landscapes.
+        episodes:
+          0:
+            title: Qualifying
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r3-stage.jpg
+          1:
+            title: Stage 1
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r3-stage.jpg
+          2:
+            title: Stage 2
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r3-stage.jpg
+          3:
+            title: Stage 3
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r3-stage.jpg
+          4:
+            title: Stage 4
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r3-stage.jpg
+          5:
+            title: Stage 5
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r3-stage.jpg
+          6:
+            title: Stage 6
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r3-stage.jpg
+          7:
+            title: Stage 7
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r3-stage.jpg
+          8:
+            title: Stage 8
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r3-stage.jpg
+          9:
+            title: Stage 9
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r3-stage.jpg
+          10:
+            title: Stage 10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r3-stage.jpg
+          11:
+            title: Stage 11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r3-stage.jpg
+          12:
+            title: Stage 12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r3-stage.jpg
+          13:
+            title: Stage 13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r3-stage.jpg
+          14:
+            title: Stage 14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r3-stage.jpg
+          15:
+            title: Stage 15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r3-stage.jpg
+          16:
+            title: Stage 16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r3-stage.jpg
+          17:
+            title: Stage 17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r3-stage.jpg
+          18:
+            title: Stage 18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r3-stage.jpg
+          19:
+            title: Stage 19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r3-stage.jpg
+      4:
+        title: Croatia Rally
+        sort_title: 4. Croatia Rally
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r4.jpg
+        summary: The Croatia Rally is a tarmac event that challenges drivers with its narrow and twisty roads. The constantly changing grip levels add an extra layer of difficulty to this exciting rally.
+        episodes:
+          0:
+            title: Qualifying
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r4-stage.jpg
+          1:
+            title: Stage 1
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r4-stage.jpg
+          2:
+            title: Stage 2
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r4-stage.jpg
+          3:
+            title: Stage 3
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r4-stage.jpg
+          4:
+            title: Stage 4
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r4-stage.jpg
+          5:
+            title: Stage 5
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r4-stage.jpg
+          6:
+            title: Stage 6
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r4-stage.jpg
+          7:
+            title: Stage 7
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r4-stage.jpg
+          8:
+            title: Stage 8
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r4-stage.jpg
+          9:
+            title: Stage 9
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r4-stage.jpg
+          10:
+            title: Stage 10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r4-stage.jpg
+          11:
+            title: Stage 11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r4-stage.jpg
+          12:
+            title: Stage 12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r4-stage.jpg
+          13:
+            title: Stage 13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r4-stage.jpg
+          14:
+            title: Stage 14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r4-stage.jpg
+          15:
+            title: Stage 15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r4-stage.jpg
+          16:
+            title: Stage 16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r4-stage.jpg
+          17:
+            title: Stage 17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r4-stage.jpg
+          18:
+            title: Stage 18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r4-stage.jpg
+          19:
+            title: Stage 19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r4-stage.jpg
+          20:
+            title: Stage 20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r4-stage.jpg
+      5:
+        title: Rally de Portugal
+        sort_title: 5. Rally de Portugal
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5.jpg
+        summary: Rally de Portugal is a gravel event known for its challenging stages and passionate fans. The rally features a mix of fast open roads and technical mountain passes.
+        episodes:
+          0:
+            title: Qualifying
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5-stage.jpg
+          1:
+            title: Stage 1
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5-stage.jpg
+          2:
+            title: Stage 2
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5-stage.jpg
+          3:
+            title: Stage 3
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5-stage.jpg
+          4:
+            title: Stage 4
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5-stage.jpg
+          5:
+            title: Stage 5
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5-stage.jpg
+          6:
+            title: Stage 6
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5-stage.jpg
+          7:
+            title: Stage 7
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5-stage.jpg
+          8:
+            title: Stage 8
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5-stage.jpg
+          9:
+            title: Stage 9
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5-stage.jpg
+          10:
+            title: Stage 10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5-stage.jpg
+          11:
+            title: Stage 11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5-stage.jpg
+          12:
+            title: Stage 12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5-stage.jpg
+          13:
+            title: Stage 13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5-stage.jpg
+          14:
+            title: Stage 14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5-stage.jpg
+          15:
+            title: Stage 15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5-stage.jpg
+          16:
+            title: Stage 16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5-stage.jpg
+          17:
+            title: Stage 17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5-stage.jpg
+          18:
+            title: Stage 18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5-stage.jpg
+          19:
+            title: Stage 19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5-stage.jpg
+          20:
+            title: Stage 20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5-stage.jpg
+          21:
+            title: Stage 21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5-stage.jpg
+          22:
+            title: Stage 22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5-stage.jpg
+      6:
+        title: Rally Italia Sardegna
+        sort_title: 6. Rally Italia Sardegna
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r6.jpg
+        summary: Rally Italia Sardegna is a challenging gravel event held on the beautiful island of Sardinia. The rally is known for its narrow, twisty roads and high temperatures.
+        episodes:
+          0:
+            title: Qualifying
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r6-stage.jpg
+          1:
+            title: Stage 1
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r6-stage.jpg
+          2:
+            title: Stage 2
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r6-stage.jpg
+          3:
+            title: Stage 3
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r6-stage.jpg
+          4:
+            title: Stage 4
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r6-stage.jpg
+          5:
+            title: Stage 5
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r6-stage.jpg
+          6:
+            title: Stage 6
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r6-stage.jpg
+          7:
+            title: Stage 7
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r6-stage.jpg
+          8:
+            title: Stage 8
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r6-stage.jpg
+          9:
+            title: Stage 9
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r6-stage.jpg
+          10:
+            title: Stage 10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r6-stage.jpg
+          11:
+            title: Stage 11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r6-stage.jpg
+          12:
+            title: Stage 12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r6-stage.jpg
+          13:
+            title: Stage 13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r6-stage.jpg
+          14:
+            title: Stage 14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r6-stage.jpg
+          15:
+            title: Stage 15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r6-stage.jpg
+          16:
+            title: Stage 16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r6-stage.jpg
+      7:
+        title: Rally Poland
+        sort_title: 7. Rally Poland
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r7.jpg
+        summary: Rally Poland is a fast gravel event held in the Masurian lake district. The rally is known for its high-speed stages and spectacular jumps.
+        episodes:
+          0:
+            title: Qualifying
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r7-stage.jpg
+          1:
+            title: Stage 1
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r7-stage.jpg
+          2:
+            title: Stage 2
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r7-stage.jpg
+          3:
+            title: Stage 3
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r7-stage.jpg
+          4:
+            title: Stage 4
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r7-stage.jpg
+          5:
+            title: Stage 5
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r7-stage.jpg
+          6:
+            title: Stage 6
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r7-stage.jpg
+          7:
+            title: Stage 7
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r7-stage.jpg
+          8:
+            title: Stage 8
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r7-stage.jpg
+          9:
+            title: Stage 9
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r7-stage.jpg
+          10:
+            title: Stage 10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r7-stage.jpg
+          11:
+            title: Stage 11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r7-stage.jpg
+          12:
+            title: Stage 12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r7-stage.jpg
+          13:
+            title: Stage 13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r7-stage.jpg
+          14:
+            title: Stage 14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r7-stage.jpg
+          15:
+            title: Stage 15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r7-stage.jpg
+          16:
+            title: Stage 16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r7-stage.jpg
+          17:
+            title: Stage 17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r7-stage.jpg
+          18:
+            title: Stage 18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r7-stage.jpg
+          19:
+            title: Stage 19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r7-stage.jpg
+      8:
+        title: Rally Latvia
+        sort_title: 8. Rally Latvia
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r8.jpg
+        summary: Rally Latvia is a new addition to the WRC calendar, featuring fast and flowing gravel stages through the Baltic forests.
+        episodes:
+          0:
+            title: Qualifying
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r8-stage.jpg
+          1:
+            title: Stage 1
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r8-stage.jpg
+          2:
+            title: Stage 2
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r8-stage.jpg
+          3:
+            title: Stage 3
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r8-stage.jpg
+          4:
+            title: Stage 4
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r8-stage.jpg
+          5:
+            title: Stage 5
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r8-stage.jpg
+          6:
+            title: Stage 6
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r8-stage.jpg
+          7:
+            title: Stage 7
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r8-stage.jpg
+          8:
+            title: Stage 8
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r8-stage.jpg
+          9:
+            title: Stage 9
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r8-stage.jpg
+          10:
+            title: Stage 10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r8-stage.jpg
+          11:
+            title: Stage 11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r8-stage.jpg
+          12:
+            title: Stage 12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r8-stage.jpg
+          13:
+            title: Stage 13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r8-stage.jpg
+          14:
+            title: Stage 14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r8-stage.jpg
+          15:
+            title: Stage 15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r8-stage.jpg
+          16:
+            title: Stage 16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r8-stage.jpg
+          17:
+            title: Stage 17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r8-stage.jpg
+          18:
+            title: Stage 18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r8-stage.jpg
+          19:
+            title: Stage 19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r8-stage.jpg
+          20:
+            title: Stage 20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r8-stage.jpg
+      9:
+        title: Rally Finland
+        sort_title: 9. Rally Finland
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r9.jpg
+        summary: Rally Finland, known as the "Grand Prix of Rallying," is famous for its high-speed gravel stages and spectacular jumps through Finnish forests.
+        episodes:
+          0:
+            title: Qualifying
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r9-stage.jpg
+          1:
+            title: Stage 1
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r9-stage.jpg
+          2:
+            title: Stage 2
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r9-stage.jpg
+          3:
+            title: Stage 3
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r9-stage.jpg
+          4:
+            title: Stage 4
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r9-stage.jpg
+          5:
+            title: Stage 5
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r9-stage.jpg
+          6:
+            title: Stage 6
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r9-stage.jpg
+          7:
+            title: Stage 7
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r9-stage.jpg
+          8:
+            title: Stage 8
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r9-stage.jpg
+          9:
+            title: Stage 9
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r9-stage.jpg
+          10:
+            title: Stage 10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r9-stage.jpg
+          11:
+            title: Stage 11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r9-stage.jpg
+          12:
+            title: Stage 12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r9-stage.jpg
+          13:
+            title: Stage 13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r9-stage.jpg
+          14:
+            title: Stage 14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r9-stage.jpg
+          15:
+            title: Stage 15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r9-stage.jpg
+          16:
+            title: Stage 16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r9-stage.jpg
+          17:
+            title: Stage 17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r9-stage.jpg
+          18:
+            title: Stage 18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r9-stage.jpg
+          19:
+            title: Stage 19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r9-stage.jpg
+          20:
+            title: Stage 20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r9-stage.jpg
+      10:
+        title: Acropolis Rally Greece
+        sort_title: 10. Acropolis Rally Greece
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r10.jpg
+        summary: The Acropolis Rally, known as the "Rally of Gods," is one of the most iconic and challenging events in the WRC calendar, featuring rough gravel stages and high temperatures.
+        episodes:
+          0:
+            title: Qualifying
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r10-stage.jpg
+          1:
+            title: Stage 1
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r10-stage.jpg
+          2:
+            title: Stage 2
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r10-stage.jpg
+          3:
+            title: Stage 3
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r10-stage.jpg
+          4:
+            title: Stage 4
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r10-stage.jpg
+          5:
+            title: Stage 5
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r10-stage.jpg
+          6:
+            title: Stage 6
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r10-stage.jpg
+          7:
+            title: Stage 7
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r10-stage.jpg
+          8:
+            title: Stage 8
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r10-stage.jpg
+          9:
+            title: Stage 9
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r10-stage.jpg
+          10:
+            title: Stage 10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r10-stage.jpg
+          11:
+            title: Stage 11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r10-stage.jpg
+          12:
+            title: Stage 12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r10-stage.jpg
+          13:
+            title: Stage 13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r10-stage.jpg
+          14:
+            title: Stage 14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r10-stage.jpg
+          15:
+            title: Stage 15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r10-stage.jpg
+      11:
+        title: Rally Chile
+        sort_title: 11. Rally Chile
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r11.jpg
+        summary: Rally Chile brings the WRC to South America, featuring fast and technical gravel stages through the stunning Chilean countryside and forests.
+        episodes:
+          0:
+            title: Qualifying
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r11-stage.jpg
+          1:
+            title: Stage 1
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r11-stage.jpg
+          2:
+            title: Stage 2
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r11-stage.jpg
+          3:
+            title: Stage 3
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r11-stage.jpg
+          4:
+            title: Stage 4
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r11-stage.jpg
+          5:
+            title: Stage 5
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r11-stage.jpg
+          6:
+            title: Stage 6
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r11-stage.jpg
+          7:
+            title: Stage 7
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r11-stage.jpg
+          8:
+            title: Stage 8
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r11-stage.jpg
+          9:
+            title: Stage 9
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r11-stage.jpg
+          10:
+            title: Stage 10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r11-stage.jpg
+          11:
+            title: Stage 11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r11-stage.jpg
+          12:
+            title: Stage 12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r11-stage.jpg
+          13:
+            title: Stage 13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r11-stage.jpg
+          14:
+            title: Stage 14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r11-stage.jpg
+          15:
+            title: Stage 15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r11-stage.jpg
+          16:
+            title: Stage 16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r11-stage.jpg
+      12:
+        title: Central European Rally
+        sort_title: 12. Central European Rally
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r12.jpg
+        summary: The Central European Rally is a new addition to the WRC calendar, featuring tarmac stages across Germany, Austria, and the Czech Republic.
+        episodes:
+          0:
+            title: Qualifying
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r12-stage.jpg
+          1:
+            title: Stage 1
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r12-stage.jpg
+          2:
+            title: Stage 2
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r12-stage.jpg
+          3:
+            title: Stage 3
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r12-stage.jpg
+          4:
+            title: Stage 4
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r12-stage.jpg
+          5:
+            title: Stage 5
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r12-stage.jpg
+          6:
+            title: Stage 6
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r12-stage.jpg
+          7:
+            title: Stage 7
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r12-stage.jpg
+          8:
+            title: Stage 8
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r12-stage.jpg
+          9:
+            title: Stage 9
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r12-stage.jpg
+          10:
+            title: Stage 10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r12-stage.jpg
+          11:
+            title: Stage 11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r12-stage.jpg
+          12:
+            title: Stage 12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r12-stage.jpg
+          13:
+            title: Stage 13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r12-stage.jpg
+          14:
+            title: Stage 14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r12-stage.jpg
+          15:
+            title: Stage 15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r12-stage.jpg
+          16:
+            title: Stage 16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r12-stage.jpg
+          17:
+            title: Stage 17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r12-stage.jpg
+          18:
+            title: Stage 18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r12-stage.jpg
+      13:
+        title: Rally Japan
+        sort_title: 13. Rally Japan
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r13.jpg
+        summary: Rally Japan is the final event of the WRC season, taking place on the challenging tarmac roads of Aichi Prefecture. This technical rally features narrow, twisty stages that wind through the mountains and forests near Toyota City.
+        episodes:
+          0:
+            title: Qualifying
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r13-stage.jpg
+          1:
+            title: Stage 1
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r13-stage.jpg
+          2:
+            title: Stage 2
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r13-stage.jpg
+          3:
+            title: Stage 3
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r13-stage.jpg
+          4:
+            title: Stage 4
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r13-stage.jpg
+          5:
+            title: Stage 5
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r13-stage.jpg
+          6:
+            title: Stage 6
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r13-stage.jpg
+          7:
+            title: Stage 7
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r13-stage.jpg
+          8:
+            title: Stage 8
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r13-stage.jpg
+          9:
+            title: Stage 9
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r13-stage.jpg
+          10:
+            title: Stage 10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r13-stage.jpg
+          11:
+            title: Stage 11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r13-stage.jpg
+          12:
+            title: Stage 12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r13-stage.jpg
+          13:
+            title: Stage 13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r13-stage.jpg
+          14:
+            title: Stage 14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r13-stage.jpg
+          15:
+            title: Stage 15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r13-stage.jpg
+          16:
+            title: Stage 16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r13-stage.jpg
+          17:
+            title: Stage 17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r13-stage.jpg
+          18:
+            title: Stage 18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r13-stage.jpg
+          19:
+            title: Stage 19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r13-stage.jpg
+          20:
+            title: Stage 20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r13-stage.jpg
+          21:
+            title: Stage 21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r13-stage.jpg
