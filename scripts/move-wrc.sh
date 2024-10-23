@@ -89,7 +89,7 @@ find "$SOURCE_DIR" -type f \( -name "*.mp4" -o -name "*.mkv" \) | while read -r 
           ln "$file" "$destination_path"
           
           # Set the correct ownership
-          chown "$USER:$GROUP" "$destination_path"
+          chown -R "$USER:$GROUP" "$DEST_DIR"
           
           echo "Created hardlink and set ownership: $file -> $destination_path"
         fi
