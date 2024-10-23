@@ -34,8 +34,8 @@ find "$SOURCE_DIR" -type f \( -name "*.mp4" -o -name "*.mkv" \) | while read -r 
   # Check if the file path contains "WRC 2024" to avoid touching unrelated files
   if [[ "$file" == *"WRC $SEASON_YEAR"* ]]; then
     if [[ -f "$file" ]]; then
-      # Extract the round (e.g., "Round04"), rally name (e.g., "Rally Estonia"), and stage (e.g., "SS01" or "Qualifying")
-      if [[ "$file" =~ WRC\ $SEASON_YEAR\ (Round[0-9]+)\ (.+)\ (SS[0-9]+(-SS[0-9]+)?|Qualifying) ]]; then
+      # Extract the round (e.g., "Round04"), rally name (e.g., "Rally Estonia"), and stage (e.g., "SS01" or "Highlights")
+      if [[ "$file" =~ WRC\ $SEASON_YEAR\ (Round[0-9]+)\ (.+)\ (SS[0-9]+(-SS[0-9]+)?|Highlights) ]]; then
         round="${BASH_REMATCH[1]}"
         full_rally_name="${BASH_REMATCH[2]}"
         stage="${BASH_REMATCH[3]}"  
@@ -44,7 +44,7 @@ find "$SOURCE_DIR" -type f \( -name "*.mp4" -o -name "*.mkv" \) | while read -r 
         rally=$(echo "$full_rally_name" | sed -E 's/ All Stages.*$//')
 
         # Set episode number
-        if [[ "$stage" == "Qualifying" ]]; then
+        if [[ "$stage" == "Highlights" ]]; then
           episode="00"
         elif [[ "$stage" =~ SS([0-9]+)-SS([0-9]+) ]]; then
           # For combined stages, use the first stage number
