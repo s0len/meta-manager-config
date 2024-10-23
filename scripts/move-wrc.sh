@@ -24,27 +24,36 @@ done
 
 # Function to zero-pad episode numbers and treat them as base-10 (avoid octal)
 pad_number() {
-  # Strip any leading zeros before passing to printf
-  number=$(echo "$1" | sed 's/^0*//')
-  printf "%02d" "$number"
+  # Ensure the input is numeric before padding
+  if [[ "$1" =~ ^[0-9]+$ ]]; then
+    # Strip any leading zeros before passing to printf
+    number=$(echo "$1" | sed 's/^0*//')
+    printf "%02d" "$number"
+  else
+    echo "$1"  # Return the input as-is if it's not numeric
+  fi
 }
 
 # Recursively search for all .mp4 and .mkv files in the source directory and its subdirectories
 find "$SOURCE_DIR" -type f \( -name "*.mp4" -o -name "*.mkv" \) | while read -r file; do
   # Check if the file path contains "WRC 2024" to avoid touching unrelated files
-  if [[ "$file" == *"WRC $SEASON_YEAR"* ]]; then
+  if [[ "$file" =~ WRC[.\ ]$SEASON_YEAR ]]; then
     if [[ -f "$file" ]]; then
       # Extract the round (e.g., "Round04"), rally name (e.g., "Rally Estonia"), and stage (e.g., "SS01" or "Highlights")
-      if [[ "$file" =~ WRC\ $SEASON_YEAR\ (Round[0-9]+)\ (.+)\ (SS[0-9]+(-SS[0-9]+)?|Highlights) ]]; then
+      if [[ "$file" =~ WRC[.\ ]$SEASON_YEAR[.\ ](Round[0-9]+)[.\ ](.+?)[.\ ](SS[0-9]+(-SS[0-9]+)?|[Hh]ighlights|[Ee]vent\.[Hh]ighlights|Highlights) ]]; then
         round="${BASH_REMATCH[1]}"
         full_rally_name="${BASH_REMATCH[2]}"
         stage="${BASH_REMATCH[3]}"  
 
         # Extract just the rally name without extra information
-        rally=$(echo "$full_rally_name" | sed -E 's/ All Stages.*$//')
+        rally=$(echo "$full_rally_name" | sed -E 's/ All Stages.*$//' | sed -E 's/\.Event\.([Hh]ighlights).*$//' | tr '.' ' ')
+
+        # Extract the round number and pad it to two digits
+        round_number=$(echo "$round" | sed 's/Round//')
+        padded_round_number=$(printf "%02d" "${round_number#0}")
 
         # Set episode number
-        if [[ "$stage" == "Highlights" ]]; then
+        if [[ "$stage" =~ [Hh]ighlights|[Ee]vent\.[Hh]ighlights ]]; then
           episode="00"
         elif [[ "$stage" =~ SS([0-9]+)-SS([0-9]+) ]]; then
           # For combined stages, use the first stage number
@@ -56,10 +65,6 @@ find "$SOURCE_DIR" -type f \( -name "*.mp4" -o -name "*.mkv" \) | while read -r 
         echo "Unable to extract round, rally, and stage from filename: $file"
         continue
       fi
-
-      # Extract the round number and pad it to two digits
-      round_number=$(echo "$round" | sed 's/Round//')
-      padded_round_number=$(printf "%02d" "$round_number")
 
       # Create the season directory
       season_dir="$DEST_DIR/$padded_round_number $rally"
