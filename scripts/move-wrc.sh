@@ -54,7 +54,7 @@ find "$SOURCE_DIR" -type f \( -name "*.mp4" -o -name "*.mkv" \) | while read -r 
 
         # Set episode number
         if [[ "$stage" =~ [Hh]ighlights|[Ee]vent\.[Hh]ighlights ]]; then
-          episode="00"
+          episode="22"
         elif [[ "$stage" =~ SS([0-9]+)-SS([0-9]+) ]]; then
           # For combined stages, use the first stage number
           episode="${BASH_REMATCH[1]}"
