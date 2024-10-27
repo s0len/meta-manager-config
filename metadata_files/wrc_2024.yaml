@@ -64,7 +64,7 @@ metadata:
             title: Event Highlights
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r1-stage.jpg
       2:
-        title: 2. Rally Sweden
+        title: Rally Sweden
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r2.jpg
         summary: Rally Sweden is the only full winter event in the WRC. Drivers race on snow and ice, using special studded tyres to find grip in these challenging conditions.
         episodes:
@@ -126,7 +126,7 @@ metadata:
             title: Event Highlights
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r2-stage.jpg
       3:
-        title: 3. Safari Rally Kenya
+        title: Safari Rally Kenya
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r3.jpg
         summary: The Safari Rally is known for its grueling terrain and unpredictable weather. It's a true test of endurance for both car and crew, set against the backdrop of Kenya's stunning landscapes.
         episodes:
