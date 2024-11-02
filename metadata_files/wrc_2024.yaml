@@ -6,7 +6,7 @@ metadata:
     seasons:
       1:
         title: Rallye Automobile Monte Carlo
-        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r1.jpg
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r1.jpeg
         summary: The Monte Carlo Rally is the oldest and most prestigious event in the WRC calendar. Known for its challenging mix of tarmac and snow, often in the same stage, it's a true test of driver skill and tyre choice.
         episodes:
           1:
@@ -65,7 +65,7 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r1-stage.jpg
       2:
         title: Rally Sweden
-        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r2.jpg
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r2.jpeg
         summary: Rally Sweden is the only full winter event in the WRC. Drivers race on snow and ice, using special studded tyres to find grip in these challenging conditions.
         episodes:
           1:
@@ -127,7 +127,7 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r2-stage.jpg
       3:
         title: Safari Rally Kenya
-        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r3.jpg
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r3.jpeg
         summary: The Safari Rally is known for its grueling terrain and unpredictable weather. It's a true test of endurance for both car and crew, set against the backdrop of Kenya's stunning landscapes.
         episodes:
           1:
@@ -192,7 +192,7 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r3-stage.jpg
       4:
         title: Croatia Rally
-        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r4.jpg
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r4.jpeg
         summary: The Croatia Rally is a tarmac event that challenges drivers with its narrow and twisty roads. The constantly changing grip levels add an extra layer of difficulty to this exciting rally.
         episodes:
           1:
@@ -260,7 +260,7 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r4-stage.jpg
       5:
         title: Rally de Portugal
-        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5.jpg
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5.jpeg
         summary: Rally de Portugal is a gravel event known for its challenging stages and passionate fans. The rally features a mix of fast open roads and technical mountain passes.
         episodes:
           1:
@@ -334,7 +334,7 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r5-stage.jpg
       6:
         title: Rally Italia Sardegna
-        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r6.jpg
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r6.jpeg
         summary: Rally Italia Sardegna is a challenging gravel event held on the beautiful island of Sardinia. The rally is known for its narrow, twisty roads and high temperatures.
         episodes:
           1:
@@ -390,7 +390,7 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r6-stage.jpg
       7:
         title: Rally Poland
-        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r7.jpg
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r7.jpeg
         summary: Rally Poland is a fast gravel event held in the Masurian lake district. The rally is known for its high-speed stages and spectacular jumps.
         episodes:
           1:
@@ -455,7 +455,7 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r7-stage.jpg
       8:
         title: Rally Latvia
-        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r8.jpg
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r8.jpeg
         summary: Rally Latvia is a new addition to the WRC calendar, featuring fast and flowing gravel stages through the Baltic forests.
         episodes:
           1:
@@ -523,7 +523,7 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r8-stage.jpg
       9:
         title: Rally Finland
-        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r9.jpg
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r9.jpeg
         summary: Rally Finland, known as the "Grand Prix of Rallying," is famous for its high-speed gravel stages and spectacular jumps through Finnish forests.
         episodes:
           1:
@@ -591,7 +591,7 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r9-stage.jpg
       10:
         title: Acropolis Rally Greece
-        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r10.jpg
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r10.jpeg
         summary: The Acropolis Rally, known as the "Rally of Gods," is one of the most iconic and challenging events in the WRC calendar, featuring rough gravel stages and high temperatures.
         episodes:
           1:
@@ -644,7 +644,7 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r10-stage.jpg
       11:
         title: Rally Chile
-        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r11.jpg
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r11.jpeg
         summary: Rally Chile brings the WRC to South America, featuring fast and technical gravel stages through the stunning Chilean countryside and forests.
         episodes:
           1:
@@ -700,7 +700,7 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r11-stage.jpg
       12:
         title: Central European Rally
-        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r12.jpg
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r12.jpeg
         summary: The Central European Rally is a new addition to the WRC calendar, featuring tarmac stages across Germany, Austria, and the Czech Republic.
         episodes:
           1:
@@ -762,7 +762,7 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r12-stage.jpg
       13:
         title: Rally Japan
-        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r13.jpg
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wrc/2024/r13.jpeg
         summary: Rally Japan is the final event of the WRC season, taking place on the challenging tarmac roads of Aichi Prefecture. This technical rally features narrow, twisty stages that wind through the mountains and forests near Toyota City.
         episodes:
           1:

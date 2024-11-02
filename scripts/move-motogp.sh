@@ -27,10 +27,23 @@ find "$SOURCE_DIR" -type f -name "*.mkv" | while read -r file; do
   if [[ "$file" == *"MotoGP"* ]]; then
     if [[ -f "$file" ]]; then
       # Extract the round number and country
-      if [[ "$file" =~ Round([0-9]+)\.([A-Za-z\.]+)\.(Free\.Practice|Qualifying|Sprint|Race) ]]; then
-        round="${BASH_REMATCH[1]}"
-        country=$(echo "${BASH_REMATCH[2]}" | tr '.' ' ')
-        event_type="${BASH_REMATCH[3]}"
+      if [[ "$file" =~ (Round([0-9]+)\.([A-Za-z\.]+)\.(Free\.Practice|Qualifying|Q1|Q2|Sprint|Race))|(Round[[:space:]]?([0-9]+)[[:space:]]([A-Za-z]+)[[:space:]](Free\.Practice|Qualifying|Q1|Q2|Sprint|Race)) ]]; then
+        # If it matches the first pattern (with dots)
+        if [[ -n "${BASH_REMATCH[1]}" ]]; then
+          round="${BASH_REMATCH[2]}"
+          country=$(echo "${BASH_REMATCH[3]}" | tr '.' ' ')
+          event_type="${BASH_REMATCH[4]}"
+        # If it matches the second pattern (with spaces)
+        else
+          round="${BASH_REMATCH[6]}"
+          country="${BASH_REMATCH[7]}"
+          event_type="${BASH_REMATCH[8]}"
+        fi
+
+        # Convert Q1/Q2 to Qualifying for consistency
+        if [[ "$event_type" == "Q1" || "$event_type" == "Q2" ]]; then
+          event_type="Qualifying"
+        fi
       else
         echo "Unable to extract round and country from filename: $file"
         continue
