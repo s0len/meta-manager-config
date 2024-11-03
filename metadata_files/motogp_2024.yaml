@@ -3,8 +3,8 @@ metadata:
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/poster.jpg
     url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/background.jpg
     title: MotoGP 2024
-    summary: The 2024 FIM MotoGP World Championship is the premier class of the 76th Fédération Internationale de Motocyclisme (FIM) Road Racing World Championship season, the highest level of competition 
-    in motorcycle road racing. 
+    summary: >
+      The 2024 FIM MotoGP World Championship is the premier class of the 76th Fédération Internationale de Motocyclisme (FIM) Road Racing World Championship season, the highest level of competition in motorcycle road racing.
     seasons:
       1:
         title: Round 01 Grand Prix of Qatar
@@ -33,8 +33,8 @@ metadata:
         title: Round 02 Grande Prémio de Portugal
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R02.jpg
         summary: The Algarve International Circuit, also known as Portimão, is a favorite for its undulating layout and thrilling elevation changes. 
-        This 4.6 km track in southern Portugal is both technically demanding and exciting for riders, with fast straights and blind crests. Since joining MotoGP in 2020, 
-        it has quickly become a beloved stop for its scenic backdrop and unpredictable weather.
+          This 4.6 km track in southern Portugal is both technically demanding and exciting for riders, with fast straights and blind crests. Since joining MotoGP in 2020, 
+          it has quickly become a beloved stop for its scenic backdrop and unpredictable weather.
         episodes:
           1:
             title: Practice One
@@ -58,8 +58,8 @@ metadata:
         title: Round 03 Grand Prix of The Americas
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R03.jpg
         summary: Located in Austin, Texas, the Circuit of the Americas is the only American track on the calendar. Opened in 2012, 
-        the 5.5 km circuit is known for its 20 turns, steep climb into turn 1, and an eclectic mix of fast sections and tight bends. 
-        Its complex layout and iconic American setting make it a unique and demanding race.
+          the 5.5 km circuit is known for its 20 turns, steep climb into turn 1, and an eclectic mix of fast sections and tight bends. 
+          Its complex layout and iconic American setting make it a unique and demanding race.
         episodes:
           1:
             title: Practice One
@@ -83,8 +83,8 @@ metadata:
         title: Round 04 Gran Premio de España
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R04.jpg
         summary: Jerez is a historic circuit deeply tied to MotoGP since 1987. This 4.4 km track in Andalusia is known for its flowing layout, 
-        tight corners, and enthusiastic Spanish fans. The circuit’s technical demands and picturesque location make it a classic venue and 
-        a favorite among riders and spectators alike.
+          tight corners, and enthusiastic Spanish fans. The circuit’s technical demands and picturesque location make it a classic venue and 
+          a favorite among riders and spectators alike.
         episodes:
           1:
             title: Practice One
@@ -108,8 +108,8 @@ metadata:
         title: Round 05 Grand Prix de France
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R05.jpg
         summary: The legendary Le Mans circuit, with a 4.2 km layout, has hosted MotoGP since 1969. Known for its tight turns and unpredictable 
-        May weather, the circuit challenges riders with its narrow layout and heavy braking zones. The fan turnout is immense, with French crowds 
-        showing passionate support year after year.
+          May weather, the circuit challenges riders with its narrow layout and heavy braking zones. The fan turnout is immense, with French crowds 
+          showing passionate support year after year.
         episodes:
           1:
             title: Practice One
@@ -133,7 +133,8 @@ metadata:
         title: Round 06 Gran Premi de Catalunya
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R06.jpg
         summary: The Circuit de Barcelona-Catalunya is a 4.6 km track that has been a MotoGP mainstay since 1992. Its mix of fast corners and 
-        a long main straight creates close racing, while the Catalan fans bring passionate energy to the event, making it a crucial stop in the season.
+          a long main straight creates close racing, while the Catalan fans bring passionate energy to the event, making it a crucial stop in the season.
+        episodes:
           1:
             title: Practice One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R06_PRACTICE.jpg
@@ -156,8 +157,8 @@ metadata:
         title: Round 07 Gran Premio d’Italia Brembo
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R07.jpg
         summary: Nestled in the Tuscan hills, Mugello is one of the fastest circuits on the calendar. This 5.2 km track boasts high-speed straights, 
-        elevation changes, and sweeping corners that test rider skill and bravery. Known for its passionate Italian fans, Mugello has been a MotoGP staple 
-        since 1976, offering breathtaking racing and atmosphere.
+          elevation changes, and sweeping corners that test rider skill and bravery. Known for its passionate Italian fans, Mugello has been a MotoGP staple 
+          since 1976, offering breathtaking racing and atmosphere.
         episodes:
           1:
             title: Practice One
@@ -181,8 +182,8 @@ metadata:
         title: Round 08 Motul TT Assen
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R08.jpg
         summary: Known as “The Cathedral of Speed,” Assen has been part of MotoGP since 1949. This 4.5 km circuit in the Netherlands features high-speed chicanes 
-        and tight corners, demanding intense focus from riders. Assen’s unique layout and enthusiastic Dutch fans make it one of the most cherished events on 
-        the calendar.
+          and tight corners, demanding intense focus from riders. Assen’s unique layout and enthusiastic Dutch fans make it one of the most cherished events on 
+          the calendar.
         episodes:
           1:
             title: Practice One
@@ -206,8 +207,8 @@ metadata:
         title: Round 09 Grand Prix Deutschland
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R09.jpg
         summary: The Sachsenring, a 3.7 km circuit in Hohenstein-Ernstthal, is one of the shortest but most technically challenging tracks. With 10 left-handers and 
-        a mix of tight turns, it tests riders’ cornering abilities. Known for its thrilling races and compact layout, Sachsenring has hosted MotoGP events since the 
-        late 1990s.
+          a mix of tight turns, it tests riders’ cornering abilities. Known for its thrilling races and compact layout, Sachsenring has hosted MotoGP events since the 
+          late 1990s.
         episodes:
           1:
             title: Practice One
@@ -231,8 +232,8 @@ metadata:
         title: Round 10 Monster Energy British Grand Prix
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R10.jpg
         summary: Silverstone, the longest track on the calendar at 5.9 km, combines high-speed straights with challenging technical sections. Known as the birthplace of 
-        British motorsport, Silverstone’s MotoGP events date back to the late 1970s. Its storied history and demanding layout make it a mid-season highlight for fans and 
-        riders alike.
+          British motorsport, Silverstone’s MotoGP events date back to the late 1970s. Its storied history and demanding layout make it a mid-season highlight for fans and 
+          riders alike.
         episodes:
           1:
             title: Practice One
@@ -256,7 +257,7 @@ metadata:
         title: Round 11 Motorrad Grand Prix von Österreich
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R11.jpg
         summary: Nestled in the Styrian mountains, the Red Bull Ring is a 4.3 km circuit famous for its long straights and hard-braking corners. Known for high speeds and 
-        stunning backdrops, Austria’s home track has been on the MotoGP calendar since 2016 and is known for intense racing and fan-favorite overtakes.
+          stunning backdrops, Austria’s home track has been on the MotoGP calendar since 2016 and is known for intense racing and fan-favorite overtakes.
         episodes:
           1:
             title: Practice One
@@ -280,9 +281,9 @@ metadata:
         title: Round 12 Gran Premio GoPro de Aragón
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R12.jpg
         summary: The MotorLand Aragón circuit, located in Alcañiz, Spain, joined the MotoGP calendar in 2010 and quickly became a favorite among riders and fans. The track 
-        features a mix of long straights, elevation changes, and challenging corners, offering ample overtaking opportunities. Its flowing design and technical sections require 
-        a perfect balance of speed and precision. Set against the stunning, arid landscape of Aragón, the circuit draws large crowds each year, adding a vibrant atmosphere to 
-        this unique stop on the MotoGP tour.
+          features a mix of long straights, elevation changes, and challenging corners, offering ample overtaking opportunities. Its flowing design and technical sections require 
+          a perfect balance of speed and precision. Set against the stunning, arid landscape of Aragón, the circuit draws large crowds each year, adding a vibrant atmosphere to 
+          this unique stop on the MotoGP tour.
         episodes:
           1:
             title: Practice One
@@ -306,7 +307,7 @@ metadata:
         title: Round 13 Gran Premio Red Bull di San Marino e della Riviera di Rimini
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R13.jpg
         summary: Misano, named in honor of the late Marco Simoncelli, offers a 4.2 km layout with tight corners and flowing turns. Located along the Adriatic coast, this circuit 
-        has hosted MotoGP since 1980 and is known for its warm atmosphere and challenging mix of bends.
+          has hosted MotoGP since 1980 and is known for its warm atmosphere and challenging mix of bends.
         episodes:
           1:
             title: Practice One
@@ -330,9 +331,9 @@ metadata:
         title: Round 14 Gran Premio Pramac dell’Emilia-Romagna
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R14.jpg
         summary: The Misano World Circuit Marco Simoncelli, host of the Emilia-Romagna Grand Prix, is nestled along Italys scenic Adriatic coast near Rimini. Originally opened in 1972, 
-        the track has been updated multiple times, evolving into a challenging and modern facility that draws large crowds for its passionate Italian fanbase. With its mix of fast straights, 
-        tight corners, and technical sections, the circuit demands precision and skill from riders. Named in honor of local racing hero Marco Simoncelli, the track exudes a lively, patriotic 
-        atmosphere, making it a memorable highlight in the MotoGP season.
+          the track has been updated multiple times, evolving into a challenging and modern facility that draws large crowds for its passionate Italian fanbase. With its mix of fast straights, 
+          tight corners, and technical sections, the circuit demands precision and skill from riders. Named in honor of local racing hero Marco Simoncelli, the track exudes a lively, patriotic 
+          atmosphere, making it a memorable highlight in the MotoGP season.
         episodes:
           1:
             title: Practice One
@@ -356,7 +357,7 @@ metadata:
         title: Round 15 Pertamina Grand Prix of Indonesia
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R15.jpg
         summary: Located on the scenic island of Lombok, the Mandalika circuit made its debut in 2021. This 4.3 km track combines beautiful scenery with a layout that challenges riders 
-        with tight turns and elevation changes. Mandalika has quickly become a fan-favorite venue.
+          with tight turns and elevation changes. Mandalika has quickly become a fan-favorite venue.
         episodes:
           1:
             title: Practice One
@@ -380,7 +381,7 @@ metadata:
         title: Round 16 Motul Grand Prix of Japan
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R16.jpg
         summary: Japan’s Motegi circuit, owned by Honda, is known for its technical layout. This 4.8 km track has hosted MotoGP since 1999 and features a mix of long straights and hairpin 
-        turns that test braking and acceleration. The fan turnout in Japan is enormous, making it a celebrated stop on the calendar.
+          turns that test braking and acceleration. The fan turnout in Japan is enormous, making it a celebrated stop on the calendar.
         episodes:
           1:
             title: Practice One
@@ -404,7 +405,7 @@ metadata:
         title: Round 17 Qatar Airways Australian Motorcycle Grand Prix
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R17.jpg
         summary: Phillip Island is an iconic MotoGP venue known for its breathtaking ocean views and high-speed layout. This 4.4 km circuit has hosted motorcycle racing since the 1930s and 
-        has been part of MotoGP since 1989. Its fast, flowing turns and stunning location make it a highlight of the season.
+          has been part of MotoGP since 1989. Its fast, flowing turns and stunning location make it a highlight of the season.
         episodes:
           1:
             title: Practice One
@@ -428,9 +429,9 @@ metadata:
         title: Round 18 PT Grand Prix of Thailand
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R18.jpg
         summary: The Chang International Circuit, located in Buriram, Thailand, joined the MotoGP calendar in 2018, quickly establishing itself as a fan favorite in Southeast Asia. Known for 
-        its mix of long straights and sharp corners, the circuit demands a balance of speed and technical skill from riders. Set against a lively atmosphere, the track’s unique design allows 
-        for close racing and overtaking opportunities, often resulting in thrilling battles. With sweltering tropical heat adding an extra 
-        layer of endurance challenges, the Thai GP has become a memorable annual highlight in the MotoGP season.
+          its mix of long straights and sharp corners, the circuit demands a balance of speed and technical skill from riders. Set against a lively atmosphere, the track’s unique design allows 
+          for close racing and overtaking opportunities, often resulting in thrilling battles. With sweltering tropical heat adding an extra 
+          layer of endurance challenges, the Thai GP has become a memorable annual highlight in the MotoGP season.
         episodes:
           1:
             title: Practice One
@@ -454,9 +455,9 @@ metadata:
         title: Round 19 PETRONAS Grand Prix of Malaysia
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp_2024/R19.jpg
         summary: The Sepang International Circuit, situated near Kuala Lumpur, Malaysia, is renowned for its challenging layout and tropical conditions. Opened in 1999, it was one of the first 
-        modern circuits designed by Hermann Tilke, stretching 5.543 km (3.44 miles) with 15 turns and two long straights ideal for high-speed action. The track demands both technical skill and 
-        endurance due to the intense heat and humidity, which add an extra layer of difficulty for riders. Known for its fast-paced races and unpredictable weather, Sepang remains a classic on the 
-        MotoGP calendar, drawing fans worldwide.
+          modern circuits designed by Hermann Tilke, stretching 5.543 km (3.44 miles) with 15 turns and two long straights ideal for high-speed action. The track demands both technical skill and 
+          endurance due to the intense heat and humidity, which add an extra layer of difficulty for riders. Known for its fast-paced races and unpredictable weather, Sepang remains a classic on the 
+          MotoGP calendar, drawing fans worldwide.
         episodes:
           1:
             title: Practice One
