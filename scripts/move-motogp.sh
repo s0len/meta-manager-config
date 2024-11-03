@@ -40,9 +40,11 @@ find "$SOURCE_DIR" -type f -name "*.mkv" | while read -r file; do
           event_type="${BASH_REMATCH[8]}"
         fi
 
-        # Convert Q1/Q2 to Qualifying for consistency
-        if [[ "$event_type" == "Q1" || "$event_type" == "Q2" ]]; then
-          event_type="Qualifying"
+        # Change Q1/Q2 to Qualifying 1/Qualifying 2 for specificity
+        if [[ "$event_type" == "Q1" ]]; then
+          event_type="Qualifying 1"
+        elif [[ "$event_type" == "Q2" ]]; then
+          event_type="Qualifying 2"
         fi
       else
         echo "Unable to extract round and country from filename: $file"
