@@ -48,6 +48,37 @@ MotoGP 2025/
 
 Continue this pattern for all 22 races in the 2025 season. The folder names should be simple (e.g., "01 Thailand") while the detailed race titles will come from the YAML metadata.
 
+<think>The image shows a Plex library settings screen for a library named "Motorsport". I'll analyze the key settings shown that would be relevant for setting up MotoGP content properly:
+
+1. **Scanner**: Set to "Plex Series Scanner" - This is correct for TV-style content like MotoGP where each race weekend is like a season and each session is like an episode.
+
+2. **Agent**: Set to "Personal Media Shows" - This appears to be the agent selected for metadata matching.
+
+3. **Visibility**: Set to "Include in home screen and global search" - This makes the MotoGP content visible on the main Plex interface.
+
+4. **Episode sorting**: Set to "Oldest first" - This ensures race weekends and sessions appear in chronological order (race 1 first, then race 2, etc.)
+
+5. **Enable video preview thumbnails**: This is checked, which will generate preview thumbnails for the MotoGP content.
+
+These settings align with what would be needed for properly organizing MotoGP content as described in the MotoGP.md document. I should explain why these settings are appropriate and if any additional settings might be needed for optimal operation with the metadata files.</think># Required Plex Settings for MotoGP Metadata
+
+Based on the screenshot, here are the recommended settings for your Motorsport library to work correctly with the MotoGP metadata:
+
+## Essential Settings for Plex Library
+
+- **Scanner**: "Plex Series Scanner" ✓
+  This scanner correctly interprets the SxxExx format used for MotoGP sessions.
+
+- **Agent**: "Personal Media Shows" ✓
+  This agent allows Kometa to apply the custom metadata from your YAML files.
+
+- **Episode sorting**: "Oldest first" ✓
+  Ensures races appear in chronological order throughout the season.
+
+- **Visibility**: "Include in home screen and global search" is recommended for easy access.
+
+![Plex library settings for sports](https://github.com/s0len/meta-manager-config/blob/main/images/correct-plex-libary-setting.png)
+
 ## Adding Metadata to Plex
 
 To add the MotoGP metadata to Plex, we use Kometa (a Plex metadata manager). Add this configuration to your Kometa config file:
