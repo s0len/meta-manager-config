@@ -16,11 +16,8 @@ This configuration provides comprehensive metadata for MotoGP seasons, including
 
 [Read the full MotoGP setup guide](docs/MotoGP.md) for detailed instructions on folder structure, naming conventions, and configuration.
 
-
 ![view of created collections and how they look](https://github.com/s0len/meta-manager-config/blob/main/images/motogp_view_of_collections.png)
 ![view of created title cards and how they look](https://github.com/s0len/meta-manager-config/blob/main/images/motogp_view_of_title_cards.png)
-![correct settings for plex library](https://github.com/s0len/meta-manager-config/blob/main/images/correct-plex-libary-setting.png)
-
 
 ## Movies
 
