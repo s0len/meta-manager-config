@@ -4,6 +4,24 @@ This is where you'll find all my config files related to Kometa. I've included a
 
 <a href="https://www.buymeacoffee.com/solen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
+## MotoGP Complete Metadata with Posters and Title Cards
+
+This configuration provides comprehensive metadata for MotoGP seasons, including high-quality posters and title cards for all race weekends and sessions. The 2025 season features 22 rounds with detailed information for each event.
+
+**Features:**
+- Season posters and backgrounds
+- Race weekend posters and summaries
+- Session-specific title cards
+- Complete structural metadata
+
+[Read the full MotoGP setup guide](docs/MotoGP.md) for detailed instructions on folder structure, naming conventions, and configuration.
+
+
+![view of created collections and how they look](https://github.com/s0len/meta-manager-config/blob/main/images/motogp_view_of_collections.png)
+![view of created title cards and how they look](https://github.com/s0len/meta-manager-config/blob/main/images/motogp_view_of_title_cards.png)
+![correct settings for plex library](https://github.com/s0len/meta-manager-config/blob/main/images/correct-plex-libary-setting.png)
+
+
 ## Movies
 
 Below you'll find the yaml config which then if used will generate the image below.
@@ -317,31 +335,6 @@ Perfect if you're using Sonarr to download sports and this one in particular is 
 
 ![view of created collections and how they look](https://github.com/s0len/meta-manager-config/blob/main/images/formula1_view_of_collections.png)
 ![view of created title cards and how they look](https://github.com/s0len/meta-manager-config/blob/main/images/formula1_view_of_title_cards.png)
-![correct settings for plex library](https://github.com/s0len/meta-manager-config/blob/main/images/correct-plex-libary-setting.png)
-
-## MotoGP Title Cards posters
-
-Perfect if you're using Sonarr to download sports and this one in particular is for MotoGP where we add nice title cards for each episode and also add them into a collection to separate all episodes by round. There are titlecards for Season 2022 through 2024.
-
-### Requirements
-
-- Sonarr with MotoGP added as a show
-- TrashGuides setup
-- Plex needs to use TVDB as the library Agent (selected inside Advanced under edit library)
-
-```yaml
-  Sports: # Your library name where your Sports shows from Sonarr is located
-    collection_files:
-    - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/motogp_2024.yml
-    metadata_files:
-    - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata_files/motogp_posters_and_title_cards.yml
-    operations:
-      assets_for_all: true
-    minimum_items: 1
-```
-
-![view of created collections and how they look](https://github.com/s0len/meta-manager-config/blob/main/images/motogp_view_of_collections.png)
-![view of created title cards and how they look](https://github.com/s0len/meta-manager-config/blob/main/images/motogp_view_of_title_cards.png)
 ![correct settings for plex library](https://github.com/s0len/meta-manager-config/blob/main/images/correct-plex-libary-setting.png)
 
 ## Formula 1 poster overlay (deprecated)
