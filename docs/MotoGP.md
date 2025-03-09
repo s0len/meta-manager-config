@@ -29,7 +29,7 @@ media/motorsport/
 
 ## Example for 2025 Season
 
-Based on the `motogp_2025.yaml` file, the correct folder structure for the first few races would be:
+Based on the `motogp-2025.yaml` file, the correct folder structure for the first few races would be:
 
 ```txt
 MotoGP 2025/
@@ -87,7 +87,7 @@ To add the MotoGP metadata to Plex, we use Kometa (a Plex metadata manager). Add
 libraries:
   Motorsport: # This is your Plex Library containing MotoGP
     metadata_files:
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata_files/motogp_2025.yaml
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata_files/motogp-2025.yaml
     operations:
       assets_for_all: true
 ```
@@ -99,7 +99,7 @@ This configuration:
 
 ## What the YAML Provides
 
-The `motogp_2025.yaml` file provides:
+The `motogp-2025.yaml` file provides:
 
 - **Season metadata**: Title, summary, poster, and background for the 2025 MotoGP season
 - **Race weekend metadata**: Title, summary, and poster for each of the 22 Grand Prix weekends
