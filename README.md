@@ -4,6 +4,21 @@ This is where you'll find all my config files related to Kometa. I've included a
 
 <a href="https://www.buymeacoffee.com/solen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
+## Formula 1 Complete Metadata with Posters and Title Cards
+
+This configuration provides comprehensive metadata for Formula 1 seasons, including high-quality posters and title cards for all race weekends and sessions. The 2025 season features 24 rounds with detailed information for each event.
+
+**Features:**
+- Season posters and backgrounds
+- Race weekend posters and summaries
+- Session-specific title cards
+- Complete structural metadata
+
+[Read the full Formula 1 setup guide](docs/Formula1.md) for detailed instructions on folder structure, naming conventions, and configuration.
+
+![view of created F1 collections](https://github.com/s0len/meta-manager-config/blob/main/images/f1-view-of-collections.png)
+![view of created F1 title cards](https://github.com/s0len/meta-manager-config/blob/main/images/f1-view-of-title-cards.png)
+
 ## MotoGP Complete Metadata with Posters and Title Cards
 
 This configuration provides comprehensive metadata for MotoGP seasons, including high-quality posters and title cards for all race weekends and sessions. The 2025 season features 22 rounds with detailed information for each event.
@@ -310,77 +325,3 @@ This is a bit of a workaround to fill up the missing network logos by first writ
 - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon_rotten.yml
 ```
 
-## Formula 1 Title Cards posters
-
-Perfect if you're using Sonarr to download sports and this one in particular is for Formula 1 where we add nice title cards for each episode and also add them into a collection to separate all episodes by round.
-
-### Requirements
-
-- Sonarr with Formula 1 added as a show
-- TrashGuides setup
-- Plex needs to use TVDB as the library Agent (selected inside Advanced under edit library)
-
-```yaml
-  Sports: # Your library name where your Sports shows from Sonarr is located
-    collection_files:
-    - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/formula1_2024.yml
-    metadata_files:
-    - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata_files/formula1_title_cards_2024.yml
-    operations:
-      assets_for_all: true
-```
-
-![view of created collections and how they look](https://github.com/s0len/meta-manager-config/blob/main/images/formula1_view_of_collections.png)
-![view of created title cards and how they look](https://github.com/s0len/meta-manager-config/blob/main/images/formula1_view_of_title_cards.png)
-![correct settings for plex library](https://github.com/s0len/meta-manager-config/blob/main/images/correct-plex-libary-setting.png)
-
-## Formula 1 poster overlay (deprecated)
-
-Complete config for Formula 1 with awesome posters. Be sure to read through the requirements.
-
-### Requirements
-
-First off you need to create a filesystem which mirrors the below example. The libary name does **not** have to be `Formula 1` but it needs to be standalone. This means in this library there will __only__ be formula 1 episodes. 
-The folder you mount to this libary has to contain the season you want to show. The config works for 2023 and 2024 currently so add two folders under your main folder (the one which is mapped to this libary). Then name the first folder `Formula1 2023` and the second `Formula1 2024` these names can __NOT__ be changed and need to be exactly this. 
-Under each of these folders you will then add a folder for each round. What's required is that the folder **has** to start with <<round_number>>. In the below example i also add the name if the round, just to make it easier to see which is helpful.
-Under each `round folder` you will place each media file (episode) you want to be able to watch. Each episode has to contain the following: `<<round_number>>x<<episode_number>> <<type_of_episode>>`
-`episode number` does not need to match something, it just has to match in chronological order which means episode 1 can not be Free Practise 2 if you're going to add Free Practise 1 as well.
-`type of episode` has to contain what type of episode this is. For example `FP1` or `Free Practise 1` are both good examples of valid types.
-
-```txt
-Formula 1                                  -> Library Folder
-└── Formula1 2023                           -> Folder for each F1 Season
-    └── 04 - Azerbaijan GP                -> Folder for each Race in a season
-        ├── 04x01 - Azerbaijan GP - Pre-Qualifying Buildup.mkv
-        ├── 04x02 - Azerbaijan GP - Qualifying Session.mkv
-        ├── 04x03 - Azerbaijan GP - Post-Qualifying Analysis.mkv
-        ├── 04x04 - Azerbaijan GP - Ted's Qualifying Notebook.mkv
-        ├── 04x05 - Azerbaijan GP - Pre-Sprint Shootout Buildup.mkv
-        ├── 04x06 - Azerbaijan GP - Sprint Shootout Session.mkv
-        ├── 04x07 - Azerbaijan GP - Post-Sprint Shootout Analysis.mkv
-        ├── 04x08 - Azerbaijan GP - Pre-Sprint Race Buildup.mkv
-        ├── 04x09 - Azerbaijan GP - Sprint Race Session.mkv
-        ├── 04x10 - Azerbaijan GP - Post-Sprint Race Analysis.mkv
-        ├── 04x11 - Azerbaijan GP - Ted's Sprint Notebook.mkv
-        ├── 04x12 - Azerbaijan GP - Pre-Race Buildup.mkv
-        ├── 04x13 - Azerbaijan GP - Race Session.mkv
-        ├── 04x14 - Azerbaijan GP - Post-Race Analysis.mkv
-        └── 04x15 - Azerbaijan GP - Ted's Race Notebook.mkv
-```
-
-After your filesystem is setup you also need to make sure that your Plex media agent is set to __PERSONAL__ as otherwise this will not work.
-<img width="732" alt="Screenshot 2024-03-22 at 17 20 57" src="https://github.com/s0len/meta-manager-config/assets/35483234/e15c2da0-7ada-4510-a337-4694b0ebc6e1">
-
-The last thing you need to do is to add the relevant yaml to your `config.yml` please se below example.
-
-### This is the yaml for your config.yml
-
-```yaml
-  Formula 1: # This is your Plex Library
-    metadata_files:
-    - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/formula1.yml
-    operations:
-      assets_for_all: true 
-```
-
-![Formula_1_poster_overlay](https://github.com/s0len/meta-manager-config/assets/35483234/ca747f2c-b529-4add-8a95-113c5cf84b25)
