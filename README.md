@@ -34,6 +34,23 @@ This configuration provides comprehensive metadata for MotoGP seasons, including
 ![view of created collections and how they look](https://github.com/s0len/meta-manager-config/blob/main/images/motogp-view-of-collections.png)
 ![view of created title cards and how they look](https://github.com/s0len/meta-manager-config/blob/main/images/motogp-view-of-title-cards.png)
 
+## UFC Complete Metadata with Posters and Title Cards
+
+This configuration provides comprehensive metadata for UFC events, including high-quality posters and title cards for all fight cards and sessions. The 2024-2025 schedule features major events with detailed information for each fight card.
+
+**Features:**
+- Event posters and backgrounds 
+- Session-specific title cards (Early Prelims, Prelims, Main Card)
+- Complete structural metadata
+- Fighter matchup details
+- Event summaries and results
+
+[Read the full UFC setup guide](docs/UFC.md) for detailed instructions on folder structure, naming conventions, and configuration.
+
+![view of created UFC collections](https://github.com/s0len/meta-manager-config/blob/main/images/ufc-view-of-collections.png)
+![view of created UFC title cards](https://github.com/s0len/meta-manager-config/blob/main/images/ufc-view-of-title-cards.png)
+
+
 ## Movies
 
 Below you'll find the yaml config which then if used will generate the image below.
