@@ -25,6 +25,7 @@ metadata:
       1:
         title: Australian Grand Prix
         sort_title: 01_Australian Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1-2025/r01.jpg
         summary: The Albert Park Circuit in Melbourne, Australia kicks off the 2025 Formula 1 season. This 5.3 km street circuit combines technical sections with fast straights, offering a challenging start to the championship. Set against the backdrop of Albert Park Lake, the track's mix of medium and high-speed corners tests both car setup and driver skill, while Melbourne's unpredictable autumn weather adds an extra element of excitement to the season opener.
         episodes:
           1:
