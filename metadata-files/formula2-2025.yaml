@@ -1,0 +1,321 @@
+metadata:
+  Formula 1 2025:
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2-2025/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2-2025/background.jpg
+    title: Formula 1 2025
+    summary: >
+      The 2025 FIA Formula One World Championship is the 76th running of the Formula One World Championship. This premier motorsport competition features 24 races across 21 countries, making it the longest season in F1 history. The championship showcases the world's most advanced racing technology and the planet's most skilled drivers competing for the prestigious Drivers' and Constructors' Championships.
+    seasons:
+      1:
+        title: Australian Grand Prix
+        sort_title: 01_Australian Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1-2025/r01.jpg
+        summary: The Albert Park Circuit in Melbourne, Australia kicks off the 2025 Formula 1 season. This 5.3 km street circuit combines technical sections with fast straights, offering a challenging start to the championship. Set against the backdrop of Albert Park Lake, the track's mix of medium and high-speed corners tests both car setup and driver skill, while Melbourne's unpredictable autumn weather adds an extra element of excitement to the season opener.
+        episodes:
+          1:
+            title: Free Practice
+          2:
+            title: Qualifying
+          3:
+            title: Sprint Race
+          4:
+            title: Feature Race
+      2:
+        title: Chinese Grand Prix
+        sort_title: 02_Chinese Grand Prix
+        summary: The Shanghai International Circuit hosts the Chinese Grand Prix, featuring a 5.4 km track designed by Hermann Tilke. Known for its unique layout that includes one of the longest straights in Formula 1 and the challenging turn 1-2-3 complex, Shanghai demands both technical precision and raw speed. The circuit's mix of slow corners, fast straights, and the distinctive "snail" section creates multiple overtaking opportunities and strategic options for teams.
+        episodes:
+          1:
+            title: Free Practice
+          2:
+            title: Qualifying
+          3:
+            title: Sprint Race
+          4:
+            title: Feature Race
+      3:
+        title: Japanese Grand Prix
+        sort_title: 03_Japanese Grand Prix
+        summary: The legendary Suzuka Circuit hosts the Japanese Grand Prix, featuring its iconic figure-eight layout. This 5.8 km track is considered one of the most challenging and technical circuits on the calendar, with the high-speed 130R and the demanding Spoon Curve testing driver courage and skill. Suzuka's combination of fast flowing sections and technical corners makes it a favorite among drivers and a true test of car performance, while its passionate fans create an electric atmosphere.
+        episodes:
+          1:
+            title: Free Practice
+          2:
+            title: Qualifying
+          3:
+            title: Sprint Race
+          4:
+            title: Feature Race
+      4:
+        title: Bahrain Grand Prix
+        sort_title: 04_Bahrain Grand Prix
+        summary: The Bahrain International Circuit in Sakhir hosts the fourth round of the championship. This 5.4 km desert track features long straights and heavy braking zones, creating multiple overtaking opportunities. Racing under floodlights, the circuit's abrasive surface and cooling desert temperatures in the evening present unique challenges for tire management and car setup, making strategic decisions crucial for success.
+        episodes:
+          1:
+            title: Free Practice
+          2:
+            title: Qualifying
+          3:
+            title: Sprint Race
+          4:
+            title: Feature Race
+      5:
+        title: Saudi Arabian Grand Prix
+        sort_title: 05_Saudi Arabian Grand Prix
+        summary: The Jeddah Corniche Circuit, one of the fastest street circuits in Formula 1, hosts the Saudi Arabian Grand Prix. This 6.1 km track features 27 corners and long full-throttle sections, with average speeds rivaling those of Monza. The high-speed, flowing layout with walls close to the track demands absolute precision and bravery from drivers, while the night-time setting under floodlights adds to the spectacle of this challenging event.
+        episodes:
+          1:
+            title: Free Practice
+          2:
+            title: Qualifying
+          3:
+            title: Sprint Race
+          4:
+            title: Feature Race
+      6:
+        title: Miami Grand Prix
+        sort_title: 06_Miami Grand Prix
+        summary: The Miami International Autodrome, set around the Hard Rock Stadium complex in Miami Gardens, Florida, hosts the sixth round of the championship. This 5.4 km circuit features 19 corners, three potential DRS zones, and a mix of technical sections and high-speed straights. The track's layout, with its long back straight and tight chicanes, creates opportunities for overtaking while testing both car and driver capabilities in the Florida heat.
+        episodes:
+          1:
+            title: Free Practice
+          2:
+            title: Qualifying
+          3:
+            title: Sprint Race
+          4:
+            title: Feature Race
+      7:
+        title: Emilia Romagna Grand Prix
+        sort_title: 07_Emilia Romagna Grand Prix
+        summary: The historic Imola Circuit hosts the Emilia Romagna Grand Prix, marking Formula 1's return to this classic European venue. This 4.9 km track, officially named Autodromo Internazionale Enzo e Dino Ferrari, features a mix of medium and high-speed corners with limited overtaking opportunities, placing emphasis on qualifying performance and strategy. The circuit's old-school character, with its narrow track and gravel traps, punishes mistakes and rewards precision driving.
+        episodes:
+          1:
+            title: Free Practice
+          2:
+            title: Qualifying
+          3:
+            title: Sprint Race
+          4:
+            title: Feature Race
+      8:
+        title: Monaco Grand Prix
+        sort_title: 08_Monaco Grand Prix
+        summary: The iconic Circuit de Monaco hosts Formula 1's most prestigious race, the Monaco Grand Prix. This 3.3 km street circuit through the streets of Monte Carlo is the shortest and slowest on the calendar, yet demands the highest precision and concentration from drivers. With its tight corners, narrow track, and no room for error, Monaco emphasizes driver skill and qualifying performance over race pace, creating a unique challenge where overtaking is nearly impossible and the smallest mistake can end a driver's race.
+        episodes:
+          1:
+            title: Free Practice
+          2:
+            title: Qualifying
+          3:
+            title: Sprint Race
+          4:
+            title: Feature Race
+      9:
+        title: Spanish Grand Prix
+        sort_title: 09_Spanish Grand Prix
+        summary: The Circuit de Barcelona-Catalunya hosts the Spanish Grand Prix, a track well-known to teams and drivers from pre-season testing. This 4.7 km circuit features a mix of high and low-speed corners, making it a comprehensive test of car performance. With its technical first sector, high-speed middle section, and slower final sector, Barcelona demands a well-balanced car and rewards aerodynamic efficiency, often providing insights into each team's overall competitiveness.
+        episodes:
+          1:
+            title: Free Practice
+          2:
+            title: Qualifying
+          3:
+            title: Sprint Race
+          4:
+            title: Feature Race
+      10:
+        title: Canadian Grand Prix
+        sort_title: 10_Canadian Grand Prix
+        summary: The Circuit Gilles Villeneuve in Montreal hosts the Canadian Grand Prix, a race known for its unpredictability and excitement. This 4.4 km circuit on the man-made Notre Dame Island features long straights connected by chicanes and hairpins, with the infamous "Wall of Champions" punishing any mistakes at the final chicane. The track's stop-start nature tests braking systems and traction, while its close walls and changing weather conditions often lead to safety cars and dramatic race developments.
+        episodes:
+          1:
+            title: Free Practice
+          2:
+            title: Qualifying
+          3:
+            title: Sprint Race
+          4:
+            title: Feature Race
+      11:
+        title: Austrian Grand Prix
+        sort_title: 11_Austrian Grand Prix
+        summary: The Red Bull Ring in Spielberg hosts the Austrian Grand Prix, set against the picturesque backdrop of the Styrian mountains. This 4.3 km circuit is one of the shortest on the calendar but features just 10 corners and significant elevation changes. The track's layout, with three long straights and heavy braking zones, creates excellent overtaking opportunities and often produces exciting racing, while its relatively short lap time means qualifying sessions are intensely competitive with tiny margins separating the field.
+        episodes:
+          1:
+            title: Free Practice
+          2:
+            title: Qualifying
+          3:
+            title: Sprint Race
+          4:
+            title: Feature Race
+      12:
+        title: British Grand Prix
+        sort_title: 12_British Grand Prix
+        summary: The historic Silverstone Circuit hosts the British Grand Prix, one of the original races from Formula 1's inaugural 1950 season. This 5.9 km track features a series of high-speed corners like Copse, Maggotts, and Becketts that challenge drivers and showcase Formula 1 cars' aerodynamic capabilities. Silverstone's fast, flowing nature makes it a driver favorite, while its unpredictable British summer weather and passionate fans create an electric atmosphere at this cornerstone event of the championship.
+        episodes:
+          1:
+            title: Free Practice
+          2:
+            title: Qualifying
+          3:
+            title: Sprint Race
+          4:
+            title: Feature Race
+      13:
+        title: Belgian Grand Prix
+        sort_title: 13_Belgian Grand Prix
+        summary: The legendary Circuit de Spa-Francorchamps hosts the Belgian Grand Prix, featuring one of the most challenging and beloved tracks in motorsport. This 7.0 km circuit, the longest on the calendar, winds through the Ardennes forest with dramatic elevation changes and iconic corners like Eau Rouge and Blanchimont. Spa's microclimate often means different parts of the track can be wet while others remain dry, adding strategic complexity, while its high-speed nature and unpredictable weather create some of Formula 1's most memorable races.
+        episodes:
+          1:
+            title: Free Practice
+          2:
+            title: Qualifying
+          3:
+            title: Sprint Race
+          4:
+            title: Feature Race
+      14:
+        title: Hungarian Grand Prix
+        sort_title: 14_Hungarian Grand Prix
+        summary: The Hungaroring near Budapest hosts the Hungarian Grand Prix, often one of the hottest races of the season. This 4.4 km circuit features a series of medium-speed corners with few straights, making overtaking challenging and placing emphasis on qualifying position and strategy. The track's tight, twisty nature has earned it the nickname "Monaco without the walls," while its dusty surface off the racing line and high summer temperatures create a physically demanding race that tests both drivers and cooling systems.
+        episodes:
+          1:
+            title: Free Practice
+          2:
+            title: Qualifying
+          3:
+            title: Sprint Race
+          4:
+            title: Feature Race
+      15:
+        title: Dutch Grand Prix
+        sort_title: 15_Dutch Grand Prix
+        summary: Circuit Zandvoort hosts the Dutch Grand Prix, featuring its unique banked corners and challenging layout. This 4.3 km track, nestled in the sand dunes near the North Sea coast, combines technical sections with the spectacular banked Hugenholtz and Arie Luyendyk corners. The circuit's narrow width and flowing nature make overtaking difficult and mistakes costly, while the passionate Dutch fans create an electric atmosphere as Formula 1 returns from its summer break.
+        episodes:
+          1:
+            title: Free Practice
+          2:
+            title: Qualifying
+          3:
+            title: Sprint Race
+          4:
+            title: Feature Race
+      16:
+        title: Italian Grand Prix
+        sort_title: 16_Italian Grand Prix
+        summary: The historic Monza Circuit hosts the Italian Grand Prix, Formula 1's temple of speed. This 5.8 km track features long straights and fast corners that produce the highest average speeds of the season, testing engine power and low-downforce aerodynamic efficiency. Monza's rich history dates back to 1922, and its passionate Tifosi create an unmatched atmosphere, particularly for Ferrari. The circuit's high-speed nature, with heavy braking zones into chicanes, creates excellent overtaking opportunities and often produces thrilling slipstreaming battles.
+        episodes:
+          1:
+            title: Free Practice
+          2:
+            title: Qualifying
+          3:
+            title: Sprint Race
+          4:
+            title: Feature Race
+      17:
+        title: Azerbaijan Grand Prix
+        sort_title: 17_Azerbaijan Grand Prix
+        summary: The Baku City Circuit hosts the Azerbaijan Grand Prix, combining the narrowest section on the F1 calendar with one of the longest straights. This 6.0 km street circuit features a unique layout that winds through the historic city center, with its ultra-narrow uphill castle section contrasting with the 2.2 km full-throttle run along the promenade. Baku's combination of technical sections and high-speed straights creates a challenging setup compromise, while its walls punish the smallest mistakes, often leading to safety cars and unpredictable race outcomes.
+        episodes:
+          1:
+            title: Free Practice
+          2:
+            title: Qualifying
+          3:
+            title: Sprint Race
+          4:
+            title: Feature Race
+      18:
+        title: Singapore Grand Prix
+        sort_title: 18_Singapore Grand Prix
+        summary: The Marina Bay Street Circuit hosts the Singapore Grand Prix, Formula 1's original night race. This 5.0 km street circuit winds through the heart of Singapore, featuring 23 corners and running under spectacular floodlights. The race presents unique challenges with its bumpy surface, humid conditions, and physical demands, as drivers endure temperatures over 30°C for nearly two hours. Singapore's tight corners and close barriers punish mistakes, while the difficulty of overtaking places emphasis on qualifying and strategy in this grueling test of endurance.
+        episodes:
+          1:
+            title: Free Practice
+          2:
+            title: Qualifying
+          3:
+            title: Sprint Race
+          4:
+            title: Feature Race
+      19:
+        title: United States Grand Prix
+        sort_title: 19_United States Grand Prix
+        summary: The Circuit of the Americas in Austin, Texas hosts the United States Grand Prix. This 5.5 km track, designed by Hermann Tilke, features significant elevation changes, including a dramatic uphill run to the first corner. COTA's layout draws inspiration from classic circuits, with sections reminiscent of Silverstone's Maggotts-Becketts complex and Hockenheim's stadium section. The circuit's varied nature, with its combination of high-speed sweeps, technical sections, and long back straight, creates multiple overtaking opportunities and rewards a well-balanced car.
+        episodes:
+          1:
+            title: Free Practice
+          2:
+            title: Qualifying
+          3:
+            title: Sprint Race
+          4:
+            title: Feature Race
+      20:
+        title: Mexico City Grand Prix
+        sort_title: 20_Mexico City Grand Prix
+        summary: The Autódromo Hermanos Rodríguez hosts the Mexico City Grand Prix, featuring a unique challenge due to its high altitude of 2,240 meters above sea level. This 4.3 km circuit's thin air reduces aerodynamic and cooling efficiency, while increasing the importance of mechanical grip. The track combines a mix of slow technical sections with a 1.2 km straight, and features the unique stadium section where cars pass through the former baseball stadium filled with passionate Mexican fans, creating one of the most atmospheric venues on the calendar.
+        episodes:
+          1:
+            title: Free Practice
+          2:
+            title: Qualifying
+          3:
+            title: Sprint Race
+          4:
+            title: Feature Race
+      21:
+        title: São Paulo Grand Prix
+        sort_title: 21_São Paulo Grand Prix
+        summary: The Interlagos Circuit hosts the São Paulo Grand Prix, one of Formula 1's most beloved venues. This 4.3 km track, officially named Autódromo José Carlos Pace, features significant elevation changes and a counter-clockwise layout. Known for producing exciting races, Interlagos combines technical sections with good overtaking opportunities, particularly into the Senna S at the start of the lap. The circuit's location makes it susceptible to rapidly changing weather conditions, often creating dramatic and unpredictable races as the championship reaches its crucial final stages.
+        episodes:
+          1:
+            title: Free Practice
+          2:
+            title: Qualifying
+          3:
+            title: Sprint Race
+          4:
+            title: Feature Race
+      22:
+        title: Las Vegas Grand Prix
+        sort_title: 22_Las Vegas Grand Prix
+        summary: The Las Vegas Strip Circuit hosts the Las Vegas Grand Prix, a spectacular night race through the heart of the famous Las Vegas Strip. This 6.1 km street circuit features 17 corners and a 1.9 km straight along Las Vegas Boulevard, allowing cars to reach speeds of over 340 km/h. Racing under the neon lights of the city's iconic hotels and casinos, drivers face the additional challenge of cold night temperatures affecting tire performance, while the high-speed layout with three straights and multiple DRS zones creates exciting overtaking opportunities in this penultimate round of the championship.
+        episodes:
+          1:
+            title: Free Practice
+          2:
+            title: Qualifying
+          3:
+            title: Sprint Race
+          4:
+            title: Feature Race
+      23:
+        title: Qatar Grand Prix
+        sort_title: 23_Qatar Grand Prix
+        summary: The Lusail International Circuit hosts the Qatar Grand Prix, featuring a fast, flowing 5.4 km layout with 16 corners. Originally designed for motorcycle racing, the track's smooth surface and combination of medium and high-speed corners create a unique challenge for Formula 1 cars. Racing under floodlights in the desert evening, drivers face physically demanding conditions with high temperatures and humidity. The circuit's fast nature rewards aerodynamic efficiency and driver commitment, while its width provides multiple racing lines and overtaking opportunities as the championship approaches its climax.
+        episodes:
+          1:
+            title: Free Practice
+          2:
+            title: Qualifying
+          3:
+            title: Sprint Race
+          4:
+            title: Feature Race
+      24:
+        title: Abu Dhabi Grand Prix
+        sort_title: 24_Abu Dhabi Grand Prix
+        summary: The Yas Marina Circuit hosts the season finale Abu Dhabi Grand Prix, a spectacular day-to-night race that brings the championship to a close. This 5.3 km track features 16 corners and runs around the marina and underneath the stunning Yas Hotel. The circuit combines technical sections with two long straights that provide overtaking opportunities, while its smooth surface and consistent conditions make it a fitting venue for the championship decider. As the sun sets during the race, the changing track temperatures add an extra strategic element to this crucial final round where championships are often decided.
+        episodes:
+          1:
+            title: Free Practice
+          2:
+            title: Qualifying
+          3:
+            title: Sprint Race
+          4:
+            title: Feature Race
