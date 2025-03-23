@@ -53,6 +53,7 @@ metadata:
       2:
         title: Chinese Grand Prix
         sort_title: 02_Chinese Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1-2025/r02.jpg
         summary: The Shanghai International Circuit hosts the Chinese Grand Prix, featuring a 5.4 km track designed by Hermann Tilke. Known for its unique layout that includes one of the longest straights in Formula 1 and the challenging turn 1-2-3 complex, Shanghai demands both technical precision and raw speed. The circuit's mix of slow corners, fast straights, and the distinctive "snail" section creates multiple overtaking opportunities and strategic options for teams.
         episodes:
           1:
