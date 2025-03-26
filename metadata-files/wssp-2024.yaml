@@ -1,0 +1,285 @@
+metadata:
+  World Supersport 2024:
+    title: World Supersport 2024
+    sort_title: World Supersport 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wssp/2024/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wssp/2024/background.jpg
+    summary: >
+      The 2024 FIM Supersport World Championship is the 26th season of the championship. Running alongside WorldSBK, 
+      the championship showcases the world's best middleweight production motorcycle racing, with two races per weekend format. 
+      The season begins at Australia's Phillip Island and concludes at Spain's Jerez circuit.
+    seasons:
+      1:
+        title: Australian Round
+        sort_title: 1_Australian Round
+        summary: >
+          The 2024 World Supersport Championship begins at the iconic Phillip Island Circuit in Australia. 
+          The opening round saw Yari Montella and Marcel Schrötter share the victories.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Australian Round at Phillip Island
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Australian Round won by Yari Montella
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Australian Round won by Marcel Schrötter
+      2:
+        title: Catalunya Round
+        sort_title: 2_Catalunya Round
+        summary: >
+          The championship moves to Circuit de Barcelona-Catalunya for the second round, where 
+          Adrián Huertas dominated with victories in both races.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Catalunya Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Catalunya Round won by Adrián Huertas
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Catalunya Round won by Adrián Huertas
+      3:
+        title: Dutch Round
+        sort_title: 3_Dutch Round
+        summary: >
+          The TT Circuit Assen hosts the Dutch Round, where Stefano Manzi and Bahattin Sofuoğlu 
+          claimed the victories.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Dutch Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Dutch Round won by Stefano Manzi
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Dutch Round won by Bahattin Sofuoğlu
+      4:
+        title: Emilia-Romagna Round
+        sort_title: 4_Emilia-Romagna Round
+        summary: >
+          The championship returns to Italy for the Emilia-Romagna Round at Misano World Circuit.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Emilia-Romagna Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Emilia-Romagna Round
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Emilia-Romagna Round
+      5:
+        title: UK Round
+        sort_title: 5_UK Round
+        summary: >
+          The championship heads to Donington Park for the UK Round, bringing world-class 
+          Supersport action to British shores.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the UK Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the UK Round
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the UK Round
+      6:
+        title: Czech Round
+        sort_title: 6_Czech Round
+        summary: >
+          The Autodrom Most hosts the Czech Round, challenging riders with its technical layout.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Czech Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Czech Round
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Czech Round
+      7:
+        title: Portuguese Round
+        sort_title: 7_Portuguese Round
+        summary: >
+          The Algarve International Circuit in Portimao hosts the Portuguese Round, featuring 
+          challenging elevation changes and technical corners.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Portuguese Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Portuguese Round
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Portuguese Round
+      8:
+        title: Estoril Round
+        sort_title: 8_Estoril Round
+        summary: >
+          The Circuito do Estoril hosts this round, replacing the originally planned Hungarian Round 
+          at Balaton Park Circuit due to ongoing works.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Estoril Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Estoril Round
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Estoril Round
+      9:
+        title: French Round
+        sort_title: 9_French Round
+        summary: >
+          The Circuit de Nevers Magny-Cours hosts the French Round, known for its technical 
+          sections and unpredictable weather conditions.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the French Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the French Round
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the French Round
+      10:
+        title: Aragon Round
+        sort_title: 10_Aragon Round
+        summary: >
+          MotorLand Aragon hosts the Aragon Round, combining long straights with technical 
+          sections in the Spanish desert.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Aragon Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Aragon Round
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Aragon Round
+      11:
+        title: Spanish Round
+        sort_title: 11_Spanish Round
+        summary: >
+          The season concludes at the Circuito de Jerez-Angel Nieto for the Spanish Round, 
+          where the 2024 champion will be crowned.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Spanish Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Spanish Round
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Spanish Round
+

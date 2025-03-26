@@ -1,0 +1,297 @@
+metadata:
+  World Supersport 2023:
+    title: World Supersport 2023
+    sort_title: World Supersport 2023
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wssp/2023/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wssp/2023/background.jpg
+    summary: >
+      The 2023 FIM Supersport World Championship was the twenty-seventh season of the championship. Running alongside WorldSBK, the championship showcases the world's best middleweight production motorcycle racing, with two races per weekend format. The season began at Australia's Phillip Island and concluded at Spain's Jerez circuit, with Nicolò Bulega crowned as champion at the Portuguese round.
+    seasons:
+      1:
+        title: Australian Round
+        sort_title: 1_Australian Round
+        summary: >
+          The 2023 World Supersport Championship begins at the iconic Phillip Island Circuit in Australia. The opening round saw intense battles between Stefano Manzi and Nicolò Bulega.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Australian Round at Phillip Island
+          2:
+            title: Superpole
+            summary: Stefano Manzi secured pole position in qualifying
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: Nicolò Bulega claimed victory in the first race
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Nicolò Bulega secured another win in Race Two
+      2:
+        title: Indonesian Round
+        sort_title: 2_Indonesian Round
+        summary: >
+          The championship's second round at Pertamina Mandalika International Street Circuit saw Can Öncü and Federico Caricasulo emerge victorious.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Indonesian Round
+          2:
+            title: Superpole
+            summary: Nicolò Bulega took pole position
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: Can Öncü claimed his first victory of the season
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Federico Caricasulo won Race Two
+      3:
+        title: Dutch Round
+        sort_title: 3_Dutch Round
+        summary: >
+          The Pirelli Dutch Round at the historic TT Circuit Assen saw Nicolò Bulega dominate both races.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Dutch Round
+          2:
+            title: Superpole
+            summary: Nicolò Bulega secured pole position
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: Nicolò Bulega won Race One
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Nicolò Bulega completed the double win
+      4:
+        title: Catalunya Round
+        sort_title: 4_Catalunya Round
+        summary: >
+          The Circuit de Barcelona-Catalunya hosted the fourth round, where Nicolò Bulega and Bahattin Sofuoğlu shared the victories.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Catalunya Round
+          2:
+            title: Superpole
+            summary: Nicolò Bulega claimed pole position
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: Bahattin Sofuoğlu took his first win of the season
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Bahattin Sofuoğlu secured victory in Race Two
+      5:
+        title: Emilia-Romagna Round
+        sort_title: 5_Emilia-Romagna Round
+        summary: >
+          The Pirelli Emilia-Romagna Round at Misano World Circuit Marco Simoncelli provided exciting racing action.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Emilia-Romagna Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Emilia-Romagna Round
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Emilia-Romagna Round
+      6:
+        title: Italian Round
+        sort_title: 6_Italian Round
+        summary: >
+          The championship returned to Italy for the sixth round at Imola Circuit.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Italian Round
+          2:
+            title: Superpole
+            summary: Qualifying session at the historic Imola Circuit
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Italian Round
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Italian Round
+      7:
+        title: UK Round
+        sort_title: 7_UK Round
+        summary: >
+          Donington Park hosted the British round of the championship.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the UK Round
+          2:
+            title: Superpole
+            summary: Qualifying session at Donington Park
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the UK Round
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the UK Round
+      8:
+        title: Czech Round
+        sort_title: 8_Czech Round
+        summary: >
+          The Autodrom Most hosted the Czech Round of the championship.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Czech Round
+          2:
+            title: Superpole
+            summary: Qualifying session at Most Circuit
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Czech Round
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Czech Round
+      9:
+        title: French Round
+        sort_title: 9_French Round
+        summary: >
+          Circuit de Nevers Magny-Cours hosted the French Round of the championship.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the French Round
+          2:
+            title: Superpole
+            summary: Qualifying session at Magny-Cours
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the French Round
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the French Round
+      10:
+        title: Aragon Round
+        sort_title: 10_Aragon Round
+        summary: >
+          MotorLand Aragon hosted the tenth round of the championship.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Aragon Round
+          2:
+            title: Superpole
+            summary: Qualifying session at MotorLand Aragon
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Aragon Round
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Aragon Round
+      11:
+        title: Portuguese Round
+        sort_title: 11_Portuguese Round
+        summary: >
+          The Algarve International Circuit hosted the Portuguese Round where Nicolò Bulega secured the championship title.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Portuguese Round
+          2:
+            title: Superpole
+            summary: Qualifying session at Portimão
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: Championship-deciding race where Bulega claimed the title
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Final race of the Portuguese Round
+      12:
+        title: Spanish Round
+        sort_title: 12_Spanish Round
+        summary: >
+          The season finale took place at the Circuito de Jerez-Angel Nieto, replacing the cancelled Argentinian Round.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Spanish Round
+          2:
+            title: Superpole
+            summary: Final qualifying session of the season
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the season finale
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Final race of the 2023 season

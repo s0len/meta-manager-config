@@ -1,0 +1,414 @@
+metadata:
+  World Superbike 2023:
+    title: World Superbike 2023
+    sort_title: World Superbike 2023
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wsbk/2023/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wsbk/2023/background.jpg
+    summary: >
+      The 2023 FIM Superbike World Championship is the 36th season of the Superbike World Championship. The season features Álvaro Bautista defending his title across iconic circuits worldwide, with three races per weekend - two full-length races and a shorter Superpole Race. The championship showcases modified versions of high-performance production motorcycles and the world's best riders competing for glory.
+    seasons:
+      0:
+        title: Pre-Season Testing
+        sort_title: 0_Pre-Season Testing
+        summary: >
+          Pre-season preparations and testing sessions for the 2023 World Superbike Championship, where teams and riders get their first chance to evaluate their machinery and setups before the racing season begins.
+        episodes:
+          1:
+            title: Season Preview
+            summary: A comprehensive preview of the upcoming 2023 World Superbike Championship season
+      1:
+        title: Australian Round
+        sort_title: 1_Australian Round
+        summary: >
+          The 2023 World Superbike Championship kicks off at the iconic Phillip Island Circuit in Australia on February 24-26.
+        episodes:
+          1:
+            title: Free Practice 1
+            summary: First practice session of the Australian Round at Phillip Island
+          2:
+            title: Free Practice 2
+            summary: Second practice session of the Australian Round
+          3:
+            title: Free Practice 3
+            summary: Third practice session of the Australian Round
+          4:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for Race 1
+          5:
+            title: Race One
+            summary: First full-length race of the Australian Round
+          6:
+            title: Warm Up
+            summary: Morning warm-up session before the Superpole Race
+          7:
+            title: Superpole Race
+            summary: Short-format race that determines the grid positions for Race 2
+          8:
+            title: Race Two
+            summary: Second full-length race of the Australian Round
+          9:
+            title: Weekend Highlights
+            summary: Comprehensive highlights package covering all the action from the Australian Round
+      2:
+        title: Indonesian Round
+        sort_title: 2_Indonesian Round
+        summary: >
+          The championship visits Pertamina Mandalika International Street Circuit on March 3-5.
+        episodes:
+          1:
+            title: Free Practice 1
+            summary: First practice session of the Indonesian Round
+          2:
+            title: Free Practice 2
+            summary: Second practice session of the Indonesian Round
+          3:
+            title: Free Practice 3
+            summary: Third practice session of the Indonesian Round
+          4:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for Race 1
+          5:
+            title: Race One
+            summary: First full-length race of the Indonesian Round
+          6:
+            title: Warm Up
+            summary: Morning warm-up session before the Superpole Race
+          7:
+            title: Superpole Race
+            summary: Short-format race that determines the grid positions for Race 2
+          8:
+            title: Race Two
+            summary: Second full-length race of the Indonesian Round
+          9:
+            title: Weekend Highlights
+            summary: Comprehensive highlights package covering all the action from the Indonesian Round
+      3:
+        title: Dutch Round
+        sort_title: 3_Dutch Round
+        summary: >
+          The TT Circuit Assen hosts the third round on April 21-23.
+        episodes:
+          1:
+            title: Free Practice 1
+            summary: First practice session of the Dutch Round
+          2:
+            title: Free Practice 2
+            summary: Second practice session of the Dutch Round
+          3:
+            title: Free Practice 3
+            summary: Third practice session of the Dutch Round
+          4:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for Race 1
+          5:
+            title: Race One
+            summary: First full-length race of the Dutch Round
+          6:
+            title: Warm Up
+            summary: Morning warm-up session before the Superpole Race
+          7:
+            title: Superpole Race
+            summary: Short-format race that determines the grid positions for Race 2
+          8:
+            title: Race Two
+            summary: Second full-length race of the Dutch Round
+          9:
+            title: Weekend Highlights
+            summary: Comprehensive highlights package covering all the action from the Dutch Round
+      4:
+        title: Catalunya Round
+        sort_title: 4_Catalunya Round
+        summary: >
+          Circuit de Barcelona-Catalunya welcomes WorldSBK on May 5-7.
+        episodes:
+          1:
+            title: Free Practice 1
+            summary: First practice session of the Catalunya Round
+          2:
+            title: Free Practice 2
+            summary: Second practice session of the Catalunya Round
+          3:
+            title: Free Practice 3
+            summary: Third practice session of the Catalunya Round
+          4:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for Race 1
+          5:
+            title: Race One
+            summary: First full-length race of the Catalunya Round
+          6:
+            title: Warm Up
+            summary: Morning warm-up session before the Superpole Race
+          7:
+            title: Superpole Race
+            summary: Short-format race that determines the grid positions for Race 2
+          8:
+            title: Race Two
+            summary: Second full-length race of the Catalunya Round
+          9:
+            title: Weekend Highlights
+            summary: Comprehensive highlights package covering all the action from the Catalunya Round
+      5:
+        title: Emilia-Romagna Round
+        sort_title: 5_Emilia-Romagna Round
+        summary: >
+          The championship visits Misano World Circuit Marco Simoncelli on June 2-4.
+        episodes:
+          1:
+            title: Free Practice 1
+            summary: First practice session of the Emilia-Romagna Round
+          2:
+            title: Free Practice 2
+            summary: Second practice session of the Emilia-Romagna Round
+          3:
+            title: Free Practice 3
+            summary: Third practice session of the Emilia-Romagna Round
+          4:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for Race 1
+          5:
+            title: Race One
+            summary: First full-length race of the Emilia-Romagna Round
+          6:
+            title: Warm Up
+            summary: Morning warm-up session before the Superpole Race
+          7:
+            title: Superpole Race
+            summary: Short-format race that determines the grid positions for Race 2
+          8:
+            title: Race Two
+            summary: Second full-length race of the Emilia-Romagna Round
+          9:
+            title: Weekend Highlights
+            summary: Comprehensive highlights package covering all the action from the Emilia-Romagna Round
+      6:
+        title: UK Round
+        sort_title: 6_UK Round
+        summary: >
+          Donington Park hosts the British round on June 30-July 2.
+        episodes:
+          1:
+            title: Free Practice 1
+            summary: First practice session of the UK Round
+          2:
+            title: Free Practice 2
+            summary: Second practice session of the UK Round
+          3:
+            title: Free Practice 3
+            summary: Third practice session of the UK Round
+          4:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for Race 1
+          5:
+            title: Race One
+            summary: First full-length race of the UK Round
+          6:
+            title: Warm Up
+            summary: Morning warm-up session before the Superpole Race
+          7:
+            title: Superpole Race
+            summary: Short-format race that determines the grid positions for Race 2
+          8:
+            title: Race Two
+            summary: Second full-length race of the UK Round
+          9:
+            title: Weekend Highlights
+            summary: Comprehensive highlights package covering all the action from the UK Round
+      7:
+        title: Imola Round
+        sort_title: 7_Imola Round
+        summary: >
+          The Autodromo Internazionale Enzo e Dino Ferrari hosts the action on July 14-16.
+        episodes:
+          1:
+            title: Free Practice 1
+            summary: First practice session of the Imola Round
+          2:
+            title: Free Practice 2
+            summary: Second practice session of the Imola Round
+          3:
+            title: Free Practice 3
+            summary: Third practice session of the Imola Round
+          4:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for Race 1
+          5:
+            title: Race One
+            summary: First full-length race of the Imola Round
+          6:
+            title: Warm Up
+            summary: Morning warm-up session before the Superpole Race
+          7:
+            title: Superpole Race
+            summary: Short-format race that determines the grid positions for Race 2
+          8:
+            title: Race Two
+            summary: Second full-length race of the Imola Round
+          9:
+            title: Weekend Highlights
+            summary: Comprehensive highlights package covering all the action from the Imola Round
+      8:
+        title: Most Round
+        sort_title: 8_Most Round
+        summary: >
+          The Autodrom Most welcomes WorldSBK on July 28-30.
+        episodes:
+          1:
+            title: Free Practice 1
+            summary: First practice session of the Most Round
+          2:
+            title: Free Practice 2
+            summary: Second practice session of the Most Round
+          3:
+            title: Free Practice 3
+            summary: Third practice session of the Most Round
+          4:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for Race 1
+          5:
+            title: Race One
+            summary: First full-length race of the Most Round
+          6:
+            title: Warm Up
+            summary: Morning warm-up session before the Superpole Race
+          7:
+            title: Superpole Race
+            summary: Short-format race that determines the grid positions for Race 2
+          8:
+            title: Race Two
+            summary: Second full-length race of the Most Round
+          9:
+            title: Weekend Highlights
+            summary: Comprehensive highlights package covering all the action from the Most Round
+      9:
+        title: Portuguese Round
+        sort_title: 9_Portuguese Round
+        summary: >
+          Autódromo Internacional do Algarve hosts round 9 on September 29-October 1.
+        episodes:
+          1:
+            title: Free Practice 1
+            summary: First practice session of the Portuguese Round
+          2:
+            title: Free Practice 2
+            summary: Second practice session of the Portuguese Round
+          3:
+            title: Free Practice 3
+            summary: Third practice session of the Portuguese Round
+          4:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for Race 1
+          5:
+            title: Race One
+            summary: First full-length race of the Portuguese Round
+          6:
+            title: Warm Up
+            summary: Morning warm-up session before the Superpole Race
+          7:
+            title: Superpole Race
+            summary: Short-format race that determines the grid positions for Race 2
+          8:
+            title: Race Two
+            summary: Second full-length race of the Portuguese Round
+          9:
+            title: Weekend Highlights
+            summary: Comprehensive highlights package covering all the action from the Portuguese Round
+      10:
+        title: French Round
+        sort_title: 10_French Round
+        summary: >
+          Circuit de Nevers Magny-Cours hosts the French round on September 8-10.
+        episodes:
+          1:
+            title: Free Practice 1
+            summary: First practice session of the French Round
+          2:
+            title: Free Practice 2
+            summary: Second practice session of the French Round
+          3:
+            title: Free Practice 3
+            summary: Third practice session of the French Round
+          4:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for Race 1
+          5:
+            title: Race One
+            summary: First full-length race of the French Round
+          6:
+            title: Warm Up
+            summary: Morning warm-up session before the Superpole Race
+          7:
+            title: Superpole Race
+            summary: Short-format race that determines the grid positions for Race 2
+          8:
+            title: Race Two
+            summary: Second full-length race of the French Round
+          9:
+            title: Weekend Highlights
+            summary: Comprehensive highlights package covering all the action from the French Round
+      11:
+        title: Aragon Round
+        sort_title: 11_Aragon Round
+        summary: >
+          MotorLand Aragón welcomes the championship on September 22-24.
+        episodes:
+          1:
+            title: Free Practice 1
+            summary: First practice session of the Aragon Round
+          2:
+            title: Free Practice 2
+            summary: Second practice session of the Aragon Round
+          3:
+            title: Free Practice 3
+            summary: Third practice session of the Aragon Round
+          4:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for Race 1
+          5:
+            title: Race One
+            summary: First full-length race of the Aragon Round
+          6:
+            title: Warm Up
+            summary: Morning warm-up session before the Superpole Race
+          7:
+            title: Superpole Race
+            summary: Short-format race that determines the grid positions for Race 2
+          8:
+            title: Race Two
+            summary: Second full-length race of the Aragon Round
+          9:
+            title: Weekend Highlights
+            summary: Comprehensive highlights package covering all the action from the Aragon Round
+      12:
+        title: Spanish Round
+        sort_title: 12_Spanish Round
+        summary: >
+          The season finale takes place at Circuito de Jerez-Ángel Nieto on October 27-29.
+        episodes:
+          1:
+            title: Free Practice 1
+            summary: First practice session of the Spanish Round
+          2:
+            title: Free Practice 2
+            summary: Second practice session of the Spanish Round
+          3:
+            title: Free Practice 3
+            summary: Third practice session of the Spanish Round
+          4:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for Race 1
+          5:
+            title: Race One
+            summary: First full-length race of the Spanish Round
+          6:
+            title: Warm Up
+            summary: Morning warm-up session before the Superpole Race
+          7:
+            title: Superpole Race
+            summary: Short-format race that determines the grid positions for Race 2
+          8:
+            title: Race Two
+            summary: Second full-length race of the Spanish Round
+          9:
+            title: Weekend Highlights
+            summary: Comprehensive highlights package covering all the action from the Spanish Round
