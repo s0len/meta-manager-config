@@ -1,0 +1,201 @@
+metadata:
+  World Supersport 300 2024:
+    title: World Supersport 300 2024
+    sort_title: World Supersport 300 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wssp300/2024/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wssp300/2024/background.jpg
+    summary: >
+      The 2024 FIM Supersport 300 World Championship is the eighth season of the junior category running alongside WorldSBK. The championship features intense racing action with young talents competing on lightweight sport bikes. The season begins at Catalunya's Barcelona circuit and includes rounds across Europe.
+    seasons:
+      1:
+        title: Catalunya Round
+        sort_title: 1_Catalunya Round
+        summary: >
+          The 2024 World Supersport 300 Championship begins at the Circuit de Barcelona-Catalunya. The modern circuit provides an excellent venue for the season opener.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Catalunya Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Catalunya Round on March 23
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Catalunya Round on March 24
+      2:
+        title: Dutch Round
+        sort_title: 2_Dutch Round
+        summary: >
+          The championship heads to the historic TT Circuit Assen for the Dutch Round, known as "The Cathedral of Speed."
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Dutch Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Dutch Round on April 20
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Dutch Round on April 21
+      3:
+        title: Emilia-Romagna Round
+        sort_title: 3_Emilia-Romagna Round
+        summary: >
+          The Pirelli Emilia-Romagna Round takes place at the Misano World Circuit Marco Simoncelli.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Emilia-Romagna Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Emilia-Romagna Round on June 15
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Emilia-Romagna Round on June 16
+      4:
+        title: Czech Round
+        sort_title: 4_Czech Round
+        summary: >
+          The championship continues at Autodrom Most for the Czech Round, challenging riders with its technical layout.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Czech Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Czech Round on July 20
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Czech Round on July 21
+      5:
+        title: Portuguese Round
+        sort_title: 5_Portuguese Round
+        summary: >
+          The Pirelli Portuguese Round takes place at the Algarve International Circuit, featuring challenging elevation changes.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Portuguese Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Portuguese Round on August 10
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Portuguese Round on August 11
+      6:
+        title: French Round
+        sort_title: 6_French Round
+        summary: >
+          The Circuit de Nevers Magny-Cours hosts the French Round, known for its technical sections and unpredictable weather.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the French Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the French Round on September 7
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the French Round on September 8
+      7:
+        title: Aragon Round
+        sort_title: 7_Aragon Round
+        summary: >
+          The championship heads to MotorLand Aragon for the Spanish round, combining long straights with technical sections.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Aragon Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Aragon Round on September 21
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Aragon Round on September 22
+      8:
+        title: Jerez Round
+        sort_title: 8_Jerez Round
+        summary: >
+          The season finale takes place at the Circuito de Jerez-Angel Nieto, where the 2024 champion will be crowned.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Jerez Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Jerez Round on October 12
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Jerez Round on October 13

@@ -1,0 +1,201 @@
+metadata:
+  World Supersport 300 2025:
+    title: World Supersport 300 2025
+    sort_title: World Supersport 300 2025
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wssp300/2025/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wssp300/2025/background.jpg
+    summary: >
+      The 2025 FIM Supersport 300 World Championship is the ninth and final season of the junior category running alongside WorldSBK, with a new category set to replace it in 2026. The championship features intense racing action with young talents competing on lightweight sport bikes across 8 venues with 16 races.
+    seasons:
+      1:
+        title: Portuguese Round
+        sort_title: 1_Portuguese Round
+        summary: >
+          The 2025 World Supersport 300 Championship begins at the Algarve International Circuit, featuring challenging elevation changes.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Portuguese Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Portuguese Round on March 29
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Portuguese Round on March 29
+      2:
+        title: Dutch Round
+        sort_title: 2_Dutch Round
+        summary: >
+          The championship heads to the historic TT Circuit Assen for the Dutch Round, known as "The Cathedral of Speed."
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Dutch Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Dutch Round on April 12
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Dutch Round on April 12
+      3:
+        title: Czech Round
+        sort_title: 3_Czech Round
+        summary: >
+          The championship continues at Autodrom Most for the Czech Round, challenging riders with its technical layout.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Czech Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Czech Round on May 17
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Czech Round on May 17
+      4:
+        title: Emilia-Romagna Round
+        sort_title: 4_Emilia-Romagna Round
+        summary: >
+          The Pirelli Emilia-Romagna Round takes place at the Misano World Circuit Marco Simoncelli.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Emilia-Romagna Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Emilia-Romagna Round on June 14
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Emilia-Romagna Round on June 14
+      5:
+        title: French Round
+        sort_title: 5_French Round
+        summary: >
+          The Circuit de Nevers Magny-Cours hosts the French Round, known for its technical sections and unpredictable weather.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the French Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the French Round on September 6
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the French Round on September 6
+      6:
+        title: Aragon Round
+        sort_title: 6_Aragon Round
+        summary: >
+          The championship heads to MotorLand Aragon for the Spanish round, combining long straights with technical sections.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Aragon Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Aragon Round on September 27
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Aragon Round on September 27
+      7:
+        title: Estoril Round
+        sort_title: 7_Estoril Round
+        summary: >
+          The championship visits the Circuito do Estoril for the penultimate round of the season.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Estoril Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Estoril Round on October 11
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Estoril Round on October 11
+      8:
+        title: Spanish Round
+        sort_title: 8_Spanish Round
+        summary: >
+          The final round of the World Supersport 300 Championship takes place at the Circuito de Jerez, where the last ever champion of the category will be crowned.
+        episodes:
+          1:
+            title: Free Practice
+            summary: Practice session of the Spanish Round
+          2:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for both races
+          3:
+            title: Warm Up One
+            summary: First morning warm-up session before Race One
+          4:
+            title: Race One
+            summary: First race of the Spanish Round on October 18
+          5:
+            title: Warm Up Two
+            summary: Second morning warm-up session before Race Two
+          6:
+            title: Race Two
+            summary: Second race of the Spanish Round on October 18
