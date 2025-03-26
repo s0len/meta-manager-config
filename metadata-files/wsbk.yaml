@@ -1,0 +1,51 @@
+metadata:
+  World Superbike 2025:
+    title: World Superbike 2025
+    sort_title: World Superbike 2025
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wsbk/2025/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/wsbk/2025/background.jpg
+    summary: >
+      The 2025 FIM Superbike World Championship marks another thrilling season of production-based motorcycle racing at the highest level. Featuring 12 rounds across iconic circuits worldwide, from the season opener at Phillip Island to the finale at Jerez, riders battle it out in three races per weekend - two full-length races and a shorter Superpole Race. The championship showcases the world's best riders competing on modified versions of high-performance production motorcycles, combining cutting-edge technology with spectacular racing action.
+    seasons:
+      0:
+        title: Pre-Season Testing
+        sort_title: 0_Pre-Season Testing
+        summary: >
+          Pre-season preparations and testing sessions for the 2025 World Superbike Championship, where teams and riders get their first chance to evaluate their machinery and setups before the racing season begins.
+        episodes:
+          1:
+            title: Season Preview
+            summary: A comprehensive preview of the upcoming 2025 World Superbike Championship season
+      1:
+        title: Australian Round
+        sort_title: 1_Australian Round
+        summary: >
+          The 2025 World Superbike Championship kicks off at the iconic Phillip Island Circuit in Australia. The 4.445km track features 12 corners and is known for its flowing layout and challenging high-speed sections.
+        episodes:
+          1:
+            title: Free Practice 1
+            summary: First practice session of the Australian Round at Phillip Island
+          2:
+            title: Free Practice 2
+            summary: Second practice session of the Australian Round
+          3:
+            title: Free Practice 3
+            summary: Third practice session of the Australian Round
+          4:
+            title: Superpole
+            summary: Qualifying session to determine the grid positions for Race 1
+          5:
+            title: Race One
+            summary: First full-length race of the Australian Round
+          6:
+            title: Warm Up
+            summary: Morning warm-up session before the Superpole Race
+          7:
+            title: Superpole Race
+            summary: Short-format race that determines the grid positions for Race 2
+          8:
+            title: Race Two
+            summary: Second full-length race of the Australian Round
+          9:
+            title: Weekend Highlights
+            summary: Comprehensive highlights package covering all the action from the Australian Round
