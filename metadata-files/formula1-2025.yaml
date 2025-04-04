@@ -109,6 +109,7 @@ metadata:
       4:
         title: Bahrain Grand Prix
         sort_title: 04_Bahrain Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1-2025/r04.jpg
         summary: The Bahrain International Circuit in Sakhir hosts the fourth round of the championship. This 5.4 km desert track features long straights and heavy braking zones, creating multiple overtaking opportunities. Racing under floodlights, the circuit's abrasive surface and cooling desert temperatures in the evening present unique challenges for tire management and car setup, making strategic decisions crucial for success.
         episodes:
           1:
