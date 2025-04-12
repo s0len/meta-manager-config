@@ -91,6 +91,9 @@ Creates collections for all your media inside the library and sorts it according
 ### Resolution in the upper left corner in horizontal format
 
 ```yaml
+# Creates a ribbon style background in the top left corner with a width of 313 pixels. Keep in mind, it has to be run before any overlay which is supposed to be on top of the background
+- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/background_top_left_313_wide.yml
+# Resolution in the upper left corner in horizontal format
 - default: resolution
       template_variables:
             url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left-horizontal/<<overlay_name>>.png
@@ -108,6 +111,9 @@ Creates collections for all your media inside the library and sorts it according
 ### Audio in the upper left corner in horizontal format
 
 ```yaml
+# Creates a ribbon style background in the top left corner with a width of 313 pixels. Keep in mind, it has to be run before any overlay which is supposed to be on top of the background
+- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/background_top_left_313_wide.yml
+# Audio in the upper left corner in horizontal format
 - default: audio_codec
       template_variables:
           url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/audio-top-left/<<key>>.png
@@ -131,6 +137,9 @@ Creates collections for all your media inside the library and sorts it according
 ### Resolution in the upper left corner in 45 degree format
 
 ```yaml
+# Creates a ribbon style background in the top left corner with a width of 313 pixels. Keep in mind, it has to be run before any overlay which is supposed to be on top of the background
+- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/background_top_left_313_wide.yml
+# Resolution in the upper left corner in 45 degree format
 - default: resolution
       template_variables:
             url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/resolution-top-left-45deg/<<overlay_name>>.png
@@ -148,6 +157,9 @@ Creates collections for all your media inside the library and sorts it according
 ### Audio in the upper left corner in 45 degree format
 
 ```yaml
+# Creates a ribbon style background in the top left corner with a width of 313 pixels. Keep in mind, it has to be run before any overlay which is supposed to be on top of the background
+- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/background_top_left_313_wide.yml
+# Audio in the upper left corner in 45 degree format
 - default: audio_codec
       template_variables:
           url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/audio-top-left-45deg/<<key>>.png
@@ -165,6 +177,9 @@ Creates collections for all your media inside the library and sorts it according
 ### Studio overlay in ribbon style in the top left corner
 
 ```yaml
+# Creates a ribbon style background in the top left corner with a width of 313 pixels. Keep in mind, it has to be run before any overlay which is supposed to be on top of the background
+- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/background_top_left_313_wide.yml
+# Studio overlay in ribbon style in the top left corner
 - default: studio
       template_variables:
             horizontal_align: left
