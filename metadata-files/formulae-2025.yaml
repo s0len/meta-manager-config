@@ -1,0 +1,232 @@
+metadata:
+  Formula E 2025:
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formulae-2025/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formulae-2025/background.jpg
+    title: Formula E 2025
+    summary: >
+      The 2025 ABB FIA Formula E World Championship features all-electric racing across iconic city circuits worldwide. This premier electric motorsport competition showcases sustainable racing technology and thrilling wheel-to-wheel action as teams and drivers compete for the championship titles.
+    seasons:
+      1:
+        title: São Paulo E-Prix
+        sort_title: 01_São Paulo E-Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formulae-2025/r01.jpg
+        summary: The São Paulo E-Prix kicks off the 2025 Formula E season on December 7, featuring street racing through Brazil's largest city. The challenging circuit tests drivers with a combination of fast straights and technical sections while passionate Brazilian fans create an electric atmosphere.
+        episodes:
+          1:
+            title: Free Practice 1
+          2:
+            title: Free Practice 2
+          3:
+            title: Qualifying
+          4:
+            title: Race
+      2:
+        title: Mexico City E-Prix
+        sort_title: 02_Mexico City E-Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formulae-2025/r02.jpg
+        summary: The Autódromo Hermanos Rodríguez hosts the Mexico City E-Prix on January 11. This unique track combines permanent circuit sections with street elements, testing drivers and teams in the high altitude of Mexico's capital city.
+        episodes:
+          1:
+            title: Free Practice 1
+          2:
+            title: Free Practice 2
+          3:
+            title: Qualifying
+          4:
+            title: Race
+      3:
+        title: Jeddah E-Prix - Race 1
+        sort_title: 03_Jeddah E-Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formulae-2025/r03.jpg
+        summary: The Jeddah Street Circuit hosts the first race of a double-header weekend on February 14. This high-speed street track features flowing corners and challenging sections that test driver precision under the lights of Saudi Arabia.
+        episodes:
+          1:
+            title: Free Practice 1
+          2:
+            title: Free Practice 2
+          3:
+            title: Qualifying
+          4:
+            title: Race
+      4:
+        title: Jeddah E-Prix - Race 2
+        sort_title: 04_Jeddah E-Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formulae-2025/r03.jpg
+        summary: The second race of the Jeddah double-header takes place on February 15, giving teams and drivers another opportunity to master the challenging street circuit and score valuable championship points.
+        episodes:
+          1:
+            title: Free Practice 1
+          2:
+            title: Free Practice 2
+          3:
+            title: Qualifying
+          4:
+            title: Race
+      5:
+        title: Miami E-Prix
+        sort_title: 05_Miami E-Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formulae-2025/r05.jpg
+        summary: Formula E returns to Miami on April 12, racing through the vibrant streets of this iconic Florida city. The circuit combines technical sections with opportunities for overtaking, set against the backdrop of Miami's distinctive architecture and atmosphere.
+        episodes:
+          1:
+            title: Free Practice 1
+          2:
+            title: Free Practice 2
+          3:
+            title: Qualifying
+          4:
+            title: Race
+      6:
+        title: Monaco E-Prix - Race 1
+        sort_title: 06_Monaco E-Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formulae-2025/r06.jpg
+        summary: The legendary streets of Monaco host the first race of a prestigious double-header on May 3. This iconic circuit presents a unique challenge with its tight corners, elevation changes, and unforgiving barriers, demanding absolute precision from drivers.
+        episodes:
+          1:
+            title: Free Practice 1
+          2:
+            title: Free Practice 2
+          3:
+            title: Qualifying
+          4:
+            title: Race
+      7:
+        title: Monaco E-Prix - Race 2
+        sort_title: 07_Monaco E-Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formulae-2025/r07.jpg
+        summary: The second Monaco E-Prix takes place on May 4, continuing the action on Formula 1's most famous street circuit. Teams will apply lessons from the previous day as they navigate the tight, twisting streets of the principality.
+        episodes:
+          1:
+            title: Free Practice 1
+          2:
+            title: Free Practice 2
+          3:
+            title: Qualifying
+          4:
+            title: Race
+      8:
+        title: Tokyo E-Prix - Race 1
+        sort_title: 08_Tokyo E-Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formulae-2025/r08.jpg
+        summary: Formula E makes its debut in Tokyo with the first race of a double-header on May 17. The street circuit in Japan's capital showcases electric racing against the backdrop of one of the world's most technologically advanced cities.
+        episodes:
+          1:
+            title: Free Practice 1
+          2:
+            title: Free Practice 2
+          3:
+            title: Qualifying
+          4:
+            title: Race
+      9:
+        title: Tokyo E-Prix - Race 2
+        sort_title: 09_Tokyo E-Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formulae-2025/r09.jpg
+        summary: The Tokyo double-header continues on May 18, giving teams a second opportunity to master the challenging street circuit in the heart of Japan's capital city as the championship battle intensifies.
+        episodes:
+          1:
+            title: Free Practice 1
+          2:
+            title: Free Practice 2
+          3:
+            title: Qualifying
+          4:
+            title: Race
+      10:
+        title: Shanghai E-Prix - Race 1
+        sort_title: 10_Shanghai E-Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formulae-2025/r10.jpg
+        summary: Shanghai hosts the first race of another exciting double-header on May 31. The Chinese street circuit challenges drivers with its mix of high-speed sections and technical corners in one of Asia's most dynamic cities.
+        episodes:
+          1:
+            title: Free Practice 1
+          2:
+            title: Free Practice 2
+          3:
+            title: Qualifying
+          4:
+            title: Race
+      11:
+        title: Shanghai E-Prix - Race 2
+        sort_title: 11_Shanghai E-Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formulae-2025/r11.jpg
+        summary: The Shanghai double-header concludes on June 1, with teams looking to maximize points as they complete the second consecutive race weekend in China's largest city.
+        episodes:
+          1:
+            title: Free Practice 1
+          2:
+            title: Free Practice 2
+          3:
+            title: Qualifying
+          4:
+            title: Race
+      12:
+        title: Jakarta E-Prix
+        sort_title: 12_Jakarta E-Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formulae-2025/r12.jpg
+        summary: Formula E returns to Indonesia for the Jakarta E-Prix on June 21. The street circuit in Indonesia's capital presents a unique challenge with its tropical climate and technical layout, testing both drivers and the cooling systems of their electric race cars.
+        episodes:
+          1:
+            title: Free Practice 1
+          2:
+            title: Free Practice 2
+          3:
+            title: Qualifying
+          4:
+            title: Race
+      13:
+        title: Berlin E-Prix - Race 1
+        sort_title: 13_Berlin E-Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formulae-2025/r13.jpg
+        summary: The historic Tempelhof Airport circuit in Berlin hosts the first race of the German double-header on July 12. The unique concrete surface of this former airfield creates distinctive challenges for tire management and energy use.
+        episodes:
+          1:
+            title: Free Practice 1
+          2:
+            title: Free Practice 2
+          3:
+            title: Qualifying
+          4:
+            title: Race
+      14:
+        title: Berlin E-Prix - Race 2
+        sort_title: 14_Berlin E-Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formulae-2025/r14.jpg
+        summary: The Berlin double-header concludes on July 13, with teams applying strategies learned from the previous day's race as the championship enters its crucial final stages.
+        episodes:
+          1:
+            title: Free Practice 1
+          2:
+            title: Free Practice 2
+          3:
+            title: Qualifying
+          4:
+            title: Race
+      15:
+        title: London E-Prix - Race 1
+        sort_title: 15_London E-Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formulae-2025/r15.jpg
+        summary: The ExCeL London circuit hosts the first race of the season finale double-header on July 26. This unique part-indoor, part-outdoor track provides a spectacular setting as the championship battle reaches its climax.
+        episodes:
+          1:
+            title: Free Practice 1
+          2:
+            title: Free Practice 2
+          3:
+            title: Qualifying
+          4:
+            title: Race
+      16:
+        title: London E-Prix - Race 2
+        sort_title: 16_London E-Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formulae-2025/r16.jpg
+        summary: The 2025 Formula E season concludes with the final London E-Prix on July 27. The championship-deciding race at the ExCeL circuit will determine the drivers' and teams' champions in what promises to be a thrilling season finale.
+        episodes:
+          1:
+            title: Free Practice 1
+          2:
+            title: Free Practice 2
+          3:
+            title: Qualifying
+          4:
+            title: Race
