@@ -3,7 +3,6 @@ metadata:
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/poster.jpg
     url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/background.jpg
     title: MotoGP 2025
-    update_seasons: true
     summary: >
       The 2025 FIM MotoGP World Championship is the premier class of the 77th Fédération Internationale de Motocyclisme (FIM) Road Racing World Championship season, the highest level of competition in motorcycle road racing. The 2025 season features an expanded 22-race calendar with exciting additions including the return of Czechia and the debut of Hungary as MotoGP venues.
     seasons:
