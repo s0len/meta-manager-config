@@ -34,6 +34,96 @@ This configuration provides comprehensive metadata for MotoGP seasons, including
 ![view of created collections and how they look](https://github.com/s0len/meta-manager-config/blob/main/images/motogp-view-of-collections.png)
 ![view of created title cards and how they look](https://github.com/s0len/meta-manager-config/blob/main/images/motogp-view-of-title-cards.png)
 
+## IndyCar Complete Metadata
+
+This configuration provides comprehensive metadata for IndyCar seasons, including high-quality posters and title cards for all race weekends and sessions. The 2025 season features detailed information for each event.
+
+**Features:**
+- Season posters and backgrounds
+- Race weekend posters and summaries
+- Session-specific title cards
+- Complete structural metadata
+
+## Formula E Complete Metadata
+
+This configuration provides comprehensive metadata for Formula E seasons, including high-quality posters and title cards for all race weekends and sessions. The 2025 season features detailed information for each event.
+
+**Features:**
+- Season posters and backgrounds
+- Race weekend posters and summaries
+- Session-specific title cards
+- Complete structural metadata
+
+## Formula 2 Complete Metadata
+
+This configuration provides comprehensive metadata for Formula 2 seasons, including high-quality posters and title cards for all race weekends and sessions. The 2025 season features detailed information for each event.
+
+**Features:**
+- Season posters and backgrounds
+- Race weekend posters and summaries
+- Session-specific title cards
+- Complete structural metadata
+
+## WorldSBK Complete Metadata
+
+This configuration provides comprehensive metadata for World Superbike (WorldSBK) seasons, including high-quality posters and title cards for all race weekends and sessions. The 2023-2025 seasons feature detailed information for each event.
+
+**Features:**
+- Season posters and backgrounds
+- Race weekend posters and summaries
+- Session-specific title cards
+- Complete structural metadata
+
+## World Supersport (WSSP) Complete Metadata
+
+This configuration provides comprehensive metadata for World Supersport (WSSP) seasons, including high-quality posters and title cards for all race weekends and sessions. The 2023-2025 seasons feature detailed information for each event.
+
+**Features:**
+- Season posters and backgrounds
+- Race weekend posters and summaries
+- Session-specific title cards
+- Complete structural metadata
+
+## World Supersport 300 (WSSP300) Complete Metadata
+
+This configuration provides comprehensive metadata for World Supersport 300 (WSSP300) seasons, including high-quality posters and title cards for all race weekends and sessions. The 2024-2025 seasons feature detailed information for each event.
+
+**Features:**
+- Season posters and backgrounds
+- Race weekend posters and summaries
+- Session-specific title cards
+- Complete structural metadata
+
+## World Rally Championship (WRC) Complete Metadata
+
+This configuration provides comprehensive metadata for World Rally Championship seasons, including high-quality posters and title cards for all rally events and stages. The 2024 season features detailed information for each event.
+
+**Features:**
+- Season posters and backgrounds
+- Rally event posters and summaries
+- Stage-specific title cards
+- Complete structural metadata
+
+## European Rally Championship (ERC) Complete Metadata
+
+This configuration provides comprehensive metadata for European Rally Championship seasons, including high-quality posters and title cards for all rally events and stages. The 2024 season features detailed information for each event.
+
+**Features:**
+- Season posters and backgrounds
+- Rally event posters and summaries
+- Stage-specific title cards
+- Complete structural metadata
+
+## Isle of Man TT Complete Metadata
+
+This configuration provides comprehensive metadata for the Isle of Man TT motorcycle races, including high-quality posters and title cards for all sessions and races.
+
+**Features:**
+- Event posters and backgrounds
+- Race-specific title cards
+- Complete structural metadata
+- Detailed race information
+
 ## UFC Complete Metadata with Posters and Title Cards
 
 This configuration provides comprehensive metadata for UFC events, including high-quality posters and title cards for all fight cards and sessions. The 2024-2025 schedule features major events with detailed information for each fight card.
