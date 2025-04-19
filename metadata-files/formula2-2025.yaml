@@ -4,7 +4,7 @@ metadata:
     url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2-2025/background.jpg
     title: Formula2 2025
     summary: >
-      The 2025 FIA Formula One World Championship is the 76th running of the Formula One World Championship. This premier motorsport competition features 24 races across 21 countries, making it the longest season in F1 history. The championship showcases the world's most advanced racing technology and the planet's most skilled drivers competing for the prestigious Drivers' and Constructors' Championships.
+      The 2025 FIA Formula 2 Championship is the premier feeder series for Formula 1, featuring the world's most promising young drivers. Racing on the same tracks as F1 during Grand Prix weekends, these future stars compete in both Sprint and Feature races, showcasing their talent and fighting for a chance to reach the pinnacle of motorsport.
     seasons:
       1:
         title: Australian Grand Prix
@@ -14,12 +14,16 @@ metadata:
         episodes:
           1:
             title: Free Practice
+            summary: 45-minute practice session where drivers familiarize themselves with the track and work on car setup.
           2:
             title: Qualifying
+            summary: 30-minute qualifying session determining the Feature Race grid, with top 10 reversed for Sprint Race.
           3:
             title: Sprint Race
+            summary: Saturday's shorter race with reversed grid from qualifying top 10, offering points and excitement.
           4:
             title: Feature Race
+            summary: Sunday's main race with mandatory pit stop, full points, and grid based on Friday's qualifying.
       2:
         title: Chinese Grand Prix
         sort_title: 02_Chinese Grand Prix
@@ -28,12 +32,16 @@ metadata:
         episodes:
           1:
             title: Free Practice
+            summary: Practice session at Shanghai International Circuit, focusing on the challenging turn 1-2-3 complex.
           2:
             title: Qualifying
+            summary: Qualifying session setting the Feature Race grid, with track evolution crucial on Shanghai's smooth surface.
           3:
             title: Sprint Race
+            summary: Reversed-grid race featuring slipstreaming battles on Shanghai's long back straight.
           4:
             title: Feature Race
+            summary: Main race with mandatory pit stop strategy crucial on Shanghai's tire-demanding layout.
       3:
         title: Japanese Grand Prix
         sort_title: 03_Japanese Grand Prix
@@ -42,12 +50,16 @@ metadata:
         episodes:
           1:
             title: Free Practice
+            summary: Practice session at the technical Suzuka circuit, mastering the unique figure-eight layout.
           2:
             title: Qualifying
+            summary: Intense qualifying where precision through the Esses and 130R is crucial for lap time.
           3:
             title: Sprint Race
+            summary: Action-packed Sprint with reversed grid taking on Suzuka's challenging corners.
           4:
             title: Feature Race
+            summary: Feature Race showcasing tire management and overtaking skills at this driver's circuit.
       4:
         title: Bahrain Grand Prix
         sort_title: 04_Bahrain Grand Prix
@@ -56,12 +68,16 @@ metadata:
         episodes:
           1:
             title: Free Practice
+            summary: Practice session under floodlights focusing on adapting to Bahrain's abrasive surface and heavy braking zones.
           2:
             title: Qualifying
+            summary: Evening qualifying session setting the Feature Race grid while managing Bahrain's cooling track conditions.
           3:
             title: Sprint Race
+            summary: Reversed-grid Sprint Race challenging tire management skills on Bahrain's abrasive desert track.
           4:
             title: Feature Race
+            summary: Feature Race under floodlights with mandatory pit strategy crucial on this tire-demanding circuit.
       5:
         title: Saudi Arabian Grand Prix
         sort_title: 05_Saudi Arabian Grand Prix
@@ -70,12 +86,16 @@ metadata:
         episodes:
           1:
             title: Free Practice
+            summary: Practice session adapting to Jeddah's high-speed street circuit with walls perilously close to the racing line.
           2:
             title: Qualifying
+            summary: Night qualifying where precision is essential through Jeddah's 27 corners and flowing high-speed sections.
           3:
             title: Sprint Race
+            summary: Sprint Race challenging drivers' courage and precision on Saudi Arabia's unforgiving street circuit.
           4:
             title: Feature Race
+            summary: Feature Race combining high speeds and technical challenge on one of the calendar's most demanding circuits.
       6:
         title: Miami Grand Prix
         sort_title: 06_Miami Grand Prix
@@ -84,12 +104,16 @@ metadata:
         episodes:
           1:
             title: Free Practice
+            summary: Practice session in Miami's challenging heat focusing on the circuit's technical sections and overtaking zones.
           2:
             title: Qualifying
+            summary: Qualifying session in Florida's humid conditions determining Feature Race grid positions.
           3:
             title: Sprint Race
+            summary: Sprint Race featuring multiple overtaking opportunities on Miami's three DRS zones.
           4:
             title: Feature Race
+            summary: Feature Race in Florida's heat testing drivers' physical condition and strategic tire management.
       7:
         title: Emilia Romagna Grand Prix
         sort_title: 07_Emilia Romagna Grand Prix
@@ -98,12 +122,16 @@ metadata:
         episodes:
           1:
             title: Free Practice
+            summary: Practice session on Imola's historic track where precision is essential with gravel traps punishing mistakes.
           2:
             title: Qualifying
+            summary: Qualifying session where track position is crucial on a circuit with limited overtaking opportunities.
           3:
             title: Sprint Race
+            summary: Sprint Race challenging drivers to find overtaking spots on Imola's narrow, technical layout.
           4:
             title: Feature Race
+            summary: Feature Race where strategy and qualifying performance often determine the outcome at this classic venue.
       8:
         title: Monaco Grand Prix
         sort_title: 08_Monaco Grand Prix
@@ -112,12 +140,16 @@ metadata:
         episodes:
           1:
             title: Free Practice
+            summary: Practice session building confidence on Monaco's tight streets where barriers are constantly inches away.
           2:
             title: Qualifying
+            summary: Monaco's all-important qualifying session, often more crucial than the race itself due to overtaking difficulties.
           3:
             title: Sprint Race
+            summary: Sprint Race navigating Monaco's narrow streets where track position is everything.
           4:
             title: Feature Race
+            summary: Feature Race through Monte Carlo's iconic streets requiring absolute concentration for every lap.
       9:
         title: Spanish Grand Prix
         sort_title: 09_Spanish Grand Prix
@@ -126,12 +158,16 @@ metadata:
         episodes:
           1:
             title: Free Practice
+            summary: Practice session on Barcelona's familiar layout focusing on car balance through diverse corner types.
           2:
             title: Qualifying
+            summary: Qualifying at this technical circuit where small time differences often separate the entire field.
           3:
             title: Sprint Race
+            summary: Sprint Race challenging drivers to find overtaking opportunities on this well-known test circuit.
           4:
             title: Feature Race
+            summary: Feature Race testing tire management and strategy on Barcelona's technically demanding layout.
       10:
         title: Canadian Grand Prix
         sort_title: 10_Canadian Grand Prix
@@ -140,12 +176,16 @@ metadata:
         episodes:
           1:
             title: Free Practice
+            summary: Practice session focusing on Montreal's heavy braking zones and challenging chicanes.
           2:
             title: Qualifying
+            summary: Qualifying session where precision through chicanes is crucial with the Wall of Champions waiting to punish mistakes.
           3:
             title: Sprint Race
+            summary: Sprint Race on Circuit Gilles Villeneuve's stop-start layout offering numerous overtaking opportunities.
           4:
             title: Feature Race
+            summary: Feature Race often featuring unpredictable weather conditions and safety car periods affecting strategy.
       11:
         title: Austrian Grand Prix
         sort_title: 11_Austrian Grand Prix
@@ -154,12 +194,16 @@ metadata:
         episodes:
           1:
             title: Free Practice
+            summary: Practice session on Austria's compact layout with significant elevation changes and heavy braking zones.
           2:
             title: Qualifying
+            summary: Qualifying at the Red Bull Ring where tiny margins separate the field on this short, fast circuit.
           3:
             title: Sprint Race
+            summary: Sprint Race featuring multiple overtaking opportunities on Austria's three long straights.
           4:
             title: Feature Race
+            summary: Feature Race offering exciting wheel-to-wheel action through the picturesque Styrian mountains.
       12:
         title: British Grand Prix
         sort_title: 12_British Grand Prix
@@ -168,12 +212,16 @@ metadata:
         episodes:
           1:
             title: Free Practice
+            summary: Practice session mastering Silverstone's legendary high-speed corner sequences like Maggotts and Becketts.
           2:
             title: Qualifying
+            summary: Qualifying where driver commitment is tested through Silverstone's fast, flowing layout.
           3:
             title: Sprint Race
+            summary: Sprint Race tackling one of the calendar's most challenging and historic circuits.
           4:
             title: Feature Race
+            summary: Feature Race often affected by Britain's unpredictable weather conditions on this driver favorite circuit.
       13:
         title: Belgian Grand Prix
         sort_title: 13_Belgian Grand Prix
@@ -182,12 +230,16 @@ metadata:
         episodes:
           1:
             title: Free Practice
+            summary: Practice session on Formula 2's longest circuit, mastering the iconic Eau Rouge-Raidillon complex.
           2:
             title: Qualifying
+            summary: Qualifying at Spa requires maximum commitment through high-speed corners in often changing weather conditions.
           3:
             title: Sprint Race
+            summary: Sprint Race featuring slipstreaming battles and brave overtaking attempts through Spa's fast sections.
           4:
             title: Feature Race
+            summary: Feature Race where Spa's microclimate often creates strategic challenges and exciting racing.
       14:
         title: Hungarian Grand Prix
         sort_title: 14_Hungarian Grand Prix
@@ -196,12 +248,16 @@ metadata:
         episodes:
           1:
             title: Free Practice
+            summary: Practice session in Hungary's intense summer heat on this twisty, technical layout.
           2:
             title: Qualifying
+            summary: Qualifying position is crucial at the Hungaroring where overtaking opportunities are limited.
           3:
             title: Sprint Race
+            summary: Sprint Race challenging drivers in Hungary's extreme heat on a circuit nicknamed "Monaco without walls."
           4:
             title: Feature Race
+            summary: Feature Race where strategy and qualifying position often determine the outcome in Budapest's summer heat.
       15:
         title: Dutch Grand Prix
         sort_title: 15_Dutch Grand Prix
@@ -210,12 +266,16 @@ metadata:
         episodes:
           1:
             title: Free Practice
+            summary: Practice session adapting to Zandvoort's unique banked corners and narrow, flowing layout.
           2:
             title: Qualifying
+            summary: Qualifying where precision is essential on Zandvoort's challenging, technical circuit.
           3:
             title: Sprint Race
+            summary: Sprint Race tackling the banked Hugenholtz and Arie Luyendyk corners in front of passionate Dutch fans.
           4:
             title: Feature Race
+            summary: Feature Race where overtaking is challenging on Zandvoort's narrow track, putting emphasis on strategy.
       16:
         title: Italian Grand Prix
         sort_title: 16_Italian Grand Prix
@@ -224,12 +284,16 @@ metadata:
         episodes:
           1:
             title: Free Practice
+            summary: Practice session at Formula 2's fastest circuit focusing on low-downforce setups and slipstreaming tactics.
           2:
             title: Qualifying
+            summary: Qualifying at Monza often features tactical battles for slipstreams to gain crucial lap time.
           3:
             title: Sprint Race
+            summary: Sprint Race offering thrilling slipstreaming battles along Monza's historic high-speed straights.
           4:
             title: Feature Race
+            summary: Feature Race where draft and overtaking ability create spectacular racing at the Temple of Speed.
       17:
         title: Azerbaijan Grand Prix
         sort_title: 17_Azerbaijan Grand Prix
@@ -238,12 +302,16 @@ metadata:
         episodes:
           1:
             title: Free Practice
+            summary: Practice session balancing setup requirements between Baku's narrow castle section and 2.2 km straight.
           2:
             title: Qualifying
+            summary: Qualifying where precision through the castle section is as important as top speed on the long straight.
           3:
             title: Sprint Race
+            summary: Sprint Race often featuring incidents and safety cars on Baku's unforgiving street layout.
           4:
             title: Feature Race
+            summary: Feature Race combining technical challenge and high speed, frequently delivering dramatic and unpredictable results.
       18:
         title: Singapore Grand Prix
         sort_title: 18_Singapore Grand Prix
@@ -252,12 +320,16 @@ metadata:
         episodes:
           1:
             title: Free Practice
+            summary: Night practice session adapting to Singapore's humidity, bumpy surface, and 23 technical corners.
           2:
             title: Qualifying
+            summary: Qualifying under floodlights where precision is essential with barriers close to the racing line.
           3:
             title: Sprint Race
+            summary: Sprint Race testing drivers' concentration and physical conditioning in Singapore's extreme humidity.
           4:
             title: Feature Race
+            summary: Feature Race where qualifying position and strategy are crucial on this challenging street circuit.
       19:
         title: United States Grand Prix
         sort_title: 19_United States Grand Prix
@@ -266,12 +338,16 @@ metadata:
         episodes:
           1:
             title: Free Practice
+            summary: Practice session tackling COTA's dramatic elevation changes and varied corner types.
           2:
             title: Qualifying
+            summary: Qualifying session where a well-balanced car is essential through COTA's diverse technical challenges.
           3:
             title: Sprint Race
+            summary: Sprint Race featuring multiple overtaking opportunities on Austin's driver-favorite circuit.
           4:
             title: Feature Race
+            summary: Feature Race showcasing COTA's combination of technical sections and overtaking zones as the season approaches its conclusion.
       20:
         title: Mexico City Grand Prix
         sort_title: 20_Mexico City Grand Prix
@@ -280,12 +356,16 @@ metadata:
         episodes:
           1:
             title: Free Practice
+            summary: Practice session adapting to Mexico City's high altitude and its effects on aerodynamics and engine performance.
           2:
             title: Qualifying
+            summary: Qualifying in thin air conditions where mechanical grip is more important than aerodynamic downforce.
           3:
             title: Sprint Race
+            summary: Sprint Race through Mexico's iconic stadium section filled with passionate fans.
           4:
             title: Feature Race
+            summary: Feature Race where cooling and engine management are crucial in Mexico's challenging high-altitude conditions.
       21:
         title: São Paulo Grand Prix
         sort_title: 21_São Paulo Grand Prix
@@ -294,12 +374,16 @@ metadata:
         episodes:
           1:
             title: Free Practice
+            summary: Practice session on Interlagos' undulating layout, adapting to its counter-clockwise direction and elevation changes.
           2:
             title: Qualifying
+            summary: Qualifying session often affected by Brazil's unpredictable weather conditions as championships enter crucial stages.
           3:
             title: Sprint Race
+            summary: Sprint Race featuring overtaking battles into the famous Senna S at the start of the lap.
           4:
             title: Feature Race
+            summary: Feature Race at one of motorsport's most beloved circuits, known for producing dramatic and exciting racing.
       22:
         title: Las Vegas Grand Prix
         sort_title: 22_Las Vegas Grand Prix
@@ -308,12 +392,16 @@ metadata:
         episodes:
           1:
             title: Free Practice
+            summary: Night practice session adapting to Las Vegas' cold temperatures and their effect on tire performance.
           2:
             title: Qualifying
+            summary: Qualifying under the neon lights of the Las Vegas Strip with tire warm-up crucial in cold conditions.
           3:
             title: Sprint Race
+            summary: Sprint Race featuring high-speed runs down Las Vegas Boulevard with slipstreaming battles.
           4:
             title: Feature Race
+            summary: Feature Race testing tire management in cold conditions as the championship battle intensifies.
       23:
         title: Qatar Grand Prix
         sort_title: 23_Qatar Grand Prix
@@ -322,12 +410,16 @@ metadata:
         episodes:
           1:
             title: Free Practice
+            summary: Practice session under floodlights on Lusail's flowing layout with its medium and high-speed corners.
           2:
             title: Qualifying
+            summary: Qualifying where commitment is essential through Qatar's fast corners as championships near their conclusion.
           3:
             title: Sprint Race
+            summary: Sprint Race featuring multiple racing lines on Lusail's wide track in hot and humid conditions.
           4:
             title: Feature Race
+            summary: Penultimate Feature Race of the season testing drivers' physical conditioning in Qatar's demanding climate.
       24:
         title: Abu Dhabi Grand Prix
         sort_title: 24_Abu Dhabi Grand Prix
@@ -336,9 +428,13 @@ metadata:
         episodes:
           1:
             title: Free Practice
+            summary: Final practice session of 2025 as drivers adapt to Yas Marina's day-to-night conditions.
           2:
             title: Qualifying
+            summary: Season's last qualifying session, setting the grid for the championship-deciding Feature Race.
           3:
             title: Sprint Race
+            summary: Final Sprint Race of the year under Yas Marina's floodlights.
           4:
             title: Feature Race
+            summary: Season finale Feature Race where the 2025 F2 champions will be crowned.

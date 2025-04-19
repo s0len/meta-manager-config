@@ -2,7 +2,8 @@ metadata:
   NTT IndyCar Series 2025:
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-2025/poster.jpg
     url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-2025/background.jpg
-    title: IndyCar Series 2025
+    title: NTT IndyCar Series 2025
+    sort_title: NTT IndyCar Series 2025
     summary: >
       The 2025 IndyCar Series season features a 17-race schedule across diverse American circuits. This premier open-wheel motorsport series showcases thrilling wheel-to-wheel racing as teams and drivers compete for the prestigious championship. From street circuits to road courses and ovals, the season culminates with the crowning of a champion after a diverse test of driver skill and team strategy.
     seasons:
@@ -14,12 +15,16 @@ metadata:
         episodes:
           1:
             title: Practice 1
+            summary: First practice session where teams and drivers get their initial feel for the 1.8-mile street circuit, working on car setup and gathering valuable data for the race weekend.
           2:
             title: Practice 2
+            summary: Final practice session before qualifying, teams fine-tune their setups and drivers push harder to prepare for qualifying and race conditions.
           3:
             title: Qualifying
+            summary: Three-round knockout qualifying format determines the starting grid, with the Fast Six shootout deciding pole position for the season opener.
           4:
             title: Race
+            summary: The first race of the 2025 season on the streets of St. Petersburg, where Alex Palou secured victory for Chip Ganassi Racing Honda.
       2:
         title: The Thermal Club INDYCAR Grand Prix
         sort_title: 02_The Thermal Club INDYCAR Grand Prix
@@ -84,24 +89,34 @@ metadata:
         episodes:
           1:
             title: Practice 1
+            summary: Opening practice session for the Indianapolis 500, where teams begin their preparations for the most prestigious race in American motorsport.
           2:
             title: Practice 2
+            summary: Teams continue to work on race setups and gather crucial data about their cars' performance in traffic on the 2.5-mile oval.
           3:
             title: Practice 3
+            summary: Teams focus on qualifying simulations and trimming out their cars for maximum speed in preparation for qualifying weekend.
           4:
             title: Practice 4
+            summary: Final practice session before qualifying, teams make their final adjustments for their qualifying attempts.
           5:
             title: Practice 5
+            summary: Post-qualifying practice session where teams switch focus back to race setups and running in traffic.
           6:
             title: Practice 6
+            summary: Teams continue to refine their race day strategies and setups while practicing pit stops and fuel saving techniques.
           7:
             title: Qualifying Day 1
+            summary: First day of qualifying determines positions 13-33 and the Fast 12 who advance to Day 2.
           8:
             title: Qualifying Day 2
+            summary: Fast 12 qualifying sets positions 7-12, followed by the Fast Six shootout for pole position.
           9:
             title: Carb Day
+            summary: Final practice session before the race, featuring the pit stop competition and allowing teams to verify their final race preparations.
           10:
             title: Race
+            summary: The 109th Running of the Indianapolis 500, one of the most prestigious automobile races in the world, featuring 33 cars competing over 500 miles.
       7:
         title: Chevrolet Detroit Grand Prix
         sort_title: 07_Chevrolet Detroit Grand Prix
@@ -124,10 +139,13 @@ metadata:
         episodes:
           1:
             title: Practice
+            summary: Single practice session on the unique 1.25-mile oval where teams work on both qualifying and race setups.
           2:
             title: Qualifying
+            summary: Two-lap qualifying format determines the starting grid for the 500-mile oval race.
           3:
             title: Race
+            summary: Night race under the lights at World Wide Technology Raceway, where Josef Newgarden claimed victory in 2024.
       9:
         title: XPEL Grand Prix at Road America
         sort_title: 09_XPEL Grand Prix at Road America
@@ -164,10 +182,13 @@ metadata:
         episodes:
           1:
             title: Practice
+            summary: Single practice session where teams prepare for both races of the doubleheader weekend on the shortest oval on the schedule.
           2:
             title: Qualifying
+            summary: Two-lap qualifying format sets the grid for both races of the doubleheader weekend.
           3:
             title: Race
+            summary: First race of the Iowa doubleheader weekend, won by Scott McLaughlin in 2024.
       12:
         title: Sukup INDYCAR Race Weekend Race 2
         sort_title: 12_Sukup INDYCAR Race Weekend Race 2
@@ -176,6 +197,7 @@ metadata:
         episodes:
           1:
             title: Race
+            summary: Second race of the Iowa doubleheader weekend, featuring different track conditions and strategies from Race 1.
       13:
         title: Ontario Honda Dealers Indy Toronto
         sort_title: 13_Ontario Honda Dealers Indy Toronto
@@ -238,7 +260,10 @@ metadata:
         episodes:
           1:
             title: Practice
+            summary: Final practice session of the season where championship contenders fine-tune their setups for the title-deciding race.
           2:
             title: Qualifying
+            summary: Championship-deciding qualifying session sets the grid for the season finale on the 1.33-mile concrete oval.
           3:
             title: Race
+            summary: Season finale at Nashville Superspeedway where the 2025 IndyCar Series champion will be crowned.

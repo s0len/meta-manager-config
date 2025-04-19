@@ -27,9 +27,11 @@ metadata:
           5:
             title: Sprint
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R01_SPRINT.jpg
+            summary: The first official Sprint race of the 2025 season covers half the distance of the main Grand Prix with half-points awarded. This shorter format eliminates tire management and fuel conservation, resulting in all-out aggression from the start. The Sprint provides a crucial preview of race pace while offering fans additional competitive action and allowing riders to assess rivals' strategies.
           6:
             title: Race
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R01_RACE.jpg
+            summary: The main event of the Thailand Grand Prix runs the full race distance on Sunday. Strategies center around tire preservation in the tropical heat while maintaining competitive pace. The season opener carries extra significance as teams validate their winter development work in real racing conditions, with riders eager to establish psychological advantages and secure early championship points.
       2:
         title: Gran Premio de la República Argentina
         sort_title: 02_Gran Premio de la República Argentina
@@ -39,21 +41,27 @@ metadata:
           1:
             title: Practice One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R02_PRACTICE.jpg
+            summary: First practice at Termas de Río Hondo focuses on track familiarization and grip assessment, as the circuit's unique surface characteristics often present a dusty, low-grip challenge early in the weekend. Teams prioritize understanding the rapidly evolving track conditions while riders reacquaint themselves with the flowing layout after Thailand's more stop-start nature.
           2:
             title: Practice Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R02_PRACTICE.jpg
+            summary: The afternoon practice session in Argentina sees intensified efforts as the racing line develops and grip improves. Teams focus on tire longevity testing against the abrasive surface, while riders experiment with different lines through the circuit's sweeping corners. The final minutes feature qualifying simulation runs as riders target direct Q2 advancement.
           3:
             title: Qualifying One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R02_QUAL.jpg
+            summary: Q1 at Argentina often produces surprises as the rapidly improving track surface can change performance dynamics throughout the weekend. Riders who struggled in practice due to the unique grip conditions have one final chance to advance to Q2, creating a tense atmosphere as teams make last-minute setup adjustments seeking the critical breakthrough.
           4:
             title: Qualifying Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R02_QUAL.jpg
+            summary: Qualifying Two at Termas de Río Hondo typically features dramatic time improvements as the track reaches optimal grip levels. The session becomes a battle of nerve and precision, with pole position often decided by milliseconds. Track position is particularly crucial due to the circuit's narrow optimal racing line in several sectors.
           5:
             title: Sprint
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R02_SPRINT.jpg
+            summary: The Argentine Sprint race showcases aggressive riding as competitors navigate the circuit's fast sweeping sections. The shorter format emphasizes raw pace over tire management, though the abrasive surface still punishes overly aggressive riding styles. Riders also use this opportunity to confirm race setup choices ahead of Sunday's main event.
           6:
             title: Race
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R02_RACE.jpg
+            summary: The Grand Prix of Argentina features tire management as the central strategic element, with the abrasive surface creating significant degradation. Weather variables often introduce last-minute strategy adjustments, while the circuit's flowing nature rewards smooth, precise riding. Coming early in the championship, teams remain open to significant setup changes as they continue optimizing their 2025 machines.
       3:
         title: Red Bull Grand Prix of The Americas
         sort_title: 03_Red Bull Grand Prix of The Americas
@@ -63,21 +71,27 @@ metadata:
           1:
             title: Practice One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R03_PRACTICE.jpg
+            summary: First practice at COTA addresses the circuit's infamous bumpy surface and complex layout. Riders concentrate on finding comfort over the physical challenges of the track, particularly the steep uphill climb to Turn 1 and the technical first sector. Engineers focus on suspension settings to manage the bumps while maintaining stability through the high-speed sections.
           2:
             title: Practice Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R03_PRACTICE.jpg
+            summary: The second practice session at the Americas GP sees teams refine their setups for the demanding track. With COTA featuring both very slow corners and high-speed straights, finding an optimal compromise becomes crucial. Riders work on mastering the circuit's unique rhythm while engineers gather critical data for both sprint and race distances in potentially hot Texan conditions.
           3:
             title: Qualifying One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R03_QUAL.jpg
+            summary: Q1 at the Circuit of the Americas highlights the challenges of the track's diverse sectors. Riders seeking to advance must master the technical sections while maximizing time on the long back straight. Physical fitness becomes evident as the demanding layout tests endurance even in the short qualifying format.
           4:
             title: Qualifying Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R03_QUAL.jpg
+            summary: Q2 at COTA showcases the ultimate challenge of the American circuit with riders pushing to the absolute limit. The complex nature of the track means pole position often goes to the most technically proficient riders rather than those on the fastest machinery. Finding the perfect lap requires exceptional concentration through all 20 corners.
           5:
             title: Sprint
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R03_SPRINT.jpg
+            summary: The Sprint at COTA features intense battles particularly in the circuit's first sector. The shorter format emphasizes the importance of the start and the run up to Turn 1. Physical conditioning plays a major role as riders tackle the demanding layout at maximum intensity without the need to conserve energy for full race distance.
           6:
             title: Race
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R03_RACE.jpg
+            summary: The American Grand Prix tests riders' complete skillset across 20 laps of the challenging COTA circuit. Physical endurance becomes a deciding factor in the latter stages as fatigue affects precision on the technical layout. Tire degradation, particularly on the front, creates strategic variables as riders balance pace against conservation through the numerous hard-braking zones.
       4:
         title: Qatar Airways Grand Prix of Qatar
         sort_title: 04_Qatar Airways Grand Prix of Qatar
@@ -87,21 +101,27 @@ metadata:
           1:
             title: Practice One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R04_PRACTICE.jpg
+            summary: First practice in Qatar focuses on assessing grip conditions on a track often affected by desert sand. Teams evaluate the circuit's daytime characteristics, a significant change from previous years of exclusively night running. Riders reacquaint themselves with the flowing layout while engineers gather baseline setup data for the varied conditions expected throughout the weekend.
           2:
             title: Practice Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R04_PRACTICE.jpg
+            summary: The second practice session at Losail sees teams refine their setups with particular attention to tire choice and wear rates. As track conditions continually evolve with more rubber laid down, riders focus on finding the optimal lines through Qatar's flowing corners. The session concludes with qualifying simulation runs as teams target direct Q2 advancement.
           3:
             title: Qualifying One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R04_QUAL.jpg
+            summary: Q1 at the Losail circuit sees riders battling changing grip levels that can vary dramatically between sessions. The pressure to advance to Q2 intensifies on a track where starting position significantly impacts race strategy due to the long main straight and the critical first corner positioning.
           4:
             title: Qualifying Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R04_QUAL.jpg
+            summary: Qatar's Q2 session showcases the importance of slipstreaming on the long main straight while maintaining precision through the flowing sections. Riders seek the perfect balance between gaining a tow on the straight without compromising their line into Turn 1. The session often features tactical waiting games as competitors look for ideal track position.
           5:
             title: Sprint
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R04_SPRINT.jpg
+            summary: The Sprint race at Losail highlights the importance of the start and first lap positioning. With its shorter format, riders push aggressively from the beginning, creating intense battles particularly through the circuit's sweeping right-handers. Teams also use this opportunity to gather final data on tire performance for the main race strategy.
           6:
             title: Race
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R04_RACE.jpg
+            summary: The Qatar Grand Prix features strategic complexity around tire preservation while maintaining competitive pace through the circuit's flowing layout. The 1km straight creates multiple overtaking opportunities, though riders must carefully manage their approach to avoid running wide at Turn 1. As temperatures change, finding optimal grip becomes increasingly challenging throughout the race distance.
       5:
         title: Gran Premio Estrella Galicia 0,0 de España
         sort_title: 05_Gran Premio Estrella Galicia 0,0 de España
@@ -111,21 +131,27 @@ metadata:
           1:
             title: Practice One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R05_PRACTICE.jpg
+            summary: The first practice at Jerez marks the start of the European season, with teams often bringing their first significant updates. Riders focus on adapting to the circuit's classic flowing layout after the varied early-season tracks. Engineers work on finding the right balance for the technical corners while managing the typically warm Andalusian conditions.
           2:
             title: Practice Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R05_PRACTICE.jpg
+            summary: The afternoon session at Jerez intensifies as teams refine setups on a track that rewards precision and smooth riding. With temperatures typically rising, the conditions more closely match those expected for qualifying and the races. Riders push hard in the final minutes to secure a top-10 position and direct passage to Q2.
           3:
             title: Qualifying One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R05_QUAL.jpg
+            summary: Q1 at Jerez creates intense pressure as riders navigate the tight, technical circuit. The session often showcases Spanish wildcard entries motivated by home support. Finding clear track space becomes crucial on the relatively short layout where traffic can significantly impact lap times.
           4:
             title: Qualifying Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R05_QUAL.jpg
+            summary: Qualifying Two at the Spanish Grand Prix features maximum intensity as riders push for pole position in front of passionate home fans. The technical nature of Jerez rewards precision and commitment, with time often found in the flowing final sector. Track position proves particularly important at a circuit where overtaking can be challenging.
           5:
             title: Sprint
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R05_SPRINT.jpg
+            summary: The Jerez Sprint creates spectacular action as riders battle aggressively on a track where positions are hard-fought. The shorter format eliminates tire conservation concerns, resulting in all-out racing from start to finish. Spanish riders typically show extra motivation competing in front of their home crowd, adding to the drama.
           6:
             title: Race
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R05_RACE.jpg
+            summary: The Spanish Grand Prix at Jerez combines technical challenges with intense competition. Tire management becomes critical over race distance, particularly for the rear on corner exits. The passionate Spanish crowd creates an electric atmosphere as riders battle through the iconic sections of this classic circuit, with home heroes receiving exceptional support.
       6:
         title: Michelin® Grand Prix de France
         sort_title: 06_Michelin® Grand Prix de France
@@ -135,21 +161,27 @@ metadata:
           1:
             title: Practice One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R06_PRACTICE.jpg
+            summary: First practice at Le Mans typically involves weather monitoring as the French round is notorious for changeable conditions. Riders focus on finding comfort in the circuit's heavy braking zones while engineers work on optimizing stability and turn-in for the track's numerous tight corners. Sessions often include preliminary wet weather preparation.
           2:
             title: Practice Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R06_PRACTICE.jpg
+            summary: The second Le Mans practice session sees increased intensity regardless of conditions. Teams refine braking performance and acceleration out of the circuit's tight corners. French riders receive extra attention as they perform in front of their home crowd, while all competitors focus on securing top-10 positions for direct Q2 qualification.
           3:
             title: Qualifying One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R06_QUAL.jpg
+            summary: Q1 at the French Grand Prix often features dramatic sessions influenced by Le Mans' unpredictable weather. Riders push the limits of late braking into the circuit's tight corners, with the pressure to advance to Q2 frequently resulting in crashes as competitors take risks in the stop-and-go sections.
           4:
             title: Qualifying Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R06_QUAL.jpg
+            summary: Le Mans' Q2 session showcases the importance of precision in the technical sections. Pole position often goes to the rider who can maintain the perfect line while braking at the absolute limit. The passionate French crowd adds to the intensity, particularly for home heroes aiming for front-row starts.
           5:
             title: Sprint
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R06_SPRINT.jpg
+            summary: The Sprint race at Le Mans features intense battles, particularly into the tight first chicane and the double right-hander of La Chapelle. The circuit's stop-and-go nature creates multiple overtaking opportunities while encouraging aggressive riding in the shorter format, often resulting in dramatic moments for the enthusiastic French audience.
           6:
             title: Race
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R06_RACE.jpg
+            summary: The French Grand Prix combines strategic complexity with Le Mans' technical demands. Front tire management becomes critical through the heavy braking zones, while changing weather remains a constant threat to carefully planned strategies. The circuit's tight layout creates multiple passing opportunities, ensuring a spectacle for the massive crowds regardless of the championship situation.
       7:
         title: Tissot British Grand Prix
         sort_title: 07_Tissot British Grand Prix
@@ -159,21 +191,27 @@ metadata:
           1:
             title: Practice One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R07_PRACTICE.jpg
+            summary: First practice at Silverstone focuses on reacquainting with the longest and one of the fastest circuits on the calendar. Riders work on finding rhythm across the diverse 5.9km layout, while engineers gather data on the unique demands of the high-speed sections. British riders receive particular attention as they perform on home soil.
           2:
             title: Practice Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R07_PRACTICE.jpg
+            summary: The second practice session at the Americas GP sees teams refine their setups for the demanding track. With COTA featuring both very slow corners and high-speed straights, finding an optimal compromise becomes crucial. Riders work on mastering the circuit's unique rhythm while engineers gather critical data for both sprint and race distances in potentially hot Texan conditions.
           3:
             title: Qualifying One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R07_QUAL.jpg
+            summary: Q1 at the British Grand Prix challenges riders with Silverstone's diverse sectors and potential weather variables. The session's brevity combined with the circuit's length means competitors might only get two flying laps, increasing pressure to execute perfectly. Finding clear track space becomes a tactical priority.
           4:
             title: Qualifying Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R07_QUAL.jpg
+            summary: Silverstone's Q2 session showcases the ultimate challenge of mastering all sections of this diverse circuit. Pole position requires exceptional skill through both the high-speed Maggots and Becketts complex and the technical Arena section. With limited opportunities for flying laps, timing the run perfectly becomes as crucial as raw speed.
           5:
             title: Sprint
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R07_SPRINT.jpg
+            summary: The British Grand Prix Sprint features spectacular high-speed battles across Silverstone's flowing layout. The circuit's width creates multiple racing lines and overtaking opportunities, while its length means even the shortened format requires significant physical endurance and concentration. British riders typically show extra determination in front of the home crowd.
           6:
             title: Race
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R07_RACE.jpg
+            summary: The main race at Silverstone combines strategic complexity with the physical demands of the longest circuit on the calendar. Changing weather remains a constant threat at the British venue regardless of its new May position. The diverse layout rewards versatile riders who can master both the high-speed sections and technical corners while managing tire life over the extended race distance.
       8:
         title: Gran Premio de Aragon
         sort_title: 08_Gran Premio de Aragon
@@ -183,21 +221,27 @@ metadata:
           1:
             title: Practice One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R08_PRACTICE.jpg
+            summary: First practice sessions mark the initial contact with the track, where riders reacquaint themselves with the circuit layout and teams establish baseline setups. This session focuses on finding comfort with the bike-track relationship, gathering data on grip levels, and making initial suspension adjustments. Engineers analyze telemetry while riders provide feedback on handling characteristics unique to this venue.
           2:
             title: Practice Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R08_PRACTICE.jpg
+            summary: The second practice becomes increasingly competitive as teams refine setups based on morning data. With greater track evolution and rubber buildup, lap times drop significantly. The final minutes feature qualifying simulation runs as riders push for top-10 positions to secure direct advancement to Q2, creating a mini-qualifying atmosphere with high stakes and increased intensity.
           3:
             title: Qualifying One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R08_QUAL.jpg
+            summary: Qualifying One creates intense pressure as riders who missed the top 10 in practice compete for just two transfer spots to Q2. This 15-minute session often features desperate gambles and all-out riding as competitors balance the absolute limit against the risk of crashing. The high-stakes format frequently produces surprising performances from underdog riders and teams.
           4:
             title: Qualifying Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R08_QUAL.jpg
+            summary: The elite Q2 session determines the front four rows of the grid with the championship's fastest riders pushing to absolute limits. Featuring pinpoint precision and breathtaking commitment, Q2 embodies the purest expression of speed in MotoGP. Strategic elements include tire choice, timing of flying laps, and whether to follow competitors for slipstream advantages on long straights.
           5:
             title: Sprint
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R08_SPRINT.jpg
+            summary: Saturday's Sprint race runs approximately half the Grand Prix distance, eliminating tire management and fuel conservation concerns. This creates all-out aggression from lights to flag as riders battle for half-championship points. The shorter format often produces spectacular overtaking and increased risk-taking, while providing teams valuable data on race pace and competitor strategies for Sunday's main event.
           6:
             title: Race
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R08_RACE.jpg
+            summary: The Grand Prix represents the culmination of the race weekend, combining all elements of strategy, skill, and endurance over full race distance. Tire management becomes critical as the race progresses, with different compounds and wear rates creating strategic variables. The longer format rewards consistent pace and intelligent riding, while highlighting the effects of physical and mental fatigue on performance in the closing laps.
       9:
         title: Gran Premio d'Italia Brembo
         sort_title: 09_Gran Premio d'Italia Brembo
@@ -207,21 +251,27 @@ metadata:
           1:
             title: Practice One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R09_PRACTICE.jpg
+            summary: First practice sessions mark the initial contact with the track, where riders reacquaint themselves with the circuit layout and teams establish baseline setups. This session focuses on finding comfort with the bike-track relationship, gathering data on grip levels, and making initial suspension adjustments. Engineers analyze telemetry while riders provide feedback on handling characteristics unique to this venue.
           2:
             title: Practice Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R09_PRACTICE.jpg
+            summary: The second practice becomes increasingly competitive as teams refine setups based on morning data. With greater track evolution and rubber buildup, lap times drop significantly. The final minutes feature qualifying simulation runs as riders push for top-10 positions to secure direct advancement to Q2, creating a mini-qualifying atmosphere with high stakes and increased intensity.
           3:
             title: Qualifying One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R09_QUAL.jpg
+            summary: Qualifying One creates intense pressure as riders who missed the top 10 in practice compete for just two transfer spots to Q2. This 15-minute session often features desperate gambles and all-out riding as competitors balance the absolute limit against the risk of crashing. The high-stakes format frequently produces surprising performances from underdog riders and teams.
           4:
             title: Qualifying Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R09_QUAL.jpg
+            summary: The elite Q2 session determines the front four rows of the grid with the championship's fastest riders pushing to absolute limits. Featuring pinpoint precision and breathtaking commitment, Q2 embodies the purest expression of speed in MotoGP. Strategic elements include tire choice, timing of flying laps, and whether to follow competitors for slipstream advantages on long straights.
           5:
             title: Sprint
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R09_SPRINT.jpg
+            summary: Saturday's Sprint race runs approximately half the Grand Prix distance, eliminating tire management and fuel conservation concerns. This creates all-out aggression from lights to flag as riders battle for half-championship points. The shorter format often produces spectacular overtaking and increased risk-taking, while providing teams valuable data on race pace and competitor strategies for Sunday's main event.
           6:
             title: Race
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R09_RACE.jpg
+            summary: The Grand Prix represents the culmination of the race weekend, combining all elements of strategy, skill, and endurance over full race distance. Tire management becomes critical as the race progresses, with different compounds and wear rates creating strategic variables. The longer format rewards consistent pace and intelligent riding, while highlighting the effects of physical and mental fatigue on performance in the closing laps.
       10:
         title: Motul TT Assen
         sort_title: 10_Motul TT Assen
@@ -231,21 +281,27 @@ metadata:
           1:
             title: Practice One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R10_PRACTICE.jpg
+            summary: First practice sessions mark the initial contact with the track, where riders reacquaint themselves with the circuit layout and teams establish baseline setups. This session focuses on finding comfort with the bike-track relationship, gathering data on grip levels, and making initial suspension adjustments. Engineers analyze telemetry while riders provide feedback on handling characteristics unique to this venue.
           2:
             title: Practice Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R10_PRACTICE.jpg
+            summary: The second practice becomes increasingly competitive as teams refine setups based on morning data. With greater track evolution and rubber buildup, lap times drop significantly. The final minutes feature qualifying simulation runs as riders push for top-10 positions to secure direct advancement to Q2, creating a mini-qualifying atmosphere with high stakes and increased intensity.
           3:
             title: Qualifying One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R10_QUAL.jpg
+            summary: Qualifying One creates intense pressure as riders who missed the top 10 in practice compete for just two transfer spots to Q2. This 15-minute session often features desperate gambles and all-out riding as competitors balance the absolute limit against the risk of crashing. The high-stakes format frequently produces surprising performances from underdog riders and teams.
           4:
             title: Qualifying Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R10_QUAL.jpg
+            summary: The elite Q2 session determines the front four rows of the grid with the championship's fastest riders pushing to absolute limits. Featuring pinpoint precision and breathtaking commitment, Q2 embodies the purest expression of speed in MotoGP. Strategic elements include tire choice, timing of flying laps, and whether to follow competitors for slipstream advantages on long straights.
           5:
             title: Sprint
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R10_SPRINT.jpg
+            summary: Saturday's Sprint race runs approximately half the Grand Prix distance, eliminating tire management and fuel conservation concerns. This creates all-out aggression from lights to flag as riders battle for half-championship points. The shorter format often produces spectacular overtaking and increased risk-taking, while providing teams valuable data on race pace and competitor strategies for Sunday's main event.
           6:
             title: Race
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R10_RACE.jpg
+            summary: The Grand Prix represents the culmination of the race weekend, combining all elements of strategy, skill, and endurance over full race distance. Tire management becomes critical as the race progresses, with different compounds and wear rates creating strategic variables. The longer format rewards consistent pace and intelligent riding, while highlighting the effects of physical and mental fatigue on performance in the closing laps.
       11:
         title: Liqui Moly Motorrad Grand Prix Deutschland
         sort_title: 11_Liqui Moly Motorrad Grand Prix Deutschland
@@ -255,21 +311,27 @@ metadata:
           1:
             title: Practice One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R11_PRACTICE.jpg
+            summary: First practice sessions mark the initial contact with the track, where riders reacquaint themselves with the circuit layout and teams establish baseline setups. This session focuses on finding comfort with the bike-track relationship, gathering data on grip levels, and making initial suspension adjustments. Engineers analyze telemetry while riders provide feedback on handling characteristics unique to this venue.
           2:
             title: Practice Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R11_PRACTICE.jpg
+            summary: The second practice becomes increasingly competitive as teams refine setups based on morning data. With greater track evolution and rubber buildup, lap times drop significantly. The final minutes feature qualifying simulation runs as riders push for top-10 positions to secure direct advancement to Q2, creating a mini-qualifying atmosphere with high stakes and increased intensity.
           3:
             title: Qualifying One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R11_QUAL.jpg
+            summary: Qualifying One creates intense pressure as riders who missed the top 10 in practice compete for just two transfer spots to Q2. This 15-minute session often features desperate gambles and all-out riding as competitors balance the absolute limit against the risk of crashing. The high-stakes format frequently produces surprising performances from underdog riders and teams.
           4:
             title: Qualifying Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R11_QUAL.jpg
+            summary: The elite Q2 session determines the front four rows of the grid with the championship's fastest riders pushing to absolute limits. Featuring pinpoint precision and breathtaking commitment, Q2 embodies the purest expression of speed in MotoGP. Strategic elements include tire choice, timing of flying laps, and whether to follow competitors for slipstream advantages on long straights.
           5:
             title: Sprint
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R11_SPRINT.jpg
+            summary: Saturday's Sprint race runs approximately half the Grand Prix distance, eliminating tire management and fuel conservation concerns. This creates all-out aggression from lights to flag as riders battle for half-championship points. The shorter format often produces spectacular overtaking and increased risk-taking, while providing teams valuable data on race pace and competitor strategies for Sunday's main event.
           6:
             title: Race
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R11_RACE.jpg
+            summary: The Grand Prix represents the culmination of the race weekend, combining all elements of strategy, skill, and endurance over full race distance. Tire management becomes critical as the race progresses, with different compounds and wear rates creating strategic variables. The longer format rewards consistent pace and intelligent riding, while highlighting the effects of physical and mental fatigue on performance in the closing laps.
       12:
         title: Grand Prix České republiky
         sort_title: 12_Grand Prix České republiky
@@ -279,21 +341,27 @@ metadata:
           1:
             title: Practice One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R12_PRACTICE.jpg
+            summary: First practice sessions mark the initial contact with the track, where riders reacquaint themselves with the circuit layout and teams establish baseline setups. This session focuses on finding comfort with the bike-track relationship, gathering data on grip levels, and making initial suspension adjustments. Engineers analyze telemetry while riders provide feedback on handling characteristics unique to this venue.
           2:
             title: Practice Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R12_PRACTICE.jpg
+            summary: The second practice becomes increasingly competitive as teams refine setups based on morning data. With greater track evolution and rubber buildup, lap times drop significantly. The final minutes feature qualifying simulation runs as riders push for top-10 positions to secure direct advancement to Q2, creating a mini-qualifying atmosphere with high stakes and increased intensity.
           3:
             title: Qualifying One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R12_QUAL.jpg
+            summary: Qualifying One creates intense pressure as riders who missed the top 10 in practice compete for just two transfer spots to Q2. This 15-minute session often features desperate gambles and all-out riding as competitors balance the absolute limit against the risk of crashing. The high-stakes format frequently produces surprising performances from underdog riders and teams.
           4:
             title: Qualifying Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R12_QUAL.jpg
+            summary: The elite Q2 session determines the front four rows of the grid with the championship's fastest riders pushing to absolute limits. Featuring pinpoint precision and breathtaking commitment, Q2 embodies the purest expression of speed in MotoGP. Strategic elements include tire choice, timing of flying laps, and whether to follow competitors for slipstream advantages on long straights.
           5:
             title: Sprint
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R12_SPRINT.jpg
+            summary: Saturday's Sprint race runs approximately half the Grand Prix distance, eliminating tire management and fuel conservation concerns. This creates all-out aggression from lights to flag as riders battle for half-championship points. The shorter format often produces spectacular overtaking and increased risk-taking, while providing teams valuable data on race pace and competitor strategies for Sunday's main event.
           6:
             title: Race
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R12_RACE.jpg
+            summary: The Grand Prix represents the culmination of the race weekend, combining all elements of strategy, skill, and endurance over full race distance. Tire management becomes critical as the race progresses, with different compounds and wear rates creating strategic variables. The longer format rewards consistent pace and intelligent riding, while highlighting the effects of physical and mental fatigue on performance in the closing laps.
       13:
         title: Motorrad Grand Prix von Österreich
         sort_title: 13_Motorrad Grand Prix von Österreich
@@ -303,21 +371,27 @@ metadata:
           1:
             title: Practice One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R13_PRACTICE.jpg
+            summary: First practice sessions mark the initial contact with the track, where riders reacquaint themselves with the circuit layout and teams establish baseline setups. This session focuses on finding comfort with the bike-track relationship, gathering data on grip levels, and making initial suspension adjustments. Engineers analyze telemetry while riders provide feedback on handling characteristics unique to this venue.
           2:
             title: Practice Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R13_PRACTICE.jpg
+            summary: The second practice becomes increasingly competitive as teams refine setups based on morning data. With greater track evolution and rubber buildup, lap times drop significantly. The final minutes feature qualifying simulation runs as riders push for top-10 positions to secure direct advancement to Q2, creating a mini-qualifying atmosphere with high stakes and increased intensity.
           3:
             title: Qualifying One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R13_QUAL.jpg
+            summary: Qualifying One creates intense pressure as riders who missed the top 10 in practice compete for just two transfer spots to Q2. This 15-minute session often features desperate gambles and all-out riding as competitors balance the absolute limit against the risk of crashing. The high-stakes format frequently produces surprising performances from underdog riders and teams.
           4:
             title: Qualifying Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R13_QUAL.jpg
+            summary: The elite Q2 session determines the front four rows of the grid with the championship's fastest riders pushing to absolute limits. Featuring pinpoint precision and breathtaking commitment, Q2 embodies the purest expression of speed in MotoGP. Strategic elements include tire choice, timing of flying laps, and whether to follow competitors for slipstream advantages on long straights.
           5:
             title: Sprint
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R13_SPRINT.jpg
+            summary: Saturday's Sprint race runs approximately half the Grand Prix distance, eliminating tire management and fuel conservation concerns. This creates all-out aggression from lights to flag as riders battle for half-championship points. The shorter format often produces spectacular overtaking and increased risk-taking, while providing teams valuable data on race pace and competitor strategies for Sunday's main event.
           6:
             title: Race
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R13_RACE.jpg
+            summary: The Grand Prix represents the culmination of the race weekend, combining all elements of strategy, skill, and endurance over full race distance. Tire management becomes critical as the race progresses, with different compounds and wear rates creating strategic variables. The longer format rewards consistent pace and intelligent riding, while highlighting the effects of physical and mental fatigue on performance in the closing laps.
       14:
         title: Hungary Grand Prix
         sort_title: 14_Hungary Grand Prix
@@ -327,21 +401,27 @@ metadata:
           1:
             title: Practice One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R14_PRACTICE.jpg
+            summary: First practice sessions mark the initial contact with the track, where riders reacquaint themselves with the circuit layout and teams establish baseline setups. This session focuses on finding comfort with the bike-track relationship, gathering data on grip levels, and making initial suspension adjustments. Engineers analyze telemetry while riders provide feedback on handling characteristics unique to this venue.
           2:
             title: Practice Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R14_PRACTICE.jpg
+            summary: The second practice becomes increasingly competitive as teams refine setups based on morning data. With greater track evolution and rubber buildup, lap times drop significantly. The final minutes feature qualifying simulation runs as riders push for top-10 positions to secure direct advancement to Q2, creating a mini-qualifying atmosphere with high stakes and increased intensity.
           3:
             title: Qualifying One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R14_QUAL.jpg
+            summary: Qualifying One creates intense pressure as riders who missed the top 10 in practice compete for just two transfer spots to Q2. This 15-minute session often features desperate gambles and all-out riding as competitors balance the absolute limit against the risk of crashing. The high-stakes format frequently produces surprising performances from underdog riders and teams.
           4:
             title: Qualifying Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R14_QUAL.jpg
+            summary: The elite Q2 session determines the front four rows of the grid with the championship's fastest riders pushing to absolute limits. Featuring pinpoint precision and breathtaking commitment, Q2 embodies the purest expression of speed in MotoGP. Strategic elements include tire choice, timing of flying laps, and whether to follow competitors for slipstream advantages on long straights.
           5:
             title: Sprint
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R14_SPRINT.jpg
+            summary: Saturday's Sprint race runs approximately half the Grand Prix distance, eliminating tire management and fuel conservation concerns. This creates all-out aggression from lights to flag as riders battle for half-championship points. The shorter format often produces spectacular overtaking and increased risk-taking, while providing teams valuable data on race pace and competitor strategies for Sunday's main event.
           6:
             title: Race
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R14_RACE.jpg
+            summary: The Grand Prix represents the culmination of the race weekend, combining all elements of strategy, skill, and endurance over full race distance. Tire management becomes critical as the race progresses, with different compounds and wear rates creating strategic variables. The longer format rewards consistent pace and intelligent riding, while highlighting the effects of physical and mental fatigue on performance in the closing laps.
       15:
         title: Gran Premi de Catalunya
         sort_title: 15_Gran Premi de Catalunya
@@ -351,21 +431,27 @@ metadata:
           1:
             title: Practice One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R15_PRACTICE.jpg
+            summary: First practice sessions mark the initial contact with the track, where riders reacquaint themselves with the circuit layout and teams establish baseline setups. This session focuses on finding comfort with the bike-track relationship, gathering data on grip levels, and making initial suspension adjustments. Engineers analyze telemetry while riders provide feedback on handling characteristics unique to this venue.
           2:
             title: Practice Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R15_PRACTICE.jpg
+            summary: The second practice becomes increasingly competitive as teams refine setups based on morning data. With greater track evolution and rubber buildup, lap times drop significantly. The final minutes feature qualifying simulation runs as riders push for top-10 positions to secure direct advancement to Q2, creating a mini-qualifying atmosphere with high stakes and increased intensity.
           3:
             title: Qualifying One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R15_QUAL.jpg
+            summary: Qualifying One creates intense pressure as riders who missed the top 10 in practice compete for just two transfer spots to Q2. This 15-minute session often features desperate gambles and all-out riding as competitors balance the absolute limit against the risk of crashing. The high-stakes format frequently produces surprising performances from underdog riders and teams.
           4:
             title: Qualifying Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R15_QUAL.jpg
+            summary: The elite Q2 session determines the front four rows of the grid with the championship's fastest riders pushing to absolute limits. Featuring pinpoint precision and breathtaking commitment, Q2 embodies the purest expression of speed in MotoGP. Strategic elements include tire choice, timing of flying laps, and whether to follow competitors for slipstream advantages on long straights.
           5:
             title: Sprint
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R15_SPRINT.jpg
+            summary: Saturday's Sprint race runs approximately half the Grand Prix distance, eliminating tire management and fuel conservation concerns. This creates all-out aggression from lights to flag as riders battle for half-championship points. The shorter format often produces spectacular overtaking and increased risk-taking, while providing teams valuable data on race pace and competitor strategies for Sunday's main event.
           6:
             title: Race
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R15_RACE.jpg
+            summary: The Grand Prix represents the culmination of the race weekend, combining all elements of strategy, skill, and endurance over full race distance. Tire management becomes critical as the race progresses, with different compounds and wear rates creating strategic variables. The longer format rewards consistent pace and intelligent riding, while highlighting the effects of physical and mental fatigue on performance in the closing laps.
       16:
         title: Gran Premio Red Bull di San Marino e della Riviera di Rimini
         sort_title: 16_Gran Premio Red Bull di San Marino e della Riviera di Rimini
@@ -375,21 +461,27 @@ metadata:
           1:
             title: Practice One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R16_PRACTICE.jpg
+            summary: First practice sessions mark the initial contact with the track, where riders reacquaint themselves with the circuit layout and teams establish baseline setups. This session focuses on finding comfort with the bike-track relationship, gathering data on grip levels, and making initial suspension adjustments. Engineers analyze telemetry while riders provide feedback on handling characteristics unique to this venue.
           2:
             title: Practice Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R16_PRACTICE.jpg
+            summary: The second practice becomes increasingly competitive as teams refine setups based on morning data. With greater track evolution and rubber buildup, lap times drop significantly. The final minutes feature qualifying simulation runs as riders push for top-10 positions to secure direct advancement to Q2, creating a mini-qualifying atmosphere with high stakes and increased intensity.
           3:
             title: Qualifying One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R16_QUAL.jpg
+            summary: Qualifying One creates intense pressure as riders who missed the top 10 in practice compete for just two transfer spots to Q2. This 15-minute session often features desperate gambles and all-out riding as competitors balance the absolute limit against the risk of crashing. The high-stakes format frequently produces surprising performances from underdog riders and teams.
           4:
             title: Qualifying Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R16_QUAL.jpg
+            summary: The elite Q2 session determines the front four rows of the grid with the championship's fastest riders pushing to absolute limits. Featuring pinpoint precision and breathtaking commitment, Q2 embodies the purest expression of speed in MotoGP. Strategic elements include tire choice, timing of flying laps, and whether to follow competitors for slipstream advantages on long straights.
           5:
             title: Sprint
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R16_SPRINT.jpg
+            summary: Saturday's Sprint race runs approximately half the Grand Prix distance, eliminating tire management and fuel conservation concerns. This creates all-out aggression from lights to flag as riders battle for half-championship points. The shorter format often produces spectacular overtaking and increased risk-taking, while providing teams valuable data on race pace and competitor strategies for Sunday's main event.
           6:
             title: Race
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R16_RACE.jpg
+            summary: The Grand Prix represents the culmination of the race weekend, combining all elements of strategy, skill, and endurance over full race distance. Tire management becomes critical as the race progresses, with different compounds and wear rates creating strategic variables. The longer format rewards consistent pace and intelligent riding, while highlighting the effects of physical and mental fatigue on performance in the closing laps.
       17:
         title: Motul Grand Prix of Japan
         sort_title: 17_Motul Grand Prix of Japan
@@ -399,21 +491,27 @@ metadata:
           1:
             title: Practice One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R17_PRACTICE.jpg
+            summary: First practice sessions mark the initial contact with the track, where riders reacquaint themselves with the circuit layout and teams establish baseline setups. This session focuses on finding comfort with the bike-track relationship, gathering data on grip levels, and making initial suspension adjustments. Engineers analyze telemetry while riders provide feedback on handling characteristics unique to this venue.
           2:
             title: Practice Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R17_PRACTICE.jpg
+            summary: The second practice becomes increasingly competitive as teams refine setups based on morning data. With greater track evolution and rubber buildup, lap times drop significantly. The final minutes feature qualifying simulation runs as riders push for top-10 positions to secure direct advancement to Q2, creating a mini-qualifying atmosphere with high stakes and increased intensity.
           3:
             title: Qualifying One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R17_QUAL.jpg
+            summary: Qualifying One creates intense pressure as riders who missed the top 10 in practice compete for just two transfer spots to Q2. This 15-minute session often features desperate gambles and all-out riding as competitors balance the absolute limit against the risk of crashing. The high-stakes format frequently produces surprising performances from underdog riders and teams.
           4:
             title: Qualifying Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R17_QUAL.jpg
+            summary: The elite Q2 session determines the front four rows of the grid with the championship's fastest riders pushing to absolute limits. Featuring pinpoint precision and breathtaking commitment, Q2 embodies the purest expression of speed in MotoGP. Strategic elements include tire choice, timing of flying laps, and whether to follow competitors for slipstream advantages on long straights.
           5:
             title: Sprint
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R17_SPRINT.jpg
+            summary: Saturday's Sprint race runs approximately half the Grand Prix distance, eliminating tire management and fuel conservation concerns. This creates all-out aggression from lights to flag as riders battle for half-championship points. The shorter format often produces spectacular overtaking and increased risk-taking, while providing teams valuable data on race pace and competitor strategies for Sunday's main event.
           6:
             title: Race
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R17_RACE.jpg
+            summary: The Grand Prix represents the culmination of the race weekend, combining all elements of strategy, skill, and endurance over full race distance. Tire management becomes critical as the race progresses, with different compounds and wear rates creating strategic variables. The longer format rewards consistent pace and intelligent riding, while highlighting the effects of physical and mental fatigue on performance in the closing laps.
       18:
         title: Pertamina Grand Prix of Indonesia
         sort_title: 18_Pertamina Grand Prix of Indonesia
@@ -423,21 +521,27 @@ metadata:
           1:
             title: Practice One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R18_PRACTICE.jpg
+            summary: First practice sessions mark the initial contact with the track, where riders reacquaint themselves with the circuit layout and teams establish baseline setups. This session focuses on finding comfort with the bike-track relationship, gathering data on grip levels, and making initial suspension adjustments. Engineers analyze telemetry while riders provide feedback on handling characteristics unique to this venue.
           2:
             title: Practice Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R18_PRACTICE.jpg
+            summary: The second practice becomes increasingly competitive as teams refine setups based on morning data. With greater track evolution and rubber buildup, lap times drop significantly. The final minutes feature qualifying simulation runs as riders push for top-10 positions to secure direct advancement to Q2, creating a mini-qualifying atmosphere with high stakes and increased intensity.
           3:
             title: Qualifying One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R18_QUAL.jpg
+            summary: Qualifying One creates intense pressure as riders who missed the top 10 in practice compete for just two transfer spots to Q2. This 15-minute session often features desperate gambles and all-out riding as competitors balance the absolute limit against the risk of crashing. The high-stakes format frequently produces surprising performances from underdog riders and teams.
           4:
             title: Qualifying Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R18_QUAL.jpg
+            summary: The elite Q2 session determines the front four rows of the grid with the championship's fastest riders pushing to absolute limits. Featuring pinpoint precision and breathtaking commitment, Q2 embodies the purest expression of speed in MotoGP. Strategic elements include tire choice, timing of flying laps, and whether to follow competitors for slipstream advantages on long straights.
           5:
             title: Sprint
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R18_SPRINT.jpg
+            summary: Saturday's Sprint race runs approximately half the Grand Prix distance, eliminating tire management and fuel conservation concerns. This creates all-out aggression from lights to flag as riders battle for half-championship points. The shorter format often produces spectacular overtaking and increased risk-taking, while providing teams valuable data on race pace and competitor strategies for Sunday's main event.
           6:
             title: Race
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R18_RACE.jpg
+            summary: The Grand Prix represents the culmination of the race weekend, combining all elements of strategy, skill, and endurance over full race distance. Tire management becomes critical as the race progresses, with different compounds and wear rates creating strategic variables. The longer format rewards consistent pace and intelligent riding, while highlighting the effects of physical and mental fatigue on performance in the closing laps.
       19:
         title: Australian Motorcycle Grand Prix
         sort_title: 19_Australian Motorcycle Grand Prix
@@ -447,21 +551,27 @@ metadata:
           1:
             title: Practice One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R19_PRACTICE.jpg
+            summary: First practice sessions mark the initial contact with the track, where riders reacquaint themselves with the circuit layout and teams establish baseline setups. This session focuses on finding comfort with the bike-track relationship, gathering data on grip levels, and making initial suspension adjustments. Engineers analyze telemetry while riders provide feedback on handling characteristics unique to this venue.
           2:
             title: Practice Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R19_PRACTICE.jpg
+            summary: The second practice becomes increasingly competitive as teams refine setups based on morning data. With greater track evolution and rubber buildup, lap times drop significantly. The final minutes feature qualifying simulation runs as riders push for top-10 positions to secure direct advancement to Q2, creating a mini-qualifying atmosphere with high stakes and increased intensity.
           3:
             title: Qualifying One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R19_QUAL.jpg
+            summary: Qualifying One creates intense pressure as riders who missed the top 10 in practice compete for just two transfer spots to Q2. This 15-minute session often features desperate gambles and all-out riding as competitors balance the absolute limit against the risk of crashing. The high-stakes format frequently produces surprising performances from underdog riders and teams.
           4:
             title: Qualifying Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R19_QUAL.jpg
+            summary: The elite Q2 session determines the front four rows of the grid with the championship's fastest riders pushing to absolute limits. Featuring pinpoint precision and breathtaking commitment, Q2 embodies the purest expression of speed in MotoGP. Strategic elements include tire choice, timing of flying laps, and whether to follow competitors for slipstream advantages on long straights.
           5:
             title: Sprint
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R19_SPRINT.jpg
+            summary: Saturday's Sprint race runs approximately half the Grand Prix distance, eliminating tire management and fuel conservation concerns. This creates all-out aggression from lights to flag as riders battle for half-championship points. The shorter format often produces spectacular overtaking and increased risk-taking, while providing teams valuable data on race pace and competitor strategies for Sunday's main event.
           6:
             title: Race
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R19_RACE.jpg
+            summary: The Grand Prix represents the culmination of the race weekend, combining all elements of strategy, skill, and endurance over full race distance. Tire management becomes critical as the race progresses, with different compounds and wear rates creating strategic variables. The longer format rewards consistent pace and intelligent riding, while highlighting the effects of physical and mental fatigue on performance in the closing laps.
       20:
         title: Petronas Grand Prix of Malaysia
         sort_title: 20_Petronas Grand Prix of Malaysia
@@ -471,21 +581,27 @@ metadata:
           1:
             title: Practice One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R20_PRACTICE.jpg
+            summary: First practice sessions mark the initial contact with the track, where riders reacquaint themselves with the circuit layout and teams establish baseline setups. This session focuses on finding comfort with the bike-track relationship, gathering data on grip levels, and making initial suspension adjustments. Engineers analyze telemetry while riders provide feedback on handling characteristics unique to this venue.
           2:
             title: Practice Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R20_PRACTICE.jpg
+            summary: The second practice becomes increasingly competitive as teams refine setups based on morning data. With greater track evolution and rubber buildup, lap times drop significantly. The final minutes feature qualifying simulation runs as riders push for top-10 positions to secure direct advancement to Q2, creating a mini-qualifying atmosphere with high stakes and increased intensity.
           3:
             title: Qualifying One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R20_QUAL.jpg
+            summary: Qualifying One creates intense pressure as riders who missed the top 10 in practice compete for just two transfer spots to Q2. This 15-minute session often features desperate gambles and all-out riding as competitors balance the absolute limit against the risk of crashing. The high-stakes format frequently produces surprising performances from underdog riders and teams.
           4:
             title: Qualifying Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R20_QUAL.jpg
+            summary: The elite Q2 session determines the front four rows of the grid with the championship's fastest riders pushing to absolute limits. Featuring pinpoint precision and breathtaking commitment, Q2 embodies the purest expression of speed in MotoGP. Strategic elements include tire choice, timing of flying laps, and whether to follow competitors for slipstream advantages on long straights.
           5:
             title: Sprint
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R20_SPRINT.jpg
+            summary: Saturday's Sprint race runs approximately half the Grand Prix distance, eliminating tire management and fuel conservation concerns. This creates all-out aggression from lights to flag as riders battle for half-championship points. The shorter format often produces spectacular overtaking and increased risk-taking, while providing teams valuable data on race pace and competitor strategies for Sunday's main event.
           6:
             title: Race
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R20_RACE.jpg
+            summary: The Grand Prix represents the culmination of the race weekend, combining all elements of strategy, skill, and endurance over full race distance. Tire management becomes critical as the race progresses, with different compounds and wear rates creating strategic variables. The longer format rewards consistent pace and intelligent riding, while highlighting the effects of physical and mental fatigue on performance in the closing laps.
       21:
         title: Grande Prémio de Portugal
         sort_title: 21_Grande Prémio de Portugal
@@ -495,21 +611,27 @@ metadata:
           1:
             title: Practice One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R21_PRACTICE.jpg
+            summary: First practice sessions mark the initial contact with the track, where riders reacquaint themselves with the circuit layout and teams establish baseline setups. This session focuses on finding comfort with the bike-track relationship, gathering data on grip levels, and making initial suspension adjustments. Engineers analyze telemetry while riders provide feedback on handling characteristics unique to this venue.
           2:
             title: Practice Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R21_PRACTICE.jpg
+            summary: The second practice becomes increasingly competitive as teams refine setups based on morning data. With greater track evolution and rubber buildup, lap times drop significantly. The final minutes feature qualifying simulation runs as riders push for top-10 positions to secure direct advancement to Q2, creating a mini-qualifying atmosphere with high stakes and increased intensity.
           3:
             title: Qualifying One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R21_QUAL.jpg
+            summary: Qualifying One creates intense pressure as riders who missed the top 10 in practice compete for just two transfer spots to Q2. This 15-minute session often features desperate gambles and all-out riding as competitors balance the absolute limit against the risk of crashing. The high-stakes format frequently produces surprising performances from underdog riders and teams.
           4:
             title: Qualifying Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R21_QUAL.jpg
+            summary: The elite Q2 session determines the front four rows of the grid with the championship's fastest riders pushing to absolute limits. Featuring pinpoint precision and breathtaking commitment, Q2 embodies the purest expression of speed in MotoGP. Strategic elements include tire choice, timing of flying laps, and whether to follow competitors for slipstream advantages on long straights.
           5:
             title: Sprint
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R21_SPRINT.jpg
+            summary: Saturday's Sprint race runs approximately half the Grand Prix distance, eliminating tire management and fuel conservation concerns. This creates all-out aggression from lights to flag as riders battle for half-championship points. The shorter format often produces spectacular overtaking and increased risk-taking, while providing teams valuable data on race pace and competitor strategies for Sunday's main event.
           6:
             title: Race
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R21_RACE.jpg
+            summary: The Grand Prix represents the culmination of the race weekend, combining all elements of strategy, skill, and endurance over full race distance. Tire management becomes critical as the race progresses, with different compounds and wear rates creating strategic variables. The longer format rewards consistent pace and intelligent riding, while highlighting the effects of physical and mental fatigue on performance in the closing laps.
       22:
         title: Gran Premio Motul de la Comunitat Valenciana
         sort_title: 22_Gran Premio Motul de la Comunitat Valenciana
@@ -519,18 +641,24 @@ metadata:
           1:
             title: Practice One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R22_PRACTICE.jpg
+            summary: First practice sessions mark the initial contact with the track, where riders reacquaint themselves with the circuit layout and teams establish baseline setups. This session focuses on finding comfort with the bike-track relationship, gathering data on grip levels, and making initial suspension adjustments. Engineers analyze telemetry while riders provide feedback on handling characteristics unique to this venue.
           2:
             title: Practice Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R22_PRACTICE.jpg
+            summary: The second practice becomes increasingly competitive as teams refine setups based on morning data. With greater track evolution and rubber buildup, lap times drop significantly. The final minutes feature qualifying simulation runs as riders push for top-10 positions to secure direct advancement to Q2, creating a mini-qualifying atmosphere with high stakes and increased intensity.
           3:
             title: Qualifying One
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R22_QUAL.jpg
+            summary: Qualifying One creates intense pressure as riders who missed the top 10 in practice compete for just two transfer spots to Q2. This 15-minute session often features desperate gambles and all-out riding as competitors balance the absolute limit against the risk of crashing. The high-stakes format frequently produces surprising performances from underdog riders and teams.
           4:
             title: Qualifying Two
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R22_QUAL.jpg
+            summary: The elite Q2 session determines the front four rows of the grid with the championship's fastest riders pushing to absolute limits. Featuring pinpoint precision and breathtaking commitment, Q2 embodies the purest expression of speed in MotoGP. Strategic elements include tire choice, timing of flying laps, and whether to follow competitors for slipstream advantages on long straights.
           5:
             title: Sprint
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R22_SPRINT.jpg
+            summary: Saturday's Sprint race runs approximately half the Grand Prix distance, eliminating tire management and fuel conservation concerns. This creates all-out aggression from lights to flag as riders battle for half-championship points. The shorter format often produces spectacular overtaking and increased risk-taking, while providing teams valuable data on race pace and competitor strategies for Sunday's main event.
           6:
             title: Race
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp-2025/R22_RACE.jpg
+            summary: The Grand Prix represents the culmination of the race weekend, combining all elements of strategy, skill, and endurance over full race distance. Tire management becomes critical as the race progresses, with different compounds and wear rates creating strategic variables. The longer format rewards consistent pace and intelligent riding, while highlighting the effects of physical and mental fatigue on performance in the closing laps.

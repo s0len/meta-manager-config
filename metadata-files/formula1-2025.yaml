@@ -12,16 +12,22 @@ metadata:
         episodes:
           1:
             title: Day 1 Session 1
+            summary: First morning session of pre-season testing where teams begin gathering crucial data on their new cars and power units.
           2:
             title: Day 1 Session 2
+            summary: Afternoon running on day one as teams continue system checks and begin exploring their cars' performance envelope.
           3:
             title: Day 2 Session 1
+            summary: Teams focus on longer runs and setup work during the second morning of testing.
           4:
             title: Day 2 Session 2
+            summary: Day two afternoon session with teams typically conducting race simulations and pit stop practice.
           5:
             title: Day 3 Session 1
+            summary: Final morning of testing where teams often focus on qualifying simulations and performance runs.
           6:
             title: Day 3 Session 2
+            summary: Last session of pre-season testing as teams complete their programs and prepare for the season opener.
       1:
         title: Australian Grand Prix
         sort_title: 01_Australian Grand Prix
@@ -30,26 +36,37 @@ metadata:
         episodes:
           1:
             title: Drivers Press Conference
+            summary: Weekend begins with selected drivers discussing their expectations for the race ahead with the media.
           2:
             title: Weekend Warm Up
+            summary: Preview show featuring track walks, technical analysis, and final preparations before cars hit the track.
           3:
             title: Free Practice 1
+            summary: First 60-minute practice session where teams evaluate new parts and begin setup work for the weekend.
           4:
             title: Free Practice 2
+            summary: Second practice focusing on long runs and race preparation with similar track conditions to Sunday.
           5:
             title: Free Practice 3
+            summary: Final hour of practice as teams fine-tune qualifying setups and make last adjustments.
           6:
             title: Pre Qualifying Show
+            summary: Build-up to qualifying with analysis of practice performances and track conditions.
           7:
             title: Qualifying
+            summary: Three-stage knockout qualifying session to determine the grid for Sunday's race.
           8:
             title: Post Qualifying Show
+            summary: Comprehensive analysis of qualifying results with driver interviews and technical insights.
           9:
             title: Pre Race Show
+            summary: Final preparations and grid walk coverage before the race start.
           10:
             title: Race
+            summary: The Australian Grand Prix, featuring full race coverage from lights out to the checkered flag.
           11:
             title: Post Race Show
+            summary: Complete race analysis with podium ceremonies, driver interviews, and championship implications.
       2:
         title: Chinese Grand Prix
         sort_title: 02_Chinese Grand Prix
@@ -58,26 +75,37 @@ metadata:
         episodes:
           1:
             title: Drivers Press Conference
+            summary: Weekend begins with drivers' media sessions discussing the Sprint format weekend ahead.
           2:
             title: Weekend Warm Up
+            summary: Preview show featuring track analysis and team preparations for the Sprint weekend format.
           3:
             title: Free Practice 1
+            summary: Only practice session before Sprint Qualifying, crucial for both Sprint and Grand Prix setups.
           4:
             title: Sprint Qualifying
+            summary: Short qualifying session setting the grid for Saturday's Sprint race.
           5:
             title: Sprint
+            summary: 100km Sprint race offering points for the top eight finishers and setting the scene for Sunday.
           6:
             title: Pre Qualifying Show
+            summary: Build-up to the main qualifying session with analysis of Sprint race implications.
           7:
             title: Qualifying
+            summary: Traditional qualifying format determining the grid for Sunday's Grand Prix.
           8:
             title: Post Qualifying Show
+            summary: Analysis of qualifying results and their impact on race strategy.
           9:
             title: Pre Race Show
+            summary: Final preparations and grid walk coverage before the main event.
           10:
             title: Race
+            summary: The Chinese Grand Prix, featuring full race coverage and strategy battles.
           11:
             title: Post Race Show
+            summary: Comprehensive analysis of the race results with interviews and championship standings.
       3:
         title: Japanese Grand Prix
         sort_title: 03_Japanese Grand Prix
@@ -86,26 +114,37 @@ metadata:
         episodes:
           1:
             title: Drivers Press Conference
+            summary: Weekend begins with selected drivers discussing their expectations for the iconic Suzuka circuit.
           2:
             title: Weekend Warm Up
+            summary: Preview show featuring track walks and analysis of the technical challenges at Suzuka.
           3:
             title: Free Practice 1
+            summary: First practice session where teams evaluate setups for Suzuka's unique figure-eight layout.
           4:
             title: Free Practice 2
+            summary: Second practice focusing on long runs and tire management through Suzuka's high-speed corners.
           5:
             title: Free Practice 3
+            summary: Final practice as teams fine-tune setups for qualifying, particularly for the challenging 130R and Spoon Curve.
           6:
             title: Pre Qualifying Show
+            summary: Build-up to qualifying with analysis of practice performances and weather conditions.
           7:
             title: Qualifying
+            summary: Three-stage qualifying to determine the grid, with precision crucial through Suzuka's technical sections.
           8:
             title: Post Qualifying Show
+            summary: Analysis of qualifying results with focus on the importance of grid position at Suzuka.
           9:
             title: Pre Race Show
+            summary: Final preparations and grid walk coverage at one of F1's most historic venues.
           10:
             title: Race
+            summary: The Japanese Grand Prix, featuring full race coverage at the challenging Suzuka Circuit.
           11:
             title: Post Race Show
+            summary: Complete race analysis with podium ceremonies and championship implications.
       4:
         title: Bahrain Grand Prix
         sort_title: 04_Bahrain Grand Prix
@@ -114,26 +153,37 @@ metadata:
         episodes:
           1:
             title: Drivers Press Conference
+            summary: Weekend begins with drivers discussing the challenges of Bahrain's first night race of the season.
           2:
             title: Weekend Warm Up
+            summary: Preview show featuring track walks and analysis of the unique demands of Bahrain's desert circuit.
           3:
             title: Free Practice 1
+            summary: First practice session under daylight conditions, different from race time but crucial for initial data gathering.
           4:
             title: Free Practice 2
+            summary: Critical evening session held in conditions similar to qualifying and the race, with focus on long runs.
           5:
             title: Free Practice 3
+            summary: Final practice as teams make last adjustments to cope with Bahrain's abrasive surface and cooling temperatures.
           6:
             title: Pre Qualifying Show
+            summary: Build-up to qualifying with analysis of practice performances and tire strategies.
           7:
             title: Qualifying
+            summary: Three-stage qualifying session under floodlights to determine the grid for Sunday's race.
           8:
             title: Post Qualifying Show
+            summary: Analysis of qualifying results with focus on race strategy implications for the abrasive Bahrain track.
           9:
             title: Pre Race Show
+            summary: Final preparations and grid walk coverage before racing begins under the Sakhir lights.
           10:
             title: Race
+            summary: The Bahrain Grand Prix, featuring full race coverage as drivers battle tire degradation and cooling issues.
           11:
             title: Post Race Show
+            summary: Complete race analysis with podium ceremonies, interviews, and championship standings after four rounds.
       5:
         title: Saudi Arabian Grand Prix
         sort_title: 05_Saudi Arabian Grand Prix
@@ -142,26 +192,37 @@ metadata:
         episodes:
           1:
             title: Drivers Press Conference
+            summary: Weekend begins with drivers discussing the challenges of Jeddah's high-speed street circuit.
           2:
             title: Weekend Warm Up
+            summary: Preview show focusing on the dangers and demands of Formula 1's fastest street track.
           3:
             title: Free Practice 1
+            summary: First practice session as drivers familiarize themselves with Jeddah's high-speed, technical layout.
           4:
             title: Free Practice 2
+            summary: Evening practice under race conditions with teams working on qualifying and race setups.
           5:
             title: Free Practice 3
+            summary: Final practice with focus on qualifying preparation for this high-commitment circuit.
           6:
             title: Pre Qualifying Show
+            summary: Build-up to qualifying with analysis of the risks and rewards of Jeddah's challenging layout.
           7:
             title: Qualifying
+            summary: Intense qualifying session where precision is crucial with walls just inches away at high speeds.
           8:
             title: Post Qualifying Show
+            summary: Analysis of qualifying results and the importance of track position for the race.
           9:
             title: Pre Race Show
+            summary: Final preparations and grid walk coverage before racing begins under the Jeddah lights.
           10:
             title: Race
+            summary: The Saudi Arabian Grand Prix, featuring full race coverage on this high-speed, high-risk circuit.
           11:
             title: Post Race Show
+            summary: Complete race analysis with podium ceremonies, interviews, and championship implications.
       6:
         title: Miami Grand Prix
         sort_title: 06_Miami Grand Prix
@@ -169,26 +230,37 @@ metadata:
         episodes:
           1:
             title: Drivers Press Conference
+            summary: Weekend begins with drivers discussing the Sprint format weekend in Miami's glamorous setting.
           2:
             title: Weekend Warm Up
+            summary: Preview show featuring track analysis and preparations for the season's second Sprint weekend.
           3:
             title: Free Practice 1
+            summary: Only practice session of the weekend, crucial for both Sprint and Grand Prix setups in Florida's heat.
           4:
             title: Sprint Qualifying
+            summary: Short qualifying session setting the grid for Saturday's Sprint race around the Miami International Autodrome.
           5:
             title: Sprint
+            summary: 100km Sprint race in the Florida heat, offering points for the top eight and setting the stage for Sunday.
           6:
             title: Pre Qualifying Show
+            summary: Build-up to the main qualifying session with analysis of Sprint race implications and track evolution.
           7:
             title: Qualifying
+            summary: Full qualifying session determining the grid for Sunday's Miami Grand Prix.
           8:
             title: Post Qualifying Show
+            summary: Analysis of qualifying results with focus on strategy options for the race in hot conditions.
           9:
             title: Pre Race Show
+            summary: Final preparations and grid walk coverage before the main event in Miami.
           10:
             title: Race
+            summary: The Miami Grand Prix, featuring full race coverage as drivers battle heat and humidity in Florida.
           11:
             title: Post Race Show
+            summary: Complete race analysis with podium ceremonies, driver interviews, and championship standings.
       7:
         title: Emilia Romagna Grand Prix
         sort_title: 07_Emilia Romagna Grand Prix
@@ -196,26 +268,37 @@ metadata:
         episodes:
           1:
             title: Drivers Press Conference
+            summary: Weekend begins with drivers discussing the challenges of the historic and technical Imola circuit.
           2:
             title: Weekend Warm Up
+            summary: Preview show featuring track walks and analysis of the old-school characteristics of Imola.
           3:
             title: Free Practice 1
+            summary: First practice session as teams begin to dial in setups for Imola's technically demanding layout.
           4:
             title: Free Practice 2
+            summary: Second practice focusing on long runs and race simulations on Imola's narrow, flowing track.
           5:
             title: Free Practice 3
+            summary: Final practice as teams prepare for qualifying on a circuit where grid position is critical.
           6:
             title: Pre Qualifying Show
+            summary: Build-up to qualifying with analysis of practice performances at this challenging venue.
           7:
             title: Qualifying
+            summary: Qualifying session where precision is essential with gravel traps punishing any mistakes.
           8:
             title: Post Qualifying Show
+            summary: Analysis of qualifying results and the importance of track position at a circuit where overtaking is difficult.
           9:
             title: Pre Race Show
+            summary: Final preparations and grid walk coverage at this historic Italian venue.
           10:
             title: Race
+            summary: The Emilia Romagna Grand Prix, featuring full race coverage as drivers navigate this technical circuit.
           11:
             title: Post Race Show
+            summary: Complete race analysis with podium ceremonies, interviews, and championship implications.
       8:
         title: Monaco Grand Prix
         sort_title: 08_Monaco Grand Prix
@@ -223,26 +306,37 @@ metadata:
         episodes:
           1:
             title: Drivers Press Conference
+            summary: Weekend begins with drivers discussing the unique challenge and prestige of racing in Monaco.
           2:
             title: Weekend Warm Up
+            summary: Preview show highlighting the glamour, history, and immense challenge of Formula 1's crown jewel event.
           3:
             title: Free Practice 1
+            summary: First practice session as drivers build confidence on Monaco's tight streets and unforgiving barriers.
           4:
             title: Free Practice 2
+            summary: Critical second practice focusing on qualifying simulation, the key to success at Monaco.
           5:
             title: Free Practice 3
+            summary: Final practice as drivers search for the perfect qualifying setup around the Principality.
           6:
             title: Pre Qualifying Show
+            summary: Build-up to the most important qualifying session of the year at a track where overtaking is nearly impossible.
           7:
             title: Qualifying
+            summary: Intense qualifying battle for pole position, often more important in Monaco than at any other circuit.
           8:
             title: Post Qualifying Show
+            summary: Analysis of qualifying results that will likely determine the outcome of Sunday's race.
           9:
             title: Pre Race Show
+            summary: Final preparations and grid walk coverage from Formula 1's most glamorous and prestigious event.
           10:
             title: Race
+            summary: The Monaco Grand Prix, featuring full race coverage of Formula 1's historic crown jewel event.
           11:
             title: Post Race Show
+            summary: Complete race analysis with podium ceremonies in front of the Prince's palace and championship standings.
       9:
         title: Spanish Grand Prix
         sort_title: 09_Spanish Grand Prix
@@ -250,26 +344,37 @@ metadata:
         episodes:
           1:
             title: Drivers Press Conference
+            summary: Weekend begins with drivers discussing the challenges of Barcelona, a circuit they know intimately from testing.
           2:
             title: Weekend Warm Up
+            summary: Preview show focusing on the technical demands of Barcelona and teams' development progress since testing.
           3:
             title: Free Practice 1
+            summary: First practice session as teams evaluate upgrades on this benchmark circuit that tests all aspects of car performance.
           4:
             title: Free Practice 2
+            summary: Second practice focusing on long runs in the heat of the Spanish afternoon, crucial for race strategy.
           5:
             title: Free Practice 3
+            summary: Final practice as teams fine-tune setups for the technical demands of Barcelona's varied layout.
           6:
             title: Pre Qualifying Show
+            summary: Build-up to qualifying with analysis of practice performances and the importance of clean air at this high-downforce track.
           7:
             title: Qualifying
+            summary: Qualifying session on a track where small margins separate the field due to teams' familiarity with the circuit.
           8:
             title: Post Qualifying Show
+            summary: Analysis of qualifying results with focus on strategic options for a circuit where overtaking can be challenging.
           9:
             title: Pre Race Show
+            summary: Final preparations and grid walk coverage before the race at this well-established Grand Prix venue.
           10:
             title: Race
+            summary: The Spanish Grand Prix, featuring full race coverage as drivers battle Barcelona's technical challenges and summer heat.
           11:
             title: Post Race Show
+            summary: Complete race analysis with podium ceremonies, interviews, and assessment of teams' development progress.
       10:
         title: Canadian Grand Prix
         sort_title: 10_Canadian Grand Prix
@@ -277,26 +382,37 @@ metadata:
         episodes:
           1:
             title: Drivers Press Conference
+            summary: Weekend begins with drivers discussing the unique challenges of Montreal's Circuit Gilles Villeneuve.
           2:
             title: Weekend Warm Up
+            summary: Preview show featuring track walks and analysis of Montreal's demanding stop-start layout.
           3:
             title: Free Practice 1
+            summary: First practice session as drivers reacquaint themselves with Montreal's tricky braking zones and close walls.
           4:
             title: Free Practice 2
+            summary: Second practice with focus on tire management and brake cooling for Sunday's race.
           5:
             title: Free Practice 3
+            summary: Final practice as teams prepare for qualifying with attention to the infamous Wall of Champions.
           6:
             title: Pre Qualifying Show
+            summary: Build-up to qualifying with analysis of practice performances and changing track conditions.
           7:
             title: Qualifying
+            summary: Qualifying session where precision is critical with walls waiting to punish any mistakes.
           8:
             title: Post Qualifying Show
+            summary: Analysis of qualifying results with attention to Canada's history of unpredictable races and changing conditions.
           9:
             title: Pre Race Show
+            summary: Final preparations and grid walk coverage from Montreal's Notre Dame Island.
           10:
             title: Race
+            summary: The Canadian Grand Prix, featuring full race coverage from this action-packed circuit known for drama and excitement.
           11:
             title: Post Race Show
+            summary: Complete race analysis with podium ceremonies, interviews, and championship standings at the season's mid-point.
       11:
         title: Austrian Grand Prix
         sort_title: 11_Austrian Grand Prix
@@ -304,26 +420,37 @@ metadata:
         episodes:
           1:
             title: Drivers Press Conference
+            summary: Weekend begins with drivers discussing the compact but challenging Red Bull Ring in the Styrian mountains.
           2:
             title: Weekend Warm Up
+            summary: Preview show featuring track walks and analysis of Austria's short but technical circuit.
           3:
             title: Free Practice 1
+            summary: First practice session as drivers tackle the Red Bull Ring's significant elevation changes and flowing layout.
           4:
             title: Free Practice 2
+            summary: Second practice focusing on tire management for a circuit that creates high rates of wear despite its short length.
           5:
             title: Free Practice 3
+            summary: Final practice as teams prepare for qualifying on a track where tiny margins make big differences.
           6:
             title: Pre Qualifying Show
+            summary: Build-up to qualifying with analysis of practice performances and track evolution in the mountains.
           7:
             title: Qualifying
+            summary: Intense qualifying session where small mistakes are costly on the calendar's shortest lap.
           8:
             title: Post Qualifying Show
+            summary: Analysis of qualifying results with focus on the numerous overtaking opportunities for Sunday's race.
           9:
             title: Pre Race Show
+            summary: Final preparations and grid walk coverage from the picturesque Styrian mountains.
           10:
             title: Race
+            summary: The Austrian Grand Prix, featuring full race coverage from the Red Bull Ring's action-packed layout.
           11:
             title: Post Race Show
+            summary: Complete race analysis with podium ceremonies, interviews, and championship implications.
       12:
         title: British Grand Prix
         sort_title: 12_British Grand Prix
@@ -331,26 +458,37 @@ metadata:
         episodes:
           1:
             title: Drivers Press Conference
+            summary: Weekend begins with drivers discussing the challenges and history of Silverstone's high-speed layout.
           2:
             title: Weekend Warm Up
+            summary: Preview show featuring track walks and analysis of one of Formula 1's most historic and demanding circuits.
           3:
             title: Free Practice 1
+            summary: First practice session as drivers tackle Silverstone's famous high-speed corner sequences and changeable conditions.
           4:
             title: Free Practice 2
+            summary: Second practice focusing on long runs and tire behavior through Silverstone's fast, flowing corners.
           5:
             title: Free Practice 3
+            summary: Final practice as teams prepare for qualifying with focus on mastering the high-speed challenge.
           6:
             title: Pre Qualifying Show
+            summary: Build-up to qualifying with analysis of practice performances and the impact of British summer weather.
           7:
             title: Qualifying
+            summary: Exhilarating qualifying session where driver commitment is tested through Copse, Maggotts, and Becketts.
           8:
             title: Post Qualifying Show
+            summary: Analysis of qualifying results with focus on race prospects and strategic options.
           9:
             title: Pre Race Show
+            summary: Final preparations and grid walk coverage from one of Formula 1's best-attended and most atmospheric events.
           10:
             title: Race
+            summary: The British Grand Prix, featuring full race coverage as drivers battle Silverstone's challenging layout and unpredictable weather.
           11:
             title: Post Race Show
+            summary: Complete race analysis with podium ceremonies, interviews, and championship implications at this historic venue.
       13:
         title: Belgian Grand Prix
         sort_title: 13_Belgian Grand Prix
@@ -358,26 +496,37 @@ metadata:
         episodes:
           1:
             title: Drivers Press Conference
+            summary: Weekend begins with drivers discussing the Sprint format at one of Formula 1's most challenging and loved circuits.
           2:
             title: Weekend Warm Up
+            summary: Preview show featuring analysis of Spa's unique challenges and the Sprint weekend format in the Ardennes.
           3:
             title: Free Practice 1
+            summary: Only practice session of the weekend as drivers reacquaint themselves with Spa's formidable layout and elevation changes.
           4:
             title: Sprint Qualifying
+            summary: Short qualifying session setting the grid for Saturday's Sprint race at Formula 1's longest circuit.
           5:
             title: Sprint
+            summary: 100km Sprint race tackling the mighty Eau Rouge and high-speed challenges of Spa-Francorchamps.
           6:
             title: Pre Qualifying Show
+            summary: Build-up to the main qualifying session with analysis of Sprint performance and Spa's notorious weather conditions.
           7:
             title: Qualifying
+            summary: Full qualifying session where driver skill is showcased through Spa's high-speed, high-commitment corners.
           8:
             title: Post Qualifying Show
+            summary: Analysis of qualifying results with focus on Spa's strategic options, weather forecasts, and overtaking opportunities.
           9:
             title: Pre Race Show
+            summary: Final preparations and grid walk coverage before racing at this iconic Formula 1 venue.
           10:
             title: Race
+            summary: The Belgian Grand Prix, featuring full race coverage from the majestic Spa-Francorchamps circuit in the Ardennes forest.
           11:
             title: Post Race Show
+            summary: Complete race analysis with podium ceremonies, interviews, and championship standings before the summer break.
       14:
         title: Hungarian Grand Prix
         sort_title: 14_Hungarian Grand Prix
@@ -385,26 +534,37 @@ metadata:
         episodes:
           1:
             title: Drivers Press Conference
+            summary: Weekend begins as Formula 1 returns from summer break, with drivers discussing the hot, twisty Hungaroring.
           2:
             title: Weekend Warm Up
+            summary: Preview show featuring track analysis and teams' preparations for the physical demands of Hungary.
           3:
             title: Free Practice 1
+            summary: First practice session as drivers reacquaint themselves with the twisty, technical Hungaroring layout.
           4:
             title: Free Practice 2
+            summary: Second practice focusing on tire performance and cooling systems in Hungary's extreme heat.
           5:
             title: Free Practice 3
+            summary: Final practice as teams prepare for qualifying on a track where grid position is crucial for race success.
           6:
             title: Pre Qualifying Show
+            summary: Build-up to qualifying with analysis of practice performances and track evolution at this dusty circuit.
           7:
             title: Qualifying
+            summary: Critical qualifying session at a circuit where overtaking is notoriously difficult during the race.
           8:
             title: Post Qualifying Show
+            summary: Analysis of qualifying results with focus on strategy options for a track often compared to Monaco without walls.
           9:
             title: Pre Race Show
+            summary: Final preparations and grid walk coverage before one of the season's most physically demanding races.
           10:
             title: Race
+            summary: The Hungarian Grand Prix, featuring full race coverage as drivers battle the heat and the technical Hungaroring circuit.
           11:
             title: Post Race Show
+            summary: Complete race analysis with podium ceremonies, interviews, and championship implications as F1 approaches its summer break.
       15:
         title: Dutch Grand Prix
         sort_title: 15_Dutch Grand Prix
@@ -412,26 +572,37 @@ metadata:
         episodes:
           1:
             title: Drivers Press Conference
+            summary: Weekend begins as drivers discuss the unique challenge of Zandvoort's banked corners after the summer break.
           2:
             title: Weekend Warm Up
+            summary: Preview show featuring track walks and analysis of Zandvoort's technical, undulating layout.
           3:
             title: Free Practice 1
+            summary: First practice as drivers reacquaint themselves with Zandvoort's narrow track and banked corners.
           4:
             title: Free Practice 2
+            summary: Second practice focusing on tire management on a circuit where degradation can be significant.
           5:
             title: Free Practice 3
+            summary: Final practice as teams prepare for qualifying on this technical, old-school circuit.
           6:
             title: Pre Qualifying Show
+            summary: Build-up to qualifying with analysis of practice performances and the challenge of Zandvoort's unusual layout.
           7:
             title: Qualifying
+            summary: Qualifying session where precision is essential on this narrow, technical circuit with limited runoff areas.
           8:
             title: Post Qualifying Show
+            summary: Analysis of qualifying results with focus on the difficulties of overtaking at Zandvoort and race strategy implications.
           9:
             title: Pre Race Show
+            summary: Final preparations and grid walk coverage amid the electric atmosphere created by passionate Dutch fans.
           10:
             title: Race
+            summary: The Dutch Grand Prix, featuring full race coverage as drivers navigate Zandvoort's challenging layout.
           11:
             title: Post Race Show
+            summary: Complete race analysis with podium ceremonies, interviews, and championship standings as the European season nears its end.
       16:
         title: Italian Grand Prix
         sort_title: 16_Italian Grand Prix
@@ -439,26 +610,37 @@ metadata:
         episodes:
           1:
             title: Drivers Press Conference
+            summary: Weekend begins with drivers discussing the unique challenges of Formula 1's fastest circuit at this historic venue.
           2:
             title: Weekend Warm Up
+            summary: Preview show featuring track walks and analysis of Monza's high-speed straights and heavy braking zones.
           3:
             title: Free Practice 1
+            summary: First practice session as teams work on low-downforce setups unique to Monza's speed demands.
           4:
             title: Free Practice 2
+            summary: Second practice with focus on braking stability and traction out of chicanes for this high-speed challenge.
           5:
             title: Free Practice 3
+            summary: Final practice as teams prepare for qualifying with focus on slipstreaming tactics at this draft-dependent track.
           6:
             title: Pre Qualifying Show
+            summary: Build-up to qualifying with analysis of practice performances and the art of the Monza tow.
           7:
             title: Qualifying
+            summary: Tactical qualifying session where finding a slipstream can be crucial for pole position.
           8:
             title: Post Qualifying Show
+            summary: Analysis of qualifying results with focus on race prospects at Formula 1's temple of speed.
           9:
             title: Pre Race Show
+            summary: Final preparations and grid walk coverage amid the passionate Tifosi at Monza's royal park.
           10:
             title: Race
+            summary: The Italian Grand Prix, featuring full race coverage of the high-speed slipstreaming battles at historic Monza.
           11:
             title: Post Race Show
+            summary: Complete race analysis with podium ceremonies beneath Monza's famous podium, interviews, and championship implications.
       17:
         title: Azerbaijan Grand Prix
         sort_title: 17_Azerbaijan Grand Prix
@@ -466,26 +648,37 @@ metadata:
         episodes:
           1:
             title: Drivers Press Conference
+            summary: Weekend begins with drivers discussing the contrasting challenges of Baku's unique street circuit layout.
           2:
             title: Weekend Warm Up
+            summary: Preview show featuring track walks and analysis of Baku's technical castle section and 2.2 km straight.
           3:
             title: Free Practice 1
+            summary: First practice session as drivers build confidence around Baku's walls and contrasting circuit sections.
           4:
             title: Free Practice 2
+            summary: Second practice focusing on the challenging setup compromise between the tight castle section and long straights.
           5:
             title: Free Practice 3
+            summary: Final practice as teams prepare for qualifying on this unforgiving street circuit.
           6:
             title: Pre Qualifying Show
+            summary: Build-up to qualifying with analysis of practice performances and the risks of Baku's walls.
           7:
             title: Qualifying
+            summary: Tense qualifying session where precision is critical through the narrow castle section.
           8:
             title: Post Qualifying Show
+            summary: Analysis of qualifying results with focus on Baku's history of unpredictable races and safety car periods.
           9:
             title: Pre Race Show
+            summary: Final preparations and grid walk coverage from the shores of the Caspian Sea.
           10:
             title: Race
+            summary: The Azerbaijan Grand Prix, featuring full race coverage of a circuit known for dramatic moments and surprising results.
           11:
             title: Post Race Show
+            summary: Complete race analysis with podium ceremonies, interviews, and championship implications.
       18:
         title: Singapore Grand Prix
         sort_title: 18_Singapore Grand Prix
@@ -493,26 +686,37 @@ metadata:
         episodes:
           1:
             title: Drivers Press Conference
+            summary: Weekend begins with drivers discussing the physical challenge of Formula 1's most demanding night race.
           2:
             title: Weekend Warm Up
+            summary: Preview show featuring track walks and analysis of Singapore's unique night race conditions.
           3:
             title: Free Practice 1
+            summary: First practice session as drivers acclimate to Marina Bay's bumpy surface and 23 corners under floodlights.
           4:
             title: Free Practice 2
+            summary: Critical second practice held at night in representative conditions for qualifying and the race.
           5:
             title: Free Practice 3
+            summary: Final practice as teams fine-tune setups for the physical demands of Singapore's tight layout.
           6:
             title: Pre Qualifying Show
+            summary: Build-up to qualifying with analysis of practice performances and the importance of grid position in Singapore.
           7:
             title: Qualifying
+            summary: Intense qualifying session where precision is essential around Marina Bay's unforgiving walls.
           8:
             title: Post Qualifying Show
+            summary: Analysis of qualifying results with focus on strategic options for a circuit where overtaking is extremely difficult.
           9:
             title: Pre Race Show
+            summary: Final preparations and grid walk coverage before Formula 1's most physically demanding race.
           10:
             title: Race
+            summary: The Singapore Grand Prix, featuring full race coverage as drivers battle extreme heat, humidity, and concentration demands.
           11:
             title: Post Race Show
+            summary: Complete race analysis with podium ceremonies, interviews, and championship implications with six races remaining.
       19:
         title: United States Grand Prix
         sort_title: 19_United States Grand Prix
@@ -520,26 +724,37 @@ metadata:
         episodes:
           1:
             title: Drivers Press Conference
+            summary: Weekend begins with drivers discussing the Sprint format weekend at COTA as the championship intensifies.
           2:
             title: Weekend Warm Up
+            summary: Preview show featuring track analysis and championship scenarios for this crucial American round.
           3:
             title: Free Practice 1
+            summary: Only practice session of the weekend as teams prepare for both Sprint and Grand Prix on COTA's varied layout.
           4:
             title: Sprint Qualifying
+            summary: Short qualifying session setting the grid for Saturday's Sprint race at the Circuit of the Americas.
           5:
             title: Sprint
+            summary: 100km Sprint race navigating COTA's dramatic elevation changes and challenging sectors.
           6:
             title: Pre Qualifying Show
+            summary: Build-up to the main qualifying session with analysis of Sprint race implications for Sunday's grid.
           7:
             title: Qualifying
+            summary: Full qualifying session determining the grid for the United States Grand Prix.
           8:
             title: Post Qualifying Show
+            summary: Analysis of qualifying results with focus on championship implications and race strategy.
           9:
             title: Pre Race Show
+            summary: Final preparations and grid walk coverage before racing at Formula 1's American home.
           10:
             title: Race
+            summary: The United States Grand Prix, featuring full race coverage as championship battles intensify in Austin.
           11:
             title: Post Race Show
+            summary: Complete race analysis with podium ceremonies, interviews, and championship standings as the triple-header begins.
       20:
         title: Mexico City Grand Prix
         sort_title: 20_Mexico City Grand Prix
@@ -547,26 +762,37 @@ metadata:
         episodes:
           1:
             title: Drivers Press Conference
+            summary: Weekend begins with drivers discussing the unique high-altitude challenge of racing in Mexico City.
           2:
             title: Weekend Warm Up
+            summary: Preview show featuring analysis of how teams adapt to Mexico's 2,240m altitude and thin air challenges.
           3:
             title: Free Practice 1
+            summary: First practice session as teams evaluate cooling solutions and power unit settings for the thin air.
           4:
             title: Free Practice 2
+            summary: Second practice focusing on tire behavior and mechanical grip in the low-downforce environment.
           5:
             title: Free Practice 3
+            summary: Final practice as teams prepare for qualifying in Mexico's unique atmospheric conditions.
           6:
             title: Pre Qualifying Show
+            summary: Build-up to qualifying with analysis of practice performances and the effects of altitude on car performance.
           7:
             title: Qualifying
+            summary: Qualifying session where power units are stressed by the thin air of Mexico City.
           8:
             title: Post Qualifying Show
+            summary: Analysis of qualifying results with focus on race prospects and championship implications.
           9:
             title: Pre Race Show
+            summary: Final preparations and grid walk coverage through the unique stadium section filled with passionate fans.
           10:
             title: Race
+            summary: The Mexico City Grand Prix, featuring full race coverage as drivers battle in the challenging high-altitude conditions.
           11:
             title: Post Race Show
+            summary: Complete race analysis with podium ceremonies, interviews, and championship standings with four races remaining.
       21:
         title: São Paulo Grand Prix
         sort_title: 21_São Paulo Grand Prix
@@ -574,26 +800,37 @@ metadata:
         episodes:
           1:
             title: Drivers Press Conference
+            summary: Weekend begins with drivers discussing the Sprint format at Interlagos as championship battles reach critical stage.
           2:
             title: Weekend Warm Up
+            summary: Preview show featuring track analysis and championship permutations for this pivotal Brazilian round.
           3:
             title: Free Practice 1
+            summary: Only practice session of the weekend as teams prepare for both Sprint and Grand Prix on Interlagos' challenging layout.
           4:
             title: Sprint Qualifying
+            summary: Short qualifying session setting the grid for Saturday's Sprint race at the undulating Interlagos circuit.
           5:
             title: Sprint
+            summary: 100km Sprint race navigating Interlagos' elevation changes and notoriously unpredictable weather conditions.
           6:
             title: Pre Qualifying Show
+            summary: Build-up to the main qualifying session with analysis of Sprint race implications and weather forecasts.
           7:
             title: Qualifying
+            summary: Full qualifying session determining the grid for the São Paulo Grand Prix.
           8:
             title: Post Qualifying Show
+            summary: Analysis of qualifying results with focus on Interlagos' history of exciting races and overtaking opportunities.
           9:
             title: Pre Race Show
+            summary: Final preparations and grid walk coverage before racing at this historic South American venue.
           10:
             title: Race
+            summary: The São Paulo Grand Prix, featuring full race coverage as championship battles intensify at this dramatic circuit.
           11:
             title: Post Race Show
+            summary: Complete race analysis with podium ceremonies, interviews, and championship standings with three races remaining.
       22:
         title: Las Vegas Grand Prix
         sort_title: 22_Las Vegas Grand Prix
@@ -601,26 +838,37 @@ metadata:
         episodes:
           1:
             title: Drivers Press Conference
+            summary: Weekend begins with drivers discussing the spectacular Las Vegas night race and its championship implications.
           2:
             title: Weekend Warm Up
+            summary: Preview show featuring track analysis and the unique challenges of racing at night on the Las Vegas Strip.
           3:
             title: Free Practice 1
+            summary: First practice session as drivers acclimatize to the Las Vegas Strip Circuit and its cold night conditions.
           4:
             title: Free Practice 2
+            summary: Critical second practice held at night in representative conditions for qualifying and the race.
           5:
             title: Free Practice 3
+            summary: Final practice as teams fine-tune setups for the high-speed straights and low-grip conditions of Las Vegas.
           6:
             title: Pre Qualifying Show
+            summary: Build-up to qualifying with analysis of practice performances under the neon lights of Las Vegas.
           7:
             title: Qualifying
+            summary: Night-time qualifying session setting the grid for the penultimate race of the season.
           8:
             title: Post Qualifying Show
+            summary: Analysis of qualifying results with focus on tire warm-up challenges and race strategy in cold conditions.
           9:
             title: Pre Race Show
+            summary: Final preparations and grid walk coverage amid the spectacular backdrop of the Las Vegas Strip.
           10:
             title: Race
+            summary: The Las Vegas Grand Prix, featuring full race coverage as drivers battle under the neon lights in this crucial late-season race.
           11:
             title: Post Race Show
+            summary: Complete race analysis with podium ceremonies, interviews, and championship standings heading to the season's penultimate round.
       23:
         title: Qatar Grand Prix
         sort_title: 23_Qatar Grand Prix
@@ -628,26 +876,37 @@ metadata:
         episodes:
           1:
             title: Drivers Press Conference
+            summary: Weekend begins with drivers discussing the Sprint format at Qatar as championship battles reach their climax.
           2:
             title: Weekend Warm Up
+            summary: Preview show featuring track analysis and championship scenarios for the penultimate round of the season.
           3:
             title: Free Practice 1
+            summary: Only practice session of the weekend as teams prepare for both Sprint and Grand Prix at the demanding Lusail Circuit.
           4:
             title: Sprint Qualifying
+            summary: Short qualifying session setting the grid for Saturday's Sprint race under Qatar's floodlights.
           5:
             title: Sprint
+            summary: 100km Sprint race navigating Lusail's fast, flowing corners with championship points at stake.
           6:
             title: Pre Qualifying Show
+            summary: Build-up to the main qualifying session with analysis of Sprint race implications and championship mathematics.
           7:
             title: Qualifying
+            summary: Full qualifying session determining the grid for the penultimate Grand Prix of the season.
           8:
             title: Post Qualifying Show
+            summary: Analysis of qualifying results with focus on championship permutations heading to Abu Dhabi.
           9:
             title: Pre Race Show
+            summary: Final preparations and grid walk coverage before the crucial penultimate race of the season.
           10:
             title: Race
+            summary: The Qatar Grand Prix, featuring full race coverage as championship battles potentially reach their conclusion.
           11:
             title: Post Race Show
+            summary: Complete race analysis with podium ceremonies, interviews, and championship standings before the Abu Dhabi finale.
       24:
         title: Abu Dhabi Grand Prix
         sort_title: 24_Abu Dhabi Grand Prix
@@ -655,23 +914,34 @@ metadata:
         episodes:
           1:
             title: Drivers Press Conference
+            summary: Final drivers' press conference of the season, discussing championship decider at Yas Marina.
           2:
             title: Weekend Warm Up
+            summary: Season finale preview show featuring track analysis and championship scenarios.
           3:
             title: Free Practice 1
+            summary: First practice session as teams begin preparations for the twilight race conditions.
           4:
             title: Free Practice 2
+            summary: Critical second practice held at the same time as race for representative conditions.
           5:
             title: Free Practice 3
+            summary: Final practice session of 2025 as teams prepare for qualifying and the championship decider.
           6:
             title: Pre Qualifying Show
+            summary: Build-up to the crucial final qualifying session of the season.
           7:
             title: Qualifying
+            summary: Season's final qualifying session determining the grid for the championship decider.
           8:
             title: Post Qualifying Show
+            summary: Analysis of qualifying results and their impact on championship permutations.
           9:
             title: Pre Race Show
+            summary: Final preparations and grid walk before the season finale.
           10:
             title: Race
+            summary: The Abu Dhabi Grand Prix season finale, where the 2025 championships will be decided.
           11:
             title: Post Race Show
+            summary: Championship celebration and complete analysis of the season finale.
