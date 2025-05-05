@@ -13,21 +13,27 @@ metadata:
           1:
             title: Day 1 Session 1
             summary: First morning session of pre-season testing where teams begin gathering crucial data on their new cars and power units.
+            originally_available: 2025-02-26
           2:
             title: Day 1 Session 2
             summary: Afternoon running on day one as teams continue system checks and begin exploring their cars' performance envelope.
+            originally_available: 2025-02-26
           3:
             title: Day 2 Session 1
             summary: Teams focus on longer runs and setup work during the second morning of testing.
+            originally_available: 2025-02-27
           4:
             title: Day 2 Session 2
             summary: Day two afternoon session with teams typically conducting race simulations and pit stop practice.
+            originally_available: 2025-02-27
           5:
             title: Day 3 Session 1
             summary: Final morning of testing where teams often focus on qualifying simulations and performance runs.
+            originally_available: 2025-02-28
           6:
             title: Day 3 Session 2
             summary: Last session of pre-season testing as teams complete their programs and prepare for the season opener.
+            originally_available: 2025-02-28
       1:
         title: Australian Grand Prix
         sort_title: 01_Australian Grand Prix
@@ -37,36 +43,47 @@ metadata:
           1:
             title: Drivers Press Conference
             summary: Weekend begins with selected drivers discussing their expectations for the race ahead with the media.
+            originally_available: 2025-03-13
           2:
             title: Weekend Warm Up
             summary: Preview show featuring track walks, technical analysis, and final preparations before cars hit the track.
+            originally_available: 2025-03-13
           3:
             title: Free Practice 1
             summary: First 60-minute practice session where teams evaluate new parts and begin setup work for the weekend.
+            originally_available: 2025-03-14
           4:
             title: Free Practice 2
             summary: Second practice focusing on long runs and race preparation with similar track conditions to Sunday.
+            originally_available: 2025-03-14
           5:
             title: Free Practice 3
             summary: Final hour of practice as teams fine-tune qualifying setups and make last adjustments.
+            originally_available: 2025-03-15
           6:
             title: Pre Qualifying Show
             summary: Build-up to qualifying with analysis of practice performances and track conditions.
+            originally_available: 2025-03-15
           7:
             title: Qualifying
             summary: Three-stage knockout qualifying session to determine the grid for Sunday's race.
+            originally_available: 2025-03-15
           8:
             title: Post Qualifying Show
             summary: Comprehensive analysis of qualifying results with driver interviews and technical insights.
+            originally_available: 2025-03-15
           9:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage before the race start.
+            originally_available: 2025-03-16
           10:
             title: Race
             summary: The Australian Grand Prix, featuring full race coverage from lights out to the checkered flag.
+            originally_available: 2025-03-16
           11:
             title: Post Race Show
             summary: Complete race analysis with podium ceremonies, driver interviews, and championship implications.
+            originally_available: 2025-03-16
       2:
         title: Chinese Grand Prix
         sort_title: 02_Chinese Grand Prix
@@ -76,42 +93,55 @@ metadata:
           1:
             title: Drivers Press Conference
             summary: Weekend begins with drivers' media sessions discussing the Sprint format weekend ahead.
+            originally_available: 2025-03-20
           2:
             title: Weekend Warm Up
             summary: Preview show featuring track analysis and team preparations for the Sprint weekend format.
+            originally_available: 2025-03-20
           3:
             title: Free Practice 1
             summary: Only practice session before Sprint Qualifying, crucial for both Sprint and Grand Prix setups.
+            originally_available: 2025-03-21
           4:
             title: Sprint Qualifying
             summary: Short qualifying session setting the grid for Saturday's Sprint race.
+            originally_available: 2025-03-21
           5:
             title: Pre Sprint Show
             summary: Build-up to the Sprint race with analysis of Sprint Qualifying results and strategies.
+            originally_available: 2025-03-22
           6:
             title: Sprint
             summary: 100km Sprint race offering points for the top eight finishers and setting the scene for Sunday.
+            originally_available: 2025-03-22
           7:
             title: Post Sprint Show
             summary: Analysis of Sprint race results and implications for Sunday's Grand Prix.
+            originally_available: 2025-03-22
           8:
             title: Pre Qualifying Show
             summary: Build-up to the main qualifying session with analysis of Sprint race implications.
+            originally_available: 2025-03-22
           9:
             title: Qualifying
             summary: Traditional qualifying format determining the grid for Sunday's Grand Prix.
+            originally_available: 2025-03-22
           10:
             title: Post Qualifying Show
             summary: Analysis of qualifying results and their impact on race strategy.
+            originally_available: 2025-03-22
           11:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage before the main event.
+            originally_available: 2025-03-23
           12:
             title: Race
             summary: The Chinese Grand Prix, featuring full race coverage and strategy battles.
+            originally_available: 2025-03-23
           13:
             title: Post Race Show
             summary: Comprehensive analysis of the race results with interviews and championship standings.
+            originally_available: 2025-03-23
       3:
         title: Japanese Grand Prix
         sort_title: 03_Japanese Grand Prix
@@ -121,36 +151,47 @@ metadata:
           1:
             title: Drivers Press Conference
             summary: Weekend begins with selected drivers discussing their expectations for the iconic Suzuka circuit.
+            originally_available: 2025-04-03
           2:
             title: Weekend Warm Up
             summary: Preview show featuring track walks and analysis of the technical challenges at Suzuka.
+            originally_available: 2025-04-03
           3:
             title: Free Practice 1
             summary: First practice session where teams evaluate setups for Suzuka's unique figure-eight layout.
+            originally_available: 2025-04-04
           4:
             title: Free Practice 2
             summary: Second practice focusing on long runs and tire management through Suzuka's high-speed corners.
+            originally_available: 2025-04-04
           5:
             title: Free Practice 3
             summary: Final practice as teams fine-tune setups for qualifying, particularly for the challenging 130R and Spoon Curve.
+            originally_available: 2025-04-05
           6:
             title: Pre Qualifying Show
             summary: Build-up to qualifying with analysis of practice performances and weather conditions.
+            originally_available: 2025-04-05
           7:
             title: Qualifying
             summary: Three-stage qualifying to determine the grid, with precision crucial through Suzuka's technical sections.
+            originally_available: 2025-04-05
           8:
             title: Post Qualifying Show
             summary: Analysis of qualifying results with focus on the importance of grid position at Suzuka.
+            originally_available: 2025-04-05
           9:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage at one of F1's most historic venues.
+            originally_available: 2025-04-06
           10:
             title: Race
             summary: The Japanese Grand Prix, featuring full race coverage at the challenging Suzuka Circuit.
+            originally_available: 2025-04-06
           11:
             title: Post Race Show
             summary: Complete race analysis with podium ceremonies and championship implications.
+            originally_available: 2025-04-06
       4:
         title: Bahrain Grand Prix
         sort_title: 04_Bahrain Grand Prix
@@ -160,36 +201,47 @@ metadata:
           1:
             title: Drivers Press Conference
             summary: Weekend begins with drivers discussing the challenges of Bahrain's first night race of the season.
+            originally_available: 2025-04-10
           2:
             title: Weekend Warm Up
             summary: Preview show featuring track walks and analysis of the unique demands of Bahrain's desert circuit.
+            originally_available: 2025-04-10
           3:
             title: Free Practice 1
             summary: First practice session under daylight conditions, different from race time but crucial for initial data gathering.
+            originally_available: 2025-04-11
           4:
             title: Free Practice 2
             summary: Critical evening session held in conditions similar to qualifying and the race, with focus on long runs.
+            originally_available: 2025-04-11
           5:
             title: Free Practice 3
             summary: Final practice as teams make last adjustments to cope with Bahrain's abrasive surface and cooling temperatures.
+            originally_available: 2025-04-12
           6:
             title: Pre Qualifying Show
             summary: Build-up to qualifying with analysis of practice performances and tire strategies.
+            originally_available: 2025-04-12
           7:
             title: Qualifying
             summary: Three-stage qualifying session under floodlights to determine the grid for Sunday's race.
+            originally_available: 2025-04-12
           8:
             title: Post Qualifying Show
             summary: Analysis of qualifying results with focus on race strategy implications for the abrasive Bahrain track.
+            originally_available: 2025-04-12
           9:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage before racing begins under the Sakhir lights.
+            originally_available: 2025-04-13
           10:
             title: Race
             summary: The Bahrain Grand Prix, featuring full race coverage as drivers battle tire degradation and cooling issues.
+            originally_available: 2025-04-13
           11:
             title: Post Race Show
             summary: Complete race analysis with podium ceremonies, interviews, and championship standings after four rounds.
+            originally_available: 2025-04-13
       5:
         title: Saudi Arabian Grand Prix
         sort_title: 05_Saudi Arabian Grand Prix
@@ -199,36 +251,47 @@ metadata:
           1:
             title: Drivers Press Conference
             summary: Weekend begins with drivers discussing the challenges of Jeddah's high-speed street circuit.
+            originally_available: 2025-04-17
           2:
             title: Weekend Warm Up
             summary: Preview show focusing on the dangers and demands of Formula 1's fastest street track.
+            originally_available: 2025-04-17
           3:
             title: Free Practice 1
             summary: First practice session as drivers familiarize themselves with Jeddah's high-speed, technical layout.
+            originally_available: 2025-04-18
           4:
             title: Free Practice 2
             summary: Evening practice under race conditions with teams working on qualifying and race setups.
+            originally_available: 2025-04-18
           5:
             title: Free Practice 3
             summary: Final practice with focus on qualifying preparation for this high-commitment circuit.
+            originally_available: 2025-04-19
           6:
             title: Pre Qualifying Show
             summary: Build-up to qualifying with analysis of the risks and rewards of Jeddah's challenging layout.
+            originally_available: 2025-04-19
           7:
             title: Qualifying
             summary: Intense qualifying session where precision is crucial with walls just inches away at high speeds.
+            originally_available: 2025-04-19
           8:
             title: Post Qualifying Show
             summary: Analysis of qualifying results and the importance of track position for the race.
+            originally_available: 2025-04-19
           9:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage before racing begins under the Jeddah lights.
+            originally_available: 2025-04-20
           10:
             title: Race
             summary: The Saudi Arabian Grand Prix, featuring full race coverage on this high-speed, high-risk circuit.
+            originally_available: 2025-04-20
           11:
             title: Post Race Show
             summary: Complete race analysis with podium ceremonies, interviews, and championship implications.
+            originally_available: 2025-04-20
       6:
         title: Miami Grand Prix
         sort_title: 06_Miami Grand Prix
@@ -238,42 +301,55 @@ metadata:
           1:
             title: Drivers Press Conference
             summary: Weekend begins with drivers discussing the Sprint format weekend in Miami's glamorous setting.
+            originally_available: 2025-05-01
           2:
             title: Weekend Warm Up
             summary: Preview show featuring track analysis and preparations for the season's second Sprint weekend.
+            originally_available: 2025-05-01
           3:
             title: Free Practice 1
             summary: Only practice session of the weekend, crucial for both Sprint and Grand Prix setups in Florida's heat.
+            originally_available: 2025-05-02
           4:
             title: Sprint Qualifying
             summary: Short qualifying session setting the grid for Saturday's Sprint race around the Miami International Autodrome.
+            originally_available: 2025-05-02
           5:
             title: Pre Sprint Show
             summary: Build-up to the Sprint race with analysis of Sprint Qualifying results and Florida's track conditions.
+            originally_available: 2025-05-03
           6:
             title: Sprint
             summary: 100km Sprint race in the Florida heat, offering points for the top eight and setting the stage for Sunday.
+            originally_available: 2025-05-03
           7:
             title: Post Sprint Show
             summary: Analysis of Sprint race results and their influence on Sunday's Grand Prix strategy.
+            originally_available: 2025-05-03
           8:
             title: Pre Qualifying Show
             summary: Build-up to the main qualifying session with analysis of Sprint race implications and track evolution.
+            originally_available: 2025-05-03
           9:
             title: Qualifying
             summary: Full qualifying session determining the grid for Sunday's Miami Grand Prix.
+            originally_available: 2025-05-03
           10:
             title: Post Qualifying Show
             summary: Analysis of qualifying results with focus on strategy options for the race in hot conditions.
+            originally_available: 2025-05-03
           11:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage before the main event in Miami.
+            originally_available: 2025-05-04
           12:
             title: Race
             summary: The Miami Grand Prix, featuring full race coverage as drivers battle heat and humidity in Florida.
+            originally_available: 2025-05-04
           13:
             title: Post Race Show
             summary: Complete race analysis with podium ceremonies, driver interviews, and championship standings.
+            originally_available: 2025-05-04
       7:
         title: Emilia Romagna Grand Prix
         sort_title: 07_Emilia Romagna Grand Prix
@@ -282,36 +358,47 @@ metadata:
           1:
             title: Drivers Press Conference
             summary: Weekend begins with drivers discussing the challenges of the historic and technical Imola circuit.
+            originally_available: 2025-05-15
           2:
             title: Weekend Warm Up
             summary: Preview show featuring track walks and analysis of the old-school characteristics of Imola.
+            originally_available: 2025-05-15
           3:
             title: Free Practice 1
             summary: First practice session as teams begin to dial in setups for Imola's technically demanding layout.
+            originally_available: 2025-05-16
           4:
             title: Free Practice 2
             summary: Second practice focusing on long runs and race simulations on Imola's narrow, flowing track.
+            originally_available: 2025-05-16
           5:
             title: Free Practice 3
             summary: Final practice as teams prepare for qualifying on a circuit where grid position is critical.
+            originally_available: 2025-05-17
           6:
             title: Pre Qualifying Show
             summary: Build-up to qualifying with analysis of practice performances at this challenging venue.
+            originally_available: 2025-05-17
           7:
             title: Qualifying
             summary: Qualifying session where precision is essential with gravel traps punishing any mistakes.
+            originally_available: 2025-05-17
           8:
             title: Post Qualifying Show
             summary: Analysis of qualifying results and the importance of track position at a circuit where overtaking is difficult.
+            originally_available: 2025-05-17
           9:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage at this historic Italian venue.
+            originally_available: 2025-05-18
           10:
             title: Race
             summary: The Emilia Romagna Grand Prix, featuring full race coverage as drivers navigate this technical circuit.
+            originally_available: 2025-05-18
           11:
             title: Post Race Show
             summary: Complete race analysis with podium ceremonies, interviews, and championship implications.
+            originally_available: 2025-05-18
       8:
         title: Monaco Grand Prix
         sort_title: 08_Monaco Grand Prix
@@ -320,36 +407,47 @@ metadata:
           1:
             title: Drivers Press Conference
             summary: Weekend begins with drivers discussing the unique challenge and prestige of racing in Monaco.
+            originally_available: 2025-05-22
           2:
             title: Weekend Warm Up
             summary: Preview show highlighting the glamour, history, and immense challenge of Formula 1's crown jewel event.
+            originally_available: 2025-05-22
           3:
             title: Free Practice 1
             summary: First practice session as drivers build confidence on Monaco's tight streets and unforgiving barriers.
+            originally_available: 2025-05-23
           4:
             title: Free Practice 2
             summary: Critical second practice focusing on qualifying simulation, the key to success at Monaco.
+            originally_available: 2025-05-23
           5:
             title: Free Practice 3
             summary: Final practice as drivers search for the perfect qualifying setup around the Principality.
+            originally_available: 2025-05-24
           6:
             title: Pre Qualifying Show
             summary: Build-up to the most important qualifying session of the year at a track where overtaking is nearly impossible.
+            originally_available: 2025-05-24
           7:
             title: Qualifying
             summary: Intense qualifying battle for pole position, often more important in Monaco than at any other circuit.
+            originally_available: 2025-05-24
           8:
             title: Post Qualifying Show
             summary: Analysis of qualifying results that will likely determine the outcome of Sunday's race.
+            originally_available: 2025-05-24
           9:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage from Formula 1's most glamorous and prestigious event.
+            originally_available: 2025-05-25
           10:
             title: Race
             summary: The Monaco Grand Prix, featuring full race coverage of Formula 1's historic crown jewel event.
+            originally_available: 2025-05-25
           11:
             title: Post Race Show
             summary: Complete race analysis with podium ceremonies in front of the Prince's palace and championship standings.
+            originally_available: 2025-05-25
       9:
         title: Spanish Grand Prix
         sort_title: 09_Spanish Grand Prix
@@ -358,36 +456,47 @@ metadata:
           1:
             title: Drivers Press Conference
             summary: Weekend begins with drivers discussing the challenges of Barcelona, a circuit they know intimately from testing.
+            originally_available: 2025-05-29
           2:
             title: Weekend Warm Up
             summary: Preview show focusing on the technical demands of Barcelona and teams' development progress since testing.
+            originally_available: 2025-05-29
           3:
             title: Free Practice 1
             summary: First practice session as teams evaluate upgrades on this benchmark circuit that tests all aspects of car performance.
+            originally_available: 2025-05-30
           4:
             title: Free Practice 2
             summary: Second practice focusing on long runs in the heat of the Spanish afternoon, crucial for race strategy.
+            originally_available: 2025-05-30
           5:
             title: Free Practice 3
             summary: Final practice as teams fine-tune setups for the technical demands of Barcelona's varied layout.
+            originally_available: 2025-05-31
           6:
             title: Pre Qualifying Show
             summary: Build-up to qualifying with analysis of practice performances and the importance of clean air at this high-downforce track.
+            originally_available: 2025-05-31
           7:
             title: Qualifying
             summary: Qualifying session on a track where small margins separate the field due to teams' familiarity with the circuit.
+            originally_available: 2025-05-31
           8:
             title: Post Qualifying Show
             summary: Analysis of qualifying results with focus on strategic options for a circuit where overtaking can be challenging.
+            originally_available: 2025-05-31
           9:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage before the race at this well-established Grand Prix venue.
+            originally_available: 2025-06-01
           10:
             title: Race
             summary: The Spanish Grand Prix, featuring full race coverage as drivers battle Barcelona's technical challenges and summer heat.
+            originally_available: 2025-06-01
           11:
             title: Post Race Show
             summary: Complete race analysis with podium ceremonies, interviews, and assessment of teams' development progress.
+            originally_available: 2025-06-01
       10:
         title: Canadian Grand Prix
         sort_title: 10_Canadian Grand Prix
@@ -396,36 +505,47 @@ metadata:
           1:
             title: Drivers Press Conference
             summary: Weekend begins with drivers discussing the unique challenges of Montreal's Circuit Gilles Villeneuve.
+            originally_available: 2025-06-12
           2:
             title: Weekend Warm Up
             summary: Preview show featuring track walks and analysis of Montreal's demanding stop-start layout.
+            originally_available: 2025-06-12
           3:
             title: Free Practice 1
             summary: First practice session as drivers reacquaint themselves with Montreal's tricky braking zones and close walls.
+            originally_available: 2025-06-13
           4:
             title: Free Practice 2
             summary: Second practice with focus on tire management and brake cooling for Sunday's race.
+            originally_available: 2025-06-13
           5:
             title: Free Practice 3
             summary: Final practice as teams prepare for qualifying with attention to the infamous Wall of Champions.
+            originally_available: 2025-06-14
           6:
             title: Pre Qualifying Show
             summary: Build-up to qualifying with analysis of practice performances and changing track conditions.
+            originally_available: 2025-06-14
           7:
             title: Qualifying
             summary: Qualifying session where precision is critical with walls waiting to punish any mistakes.
+            originally_available: 2025-06-14
           8:
             title: Post Qualifying Show
             summary: Analysis of qualifying results with attention to Canada's history of unpredictable races and changing conditions.
+            originally_available: 2025-06-14
           9:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage from Montreal's Notre Dame Island.
+            originally_available: 2025-06-15
           10:
             title: Race
             summary: The Canadian Grand Prix, featuring full race coverage from this action-packed circuit known for drama and excitement.
+            originally_available: 2025-06-15
           11:
             title: Post Race Show
             summary: Complete race analysis with podium ceremonies, interviews, and championship standings at the season's mid-point.
+            originally_available: 2025-06-15
       11:
         title: Austrian Grand Prix
         sort_title: 11_Austrian Grand Prix
@@ -434,36 +554,47 @@ metadata:
           1:
             title: Drivers Press Conference
             summary: Weekend begins with drivers discussing the compact but challenging Red Bull Ring in the Styrian mountains.
+            originally_available: 2025-06-26
           2:
             title: Weekend Warm Up
             summary: Preview show featuring track walks and analysis of Austria's short but technical circuit.
+            originally_available: 2025-06-26
           3:
             title: Free Practice 1
             summary: First practice session as drivers tackle the Red Bull Ring's significant elevation changes and flowing layout.
+            originally_available: 2025-06-27
           4:
             title: Free Practice 2
             summary: Second practice focusing on tire management for a circuit that creates high rates of wear despite its short length.
+            originally_available: 2025-06-27
           5:
             title: Free Practice 3
             summary: Final practice as teams prepare for qualifying on a track where tiny margins make big differences.
+            originally_available: 2025-06-28
           6:
             title: Pre Qualifying Show
             summary: Build-up to qualifying with analysis of practice performances and track evolution in the mountains.
+            originally_available: 2025-06-28
           7:
             title: Qualifying
             summary: Intense qualifying session where small mistakes are costly on the calendar's shortest lap.
+            originally_available: 2025-06-28
           8:
             title: Post Qualifying Show
             summary: Analysis of qualifying results with focus on the numerous overtaking opportunities for Sunday's race.
+            originally_available: 2025-06-28
           9:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage from the picturesque Styrian mountains.
+            originally_available: 2025-06-29
           10:
             title: Race
             summary: The Austrian Grand Prix, featuring full race coverage from the Red Bull Ring's action-packed layout.
+            originally_available: 2025-06-29
           11:
             title: Post Race Show
             summary: Complete race analysis with podium ceremonies, interviews, and championship implications.
+            originally_available: 2025-06-29
       12:
         title: British Grand Prix
         sort_title: 12_British Grand Prix
@@ -472,36 +603,47 @@ metadata:
           1:
             title: Drivers Press Conference
             summary: Weekend begins with drivers discussing the challenges and history of Silverstone's high-speed layout.
+            originally_available: 2025-07-03
           2:
             title: Weekend Warm Up
             summary: Preview show featuring track walks and analysis of one of Formula 1's most historic and demanding circuits.
+            originally_available: 2025-07-03
           3:
             title: Free Practice 1
             summary: First practice session as drivers tackle Silverstone's famous high-speed corner sequences and changeable conditions.
+            originally_available: 2025-07-04
           4:
             title: Free Practice 2
             summary: Second practice focusing on long runs and tire behavior through Silverstone's fast, flowing corners.
+            originally_available: 2025-07-04
           5:
             title: Free Practice 3
             summary: Final practice as teams prepare for qualifying with focus on mastering the high-speed challenge.
+            originally_available: 2025-07-05
           6:
             title: Pre Qualifying Show
             summary: Build-up to qualifying with analysis of practice performances and the impact of British summer weather.
+            originally_available: 2025-07-05
           7:
             title: Qualifying
             summary: Exhilarating qualifying session where driver commitment is tested through Copse, Maggotts, and Becketts.
+            originally_available: 2025-07-05
           8:
             title: Post Qualifying Show
             summary: Analysis of qualifying results with focus on race prospects and strategic options.
+            originally_available: 2025-07-05
           9:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage from one of Formula 1's best-attended and most atmospheric events.
+            originally_available: 2025-07-06
           10:
             title: Race
             summary: The British Grand Prix, featuring full race coverage as drivers battle Silverstone's challenging layout and unpredictable weather.
+            originally_available: 2025-07-06
           11:
             title: Post Race Show
             summary: Complete race analysis with podium ceremonies, interviews, and championship implications at this historic venue.
+            originally_available: 2025-07-06
       13:
         title: Belgian Grand Prix
         sort_title: 13_Belgian Grand Prix
@@ -510,42 +652,55 @@ metadata:
           1:
             title: Drivers Press Conference
             summary: Weekend begins with drivers discussing the Sprint format at one of Formula 1's most challenging and loved circuits.
+            originally_available: 2025-07-24
           2:
             title: Weekend Warm Up
             summary: Preview show featuring analysis of Spa's unique challenges and the Sprint weekend format in the Ardennes.
+            originally_available: 2025-07-24
           3:
             title: Free Practice 1
             summary: Only practice session of the weekend as drivers reacquaint themselves with Spa's formidable layout and elevation changes.
+            originally_available: 2025-07-25
           4:
             title: Sprint Qualifying
             summary: Short qualifying session setting the grid for Saturday's Sprint race at Formula 1's longest circuit.
+            originally_available: 2025-07-25
           5:
             title: Pre Sprint Show
             summary: Build-up to the Sprint race with analysis of Sprint Qualifying results and Spa's notoriously unpredictable weather.
+            originally_available: 2025-07-26
           6:
             title: Sprint
             summary: 100km Sprint race tackling the mighty Eau Rouge and high-speed challenges of Spa-Francorchamps.
+            originally_available: 2025-07-26
           7:
             title: Post Sprint Show
             summary: Analysis of Sprint race results and how they might influence setup choices for Sunday's Grand Prix.
+            originally_available: 2025-07-26
           8:
             title: Pre Qualifying Show
             summary: Build-up to the main qualifying session with analysis of Sprint performance and Spa's notorious weather conditions.
+            originally_available: 2025-07-26
           9:
             title: Qualifying
             summary: Full qualifying session where driver skill is showcased through Spa's high-speed, high-commitment corners.
+            originally_available: 2025-07-26
           10:
             title: Post Qualifying Show
             summary: Analysis of qualifying results with focus on Spa's strategic options, weather forecasts, and overtaking opportunities.
+            originally_available: 2025-07-26
           11:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage before racing at this iconic Formula 1 venue.
+            originally_available: 2025-07-27
           12:
             title: Race
             summary: The Belgian Grand Prix, featuring full race coverage from the majestic Spa-Francorchamps circuit in the Ardennes forest.
+            originally_available: 2025-07-27
           13:
             title: Post Race Show
             summary: Complete race analysis with podium ceremonies, interviews, and championship standings before the summer break.
+            originally_available: 2025-07-27
       14:
         title: Hungarian Grand Prix
         sort_title: 14_Hungarian Grand Prix
@@ -554,36 +709,47 @@ metadata:
           1:
             title: Drivers Press Conference
             summary: Weekend begins as Formula 1 returns from summer break, with drivers discussing the hot, twisty Hungaroring.
+            originally_available: 2025-07-31
           2:
             title: Weekend Warm Up
             summary: Preview show featuring track analysis and teams' preparations for the physical demands of Hungary.
+            originally_available: 2025-07-31
           3:
             title: Free Practice 1
             summary: First practice session as drivers reacquaint themselves with the twisty, technical Hungaroring layout.
+            originally_available: 2025-08-01
           4:
             title: Free Practice 2
             summary: Second practice focusing on tire performance and cooling systems in Hungary's extreme heat.
+            originally_available: 2025-08-01
           5:
             title: Free Practice 3
             summary: Final practice as teams prepare for qualifying on a track where grid position is crucial for race success.
+            originally_available: 2025-08-02
           6:
             title: Pre Qualifying Show
             summary: Build-up to qualifying with analysis of practice performances and track evolution at this dusty circuit.
+            originally_available: 2025-08-02
           7:
             title: Qualifying
             summary: Critical qualifying session at a circuit where overtaking is notoriously difficult during the race.
+            originally_available: 2025-08-02
           8:
             title: Post Qualifying Show
             summary: Analysis of qualifying results with focus on strategy options for a track often compared to Monaco without walls.
+            originally_available: 2025-08-02
           9:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage before one of the season's most physically demanding races.
+            originally_available: 2025-08-03
           10:
             title: Race
             summary: The Hungarian Grand Prix, featuring full race coverage as drivers battle the heat and the technical Hungaroring circuit.
+            originally_available: 2025-08-03
           11:
             title: Post Race Show
             summary: Complete race analysis with podium ceremonies, interviews, and championship implications as F1 approaches its summer break.
+            originally_available: 2025-08-03
       15:
         title: Dutch Grand Prix
         sort_title: 15_Dutch Grand Prix
@@ -592,36 +758,47 @@ metadata:
           1:
             title: Drivers Press Conference
             summary: Weekend begins as drivers discuss the unique challenge of Zandvoort's banked corners after the summer break.
+            originally_available: 2025-08-28
           2:
             title: Weekend Warm Up
             summary: Preview show featuring track walks and analysis of Zandvoort's technical, undulating layout.
+            originally_available: 2025-08-28
           3:
             title: Free Practice 1
             summary: First practice as drivers reacquaint themselves with Zandvoort's narrow track and banked corners.
+            originally_available: 2025-08-29
           4:
             title: Free Practice 2
             summary: Second practice focusing on tire management on a circuit where degradation can be significant.
+            originally_available: 2025-08-29
           5:
             title: Free Practice 3
             summary: Final practice as teams prepare for qualifying on this technical, old-school circuit.
+            originally_available: 2025-08-30
           6:
             title: Pre Qualifying Show
             summary: Build-up to qualifying with analysis of practice performances and the challenge of Zandvoort's unusual layout.
+            originally_available: 2025-08-30
           7:
             title: Qualifying
             summary: Qualifying session where precision is essential on this narrow, technical circuit with limited runoff areas.
+            originally_available: 2025-08-30
           8:
             title: Post Qualifying Show
             summary: Analysis of qualifying results with focus on the difficulties of overtaking at Zandvoort and race strategy implications.
+            originally_available: 2025-08-30
           9:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage amid the electric atmosphere created by passionate Dutch fans.
+            originally_available: 2025-08-31
           10:
             title: Race
             summary: The Dutch Grand Prix, featuring full race coverage as drivers navigate Zandvoort's challenging layout.
+            originally_available: 2025-08-31
           11:
             title: Post Race Show
             summary: Complete race analysis with podium ceremonies, interviews, and championship standings as the European season nears its end.
+            originally_available: 2025-08-31
       16:
         title: Italian Grand Prix
         sort_title: 16_Italian Grand Prix
@@ -630,36 +807,47 @@ metadata:
           1:
             title: Drivers Press Conference
             summary: Weekend begins with drivers discussing the unique challenges of Formula 1's fastest circuit at this historic venue.
+            originally_available: 2025-09-04
           2:
             title: Weekend Warm Up
             summary: Preview show featuring track walks and analysis of Monza's high-speed straights and heavy braking zones.
+            originally_available: 2025-09-04
           3:
             title: Free Practice 1
             summary: First practice session as teams work on low-downforce setups unique to Monza's speed demands.
+            originally_available: 2025-09-05
           4:
             title: Free Practice 2
             summary: Second practice with focus on braking stability and traction out of chicanes for this high-speed challenge.
+            originally_available: 2025-09-05
           5:
             title: Free Practice 3
             summary: Final practice as teams prepare for qualifying with focus on slipstreaming tactics at this draft-dependent track.
+            originally_available: 2025-09-06
           6:
             title: Pre Qualifying Show
             summary: Build-up to qualifying with analysis of practice performances and the art of the Monza tow.
+            originally_available: 2025-09-06
           7:
             title: Qualifying
             summary: Tactical qualifying session where finding a slipstream can be crucial for pole position.
+            originally_available: 2025-09-06
           8:
             title: Post Qualifying Show
             summary: Analysis of qualifying results with focus on race prospects at Formula 1's temple of speed.
+            originally_available: 2025-09-06
           9:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage amid the passionate Tifosi at Monza's royal park.
+            originally_available: 2025-09-07
           10:
             title: Race
             summary: The Italian Grand Prix, featuring full race coverage of the high-speed slipstreaming battles at historic Monza.
+            originally_available: 2025-09-07
           11:
             title: Post Race Show
             summary: Complete race analysis with podium ceremonies beneath Monza's famous podium, interviews, and championship implications.
+            originally_available: 2025-09-07
       17:
         title: Azerbaijan Grand Prix
         sort_title: 17_Azerbaijan Grand Prix
@@ -668,36 +856,47 @@ metadata:
           1:
             title: Drivers Press Conference
             summary: Weekend begins with drivers discussing the contrasting challenges of Baku's unique street circuit layout.
+            originally_available: 2025-09-18
           2:
             title: Weekend Warm Up
             summary: Preview show featuring track walks and analysis of Baku's technical castle section and 2.2 km straight.
+            originally_available: 2025-09-18
           3:
             title: Free Practice 1
             summary: First practice session as drivers build confidence around Baku's walls and contrasting circuit sections.
+            originally_available: 2025-09-19
           4:
             title: Free Practice 2
             summary: Second practice focusing on the challenging setup compromise between the tight castle section and long straights.
+            originally_available: 2025-09-19
           5:
             title: Free Practice 3
             summary: Final practice as teams prepare for qualifying on this unforgiving street circuit.
+            originally_available: 2025-09-20
           6:
             title: Pre Qualifying Show
             summary: Build-up to qualifying with analysis of practice performances and the risks of Baku's walls.
+            originally_available: 2025-09-20
           7:
             title: Qualifying
             summary: Tense qualifying session where precision is critical through the narrow castle section.
+            originally_available: 2025-09-20
           8:
             title: Post Qualifying Show
             summary: Analysis of qualifying results with focus on Baku's history of unpredictable races and safety car periods.
+            originally_available: 2025-09-20
           9:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage from the shores of the Caspian Sea.
+            originally_available: 2025-09-21
           10:
             title: Race
             summary: The Azerbaijan Grand Prix, featuring full race coverage of a circuit known for dramatic moments and surprising results.
+            originally_available: 2025-09-21
           11:
             title: Post Race Show
             summary: Complete race analysis with podium ceremonies, interviews, and championship implications.
+            originally_available: 2025-09-21
       18:
         title: Singapore Grand Prix
         sort_title: 18_Singapore Grand Prix
@@ -706,36 +905,47 @@ metadata:
           1:
             title: Drivers Press Conference
             summary: Weekend begins with drivers discussing the physical challenge of Formula 1's most demanding night race.
+            originally_available: 2025-10-02
           2:
             title: Weekend Warm Up
             summary: Preview show featuring track walks and analysis of Singapore's unique night race conditions.
+            originally_available: 2025-10-02
           3:
             title: Free Practice 1
             summary: First practice session as drivers acclimate to Marina Bay's bumpy surface and 23 corners under floodlights.
+            originally_available: 2025-10-03
           4:
             title: Free Practice 2
             summary: Critical second practice held at night in representative conditions for qualifying and the race.
+            originally_available: 2025-10-03
           5:
             title: Free Practice 3
             summary: Final practice as teams fine-tune setups for the physical demands of Singapore's tight layout.
+            originally_available: 2025-10-04
           6:
             title: Pre Qualifying Show
             summary: Build-up to qualifying with analysis of practice performances and the importance of grid position in Singapore.
+            originally_available: 2025-10-04
           7:
             title: Qualifying
             summary: Intense qualifying session where precision is essential around Marina Bay's unforgiving walls.
+            originally_available: 2025-10-04
           8:
             title: Post Qualifying Show
             summary: Analysis of qualifying results with focus on strategic options for a circuit where overtaking is extremely difficult.
+            originally_available: 2025-10-04
           9:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage before Formula 1's most physically demanding race.
+            originally_available: 2025-10-05
           10:
             title: Race
             summary: The Singapore Grand Prix, featuring full race coverage as drivers battle extreme heat, humidity, and concentration demands.
+            originally_available: 2025-10-05
           11:
             title: Post Race Show
             summary: Complete race analysis with podium ceremonies, interviews, and championship implications with six races remaining.
+            originally_available: 2025-10-05
       19:
         title: United States Grand Prix
         sort_title: 19_United States Grand Prix
@@ -744,42 +954,55 @@ metadata:
           1:
             title: Drivers Press Conference
             summary: Weekend begins with drivers discussing the Sprint format weekend at COTA as the championship intensifies.
+            originally_available: 2025-10-16
           2:
             title: Weekend Warm Up
             summary: Preview show featuring track analysis and championship scenarios for this crucial American round.
+            originally_available: 2025-10-16
           3:
             title: Free Practice 1
             summary: Only practice session of the weekend as teams prepare for both Sprint and Grand Prix on COTA's varied layout.
+            originally_available: 2025-10-17
           4:
             title: Sprint Qualifying
             summary: Short qualifying session setting the grid for Saturday's Sprint race at the Circuit of the Americas.
+            originally_available: 2025-10-17
           5:
             title: Pre Sprint Show
             summary: Build-up to the Sprint race with analysis of Sprint Qualifying results and championship implications.
+            originally_available: 2025-10-18
           6:
             title: Sprint
             summary: 100km Sprint race navigating COTA's dramatic elevation changes and challenging sectors.
+            originally_available: 2025-10-18
           7:
             title: Post Sprint Show
             summary: Analysis of Sprint race results and how they affect championship standings heading into Sunday.
+            originally_available: 2025-10-18
           8:
             title: Pre Qualifying Show
             summary: Build-up to the main qualifying session with analysis of Sprint race implications for Sunday's grid.
+            originally_available: 2025-10-18
           9:
             title: Qualifying
             summary: Full qualifying session determining the grid for the United States Grand Prix.
+            originally_available: 2025-10-18
           10:
             title: Post Qualifying Show
             summary: Analysis of qualifying results with focus on championship implications and race strategy.
+            originally_available: 2025-10-18
           11:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage before racing at Formula 1's American home.
+            originally_available: 2025-10-19
           12:
             title: Race
             summary: The United States Grand Prix, featuring full race coverage as championship battles intensify in Austin.
+            originally_available: 2025-10-19
           13:
             title: Post Race Show
             summary: Complete race analysis with podium ceremonies, interviews, and championship standings as the triple-header begins.
+            originally_available: 2025-10-19
       20:
         title: Mexico City Grand Prix
         sort_title: 20_Mexico City Grand Prix
@@ -788,36 +1011,47 @@ metadata:
           1:
             title: Drivers Press Conference
             summary: Weekend begins with drivers discussing the unique high-altitude challenge of racing in Mexico City.
+            originally_available: 2025-10-23
           2:
             title: Weekend Warm Up
             summary: Preview show featuring analysis of how teams adapt to Mexico's 2,240m altitude and thin air challenges.
+            originally_available: 2025-10-23
           3:
             title: Free Practice 1
             summary: First practice session as teams evaluate cooling solutions and power unit settings for the thin air.
+            originally_available: 2025-10-24
           4:
             title: Free Practice 2
             summary: Second practice focusing on tire behavior and mechanical grip in the low-downforce environment.
+            originally_available: 2025-10-24
           5:
             title: Free Practice 3
             summary: Final practice as teams prepare for qualifying in Mexico's unique atmospheric conditions.
+            originally_available: 2025-10-25
           6:
             title: Pre Qualifying Show
             summary: Build-up to qualifying with analysis of practice performances and the effects of altitude on car performance.
+            originally_available: 2025-10-25
           7:
             title: Qualifying
             summary: Qualifying session where power units are stressed by the thin air of Mexico City.
+            originally_available: 2025-10-25
           8:
             title: Post Qualifying Show
             summary: Analysis of qualifying results with focus on race prospects and championship implications.
+            originally_available: 2025-10-25
           9:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage through the unique stadium section filled with passionate fans.
+            originally_available: 2025-10-26
           10:
             title: Race
             summary: The Mexico City Grand Prix, featuring full race coverage as drivers battle in the challenging high-altitude conditions.
+            originally_available: 2025-10-26
           11:
             title: Post Race Show
             summary: Complete race analysis with podium ceremonies, interviews, and championship standings with four races remaining.
+            originally_available: 2025-10-26
       21:
         title: São Paulo Grand Prix
         sort_title: 21_São Paulo Grand Prix
@@ -826,36 +1060,47 @@ metadata:
           1:
             title: Drivers Press Conference
             summary: Weekend begins with drivers discussing the Sprint format at Interlagos as championship battles reach critical stage.
+            originally_available: 2025-11-06
           2:
             title: Weekend Warm Up
             summary: Preview show featuring track analysis and championship permutations for this pivotal Brazilian round.
+            originally_available: 2025-11-06
           3:
             title: Free Practice 1
             summary: Only practice session of the weekend as teams prepare for both Sprint and Grand Prix on Interlagos' challenging layout.
+            originally_available: 2025-11-07
           4:
             title: Sprint Qualifying
             summary: Short qualifying session setting the grid for Saturday's Sprint race at the undulating Interlagos circuit.
+            originally_available: 2025-11-07
           5:
             title: Sprint
             summary: 100km Sprint race navigating Interlagos' elevation changes and notoriously unpredictable weather conditions.
+            originally_available: 2025-11-08
           6:
             title: Pre Qualifying Show
             summary: Build-up to the main qualifying session with analysis of Sprint race implications and weather forecasts.
+            originally_available: 2025-11-08
           7:
             title: Qualifying
             summary: Full qualifying session determining the grid for the São Paulo Grand Prix.
+            originally_available: 2025-11-08
           8:
             title: Post Qualifying Show
             summary: Analysis of qualifying results with focus on Interlagos' history of exciting races and overtaking opportunities.
+            originally_available: 2025-11-08
           9:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage before racing at this historic South American venue.
+            originally_available: 2025-11-09
           10:
             title: Race
             summary: The São Paulo Grand Prix, featuring full race coverage as championship battles intensify at this dramatic circuit.
+            originally_available: 2025-11-09
           11:
             title: Post Race Show
             summary: Complete race analysis with podium ceremonies, interviews, and championship standings with three races remaining.
+            originally_available: 2025-11-09
       22:
         title: Las Vegas Grand Prix
         sort_title: 22_Las Vegas Grand Prix
@@ -864,36 +1109,47 @@ metadata:
           1:
             title: Drivers Press Conference
             summary: Weekend begins with drivers discussing the spectacular Las Vegas night race and its championship implications.
+            originally_available: 2025-11-19
           2:
             title: Weekend Warm Up
             summary: Preview show featuring track analysis and the unique challenges of racing at night on the Las Vegas Strip.
+            originally_available: 2025-11-19
           3:
             title: Free Practice 1
             summary: First practice session as drivers acclimatize to the Las Vegas Strip Circuit and its cold night conditions.
+            originally_available: 2025-11-20
           4:
             title: Free Practice 2
             summary: Critical second practice held at night in representative conditions for qualifying and the race.
+            originally_available: 2025-11-20
           5:
             title: Free Practice 3
             summary: Final practice as teams fine-tune setups for the high-speed straights and low-grip conditions of Las Vegas.
+            originally_available: 2025-11-21
           6:
             title: Pre Qualifying Show
             summary: Build-up to qualifying with analysis of practice performances under the neon lights of Las Vegas.
+            originally_available: 2025-11-21
           7:
             title: Qualifying
             summary: Night-time qualifying session setting the grid for the penultimate race of the season.
+            originally_available: 2025-11-21
           8:
             title: Post Qualifying Show
             summary: Analysis of qualifying results with focus on tire warm-up challenges and race strategy in cold conditions.
+            originally_available: 2025-11-21
           9:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage amid the spectacular backdrop of the Las Vegas Strip.
+            originally_available: 2025-11-22
           10:
             title: Race
             summary: The Las Vegas Grand Prix, featuring full race coverage as drivers battle under the neon lights in this crucial late-season race.
+            originally_available: 2025-11-22
           11:
             title: Post Race Show
             summary: Complete race analysis with podium ceremonies, interviews, and championship standings heading to the season's penultimate round.
+            originally_available: 2025-11-22
       23:
         title: Qatar Grand Prix
         sort_title: 23_Qatar Grand Prix
@@ -902,42 +1158,55 @@ metadata:
           1:
             title: Drivers Press Conference
             summary: Weekend begins with drivers discussing the Sprint format at Qatar as championship battles reach their climax.
+            originally_available: 2025-11-27
           2:
             title: Weekend Warm Up
             summary: Preview show featuring track analysis and championship scenarios for the penultimate round of the season.
+            originally_available: 2025-11-27
           3:
             title: Free Practice 1
             summary: Only practice session of the weekend as teams prepare for both Sprint and Grand Prix at the demanding Lusail Circuit.
+            originally_available: 2025-11-28
           4:
             title: Sprint Qualifying
             summary: Short qualifying session setting the grid for Saturday's Sprint race under Qatar's floodlights.
+            originally_available: 2025-11-28
           5:
             title: Pre Sprint Show
             summary: Build-up to the Sprint race with analysis of Sprint Qualifying results and championship permutations.
+            originally_available: 2025-11-29
           6:
             title: Sprint
             summary: 100km Sprint race navigating Lusail's fast, flowing corners with championship points at stake.
+            originally_available: 2025-11-29
           7:
             title: Post Sprint Show
             summary: Analysis of Sprint race results and their impact on the championship battle heading into Sunday.
+            originally_available: 2025-11-29
           8:
             title: Pre Qualifying Show
             summary: Build-up to the main qualifying session with analysis of Sprint race implications and championship mathematics.
+            originally_available: 2025-11-29
           9:
             title: Qualifying
             summary: Full qualifying session determining the grid for the penultimate Grand Prix of the season.
+            originally_available: 2025-11-29
           10:
             title: Post Qualifying Show
             summary: Analysis of qualifying results with focus on championship permutations heading to Abu Dhabi.
+            originally_available: 2025-11-29
           11:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage before the crucial penultimate race of the season.
+            originally_available: 2025-11-30
           12:
             title: Race
             summary: The Qatar Grand Prix, featuring full race coverage as championship battles potentially reach their conclusion.
+            originally_available: 2025-11-30
           13:
             title: Post Race Show
             summary: Complete race analysis with podium ceremonies, interviews, and championship standings before the Abu Dhabi finale.
+            originally_available: 2025-11-30
       24:
         title: Abu Dhabi Grand Prix
         sort_title: 24_Abu Dhabi Grand Prix
@@ -946,33 +1215,44 @@ metadata:
           1:
             title: Drivers Press Conference
             summary: Final drivers' press conference of the season, discussing championship decider at Yas Marina.
+            originally_available: 2025-12-04
           2:
             title: Weekend Warm Up
             summary: Season finale preview show featuring track analysis and championship scenarios.
+            originally_available: 2025-12-04
           3:
             title: Free Practice 1
             summary: First practice session as teams begin preparations for the twilight race conditions.
+            originally_available: 2025-12-05
           4:
             title: Free Practice 2
             summary: Critical second practice held at the same time as race for representative conditions.
+            originally_available: 2025-12-05
           5:
             title: Free Practice 3
             summary: Final practice session of 2025 as teams prepare for qualifying and the championship decider.
+            originally_available: 2025-12-06
           6:
             title: Pre Qualifying Show
             summary: Build-up to the crucial final qualifying session of the season.
+            originally_available: 2025-12-06
           7:
             title: Qualifying
             summary: Season's final qualifying session determining the grid for the championship decider.
+            originally_available: 2025-12-06
           8:
             title: Post Qualifying Show
             summary: Analysis of qualifying results and their impact on championship permutations.
+            originally_available: 2025-12-06
           9:
             title: Pre Race Show
             summary: Final preparations and grid walk before the season finale.
+            originally_available: 2025-12-07
           10:
             title: Race
             summary: The Abu Dhabi Grand Prix season finale, where the 2025 championships will be decided.
+            originally_available: 2025-12-07
           11:
             title: Post Race Show
             summary: Championship celebration and complete analysis of the season finale.
+            originally_available: 2025-12-07
