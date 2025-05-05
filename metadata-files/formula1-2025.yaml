@@ -353,6 +353,7 @@ metadata:
       7:
         title: Emilia Romagna Grand Prix
         sort_title: 07_Emilia Romagna Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1-2025/r07.jpg
         summary: The historic Imola Circuit hosts the Emilia Romagna Grand Prix, marking Formula 1's return to this classic European venue. This 4.9 km track, officially named Autodromo Internazionale Enzo e Dino Ferrari, features a mix of medium and high-speed corners with limited overtaking opportunities, placing emphasis on qualifying performance and strategy. The circuit's old-school character, with its narrow track and gravel traps, punishes mistakes and rewards precision driving.
         episodes:
           1:
