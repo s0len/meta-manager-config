@@ -86,24 +86,30 @@ metadata:
             title: Sprint Qualifying
             summary: Short qualifying session setting the grid for Saturday's Sprint race.
           5:
+            title: Pre Sprint Show
+            summary: Build-up to the Sprint race with analysis of Sprint Qualifying results and strategies.
+          6:
             title: Sprint
             summary: 100km Sprint race offering points for the top eight finishers and setting the scene for Sunday.
-          6:
+          7:
+            title: Post Sprint Show
+            summary: Analysis of Sprint race results and implications for Sunday's Grand Prix.
+          8:
             title: Pre Qualifying Show
             summary: Build-up to the main qualifying session with analysis of Sprint race implications.
-          7:
+          9:
             title: Qualifying
             summary: Traditional qualifying format determining the grid for Sunday's Grand Prix.
-          8:
+          10:
             title: Post Qualifying Show
             summary: Analysis of qualifying results and their impact on race strategy.
-          9:
+          11:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage before the main event.
-          10:
+          12:
             title: Race
             summary: The Chinese Grand Prix, featuring full race coverage and strategy battles.
-          11:
+          13:
             title: Post Race Show
             summary: Comprehensive analysis of the race results with interviews and championship standings.
       3:
@@ -226,6 +232,7 @@ metadata:
       6:
         title: Miami Grand Prix
         sort_title: 06_Miami Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1-2025/r06.jpg
         summary: The Miami International Autodrome, set around the Hard Rock Stadium complex in Miami Gardens, Florida, hosts the sixth round of the championship. This 5.4 km circuit features 19 corners, three potential DRS zones, and a mix of technical sections and high-speed straights. The track's layout, with its long back straight and tight chicanes, creates opportunities for overtaking while testing both car and driver capabilities in the Florida heat.
         episodes:
           1:
@@ -241,24 +248,30 @@ metadata:
             title: Sprint Qualifying
             summary: Short qualifying session setting the grid for Saturday's Sprint race around the Miami International Autodrome.
           5:
+            title: Pre Sprint Show
+            summary: Build-up to the Sprint race with analysis of Sprint Qualifying results and Florida's track conditions.
+          6:
             title: Sprint
             summary: 100km Sprint race in the Florida heat, offering points for the top eight and setting the stage for Sunday.
-          6:
+          7:
+            title: Post Sprint Show
+            summary: Analysis of Sprint race results and their influence on Sunday's Grand Prix strategy.
+          8:
             title: Pre Qualifying Show
             summary: Build-up to the main qualifying session with analysis of Sprint race implications and track evolution.
-          7:
+          9:
             title: Qualifying
             summary: Full qualifying session determining the grid for Sunday's Miami Grand Prix.
-          8:
+          10:
             title: Post Qualifying Show
             summary: Analysis of qualifying results with focus on strategy options for the race in hot conditions.
-          9:
+          11:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage before the main event in Miami.
-          10:
+          12:
             title: Race
             summary: The Miami Grand Prix, featuring full race coverage as drivers battle heat and humidity in Florida.
-          11:
+          13:
             title: Post Race Show
             summary: Complete race analysis with podium ceremonies, driver interviews, and championship standings.
       7:
@@ -507,24 +520,30 @@ metadata:
             title: Sprint Qualifying
             summary: Short qualifying session setting the grid for Saturday's Sprint race at Formula 1's longest circuit.
           5:
+            title: Pre Sprint Show
+            summary: Build-up to the Sprint race with analysis of Sprint Qualifying results and Spa's notoriously unpredictable weather.
+          6:
             title: Sprint
             summary: 100km Sprint race tackling the mighty Eau Rouge and high-speed challenges of Spa-Francorchamps.
-          6:
+          7:
+            title: Post Sprint Show
+            summary: Analysis of Sprint race results and how they might influence setup choices for Sunday's Grand Prix.
+          8:
             title: Pre Qualifying Show
             summary: Build-up to the main qualifying session with analysis of Sprint performance and Spa's notorious weather conditions.
-          7:
+          9:
             title: Qualifying
             summary: Full qualifying session where driver skill is showcased through Spa's high-speed, high-commitment corners.
-          8:
+          10:
             title: Post Qualifying Show
             summary: Analysis of qualifying results with focus on Spa's strategic options, weather forecasts, and overtaking opportunities.
-          9:
+          11:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage before racing at this iconic Formula 1 venue.
-          10:
+          12:
             title: Race
             summary: The Belgian Grand Prix, featuring full race coverage from the majestic Spa-Francorchamps circuit in the Ardennes forest.
-          11:
+          13:
             title: Post Race Show
             summary: Complete race analysis with podium ceremonies, interviews, and championship standings before the summer break.
       14:
@@ -735,24 +754,30 @@ metadata:
             title: Sprint Qualifying
             summary: Short qualifying session setting the grid for Saturday's Sprint race at the Circuit of the Americas.
           5:
+            title: Pre Sprint Show
+            summary: Build-up to the Sprint race with analysis of Sprint Qualifying results and championship implications.
+          6:
             title: Sprint
             summary: 100km Sprint race navigating COTA's dramatic elevation changes and challenging sectors.
-          6:
+          7:
+            title: Post Sprint Show
+            summary: Analysis of Sprint race results and how they affect championship standings heading into Sunday.
+          8:
             title: Pre Qualifying Show
             summary: Build-up to the main qualifying session with analysis of Sprint race implications for Sunday's grid.
-          7:
+          9:
             title: Qualifying
             summary: Full qualifying session determining the grid for the United States Grand Prix.
-          8:
+          10:
             title: Post Qualifying Show
             summary: Analysis of qualifying results with focus on championship implications and race strategy.
-          9:
+          11:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage before racing at Formula 1's American home.
-          10:
+          12:
             title: Race
             summary: The United States Grand Prix, featuring full race coverage as championship battles intensify in Austin.
-          11:
+          13:
             title: Post Race Show
             summary: Complete race analysis with podium ceremonies, interviews, and championship standings as the triple-header begins.
       20:
@@ -887,24 +912,30 @@ metadata:
             title: Sprint Qualifying
             summary: Short qualifying session setting the grid for Saturday's Sprint race under Qatar's floodlights.
           5:
+            title: Pre Sprint Show
+            summary: Build-up to the Sprint race with analysis of Sprint Qualifying results and championship permutations.
+          6:
             title: Sprint
             summary: 100km Sprint race navigating Lusail's fast, flowing corners with championship points at stake.
-          6:
+          7:
+            title: Post Sprint Show
+            summary: Analysis of Sprint race results and their impact on the championship battle heading into Sunday.
+          8:
             title: Pre Qualifying Show
             summary: Build-up to the main qualifying session with analysis of Sprint race implications and championship mathematics.
-          7:
+          9:
             title: Qualifying
             summary: Full qualifying session determining the grid for the penultimate Grand Prix of the season.
-          8:
+          10:
             title: Post Qualifying Show
             summary: Analysis of qualifying results with focus on championship permutations heading to Abu Dhabi.
-          9:
+          11:
             title: Pre Race Show
             summary: Final preparations and grid walk coverage before the crucial penultimate race of the season.
-          10:
+          12:
             title: Race
             summary: The Qatar Grand Prix, featuring full race coverage as championship battles potentially reach their conclusion.
-          11:
+          13:
             title: Post Race Show
             summary: Complete race analysis with podium ceremonies, interviews, and championship standings before the Abu Dhabi finale.
       24:
