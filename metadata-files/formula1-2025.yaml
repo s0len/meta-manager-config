@@ -403,6 +403,7 @@ metadata:
       8:
         title: Monaco Grand Prix
         sort_title: 08_Monaco Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1-2025/r08.jpg
         summary: The iconic Circuit de Monaco hosts Formula 1's most prestigious race, the Monaco Grand Prix. This 3.3 km street circuit through the streets of Monte Carlo is the shortest and slowest on the calendar, yet demands the highest precision and concentration from drivers. With its tight corners, narrow track, and no room for error, Monaco emphasizes driver skill and qualifying performance over race pace, creating a unique challenge where overtaking is nearly impossible and the smallest mistake can end a driver's race.
         episodes:
           1:
@@ -452,6 +453,7 @@ metadata:
       9:
         title: Spanish Grand Prix
         sort_title: 09_Spanish Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1-2025/r09.jpg
         summary: The Circuit de Barcelona-Catalunya hosts the Spanish Grand Prix, a track well-known to teams and drivers from pre-season testing. This 4.7 km circuit features a mix of high and low-speed corners, making it a comprehensive test of car performance. With its technical first sector, high-speed middle section, and slower final sector, Barcelona demands a well-balanced car and rewards aerodynamic efficiency, often providing insights into each team's overall competitiveness.
         episodes:
           1:
@@ -501,6 +503,7 @@ metadata:
       10:
         title: Canadian Grand Prix
         sort_title: 10_Canadian Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1-2025/r10.jpg
         summary: The Circuit Gilles Villeneuve in Montreal hosts the Canadian Grand Prix, a race known for its unpredictability and excitement. This 4.4 km circuit on the man-made Notre Dame Island features long straights connected by chicanes and hairpins, with the infamous "Wall of Champions" punishing any mistakes at the final chicane. The track's stop-start nature tests braking systems and traction, while its close walls and changing weather conditions often lead to safety cars and dramatic race developments.
         episodes:
           1:
