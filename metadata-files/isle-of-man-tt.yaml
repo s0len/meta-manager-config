@@ -69,20 +69,24 @@ metadata:
           1:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_QUAL.jpg
             title: Qualifying Highlights Part One
+            originally_available: 2025-05-28
             summary: >
               Highlights from the qualifying sessions of the 2025 Isle of Man TT, where riders familiarize themselves with the challenging 37.73-mile Mountain Course. These sessions determine the starting positions for the races and give competitors crucial practice time on the demanding circuit.
           2:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_QUAL.jpg
             title: Qualifying Highlights Part Two
+            originally_available: 2025-05-30
             summary: >
               Highlights from the qualifying sessions of the 2025 Isle of Man TT, where riders familiarize themselves with the challenging 37.73-mile Mountain Course. These sessions determine the starting positions for the races and give competitors crucial practice time on the demanding circuit.
           3:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_QUAL.jpg
             title: Qualifying Highlights Part Three
+            originally_available: 2025-06-01
             summary: >
               Highlights from the qualifying sessions of the 2025 Isle of Man TT, where riders familiarize themselves with the challenging 37.73-mile Mountain Course. These sessions determine the starting positions for the races and give competitors crucial practice time on the demanding circuit.
           4:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_SUPERBIKE.jpg
-            title: RST Superbike TT Race Highlights
+            title: RST Superbike TT Race One Highlights
+            originally_available: 2025-06-02
             summary: >
-              The RST Superbike TT, held on Sunday, June 1, features the most powerful machines at the event, with modified production motorcycles producing over 200bhp. Riders push these formidable bikes to their limits over six laps of the Mountain Course, reaching speeds of up to 200mph on the fastest sections.
+              The RST Superbike TT features the most powerful machines at the event, with modified production motorcycles producing over 200bhp. Riders push these formidable bikes to their limits over six laps of the Mountain Course, reaching speeds of up to 200mph on the fastest sections.
