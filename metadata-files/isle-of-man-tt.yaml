@@ -68,56 +68,21 @@ metadata:
         episodes:
           1:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_QUAL.jpg
-            title: Qualifying Highlights
+            title: Qualifying Highlights Part 1
             summary: >
               Highlights from the qualifying sessions of the 2025 Isle of Man TT, where riders familiarize themselves with the challenging 37.73-mile Mountain Course. These sessions determine the starting positions for the races and give competitors crucial practice time on the demanding circuit.
           2:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_SUPERSPORT.jpg
-            title: Monster Energy Supersport TT Race 1
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_QUAL.jpg
+            title: Qualifying Highlights Part 2
             summary: >
-              The first Monster Energy Supersport race of 2025, held on Saturday, May 31, features 600cc motorcycles tackling the Mountain Course. Known for their agility and handling, these machines provide some of the closest racing at the TT as riders navigate the technical sections of the course at speeds exceeding 180mph.
+              Highlights from the qualifying sessions of the 2025 Isle of Man TT, where riders familiarize themselves with the challenging 37.73-mile Mountain Course. These sessions determine the starting positions for the races and give competitors crucial practice time on the demanding circuit.
           3:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_SIDECAR.jpg
-            title: 3wheeling.Media Sidecar TT Race 1
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_QUAL.jpg
+            title: Qualifying Highlights Part 3
             summary: >
-              The first Sidecar TT race of 2025, held on Saturday, May 31, showcases the unique three-wheeled machines with driver and passenger working in perfect harmony. The passenger, or "monkey," shifts their weight to maintain balance through corners while the driver navigates the challenging course, creating one of the most spectacular sights in motorsport.
+              Highlights from the qualifying sessions of the 2025 Isle of Man TT, where riders familiarize themselves with the challenging 37.73-mile Mountain Course. These sessions determine the starting positions for the races and give competitors crucial practice time on the demanding circuit.
           4:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_SUPERBIKE.jpg
-            title: RST Superbike TT Race
+            title: RST Superbike TT Race Highlights
             summary: >
               The RST Superbike TT, held on Sunday, June 1, features the most powerful machines at the event, with modified production motorcycles producing over 200bhp. Riders push these formidable bikes to their limits over six laps of the Mountain Course, reaching speeds of up to 200mph on the fastest sections.
-          5:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_SUPERSTOCK.jpg
-            title: RL360 Superstock TT Race 1
-            summary: >
-              The first RL360 Superstock TT race of 2025, held on Tuesday, June 3, features production motorcycles with minimal modifications, closely resembling the machines available to the public. Despite their near-standard specification, these bikes still achieve astonishing speeds around the Mountain Course, demonstrating the capabilities of modern production motorcycles.
-          6:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_SUPERTWIN.jpg
-            title: Metzeler Supertwin TT Race 1
-            summary: >
-              The first Metzeler Supertwin race of 2025, held on Tuesday, June 3, showcases lightweight twin-cylinder machines up to 700cc. These nimble motorcycles provide exciting racing as riders exploit their excellent handling characteristics on the twisting sections of the Mountain Course, while still achieving impressive speeds on the straights.
-          7:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_SUPERSPORT.jpg
-            title: Monster Energy Supersport TT Race 2
-            summary: >
-              The second Monster Energy Supersport race of 2025, held on Wednesday, June 4, gives riders another chance to demonstrate their skills on the middleweight 600cc machines. With data and experience from the first race, competitors adjust their strategies and setups, often resulting in even faster lap times and more thrilling battles throughout the field.
-          8:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_SIDECAR.jpg
-            title: 3wheeling.Media Sidecar TT Race 2
-            summary: >
-              The second Sidecar TT race of 2025, held on Wednesday, June 4, gives teams another opportunity to conquer the Mountain Course. With lessons learned from the first race, the driver-passenger combinations refine their strategies and push even harder in this thrilling contest of skill, bravery, and teamwork.
-          9:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_SUPERSTOCK.jpg
-            title: PE Superstock TT Race 2
-            summary: >
-              The second Superstock TT race of 2025, now sponsored by PE and held on Friday, June 6 (Isle of Man Bank Holiday), sees riders return to the Mountain Course on their production-based machines. With experience gained from the first race, competitors push even harder to extract maximum performance from their near-standard motorcycles.
-          10:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_SUPERTWIN.jpg
-            title: Entire Cover insurance Supertwin TT Race 2
-            summary: >
-              The second Supertwin TT race of 2025, sponsored by Entire Cover insurance and held on Friday, June 6, sees the lightweight twin-cylinder machines return to the Mountain Course. Riders who faced challenges in the first race have the opportunity to redeem themselves, while the frontrunners aim to repeat or improve upon their earlier performances.
-          11:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_SENIOR.jpg
-            title: Milwaukee Senior TT Race
-            summary: >
-              The prestigious Milwaukee Senior TT Race, held on Saturday, June 7, serves as the grand finale of the 2025 Isle of Man TT. Considered the blue-riband event, it features the fastest riders on their most powerful machines. This race often determines the overall champion of the TT festival and represents the ultimate test of rider and machine on the legendary Mountain Course.
