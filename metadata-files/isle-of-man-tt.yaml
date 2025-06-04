@@ -90,3 +90,33 @@ metadata:
             originally_available: 2025-06-02
             summary: >
               The RST Superbike TT features the most powerful machines at the event, with modified production motorcycles producing over 200bhp. Riders push these formidable bikes to their limits over six laps of the Mountain Course, reaching speeds of up to 200mph on the fastest sections.
+          5:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_SUPERSPORT.jpg
+            title: Monster Energy Supersport TT Race One Highlights
+            originally_available: 2025-06-03
+            summary: >
+              The Monster Energy Supersport TT features 600cc four-cylinder and 675cc three-cylinder sports-based motorcycles that are lighter and less powerful than the Superbike class. These extensively modified machines can generate up to 130bhp and require a high corner speed riding style, with riders navigating four laps of the Mountain Course at speeds exceeding 180mph through the technical sections.
+          6:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_SUPERBIKE.jpg
+            title: RST Superbike TT Race Two Highlights
+            originally_available: 2025-06-04
+            summary: >
+              The RST Superbike TT features the most powerful machines at the event, with modified production motorcycles producing over 200bhp. Riders push these formidable bikes to their limits over six laps of the Mountain Course, reaching speeds of up to 200mph on the fastest sections.
+          7:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_SUPERSPORT.jpg
+            title: Monster Energy Supersport TT Race Two Highlights
+            originally_available: 2025-06-05
+            summary: >
+              The second Monster Energy Supersport race gives riders another chance to demonstrate their skills on the middleweight 600cc machines. With data and experience from the first race, competitors adjust their strategies and setups, often resulting in even faster lap times and more thrilling battles throughout the field.
+          8:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_SUPERTWIN.jpg
+            title: Entire Cover insurance Supertwin TT Race Two Highlights
+            originally_available: 2025-06-06
+            summary: >
+              The second Supertwin TT race, sponsored by Entire Cover insurance, sees the lightweight twin-cylinder machines return to the Mountain Course. Riders who faced challenges in the first race have the opportunity to redeem themselves, while the frontrunners aim to repeat or improve upon their earlier performances.
+          9:
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_SENIOR.jpg
+            title: Milwaukee Senior TT Race
+            originally_available: 2025-06-07
+            summary: >
+              The prestigious Milwaukee Senior TT Race serves as the grand finale of the Isle of Man TT. Considered the blue-riband event, it features the fastest riders on their most powerful machines. This race often determines the overall champion of the TT festival and represents the ultimate test of rider and machine on the legendary Mountain Course.
