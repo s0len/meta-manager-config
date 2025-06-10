@@ -342,3 +342,150 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/315/ppv.jpg
             summary: >
               The UFC 315 Main Card will be headlined by Belal Muhammad defending his welterweight championship against undefeated contender Jack Della Maddalena in a compelling stylistic matchup. Muhammad's wrestling and pressure-based approach will be tested against Della Maddalena's devastating striking and finishing ability. The co-main event showcases another high-stakes contest with title implications for 2025. The main card also includes several marquee bouts featuring Canadian stars and international contenders across multiple weight classes, as the UFC delivers another spectacular event in its 2025 calendar. Bell Centre in Montreal provides the perfect setting for this championship spectacle in one of the sport's most passionate markets.
+      316:
+        title: UFC 316
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/316/poster.jpg
+        summary: >
+          UFC 316 took place on June 7, 2025, at the Prudential Center in Newark, New Jersey, featuring a bantamweight championship rematch. Merab Dvalishvili successfully defended his title against former champion Sean O'Malley, submitting him with a ninja choke in the third round to retain his belt and extend his winning streak to 13 fights. The co-main event saw Kayla Harrison claim the women's bantamweight championship by submitting Julianna Peña with a kimura in the second round, becoming only the second Olympic gold medalist (alongside Henry Cejudo) to win UFC gold. The card also featured impressive performances from Joe Pyfer, Mario Bautista, and Kevin Holland, delivering another memorable evening of action in "The Garden State."
+        episodes:
+          1:
+            title: Early Prelims - Yoo vs Saragih
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/316/early-prelims.jpg
+            summary: >
+              The UFC 316 Early Prelims delivered exciting action to kick off the Newark card, featuring rising prospects and competitive matchups. JooSang Yoo made a spectacular statement with a 28-second knockout of Jeka Saragih via left hook, showcasing explosive power. The card also featured Quillan Salkilld earning a unanimous decision over Yanal Ashmouz, MarQuel Mederos defeating Mark Choinski by unanimous decision, Wang Cong dominating Ariane da Silva, and Andreas Gustafsson securing a convincing victory over Khaos Williams. These early contests set an energetic tone for the championship doubleheader later in the evening.
+          2:
+            title: Prelims - Van vs Silva
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/316/prelims.jpg
+            summary: >
+              The UFC 316 Prelims continued the exciting pace with high-stakes battles featuring established veterans and rising contenders. Joshua Van earned a third-round TKO victory over Bruno Silva, while Azamat Murzakanov delivered a first-round knockout of Brendson Ribeiro. Waldo Cortes Acosta rebounded with a unanimous decision win over Serghei Spivac, demonstrating improved conditioning and technique. These prelim contests built anticipation for the main card, showcasing the depth of talent across multiple weight divisions as the Newark crowd witnessed crucial matchups that could determine future rankings and opportunities.
+          3:
+            title: Main Card - Dvalishvili vs O'Malley 2
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/316/ppv.jpg
+            summary: >
+                             The UFC 316 Main Card delivered spectacular championship action headlined by Merab Dvalishvili's dominant title defense against Sean O'Malley. "The Machine" controlled the fight from start to finish, securing a ninja choke submission at 4:42 of the third round to retain his bantamweight championship and extend his winning streak to 13 fights. In the co-main event, Kayla Harrison captured the women's bantamweight title by submitting Julianna Peña with a kimura at 4:55 of round two, joining Henry Cejudo as the only Olympic gold medalists to win UFC gold. The main card also featured Joe Pyfer's unanimous decision victory over Kelvin Gastelum, Mario Bautista's eighth consecutive win against Patchy Mix, and Kevin Holland's impressive D'arce choke submission of Vicente Luque, capping off a memorable evening at the Prudential Center.
+      317:
+        title: UFC 317
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/317/poster.jpg
+        summary: >
+          UFC Fight Night: Usman vs Buckley is scheduled for June 14, 2025, at State Farm Arena in Atlanta, Georgia. The main event features former welterweight champion Kamaru Usman returning to action against surging contender Joaquin Buckley in a crucial welterweight clash. This Fight Night card showcases the depth of the welterweight division as Usman looks to reestablish himself as a top contender while Buckley aims to cement his status as a legitimate title threat. The Atlanta venue provides an electric atmosphere for this high-stakes matchup between experience and momentum.
+        episodes:
+          1:
+            title: Early Prelims - Atlanta Rising
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/317/early-prelims.jpg
+            summary: >
+              The UFC Fight Night Early Prelims will feature promising prospects and competitive matchups to kick off the Atlanta card at State Farm Arena. Rising stars from the southeastern United States will have opportunities to showcase their skills on the big stage, while international prospects look to make statements in front of the passionate Georgia crowd. The card opens with technical battles across multiple weight divisions, setting the tone for the welterweight main event later in the evening.
+          2:
+            title: Prelims - Southern Showcase
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/317/prelims.jpg
+            summary: >
+              The UFC Fight Night Prelims will deliver high-stakes action featuring established veterans and rising contenders in Atlanta. Fighters from the region's renowned gyms look to climb the rankings in their respective divisions, while experienced veterans aim to reestablish themselves with impressive performances. The prelims feature technical striking battles and grappling showcases across multiple weight classes, building anticipation for the main card as the State Farm Arena crowd witnesses crucial matchups.
+          3:
+            title: Main Card - Usman vs Buckley
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/317/ppv.jpg
+            summary: >
+              The UFC Fight Night Main Card will be headlined by former welterweight champion Kamaru Usman taking on surging contender Joaquin Buckley in a crucial division matchup. Usman returns to action looking to reestablish himself as a top title contender, while Buckley aims to prove he belongs among the welterweight elite with a statement victory over the former champion. The main card features several compelling matchups across multiple weight classes, as the UFC delivers another exciting Fight Night event from Atlanta's State Farm Arena.
+      318:
+        title: UFC 318
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/318/poster.jpg
+        summary: >
+          UFC Fight Night: Hill vs Rountree Jr. is scheduled for June 21, 2025, at Baku Crystal Hall in Baku, Azerbaijan. The main event features a light heavyweight clash between former title challenger Jamahal Hill and dangerous striker Khalil Rountree Jr. in an explosive contest. This marks the UFC's continued expansion into new international markets, bringing elite MMA action to Azerbaijan for the first time. The card showcases striking specialists and promises fireworks as both fighters look to position themselves for future title opportunities in the competitive light heavyweight division.
+        episodes:
+          1:
+            title: Early Prelims - Baku Debut
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/318/early-prelims.jpg
+            summary: >
+              The UFC Fight Night Early Prelims will mark the historic debut of UFC in Azerbaijan, featuring regional talent and international prospects at Baku Crystal Hall. Local fighters will have the opportunity to showcase their skills on the global stage, while promising prospects from around the world look to make statements in this new market. The card opens with technical battles across multiple weight divisions, introducing Azerbaijani fans to the highest level of mixed martial arts competition.
+          2:
+            title: Prelims - International Showcase
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/318/prelims.jpg
+            summary: >
+              The UFC Fight Night Prelims will deliver high-stakes action featuring international veterans and rising contenders in Baku. Fighters from Europe, the Middle East, and beyond look to climb the rankings in their respective divisions, while experienced campaigners aim to make strong impressions in this new market. The prelims feature technical striking battles and grappling showcases across multiple weight classes, building anticipation for the explosive light heavyweight main event.
+          3:
+            title: Main Card - Hill vs Rountree Jr.
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/318/ppv.jpg
+            summary: >
+              The UFC Fight Night Main Card will be headlined by former light heavyweight title challenger Jamahal Hill facing dangerous striker Khalil Rountree Jr. in an explosive contest at Baku Crystal Hall. Hill looks to bounce back from his title loss and reestablish himself as a top contender, while Rountree Jr. aims to build on his knockout power and break into title contention. This historic event marks the UFC's debut in Azerbaijan, featuring several compelling matchups across multiple weight classes as the promotion continues its global expansion.
+      319:
+        title: UFC 319
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/319/poster.jpg
+        summary: >
+          UFC 319: Topuria vs Oliveira is scheduled for June 28, 2025, at T-Mobile Arena in Las Vegas, Nevada. The main event features featherweight champion Ilia Topuria defending his title against former lightweight champion Charles Oliveira in a highly anticipated cross-divisional superfight. This pay-per-view event showcases elite talent across multiple weight classes, with Oliveira moving down to challenge for his second UFC championship. The Las Vegas venue provides the perfect backdrop for this championship spectacle as two of the UFC's most dynamic finishers collide.
+        episodes:
+          1:
+            title: Early Prelims - Vegas Showcase
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/319/early-prelims.jpg
+            summary: >
+              The UFC 319 Early Prelims will feature promising prospects and competitive matchups to kick off the championship card at T-Mobile Arena. Rising stars from around the world will have opportunities to showcase their skills on the pay-per-view stage, while regional favorites look to make statements in the fight capital of the world. The card opens with technical battles across multiple weight divisions, setting the tone for the featherweight championship main event later in the evening.
+          2:
+            title: Prelims - Championship Build-Up
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/319/prelims.jpg
+            summary: >
+              The UFC 319 Prelims will deliver high-stakes action featuring established veterans and rising contenders in Las Vegas. Former title challengers and top-ranked fighters look to position themselves for future championship opportunities, while promising prospects aim to break into the rankings with statement performances. The prelims feature technical striking battles and grappling showcases across multiple weight classes, building anticipation for the championship main event.
+          3:
+            title: Main Card - Topuria vs Oliveira
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/319/ppv.jpg
+            summary: >
+              The UFC 319 Main Card will be headlined by featherweight champion Ilia Topuria defending his title against former lightweight champion Charles Oliveira in a cross-divisional superfight. Topuria puts his featherweight belt on the line against the dangerous Brazilian submission specialist, who moves down in weight seeking his second UFC championship. The main card features several high-profile matchups with title implications across multiple weight divisions, as T-Mobile Arena hosts another blockbuster championship event showcasing the best fighters in the world.
+      320:
+        title: UFC 320
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/320/poster.jpg
+        summary: >
+          UFC Fight Night: Lewis vs Teixeira is scheduled for July 13, 2025, at Bridgestone Arena in Nashville, Tennessee. The main event features heavyweight veteran Derrick Lewis taking on former light heavyweight champion Glover Teixeira in an intriguing cross-divisional matchup. This Fight Night card brings elite MMA action to Music City, showcasing Lewis's knockout power against Teixeira's veteran savvy and grappling skills. The Nashville venue provides an energetic atmosphere for this unique heavyweight contest between two fan favorites.
+        episodes:
+          1:
+            title: Early Prelims - Music City Debut
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/320/early-prelims.jpg
+            summary: >
+              The UFC Fight Night Early Prelims will feature rising prospects and competitive matchups to kick off the Nashville card at Bridgestone Arena. Local fighters from Tennessee and the surrounding region will have opportunities to showcase their skills in front of their home crowd, while international prospects look to make statements in Music City. The card opens with technical battles across multiple weight divisions, introducing Nashville fans to elite mixed martial arts competition.
+          2:
+            title: Prelims - Southern Warriors
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/320/prelims.jpg
+            summary: >
+              The UFC Fight Night Prelims will deliver high-stakes action featuring established veterans and rising contenders in Nashville. Fighters from the southeastern United States look to climb the rankings in their respective divisions, while experienced campaigners aim to make strong impressions in this new market. The prelims feature technical striking battles and grappling showcases across multiple weight classes, building anticipation for the unique heavyweight main event.
+          3:
+            title: Main Card - Lewis vs Teixeira
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/320/ppv.jpg
+            summary: >
+              The UFC Fight Night Main Card will be headlined by heavyweight veteran Derrick Lewis facing former light heavyweight champion Glover Teixeira in an intriguing cross-divisional contest at Bridgestone Arena. Lewis brings his devastating knockout power to Nashville, while Teixeira looks to utilize his veteran experience and grappling skills in his heavyweight debut. The main card features several compelling matchups across multiple weight classes, as the UFC delivers exciting Fight Night action to Music City for the first time.
+      321:
+        title: UFC 321
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/321/poster.jpg
+        summary: >
+          UFC 321: Holloway vs Poirier 3 is scheduled for July 19, 2025, at Smoothie King Center in New Orleans, Louisiana. The main event features the highly anticipated trilogy bout between featherweight legend Max Holloway and former interim lightweight champion Dustin Poirier. This pay-per-view event marks the completion of their storied rivalry, with both fighters having split their previous encounters. The New Orleans venue provides a vibrant atmosphere for this landmark bout between two of the sport's most beloved and skilled strikers.
+        episodes:
+          1:
+            title: Early Prelims - Big Easy Showcase
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/321/early-prelims.jpg
+            summary: >
+              The UFC 321 Early Prelims will feature promising prospects and competitive matchups to kick off the trilogy card at Smoothie King Center. Rising stars from Louisiana and the surrounding Gulf Coast region will have opportunities to showcase their skills in front of their home crowd, while international prospects look to make statements in the vibrant New Orleans atmosphere. The card opens with technical battles across multiple weight divisions, setting the tone for the historic trilogy main event.
+          2:
+            title: Prelims - Crescent City Warriors
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/321/prelims.jpg
+            summary: >
+              The UFC 321 Prelims will deliver high-stakes action featuring established veterans and rising contenders in New Orleans. Former title challengers and top-ranked fighters look to position themselves for future championship opportunities, while promising prospects aim to break into the rankings with statement performances. The prelims feature technical striking battles and grappling showcases across multiple weight classes, building anticipation for the trilogy main event between two legendary strikers.
+          3:
+            title: Main Card - Holloway vs Poirier 3
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/321/ppv.jpg
+            summary: >
+              The UFC 321 Main Card will be headlined by the trilogy bout between Max Holloway and Dustin Poirier at Smoothie King Center in New Orleans. After splitting their previous two encounters, these elite strikers complete their rivalry in what promises to be an instant classic. Holloway brings his volume striking and cardio, while Poirier counters with his power and technical boxing. The main card features several high-profile matchups across multiple weight divisions, as the UFC delivers a historic trilogy bout between two of the sport's most respected veterans.
+      322:
+        title: UFC 322
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/322/poster.jpg
+        summary: >
+          UFC Fight Night: Whittaker vs de Ridder is scheduled for July 26, 2025, at Etihad Arena in Abu Dhabi, UAE. The main event features former middleweight champion Robert Whittaker taking on surging contender Reinier de Ridder in a crucial division matchup. This Fight Night card marks the UFC's return to "Fight Island," showcasing elite middleweight action in the Middle East. The international venue provides the perfect backdrop for Whittaker's experience against de Ridder's rising momentum in the competitive 185-pound division.
+        episodes:
+          1:
+            title: Early Prelims - Fight Island Returns
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/322/early-prelims.jpg
+            summary: >
+              The UFC Fight Night Early Prelims will feature international talent and rising prospects as the UFC returns to Etihad Arena in Abu Dhabi. Fighters from the Middle East, Europe, and beyond will have opportunities to showcase their skills on the global stage, while regional favorites look to make statements in front of the passionate UAE crowd. The card opens with technical battles across multiple weight divisions, setting the tone for the middleweight main event later in the evening.
+          2:
+            title: Prelims - International Showcase
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/322/prelims.jpg
+            summary: >
+              The UFC Fight Night Prelims will deliver high-stakes action featuring international veterans and rising contenders in Abu Dhabi. Fighters from across the globe look to climb the rankings in their respective divisions, while established campaigners aim to make strong impressions on Fight Island. The prelims feature technical striking battles and grappling showcases across multiple weight classes, building anticipation for the crucial middleweight main event.
+          3:
+            title: Main Card - Whittaker vs de Ridder
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/322/ppv.jpg
+            summary: >
+              The UFC Fight Night Main Card will be headlined by former middleweight champion Robert Whittaker facing surging contender Reinier de Ridder in a crucial division matchup at Etihad Arena. Whittaker looks to reestablish himself as a top title contender after his recent setback, while de Ridder aims to prove he belongs among the middleweight elite with a statement victory over the former champion. The main card features several compelling international matchups across multiple weight classes, as the UFC returns to Abu Dhabi with another exciting Fight Night event.
