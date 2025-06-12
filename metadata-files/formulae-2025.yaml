@@ -153,7 +153,7 @@ metadata:
       9:
         title: Tokyo E-Prix - Race 2
         sort_title: 09_Tokyo E-Prix
-        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formulae-2025/r09.jpg
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formulae-2025/r08.jpg
         summary: The Tokyo double-header continues on May 18, giving teams a second opportunity to master the challenging street circuit in the heart of Japan's capital city as the championship battle intensifies.
         episodes:
           1:
@@ -171,7 +171,7 @@ metadata:
       10:
         title: Shanghai E-Prix - Race 1
         sort_title: 10_Shanghai E-Prix
-        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formulae-2025/r09.jpg
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formulae-2025/r10.jpg
         summary: Shanghai hosts the first race of another exciting double-header on May 31. The Chinese street circuit challenges drivers with its mix of high-speed sections and technical corners in one of Asia's most dynamic cities.
         episodes:
           1:
@@ -189,7 +189,7 @@ metadata:
       11:
         title: Shanghai E-Prix - Race 2
         sort_title: 11_Shanghai E-Prix
-        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formulae-2025/r11.jpg
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formulae-2025/r10.jpg
         summary: The Shanghai double-header concludes on June 1, with teams looking to maximize points as they complete the second consecutive race weekend in China's largest city.
         episodes:
           1:
