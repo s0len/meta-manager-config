@@ -553,6 +553,7 @@ metadata:
       11:
         title: Austrian Grand Prix
         sort_title: 11_Austrian Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1-2025/r11.jpg
         summary: The Red Bull Ring in Spielberg hosts the Austrian Grand Prix, set against the picturesque backdrop of the Styrian mountains. This 4.3 km circuit is one of the shortest on the calendar but features just 10 corners and significant elevation changes. The track's layout, with three long straights and heavy braking zones, creates excellent overtaking opportunities and often produces exciting racing, while its relatively short lap time means qualifying sessions are intensely competitive with tiny margins separating the field.
         episodes:
           1:
