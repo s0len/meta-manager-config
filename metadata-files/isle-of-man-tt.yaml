@@ -67,17 +67,17 @@ metadata:
           The 2025 Isle of Man TT races were held from May 24 to June 7, featuring six race days across various classes. The event maintained its reputation as the ultimate road racing challenge, with competitors pushing the limits of speed and skill around the legendary Mountain Course.
         episodes:
           1:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_QUAL.jpg
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_QUAL1.jpg
             title: Qualifying Highlights
             summary: >
               Highlights from the opening qualifying sessions of the 2025 Isle of Man TT, where riders begin to familiarize themselves with the challenging 37.73-mile Mountain Course and set the pace for the event.
           2:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_QUAL.jpg
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_QUAL2.jpg
             title: Qualifying Highlights Part Two
             summary: >
               Continued coverage of the 2025 Isle of Man TT qualifying sessions, as riders refine their setups and push for top times to secure strong starting positions.
           3:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_QUAL.jpg
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_QUAL3.jpg
             title: Qualifying Highlights Part Three
             summary: >
               The final qualifying sessions for the 2025 Isle of Man TT, with riders making last-minute adjustments and aiming for the fastest laps before the races begin.
@@ -107,12 +107,12 @@ metadata:
             summary: >
               The second Supertwin TT race of 2025, with lightweight twin-cylinder machines providing exciting action and opportunities for redemption or repeat success.
           9:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_SEASON.jpg
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_REVIEW1.jpg
             title: Review Show One
             summary: >
               The first of two review shows recapping the standout moments, key battles, and dramatic stories from the 2025 Isle of Man TT.
           10:
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_SEASON.jpg
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT25_REVIEW2.jpg
             title: Review Show Two
             summary: >
               The concluding review show, offering further analysis, interviews, and highlights from the 2025 Isle of Man TT festival.
