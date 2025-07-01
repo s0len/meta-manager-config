@@ -1,9 +1,20 @@
 metadata:
   Isle of Man TT:
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/background.jpg
     summary: >
       The Isle of Man TT is a series of races held on the Isle of Man, a British Crown Dependency island in the Irish Sea. The races are known for their high speeds and technical challenges, with riders navigating narrow roads and sharp turns. The event is a highlight of the motorcycle racing calendar and attracts thousands of spectators each year.
     seasons:
+      2022:
+        title: TT 2025
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT22_SEASON.jpg
+        summary: >
+          The 2022 Isle of Man TT races were held from May 26 to June 11, featuring six race days across various classes. The event maintained its reputation as the ultimate road racing challenge, with competitors pushing the limits of speed and skill around the legendary Mountain Course.
+      2023:
+        title: TT 2023
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT23_SEASON.jpg
+        summary: >
+          The 2023 Isle of Man TT races were held from May 25 to June 10, featuring six race days across various classes. The event maintained its reputation as the ultimate road racing challenge, with competitors pushing the limits of speed and skill around the legendary Mountain Course.
       2024:
         title: TT 2024
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/isle-of-man-tt/IOMTT24_SEASON.jpg
