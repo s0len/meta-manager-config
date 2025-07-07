@@ -1,0 +1,147 @@
+metadata:
+  Women's UEFA Euro 2025:
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/womens-uefa-euro/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/womens-uefa-euro/background.jpg
+    title: Women's UEFA Euro 2025
+    summary: >
+      The UEFA Women's European Championship 2025 is the 14th edition of the UEFA Women's European Championship, 
+      the quadrennial international women's football championship of Europe organized by UEFA. The tournament 
+      features 16 teams competing across Switzerland from July 2-27, 2025. This prestigious competition showcases 
+      the best of women's football with group stages, knockout rounds, and culminates in the final to crown 
+      Europe's champion. The 2025 edition promises exciting matches, emerging talents, and the highest level 
+      of women's football competition in Europe.
+    seasons:
+      2025:
+        title: Women's UEFA Euro 2025
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/womens-uefa-euro/2025-poster.jpg
+        summary: >
+          The 2025 UEFA Women's European Championship takes place in Switzerland featuring 16 teams divided into 
+          four groups of four teams each. The tournament begins with a group stage where all teams play each other 
+          once within their group. The top two teams from each group advance to the quarter-finals, followed by 
+          semi-finals and the final. With a total of 31 matches over 26 days, the tournament showcases the pinnacle 
+          of European women's football with passionate fans, technical excellence, and competitive spirit throughout.
+        episodes:
+          1:
+            title: Group A - Iceland vs Norway
+            summary: Opening match of Group A between Iceland and Norway at the 2025 Women's UEFA Euro Championship. Both Nordic nations begin their campaign with high expectations in this crucial group stage encounter.
+            originally_available: 2025-07-02
+          2:
+            title: Group A - Switzerland vs Finland
+            summary: Host nation Switzerland takes on Finland in their opening Group A match. The home advantage could prove crucial as Switzerland seeks to advance from the group stage.
+            originally_available: 2025-07-02
+          3:
+            title: Group B - Belgium vs Italy
+            summary: Group B opens with Belgium facing Italy in what promises to be a tactical battle between two technically gifted teams with strong recent tournament pedigree.
+            originally_available: 2025-07-03
+          4:
+            title: Group B - Spain vs Portugal
+            summary: Iberian rivals Spain and Portugal clash in Group B, with defending champions Spain looking to start their title defense strongly against their neighbors.
+            originally_available: 2025-07-03
+          5:
+            title: Group C - Denmark vs Sweden
+            summary: Scandinavian derby between Denmark and Sweden kicks off Group C action, featuring two teams with rich women's football traditions and competitive rivalry.
+            originally_available: 2025-07-04
+          6:
+            title: Group C - Germany vs Poland
+            summary: Eight-time champions Germany begin their quest for a ninth title against Poland in Group C, with the Germans favored but Poland eager to cause an upset.
+            originally_available: 2025-07-04
+          7:
+            title: Group D - Wales vs Netherlands
+            summary: Wales makes their Women's Euro debut against former champions Netherlands in Group D, marking a historic moment for Welsh women's football.
+            originally_available: 2025-07-05
+          8:
+            title: Group D - France vs England
+            summary: Blockbuster Group D encounter between France and defending champions England, potentially a preview of later knockout stage meetings between two tournament favorites.
+            originally_available: 2025-07-05
+          9:
+            title: Group A - Norway vs Finland
+            summary: Second round of Group A matches sees Norway take on Finland as both teams look to build momentum in their pursuit of quarter-final qualification.
+            originally_available: 2025-07-06
+          10:
+            title: Group A - Switzerland vs Iceland
+            summary: Host nation Switzerland faces Iceland in a crucial Group A encounter, with home support potentially decisive in this evenly matched contest.
+            originally_available: 2025-07-06
+          11:
+            title: Group B - Spain vs Italy
+            summary: Defending champions Spain meet Italy in a Group B clash featuring two of Europe's most technically accomplished teams with contrasting playing styles.
+            originally_available: 2025-07-07
+          12:
+            title: Group B - Portugal vs Belgium
+            summary: Portugal seeks their first Group B victory against Belgium in a match that could determine the final qualifying positions from this competitive group.
+            originally_available: 2025-07-07
+          13:
+            title: Group C - Germany vs Sweden
+            summary: Tournament heavyweights Germany and Sweden meet in Group C, with both teams possessing the experience and quality to reach the tournament's latter stages.
+            originally_available: 2025-07-08
+          14:
+            title: Group C - Poland vs Denmark
+            summary: Poland faces Denmark in a Group C encounter where both teams will be looking to secure crucial points in their quest for knockout stage qualification.
+            originally_available: 2025-07-08
+          15:
+            title: Group D - England vs Netherlands
+            summary: Defending champions England take on former winners Netherlands in a Group D showdown between two nations with strong recent tournament performances.
+            originally_available: 2025-07-09
+          16:
+            title: Group D - France vs Wales
+            summary: France meets Wales in Group D as the Welsh continue their historic debut tournament against one of Europe's emerging women's football powerhouses.
+            originally_available: 2025-07-09
+          17:
+            title: Group A - Finland vs Iceland
+            summary: Final round of Group A matches begins with Finland against Iceland, both teams fighting for potential qualification to the quarter-finals.
+            originally_available: 2025-07-10
+          18:
+            title: Group A - Norway vs Switzerland
+            summary: Group A concludes with Norway facing host nation Switzerland in a match that could determine group winners and qualification scenarios.
+            originally_available: 2025-07-10
+          19:
+            title: Group B - Italy vs Portugal
+            summary: Group B's final matchday continues with Italy taking on Portugal, both teams needing positive results to secure quarter-final berths.
+            originally_available: 2025-07-11
+          20:
+            title: Group B - Portugal vs Spain
+            summary: Group B concludes with Portugal against defending champions Spain, potentially decisive for final group standings and knockout stage seeding.
+            originally_available: 2025-07-11
+          21:
+            title: Group C - Sweden vs Poland
+            summary: Group C's final matches begin with Sweden facing Poland, with both teams aiming to secure their places in the quarter-finals.
+            originally_available: 2025-07-12
+          22:
+            title: Group C - Poland vs Germany
+            summary: Group C concludes with Poland against Germany, where the Germans will look to top the group while Poland seeks qualification.
+            originally_available: 2025-07-12
+          23:
+            title: Group D - Netherlands vs Wales
+            summary: Group D's final matchday begins with Netherlands against Wales, marking another historic moment for the Welsh in their debut tournament.
+            originally_available: 2025-07-13
+          24:
+            title: Group D - England vs France
+            summary: Group D concludes with the heavyweight clash between defending champions England and France, likely determining the group winner.
+            originally_available: 2025-07-13
+          25:
+            title: Quarter-Final 1
+            summary: First quarter-final of the 2025 Women's UEFA Euro featuring the winners of Group A against the runners-up of Group B in the knockout stage.
+            originally_available: 2025-07-16
+          26:
+            title: Quarter-Final 2
+            summary: Second quarter-final match between the winners of Group C and the runners-up of Group D, as the tournament enters its decisive knockout phase.
+            originally_available: 2025-07-17
+          27:
+            title: Quarter-Final 3
+            summary: Third quarter-final encounter featuring the winners of Group B against the runners-up of Group A, with a semi-final place at stake.
+            originally_available: 2025-07-18
+          28:
+            title: Quarter-Final 4
+            summary: Final quarter-final match between the winners of Group D and runners-up of Group C, completing the semi-final lineup for the tournament.
+            originally_available: 2025-07-19
+          29:
+            title: Semi-Final 1
+            summary: First semi-final of the 2025 Women's UEFA Euro between the winners of Quarter-Finals 1 and 2, with a place in the final at stake.
+            originally_available: 2025-07-22
+          30:
+            title: Semi-Final 2
+            summary: Second semi-final featuring the winners of Quarter-Finals 3 and 4, determining the second finalist for the championship match.
+            originally_available: 2025-07-23
+          31:
+            title: Final
+            summary: The 2025 UEFA Women's European Championship Final between the two semi-final winners, crowning the champions of European women's football.
+            originally_available: 2025-07-27
