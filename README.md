@@ -124,6 +124,17 @@ This configuration provides comprehensive metadata for the Isle of Man TT motorc
 - Complete structural metadata
 - Detailed race information
 
+## Women's UEFA Euro Complete Metadata
+
+This configuration provides comprehensive metadata for the UEFA Women's European Championship, including high-quality posters and title cards for all matches and tournament phases. The 2025 tournament features detailed information for each match and stage of the competition.
+
+**Features:**
+- Tournament posters and backgrounds
+- Match-specific title cards
+- Complete structural metadata
+- Team information and fixtures
+- Tournament phase organization
+
 ## UFC Complete Metadata with Posters and Title Cards
 
 This configuration provides comprehensive metadata for UFC events, including high-quality posters and title cards for all fight cards and sessions. The 2024-2025 schedule features major events with detailed information for each fight card.
