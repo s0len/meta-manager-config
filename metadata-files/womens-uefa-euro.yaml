@@ -2,7 +2,7 @@ metadata:
   Women's UEFA Euro:
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/womens-uefa-euro/poster.jpg
     url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/womens-uefa-euro/background.jpg
-    title: Women's UEFA Euro
+    title: UEFA Women's Euro
     summary: >
       The UEFA Women's European Championship 2025 is the 14th edition of the UEFA Women's European Championship, 
       the quadrennial international women's football championship of Europe organized by UEFA. The tournament 
@@ -12,7 +12,7 @@ metadata:
       of women's football competition in Europe.
     seasons:
       2025:
-        title: 2025 UEFA Euro
+        title: 2025 Switzerland
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/womens-uefa-euro/2025-poster.jpg
         summary: >
           The 2025 UEFA Women's European Championship takes place in Switzerland featuring 16 teams divided into 
