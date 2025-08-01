@@ -603,6 +603,7 @@ metadata:
       12:
         title: British Grand Prix
         sort_title: 12_British Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1-2025/r12.jpg
         summary: The historic Silverstone Circuit hosts the British Grand Prix, one of the original races from Formula 1's inaugural 1950 season. This 5.9 km track features a series of high-speed corners like Copse, Maggotts, and Becketts that challenge drivers and showcase Formula 1 cars' aerodynamic capabilities. Silverstone's fast, flowing nature makes it a driver favorite, while its unpredictable British summer weather and passionate fans create an electric atmosphere at this cornerstone event of the championship.
         episodes:
           1:
@@ -652,6 +653,7 @@ metadata:
       13:
         title: Belgian Grand Prix
         sort_title: 13_Belgian Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1-2025/r13.jpg
         summary: The legendary Circuit de Spa-Francorchamps hosts the Belgian Grand Prix, featuring one of the most challenging and beloved tracks in motorsport. This 7.0 km circuit, the longest on the calendar, winds through the Ardennes forest with dramatic elevation changes and iconic corners like Eau Rouge and Blanchimont. Spa's microclimate often means different parts of the track can be wet while others remain dry, adding strategic complexity, while its high-speed nature and unpredictable weather create some of Formula 1's most memorable races.
         episodes:
           1:
@@ -709,6 +711,7 @@ metadata:
       14:
         title: Hungarian Grand Prix
         sort_title: 14_Hungarian Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1-2025/r14.jpg
         summary: The Hungaroring near Budapest hosts the Hungarian Grand Prix, often one of the hottest races of the season. This 4.4 km circuit features a series of medium-speed corners with few straights, making overtaking challenging and placing emphasis on qualifying position and strategy. The track's tight, twisty nature has earned it the nickname "Monaco without the walls," while its dusty surface off the racing line and high summer temperatures create a physically demanding race that tests both drivers and cooling systems.
         episodes:
           1:
@@ -758,6 +761,7 @@ metadata:
       15:
         title: Dutch Grand Prix
         sort_title: 15_Dutch Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1-2025/r15.jpg
         summary: Circuit Zandvoort hosts the Dutch Grand Prix, featuring its unique banked corners and challenging layout. This 4.3 km track, nestled in the sand dunes near the North Sea coast, combines technical sections with the spectacular banked Hugenholtz and Arie Luyendyk corners. The circuit's narrow width and flowing nature make overtaking difficult and mistakes costly, while the passionate Dutch fans create an electric atmosphere as Formula 1 returns from its summer break.
         episodes:
           1:
