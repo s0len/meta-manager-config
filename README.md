@@ -342,13 +342,17 @@ Old TV Shows Just Added however is a collection of TV Shows who has been Release
 
 ### Status in the top left corner
 
+Available status overlays: **Airing**, **Returning**, **Continuing**, **Canceled**, and **Ended**.
+
+**Note:** Use `continuing` as an alternative to `returning` for shows that are ongoing. The `continuing` status is more semantically accurate for shows that are currently in production between seasons.
+
 ```yaml
 - default: status
       template_variables:
           text_airing: .
           url_airing: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/airing.png
           text_returning: .
-          url_returning: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/returning.png
+          url_returning: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/continuing.png
           text_canceled: . 
           url_canceled: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/cancelled.png
           text_ended: .
@@ -374,6 +378,11 @@ Old TV Shows Just Added however is a collection of TV Shows who has been Release
           back_line_width: 1000
           final_horizontal_offset: 0
           final_vertical_offset: 0
+```
+
+**Alternative configuration using "returning" instead:**
+```yaml
+          url_returning: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/returning.png
 ```
 
 ### Fallback Network logo
