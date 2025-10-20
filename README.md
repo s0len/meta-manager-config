@@ -458,3 +458,26 @@ This is a bit of a workaround to fill up the missing network logos by first writ
 - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon_rotten.yml
 ```
 
+## Contributing
+
+We welcome contributions! If you'd like to create additional posters, title cards, or overlays for this project, we provide Photoshop templates to help maintain consistency across all assets.
+
+### Available Templates
+
+The following Photoshop templates are available in the `templates/` directory:
+
+- **formula1_posters.psd** - Template for creating Formula 1 season and race weekend posters
+- **formula1_title_card.psd** - Template for creating Formula 1 session title cards
+- **uefa-euro-2024-titlecards.psd** - Template for creating UEFA European Championship title cards
+- **WSBK-poster.psd** - Template for creating World Superbike posters
+- **poster_overlay_network.psd** - Template for creating network overlay logos
+- **poster_overlay_streaming_service.psd** - Template for creating streaming service overlay logos
+
+### How to Contribute
+
+1. **Download the template** - Clone this repository to access the templates in the `templates/` folder
+2. **Create your content** - Use the appropriate template to create your posters, title cards, or overlays
+3. **Export your work** - Save your final assets in the correct format (typically JPG for posters, PNG for overlays)
+4. **Submit a Pull Request** - Add your files to the appropriate directory (`posters/` or `overlays/`) and submit a PR with a description of what you've added
+
+Please ensure your contributions follow the existing naming conventions and quality standards. If you have questions about contributing, feel free to open an issue for discussion.
