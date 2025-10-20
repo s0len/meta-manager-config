@@ -811,6 +811,7 @@ metadata:
       16:
         title: Italian Grand Prix
         sort_title: 16_Italian Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1-2025/r16.jpg
         summary: The historic Monza Circuit hosts the Italian Grand Prix, Formula 1's temple of speed. This 5.8 km track features long straights and fast corners that produce the highest average speeds of the season, testing engine power and low-downforce aerodynamic efficiency. Monza's rich history dates back to 1922, and its passionate Tifosi create an unmatched atmosphere, particularly for Ferrari. The circuit's high-speed nature, with heavy braking zones into chicanes, creates excellent overtaking opportunities and often produces thrilling slipstreaming battles.
         episodes:
           1:
@@ -860,6 +861,7 @@ metadata:
       17:
         title: Azerbaijan Grand Prix
         sort_title: 17_Azerbaijan Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1-2025/r17.jpg
         summary: The Baku City Circuit hosts the Azerbaijan Grand Prix, combining the narrowest section on the F1 calendar with one of the longest straights. This 6.0 km street circuit features a unique layout that winds through the historic city center, with its ultra-narrow uphill castle section contrasting with the 2.2 km full-throttle run along the promenade. Baku's combination of technical sections and high-speed straights creates a challenging setup compromise, while its walls punish the smallest mistakes, often leading to safety cars and unpredictable race outcomes.
         episodes:
           1:
@@ -909,6 +911,7 @@ metadata:
       18:
         title: Singapore Grand Prix
         sort_title: 18_Singapore Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1-2025/r18.jpg
         summary: The Marina Bay Street Circuit hosts the Singapore Grand Prix, Formula 1's original night race. This 5.0 km street circuit winds through the heart of Singapore, featuring 23 corners and running under spectacular floodlights. The race presents unique challenges with its bumpy surface, humid conditions, and physical demands, as drivers endure temperatures over 30°C for nearly two hours. Singapore's tight corners and close barriers punish mistakes, while the difficulty of overtaking places emphasis on qualifying and strategy in this grueling test of endurance.
         episodes:
           1:
@@ -958,6 +961,7 @@ metadata:
       19:
         title: United States Grand Prix
         sort_title: 19_United States Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1-2025/r19.jpg
         summary: The Circuit of the Americas in Austin, Texas hosts the United States Grand Prix. This 5.5 km track, designed by Hermann Tilke, features significant elevation changes, including a dramatic uphill run to the first corner. COTA's layout draws inspiration from classic circuits, with sections reminiscent of Silverstone's Maggotts-Becketts complex and Hockenheim's stadium section. The circuit's varied nature, with its combination of high-speed sweeps, technical sections, and long back straight, creates multiple overtaking opportunities and rewards a well-balanced car.
         episodes:
           1:
@@ -1015,6 +1019,7 @@ metadata:
       20:
         title: Mexico City Grand Prix
         sort_title: 20_Mexico City Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1-2025/r20.jpg
         summary: The Autódromo Hermanos Rodríguez hosts the Mexico City Grand Prix, featuring a unique challenge due to its high altitude of 2,240 meters above sea level. This 4.3 km circuit's thin air reduces aerodynamic and cooling efficiency, while increasing the importance of mechanical grip. The track combines a mix of slow technical sections with a 1.2 km straight, and features the unique stadium section where cars pass through the former baseball stadium filled with passionate Mexican fans, creating one of the most atmospheric venues on the calendar.
         episodes:
           1:
