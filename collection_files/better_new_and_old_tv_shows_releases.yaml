@@ -8,7 +8,6 @@ collections:
         episode_air_date: 365
       limit: 250
     summary: New releases added in the past three months. Sorted by Date Added.
-    visible_library: true
     sort_title: "!008_New_Releases"
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/new-releases/New_TV_Show_Releases.jpg
 
@@ -22,6 +21,5 @@ collections:
           label.not: New Release 
       limit: 250
     summary: Older shows added in the past month. Sorted by Date Added.
-    visible_library: true
     sort_title: "!009_Old_Movies_Just_Added"
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/new-releases/Old_Shows_Just_Added.jpg
