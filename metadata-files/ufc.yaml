@@ -10,20 +10,20 @@ metadata:
         title: UFC 300
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/300/poster.jpg
         summary: >
-          UFC 300 was a historic milestone event held on April 13, 2024, at T-Mobile Arena in Las Vegas. This landmark card featured three championship bouts, headlined by Alex Pereira defending his light heavyweight title against Jamahal Hill with a spectacular first-round knockout. In the co-main event, Zhang Weili retained her strawweight championship against Yan Xiaonan, while Max Holloway captured the symbolic "BMF" title with a dramatic last-second knockout of Justin Gaethje. The stacked card also featured former champions Charles Oliveira, Deiveson Figueiredo, and Aljamain Sterling, making it one of the most talent-rich events in UFC history.
+          UFC 300: Pereira vs. Hill was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on April 13, 2024, at the T-Mobile Arena in Las Vegas, Nevada, United States.
         episodes:
           1:
-            title: Early Prelims - Figueiredo vs Garbrandt
+            title: Early Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/300/early-prelims.jpg
             summary: >
               The UFC 300 Early Prelims featured four exciting matchups that set the tone for the historic event. Highlights included Deiveson Figueiredo's dominant performance against Cody Garbrandt, showcasing his speed and power in the bantamweight division. The card opened with Marina Rodriguez defeating Michelle Waterson-Gomez by unanimous decision in a technical strawweight bout, while Bobby Green earned a hard-fought victory over Jim Miller in a battle of lightweight veterans. Fans also witnessed an impressive UFC debut from Brazilian prospect Gillian Robertson, who secured a submission victory.
           2:
-            title: Prelims - Sterling vs Kattar
+            title: Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/300/prelims.jpg
             summary: >
               The UFC 300 Prelims delivered high-stakes action with former champions and top contenders. Aljamain Sterling made a successful featherweight debut against Calvin Kattar, using his wrestling prowess to secure a unanimous decision. Jiri Prochazka demonstrated his explosive striking in a thrilling victory over Aleksandar Rakić, positioning himself for another light heavyweight title opportunity. The prelims also featured an impressive performance from Sodiq Yusuff against Diego Lopes, while Kayla Harrison dominated in her highly anticipated UFC debut, showcasing the Olympic judoka's world-class grappling skills.
           3:
-            title: Main Card - Pereira vs Hill
+            title: Main Card
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/300/ppv.jpg
             summary: >
               The UFC 300 Main Card delivered five spectacular bouts worthy of the milestone event. In the main event, Alex Pereira knocked out Jamahal Hill in the first round to retain his light heavyweight championship, further cementing his legacy. Zhang Weili successfully defended her strawweight title against Yan Xiaonan in a technical masterclass, while Max Holloway produced one of the most memorable moments in UFC history by knocking out Justin Gaethje with one second remaining in their "BMF" title fight. Charles Oliveira submitted Arman Tsarukyan in a lightweight title eliminator, and Bo Nickal remained undefeated with a dominant performance against Cody Brundage.
@@ -31,20 +31,20 @@ metadata:
         title: UFC 301
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/301/poster.jpg
         summary: >
-          UFC 301 took place on May 4, 2024, at Farmasi Arena in Rio de Janeiro, Brazil, featuring a flyweight championship main event. Brazilian champion Alexandre Pantoja successfully defended his title against Steve Erceg in a competitive five-round battle that showcased technical grappling and striking exchanges. The co-main event saw José Aldo make a triumphant return from retirement to defeat Jonathan Martinez by unanimous decision, igniting the passionate Brazilian crowd. The card highlighted several Brazilian talents competing on home soil, including Michel Pereira, who extended his winning streak with an impressive performance.
+          UFC 301: Pantoja vs. Erceg was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on May 4, 2024, at the Farmasi Arena, in Rio de Janeiro, Brazil. A UFC Flyweight Championship bout between current champion Alexandre Pantoja and Steve Erceg headlined the event.
         episodes:
           1:
-            title: Early Prelims - Costa vs Hernandez
+            title: Early Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/301/early-prelims.jpg
             summary: >
               The UFC 301 Early Prelims featured promising Brazilian prospects competing in front of their home crowd in Rio de Janeiro. Highlights included Dione Barbosa's impressive UFC debut against Ernesta Kareckaite, showcasing her muay thai background. Alessandro Costa thrilled the local fans with a first-round knockout victory, while Mauricio Ruffy and Kevin Borjas engaged in an action-packed bantamweight contest that earned Fight of the Night consideration. The early card also featured Joaquim Silva's emotional victory in his return to the octagon after a lengthy injury layoff.
           2:
-            title: Prelims - Borralho vs Craig
+            title: Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/301/prelims.jpg
             summary: >
               The UFC 301 Prelims delivered exciting matchups featuring Brazilian veterans and rising contenders. Caio Borralho continued his ascent in the middleweight division with a dominant performance against Paul Craig, extending his UFC winning streak. Joanderson Brito electrified the Rio crowd with a spectacular first-round finish of Jack Shore, while Karolina Kowalkiewicz and Iasmin Lucindo engaged in a technical striking battle that demonstrated high-level women's MMA. The prelims also featured Elves Brener's breakthrough performance against Myktybek Orolbai, establishing himself as a lightweight prospect to watch.
           3:
-            title: Main Card - Pantoja vs Erceg
+            title: Main Card
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/301/ppv.jpg
             summary: >
               The UFC 301 Main Card showcased Brazilian talent at the highest level, headlined by Alexandre Pantoja's successful flyweight title defense against Steve Erceg. The champion overcame early adversity to retain his belt via unanimous decision in a technical, back-and-forth contest. José Aldo's return from retirement was triumphant as he defeated Jonathan Martinez, proving the legend still had elite skills. Michel Pereira continued his impressive run with a submission victory over Ihor Potieria, while Anthony Smith defeated Vitor Petrino in a light heavyweight slugfest. The main card opened with Brazilian prospect Caio Machado earning a decisive victory in his UFC debut.
@@ -52,7 +52,7 @@ metadata:
         title: UFC 302
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/302/poster.jpg
         summary: >
-          UFC 302 took place on June 1, 2024, at the Prudential Center in Newark, New Jersey, headlined by Islam Makhachev defending his lightweight championship against Dustin Poirier. Makhachev showcased his complete skill set, eventually submitting Poirier in the fifth round of a competitive and technical main event. The co-main event featured Sean Strickland rebounding from his title loss with a dominant performance against Paulo Costa. The card also highlighted several exciting matchups including Kevin Holland's welterweight clash with Michal Oleksiejczuk and Randy Brown taking on Niko Price in a battle of welterweight veterans.
+          UFC 302: Makhachev vs. Poirier was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on June 1, 2024, at the Prudential Center, in Newark, New Jersey, United States. A UFC Lightweight Championship bout between current champion Islam Makhachev and former interim champion Dustin Poirier headlined the event.
         episodes:
           1:
             title: Early Prelims
@@ -73,7 +73,7 @@ metadata:
         title: UFC 303
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/303/poster.jpg
         summary: >
-          UFC 303 took place on June 29, 2024, at T-Mobile Arena in Las Vegas as part of International Fight Week. Originally scheduled to feature Conor McGregor's return against Michael Chandler, the main event was changed when McGregor withdrew due to injury. Alex Pereira stepped in on short notice to defend his light heavyweight championship against Jiří Procházka in a rematch of their UFC 295 bout. The co-main event featured Brian Ortega facing Diego Lopes in a featherweight contest with title implications. The card also showcased several compelling matchups including Anthony Smith against Roman Dolidze and Mayra Bueno Silva facing Macy Chiasson.
+          UFC 303: Pereira vs. Procházka 2 was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on June 29, 2024, at the T-Mobile Arena in Paradise, Nevada, part of the Las Vegas Metropolitan Area, United States. The headliner for this event was a UFC Light Heavyweight Championship rematch between current champion Alex Pereira (also former UFC Middleweight Champion and former Glory Middleweight and Light Heavyweight Champion) and former champion Jiří Procházka (also the inaugural Rizin Light Heavyweight Champion). They previously met at UFC 295 in November 2023, where Pereira won the vacant title via a second-round TKO.
         episodes:
           1:
             title: Early Prelims
@@ -94,7 +94,7 @@ metadata:
         title: UFC 304
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/304/poster.jpg
         summary: >
-          UFC 304 took place on July 27, 2024, at Co-op Live in Manchester, England, marking the promotion's return to the UK with a championship doubleheader. In the main event, Leon Edwards defended his welterweight title against Belal Muhammad in a rematch of their 2021 no-contest, showcasing technical striking and grappling over five rounds. The co-main event featured interim heavyweight champion Tom Aspinall defending his belt against Curtis Blaydes in a rematch of their 2022 bout that ended due to Aspinall's injury. The card also highlighted British talent including Arnold Allen, Paddy Pimblett, and Muhammad Mokaev competing in front of their home crowd.
+          UFC 304: Edwards vs. Muhammad 2 was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on July 27, 2024, at the Co-op Live in Manchester, England. A UFC Welterweight Championship bout between current champion Leon Edwards and Belal Muhammad headlined the event. The pair previously fought at UFC Fight Night: Edwards vs. Muhammad in March 2021, where the fight was declared a no contest following an accidental eye poke which left Muhammad unable to continue.
         episodes:
           1:
             title: Early Prelims
@@ -115,7 +115,7 @@ metadata:
         title: UFC 305
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/305/poster.jpg
         summary: >
-          UFC 305 took place on August 17, 2024, at RAC Arena in Perth, Australia, featuring a middleweight championship main event. Dricus Du Plessis made his first title defense against former champion Israel Adesanya in a highly anticipated bout with technical striking and grappling exchanges. The co-main event showcased Australian fan favorite Tai Tuivasa against Jairzinho Rozenstruik in a heavyweight slugfest. The card highlighted several Australian and New Zealand fighters competing on home soil, including Alexander Volkanovski, Dan Hooker, and Tyson Pedro, creating an electric atmosphere for the promotion's return to Western Australia.
+          UFC 305: du Plessis vs. Adesanya was a mixed martial arts event produced by the Ultimate Fighting Championship that will take place on August 18, 2024, at the RAC Arena in Perth, Australia. A UFC Middleweight Championship bout between current champion (also former KSW Welterweight Champion) Dricus du Plessis and former two-time champion Israel Adesanya is expected to headline the event. It will mark the first time two African-born athletes meet for a title in the organization.
         episodes:
           1:
             title: Early Prelims
@@ -136,20 +136,20 @@ metadata:
         title: UFC 306
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/306/poster.jpg
         summary: >
-          UFC 306 is scheduled for September 14, 2024, at The Sphere in Las Vegas, marking the promotion's first event at the revolutionary venue. This historic "Noche UFC" card celebrates Mexican Independence Day weekend with a championship doubleheader. The main event features Sean O'Malley defending his bantamweight title against Merab Dvalishvili in a clash of contrasting styles. The co-main event showcases Alexa Grasso and Valentina Shevchenko completing their trilogy for the women's flyweight championship. The card also highlights Mexican and Latino fighters including Brandon Moreno, Irene Aldana, and Brian Ortega in a celebration of combat sports heritage.
+          UFC 306: O'Malley vs. Dvalishvili (branded as Riyadh Season Noche UFC for sponsorship reasons) was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on September 14, 2024, at the Sphere in Paradise, Nevada, part of the Las Vegas Metropolitan Area, United States. A UFC Bantamweight Championship bout between current champion Sean O'Malley and Merab Dvalishvili headlined the event.
         episodes:
           1:
-            title: Early Prelims - Torres vs Zellhuber
+            title: Early Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/306/early-prelims.jpg
             summary: >
               The UFC 306 Early Prelims will feature promising Latino talent competing as part of the "Noche UFC" celebration at The Sphere. Manuel Torres looks to continue his impressive knockout streak in the lightweight division against a veteran opponent. Daniel Zellhuber represents Mexico in a technical lightweight contest, while Yazmin Jauregui showcases her striking skills in the women's strawweight division. The early card also features exciting prospects making their UFC debuts in front of the innovative visual backdrop of The Sphere's revolutionary display technology.
           2:
-            title: Prelims - Ortega vs Lopes
+            title: Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/306/prelims.jpg
             summary: >
               The UFC 306 Prelims will deliver high-stakes action featuring established veterans and rising contenders as part of the Mexican Independence Day weekend celebration. Brian Ortega returns to the octagon in a featherweight contest with title implications, while Irene Aldana looks to rebound in the women's bantamweight division. The prelims also feature former flyweight champion Brandon Moreno beginning his journey back to title contention, while Diego Lopes continues his rapid ascent in the featherweight rankings against a top-10 opponent in The Sphere's immersive environment.
           3:
-            title: Main Card - O'Malley vs Dvalishvili
+            title: Main Card
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/306/ppv.jpg
             summary: >
               The UFC 306 Main Card will be headlined by Sean O'Malley defending his bantamweight championship against Merab Dvalishvili in a classic striker versus grappler matchup. The co-main event features the trilogy bout between Alexa Grasso and Valentina Shevchenko for the women's flyweight title, following their draw in their previous encounter. The main card also showcases former title challenger Brian Ortega against an ascending featherweight contender, while Mexican star Brandon Moreno returns to action in a crucial flyweight bout. The revolutionary visual capabilities of The Sphere will create an unprecedented viewing experience for this historic "Noche UFC" event celebrating Mexican combat sports heritage.
@@ -157,20 +157,20 @@ metadata:
         title: UFC 307
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/307/poster.jpg
         summary: >
-          UFC 307 is scheduled for October 5, 2024, at Delta Center in Salt Lake City, Utah, featuring a light heavyweight championship main event. Alex Pereira will defend his title against Khalil Rountree Jr., who earned his shot with an impressive knockout streak. The co-main event showcases Raquel Pennington making her first women's bantamweight title defense against Julianna Peña in a battle between The Ultimate Fighter alumni. The card also features several compelling matchups including Roman Dolidze against Kevin Holland in a middleweight contest and Jose Aldo continuing his comeback against a ranked bantamweight contender.
+          UFC 307: Pereira vs. Rountree Jr. was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on October 5th 2024, at the Delta Center in Salt Lake City, Utah, United States. A UFC Light Heavyweight Championship bout between current champion (also former UFC Middleweight Champion and former Glory Middleweight and Light Heavyweight Champion) Alex Pereira and Khalil Rountree Jr. headlined the event.
         episodes:
           1:
-            title: Early Prelims - Rising Prospects
+            title: Early Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/307/early-prelims.jpg
             summary: >
               The UFC 307 Early Prelims will feature promising prospects and competitive matchups across multiple weight divisions at Salt Lake City's Delta Center. Highlights include exciting newcomers making their UFC debuts alongside established veterans looking to climb the rankings. The card opens with technical battles in the lighter weight classes, showcasing the depth of talent in the promotion. Fans can expect high-energy contests as fighters look to make statements early in the evening before the championship doubleheader later in the night.
           2:
-            title: Prelims - Dolidze vs Holland
+            title: Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/307/prelims.jpg
             summary: >
               The UFC 307 Prelims will deliver high-stakes action featuring established veterans and rising contenders in Salt Lake City. Former champions and title challengers look to reestablish themselves in their respective divisions, while promising prospects aim to break into the rankings with statement performances. The prelims feature technical striking battles and grappling showcases across multiple weight classes, building anticipation for the main card. The Utah crowd will witness crucial matchups that could determine future title challengers as the evening progresses toward the championship doubleheader.
           3:
-            title: Main Card - Pereira vs Rountree Jr.
+            title: Main Card
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/307/ppv.jpg
             summary: >
               The UFC 307 Main Card will be headlined by Alex Pereira defending his light heavyweight championship against dangerous striker Khalil Rountree Jr. in what promises to be an explosive contest. The co-main event features Raquel Pennington making her first women's bantamweight title defense against former champion Julianna Peña in a highly anticipated matchup. Roman Dolidze and Kevin Holland will clash in a middleweight contest with title implications, while Jose Aldo continues his comeback against a ranked bantamweight contender. The main card opens with a crucial welterweight bout that could determine the next challenger for the 170-pound championship.
@@ -178,20 +178,20 @@ metadata:
         title: UFC 308
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/308/poster.jpg
         summary: >
-          UFC 308 is scheduled for October 26, 2024, at Etihad Arena in Abu Dhabi, UAE, continuing the promotion's partnership with the region. The main event features Ilia Topuria making his first featherweight title defense against former champion Max Holloway in a highly anticipated striking showcase. The co-main event showcases Robert Whittaker against Khamzat Chimaev in a middleweight contest with title implications. The card highlights several Middle Eastern and European fighters, including Magomed Ankalaev, Muhammad Mokaev, and Shara Magomedov, as the UFC returns to "Fight Island" for another international spectacle.
+          UFC 308: Topuria vs. Holloway was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on October 26th 2024, at the Etihad Arena in Abu Dhabi, United Arab Emirates. A UFC Featherweight Championship bout between current champion Ilia Topuria and former champion Max Holloway headlined the event.
         episodes:
           1:
-            title: Early Prelims - Mokaev vs Albazi
+            title: Early Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/308/early-prelims.jpg
             summary: >
               The UFC 308 Early Prelims will feature regional talent from the Middle East and surrounding areas competing at Abu Dhabi's Etihad Arena. Muhammad Mokaev continues his undefeated flyweight campaign against a ranked opponent, while promising prospects from Dagestan and the Caucasus region showcase their grappling prowess. The card also features exciting newcomers making their UFC debuts in front of the passionate Abu Dhabi crowd, setting the stage for the championship main event later in the evening.
           2:
-            title: Prelims - Ankalaev vs Magomedov
+            title: Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/308/prelims.jpg
             summary: >
               The UFC 308 Prelims will deliver high-stakes action featuring established veterans and rising contenders in Abu Dhabi. Magomed Ankalaev looks to strengthen his case for a light heavyweight title shot against a top-ranked opponent, while Shara Magomedov continues his middleweight ascent. The prelims also feature technical striking battles and grappling showcases across multiple weight classes, with fighters from Russia, the Middle East, and Europe prominently featured. The international flavor of the card reflects the UFC's global reach as the promotion returns to "Fight Island."
           3:
-            title: Main Card - Topuria vs Holloway
+            title: Main Card
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/308/ppv.jpg
             summary: >
               The UFC 308 Main Card will be headlined by Ilia Topuria defending his featherweight championship against former champion Max Holloway in a clash of elite strikers. The co-main event features Robert Whittaker against undefeated Khamzat Chimaev in a middleweight contest that could determine the next title challenger. Magomed Ankalaev continues his light heavyweight campaign against a fellow contender, while Shara Magomedov faces his toughest test in the middleweight division. The main card opens with a crucial welterweight bout featuring Middle Eastern talent as the UFC delivers another international spectacle from Abu Dhabi.
@@ -199,20 +199,20 @@ metadata:
         title: UFC 309
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/309/poster.jpg
         summary: >
-          UFC 309 is scheduled for November 16, 2024, at Madison Square Garden in New York City, continuing the promotion's annual November tradition at the iconic venue. The main event features Jon Jones defending his heavyweight championship against Stipe Miocic in a battle of all-time greats. The co-main event showcases a championship bout in one of the lighter weight divisions. The card also features several New York-based fighters and compelling matchups across multiple weight classes as the UFC returns to "The World's Most Famous Arena" for another blockbuster event in the final quarter of 2024.
+          UFC 309: Jones vs. Miocic was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on November 16, 2024, at Madison Square Garden in New York City, New York, United States. A UFC Heavyweight Championship bout between current champion (also a former two-time UFC Light Heavyweight Champion) Jon Jones and former two-time champion Stipe Miocic headlined this event.
         episodes:
           1:
-            title: Early Prelims - NY Rising Stars
+            title: Early Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/309/early-prelims.jpg
             summary: >
               The UFC 309 Early Prelims will feature promising prospects and regional talent competing at Madison Square Garden. New York-based fighters will have the opportunity to showcase their skills in front of their home crowd, while international prospects look to make statements on the big stage. The card opens with technical battles across multiple weight divisions, setting the tone for the heavyweight championship main event later in the evening. The historic venue provides an electric atmosphere even for the early fights on this stacked card.
           2:
-            title: Prelims - East Coast Showdown
+            title: Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/309/prelims.jpg
             summary: >
               The UFC 309 Prelims will deliver high-stakes action featuring established veterans and rising contenders at Madison Square Garden. Former champions and title challengers look to reestablish themselves in their respective divisions, while promising prospects aim to break into the rankings with statement performances. The prelims feature technical striking battles and grappling showcases that build anticipation for the main card. The New York crowd will witness crucial matchups that could determine future title challengers as the evening progresses toward the heavyweight championship main event.
           3:
-            title: Main Card - Jones vs Miocic
+            title: Main Card
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/309/ppv.jpg
             summary: >
               The UFC 309 Main Card will be headlined by Jon Jones defending his heavyweight championship against former two-time champion Stipe Miocic in a legacy-defining contest between two of the greatest fighters in UFC history. The co-main event features another championship bout showcasing elite talent in one of the promotion's lighter weight divisions. The main card also includes several high-stakes contests with title implications across multiple weight classes, featuring former champions and top contenders. Madison Square Garden provides the perfect backdrop for this blockbuster event as the UFC delivers another spectacular night of fights at "The World's Most Famous Arena."
@@ -220,20 +220,20 @@ metadata:
         title: UFC 310
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/310/poster.jpg
         summary: >
-          UFC 310 is scheduled for December 7, 2024, at T-Mobile Arena in Las Vegas, serving as one of the final pay-per-view events of the year. The main event features Alexandre Pantoja defending his flyweight championship against Kai Asakura in an exciting international matchup. The co-main event showcases another title fight or number one contender bout. As is tradition for the year-end Las Vegas cards, UFC 310 will feature several high-profile matchups across multiple weight classes, with title implications and potential Fight of the Year candidates as the 2024 UFC calendar approaches its conclusion.
+          UFC 310 was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on December 7, 2024, at the T-Mobile Arena in Paradise, Nevada, part of the Las Vegas Valley, United States. A UFC Flyweight Championship bout between current champion Alexandre Pantoja and former two-time Rizin Bantamweight Champion (also promotional newcomer) Kai Asakura was the main event.
         episodes:
           1:
-            title: Early Prelims - Contender Series Showcase
+            title: Early Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/310/early-prelims.jpg
             summary: >
               The UFC 310 Early Prelims will feature promising prospects and exciting matchups to kick off the December pay-per-view. Rising stars from the UFC Performance Institute and Dana White's Contender Series will have opportunities to make statements on the big stage. The card opens with technical battles across multiple weight divisions, setting the tone for the championship main event later in the evening. Las Vegas provides the perfect backdrop for these early contests as fighters look to build momentum heading into the final month of 2024.
           2:
-            title: Prelims - Veterans Clash
+            title: Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/310/prelims.jpg
             summary: >
               The UFC 310 Prelims will deliver high-stakes action featuring established veterans and rising contenders in Las Vegas. Former champions and title challengers look to position themselves for big opportunities in 2025, while promising prospects aim to break into the rankings with statement performances. The prelims feature technical striking battles and grappling showcases across multiple weight classes, building anticipation for the main card. The T-Mobile Arena crowd will witness crucial matchups that could determine future title challengers as the evening progresses toward the flyweight championship main event.
           3:
-            title: Main Card - Pantoja vs Asakura
+            title: Main Card
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/310/ppv.jpg
             summary: >
               The UFC 310 Main Card will be headlined by Alexandre Pantoja defending his flyweight championship against Kai Asakura in an exciting international matchup. The co-main event showcases another title fight or high-stakes contender bout with significant implications for early 2025. The main card also includes several marquee bouts featuring former champions and top-ranked contenders across multiple weight classes, as the UFC delivers another spectacular event in its 2024 calendar. T-Mobile Arena in Las Vegas provides the perfect setting for this December blockbuster that will help shape the championship landscape heading into the new year.
@@ -241,20 +241,20 @@ metadata:
         title: UFC 311
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/311/poster.jpg
         summary: >
-          UFC 311 is scheduled for January 18, 2025, at Crypto.com Arena in Inglewood, California, marking the promotion's first event of the new year. The main event features Islam Makhachev defending his lightweight championship against Renato Moicano, who earned his title shot with an impressive winning streak. The co-main event delivers another high-stakes contest with title implications. The card highlights several California-based fighters competing on home soil, including rising prospects and established veterans, as the UFC kicks off its 2025 calendar with a championship spectacle in one of North America's premier fight markets.
+          UFC 311: Makhachev vs. Moicano was an mixed martial arts event produced by the Ultimate Fighting Championship that took place on January 18, 2025, at Intuit Dome in Inglewood, California, United States. A UFC Lightweight Championship bout between current champion Islam Makhachev and Renato Moicano headlined the event.
         episodes:
           1:
-            title: Early Prelims - California Prospects
+            title: Early Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/311/early-prelims.jpg
             summary: >
               The UFC 311 Early Prelims will feature promising California-based prospects competing in front of their home crowd in Inglewood. Rising stars from the state's elite training camps will have opportunities to showcase their skills on the big stage. The card opens with technical battles across multiple weight divisions, setting the tone for the championship main event later in the evening. The passionate California fans create an electric atmosphere even for the early fights as the UFC begins its 2025 calendar with local talent.
           2:
-            title: Prelims - West Coast Warriors
+            title: Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/311/prelims.jpg
             summary: >
               The UFC 311 Prelims will deliver high-stakes action featuring California veterans and international contenders in Inglewood. Established fighters from the region's renowned gyms look to climb the rankings in their respective divisions, while international prospects aim to spoil the homecoming with statement performances. The prelims feature technical striking battles and grappling showcases across multiple weight classes, building anticipation for the main card. The Crypto.com Arena crowd will witness crucial matchups that could determine future title challengers as the evening progresses toward the lightweight championship main event.
           3:
-            title: Main Card - Makhachev vs Moicano
+            title: Main Card
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/311/ppv.jpg
             summary: >
               The UFC 311 Main Card will be headlined by Islam Makhachev defending his lightweight championship against Renato Moicano in a compelling stylistic matchup. The co-main event showcases another high-stakes contest with title implications for 2025. The main card also includes several marquee bouts featuring California-based stars and international contenders across multiple weight classes, as the UFC delivers a spectacular start to its 2025 calendar. Crypto.com Arena in Inglewood provides the perfect setting for this championship spectacle that sets the tone for the new year in the UFC.
@@ -262,20 +262,20 @@ metadata:
         title: UFC 312
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/312/poster.jpg
         summary: >
-          UFC 312 is scheduled for February 8, 2025, at Qudos Bank Arena in Sydney, Australia, continuing the promotion's commitment to the Australian market. The main event features a highly anticipated rematch as Dricus Du Plessis defends his middleweight championship against former champion Sean Strickland. The co-main event delivers another title fight or high-stakes contender matchup. The card highlights several Australian and New Zealand fighters competing on home soil, including rising prospects from the region's renowned training camps, as the UFC continues its 2025 calendar with a championship showcase in the Southern Hemisphere.
+          UFC 312: du Plessis vs. Strickland 2 was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on February 9, 2025, at the Qudos Bank Arena in Sydney, Australia. A UFC Middleweight Championship rematch between current champion Dricus du Plessis (also former KSW Welterweight Champion) and former champion Sean Strickland headlined the event.
         episodes:
           1:
-            title: Early Prelims - Oceanic Showcase
+            title: Early Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/312/early-prelims.jpg
             summary: >
               The UFC 312 Early Prelims will feature promising Australian and New Zealand prospects competing in front of their home crowd in Sydney. Rising stars from the region's elite training camps will have opportunities to showcase their skills on a significant stage. The card opens with technical battles across multiple weight divisions, setting the tone for the championship main event later in the evening. The passionate Australian fans create an energetic atmosphere as these early contests establish the foundation for an exciting night of fights.
           2:
-            title: Prelims - Down Under Battles
+            title: Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/312/prelims.jpg
             summary: >
               The UFC 312 Prelims will deliver high-stakes action featuring Australian veterans and international contenders in Sydney. Established fighters from the region's renowned gyms look to climb the rankings in their respective divisions, while international prospects aim to make statements with impressive performances. The prelims feature technical striking battles and grappling showcases across multiple weight classes, building anticipation for the main card. The Qudos Bank Arena crowd will witness crucial matchups that could determine future title challengers as the evening progresses toward the middleweight championship rematch.
           3:
-            title: Main Card - Du Plessis vs Strickland 2
+            title: Main Card
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/312/ppv.jpg
             summary: >
               The UFC 312 Main Card will be headlined by Dricus Du Plessis defending his middleweight championship in a highly anticipated rematch against former champion Sean Strickland. The co-main event features another title fight or high-stakes contender matchup with significant implications for 2025. The main card also includes several marquee bouts featuring Australian and New Zealand stars alongside international contenders across multiple weight classes, as the UFC delivers another spectacular event early in its 2025 calendar. Qudos Bank Arena in Sydney provides the perfect setting for this showcase of elite talent that continues to shape the championship landscape in the new year.
@@ -283,20 +283,20 @@ metadata:
         title: UFC 313
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/313/poster.jpg
         summary: >
-          UFC 313 is scheduled for March 8, 2025, at Allegiant Stadium in Las Vegas, marking the promotion's first stadium show of the year. The main event features Alex Pereira defending his light heavyweight championship against Magomed Ankalaev in what promises to be an explosive contest between two elite strikers. The co-main event showcases another title bout featuring one of the UFC's biggest stars. The expanded stadium card includes several additional high-profile matchups with title implications across multiple divisions, as the UFC delivers a blockbuster spectacle worthy of the 80,000+ seat venue, potentially setting attendance records for a North American MMA event.
+          UFC 313: Pereira vs. Ankalaev was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on March 8, 2025, at T-Mobile Arena in Paradise, Nevada, part of the Las Vegas Valley, United States. A UFC Light Heavyweight Championship bout between current champion (also former UFC Middleweight Champion and former Glory Middleweight and Light Heavyweight Champion) Alex Pereira and former title challenger Magomed Ankalaev headlined the event.
         episodes:
           1:
-            title: Early Prelims - Stadium Showcase
+            title: Early Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/313/early-prelims.jpg
             summary: >
               The UFC 313 Early Prelims will feature promising prospects and exciting matchups to kick off the massive stadium show at Allegiant Stadium. Rising stars from around the world will have opportunities to compete on the biggest stage in UFC history, with the potential for record-breaking attendance. The card opens with technical battles across multiple weight divisions, setting the tone for the championship doubleheader later in the evening. Even these early contests benefit from the electric atmosphere of the stadium setting as fans arrive early to witness every moment of this historic event.
           2:
-            title: Prelims - Contenders Clash
+            title: Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/313/prelims.jpg
             summary: >
               The UFC 313 Prelims will deliver high-stakes action featuring established veterans and rising contenders in the stadium environment of Allegiant Stadium. Former champions and title challengers look to position themselves for future opportunities, while promising prospects aim to break into the rankings with statement performances on this massive stage. The prelims feature technical striking battles and grappling showcases across multiple weight classes, building anticipation for the main card. The enormous Las Vegas crowd will witness crucial matchups that could determine future title challengers as the evening progresses toward the championship doubleheader.
           3:
-            title: Main Card - Pereira vs Ankalaev
+            title: Main Card
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/313/ppv.jpg
             summary: >
               The UFC 313 Main Card will be headlined by Alex Pereira defending his light heavyweight championship against dangerous striker Magomed Ankalaev in what promises to be an explosive contest. The co-main event showcases another championship bout featuring one of the UFC's biggest stars defending their title. The expanded main card includes additional high-profile matchups with title implications across multiple divisions, featuring former champions and top contenders. This blockbuster stadium show delivers a spectacle of unprecedented scale for the UFC, potentially setting attendance records for a North American MMA event and creating iconic moments that will define the 2025 championship landscape.
@@ -304,20 +304,20 @@ metadata:
         title: UFC 314
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/314/poster.jpg
         summary: >
-          UFC 314 is scheduled for April 12, 2025, at Miami-Dade Arena in Miami, Florida. The main event features Alexander Volkanovski returning to featherweight action against rising contender Diego Lopes in what promises to be an exciting technical battle. The co-main event showcases another high-stakes matchup with title implications. The card highlights several fighters from Florida's renowned training camps competing on home soil, alongside international talent. As the UFC continues its 2025 calendar, this Miami event delivers elite competition across multiple weight classes in one of the promotion's key markets.
+          UFC 314: Volkanovski vs. Lopes was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on April 12, 2025, at the Kaseya Center in Miami, Florida, United States. A UFC Featherweight Championship bout for the vacant title between former champion Alexander Volkanovski and Diego Lopes headlined the event.
         episodes:
           1:
-            title: Early Prelims - Florida Showcase
+            title: Early Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/314/early-prelims.jpg
             summary: >
               The UFC 314 Early Prelims will feature promising Florida-based prospects competing in front of their home crowd at Miami-Dade Arena. Rising stars from the region's elite training camps, including American Top Team and Sanford MMA, will have opportunities to showcase their skills on a significant stage. The card opens with technical battles across multiple weight divisions, setting the tone for the featherweight main event later in the evening. The passionate Miami fans create an electric atmosphere even for these early contests as fighters look to make statements in this key market.
           2:
-            title: Prelims - Sunshine State Battles
+            title: Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/314/prelims.jpg
             summary: >
               The UFC 314 Prelims will deliver high-stakes action featuring Florida veterans and international contenders in Miami. Established fighters from the region's renowned gyms look to climb the rankings in their respective divisions, while international prospects aim to spoil the homecoming with impressive performances. The prelims feature technical striking battles and grappling showcases across multiple weight classes, building anticipation for the main card. The Miami-Dade Arena crowd will witness crucial matchups that could determine future title challengers as the evening progresses toward the featherweight main event.
           3:
-            title: Main Card - Volkanovski vs Lopes
+            title: Main Card
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/314/ppv.jpg
             summary: >
               The UFC 314 Main Card will be headlined by Alexander Volkanovski taking on Diego Lopes in a crucial featherweight contest that could determine the next title challenger. The former champion Volkanovski looks to reestablish himself at the top of the division against the surging Lopes, who has impressed with his well-rounded skillset since joining the UFC. The co-main event features another high-stakes matchup with significant implications for the 2025 championship landscape. The main card also includes several marquee bouts featuring Florida-based stars and international contenders across multiple weight classes, as the UFC delivers another spectacular event in its 2025 calendar.
@@ -325,15 +325,15 @@ metadata:
         title: UFC 315
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/315/poster.jpg
         summary: >
-          UFC 315 is scheduled for May 10, 2025, at Bell Centre in Montreal, Quebec, Canada, marking the promotion's return to this passionate fight market. The main event features newly crowned welterweight champion Belal Muhammad making his first title defense against the undefeated Jack Della Maddalena in a clash of contrasting styles. The co-main event showcases another championship bout or high-stakes contender matchup. The card highlights several Canadian fighters competing on home soil, including rising prospects and established veterans, as the UFC delivers another major event in one of North America's most enthusiastic fight cities.
+          UFC 315: Muhammad vs. Della Maddalena was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on May 10, 2025, at the Bell Centre in Montreal, Quebec, Canada. A UFC Welterweight Championship bout between current champion Belal Muhammad and Jack Della Maddalena headlined this event. A UFC Women's Flyweight Championship bout between current two-time champion Valentina Shevchenko and Manon Fiorot took place in the co-main event.
         episodes:
           1:
-            title: Early Prelims - Canadian Prospects
+            title: Early Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/315/early-prelims.jpg
             summary: >
               The UFC 315 Early Prelims will feature promising Canadian prospects competing in front of their home crowd at Montreal's Bell Centre. Rising stars from across Canada's diverse fighting landscape will have opportunities to showcase their skills on the big stage. The card opens with technical battles across multiple weight divisions, setting the tone for the welterweight championship main event later in the evening. The passionate Montreal fans create an electric atmosphere even for the early fights as the UFC returns to this historic Canadian fight market.
           2:
-            title: Prelims - Quebec Warriors
+            title: Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/315/prelims.jpg
             summary: >
               The UFC 315 Prelims will deliver high-stakes action featuring Canadian veterans and international contenders in Montreal. Established fighters from the region's renowned gyms look to climb the rankings in their respective divisions, while international prospects aim to spoil the homecoming with statement performances. The prelims feature technical striking battles and grappling showcases across multiple weight classes, building anticipation for the main card. The Bell Centre crowd will witness crucial matchups that could determine future title challengers as the evening progresses toward the welterweight championship main event.
@@ -346,41 +346,41 @@ metadata:
         title: UFC 316
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/316/poster.jpg
         summary: >
-          UFC 316 took place on June 7, 2025, at the Prudential Center in Newark, New Jersey, featuring a bantamweight championship rematch. Merab Dvalishvili successfully defended his title against former champion Sean O'Malley, submitting him with a ninja choke in the third round to retain his belt and extend his winning streak to 13 fights. The co-main event saw Kayla Harrison claim the women's bantamweight championship by submitting Julianna Peña with a kimura in the second round, becoming only the second Olympic gold medalist (alongside Henry Cejudo) to win UFC gold. The card also featured impressive performances from Joe Pyfer, Mario Bautista, and Kevin Holland, delivering another memorable evening of action in "The Garden State."
+          UFC 316: Dvalishvili vs. O'Malley 2 was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on June 7, 2025, at the Prudential Center, in Newark, New Jersey, United States. A UFC Bantamweight Championship rematch between current champion Merab Dvalishvili and former champion Sean O'Malley headlined this event. A UFC Women's Bantamweight Championship bout between current two-time champion Julianna Peña and the 2012 and 2016 Olympic gold medalist in judo Kayla Harrison co-headlined this event.
         episodes:
           1:
-            title: Early Prelims - Yoo vs Saragih
+            title: Early Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/316/early-prelims.jpg
             summary: >
               The UFC 316 Early Prelims delivered exciting action to kick off the Newark card, featuring rising prospects and competitive matchups. JooSang Yoo made a spectacular statement with a 28-second knockout of Jeka Saragih via left hook, showcasing explosive power. The card also featured Quillan Salkilld earning a unanimous decision over Yanal Ashmouz, MarQuel Mederos defeating Mark Choinski by unanimous decision, Wang Cong dominating Ariane da Silva, and Andreas Gustafsson securing a convincing victory over Khaos Williams. These early contests set an energetic tone for the championship doubleheader later in the evening.
           2:
-            title: Prelims - Van vs Silva
+            title: Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/316/prelims.jpg
             summary: >
               The UFC 316 Prelims continued the exciting pace with high-stakes battles featuring established veterans and rising contenders. Joshua Van earned a third-round TKO victory over Bruno Silva, while Azamat Murzakanov delivered a first-round knockout of Brendson Ribeiro. Waldo Cortes Acosta rebounded with a unanimous decision win over Serghei Spivac, demonstrating improved conditioning and technique. These prelim contests built anticipation for the main card, showcasing the depth of talent across multiple weight divisions as the Newark crowd witnessed crucial matchups that could determine future rankings and opportunities.
           3:
-            title: Main Card - Dvalishvili vs O'Malley 2
+            title: Main Card
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/316/ppv.jpg
             summary: >
-                             The UFC 316 Main Card delivered spectacular championship action headlined by Merab Dvalishvili's dominant title defense against Sean O'Malley. "The Machine" controlled the fight from start to finish, securing a ninja choke submission at 4:42 of the third round to retain his bantamweight championship and extend his winning streak to 13 fights. In the co-main event, Kayla Harrison captured the women's bantamweight title by submitting Julianna Peña with a kimura at 4:55 of round two, joining Henry Cejudo as the only Olympic gold medalists to win UFC gold. The main card also featured Joe Pyfer's unanimous decision victory over Kelvin Gastelum, Mario Bautista's eighth consecutive win against Patchy Mix, and Kevin Holland's impressive D'arce choke submission of Vicente Luque, capping off a memorable evening at the Prudential Center.
+              The UFC 316 Main Card delivered spectacular championship action headlined by Merab Dvalishvili's dominant title defense against Sean O'Malley. "The Machine" controlled the fight from start to finish, securing a ninja choke submission at 4:42 of the third round to retain his bantamweight championship and extend his winning streak to 13 fights. In the co-main event, Kayla Harrison captured the women's bantamweight title by submitting Julianna Peña with a kimura at 4:55 of round two, joining Henry Cejudo as the only Olympic gold medalists to win UFC gold. The main card also featured Joe Pyfer's unanimous decision victory over Kelvin Gastelum, Mario Bautista's eighth consecutive win against Patchy Mix, and Kevin Holland's impressive D'arce choke submission of Vicente Luque, capping off a memorable evening at the Prudential Center.
       317:
         title: UFC 317
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/317/poster.jpg
         summary: >
-          UFC Fight Night: Usman vs Buckley is scheduled for June 14, 2025, at State Farm Arena in Atlanta, Georgia. The main event features former welterweight champion Kamaru Usman returning to action against surging contender Joaquin Buckley in a crucial welterweight clash. This Fight Night card showcases the depth of the welterweight division as Usman looks to reestablish himself as a top contender while Buckley aims to cement his status as a legitimate title threat. The Atlanta venue provides an electric atmosphere for this high-stakes matchup between experience and momentum.
+          UFC 317: Topuria vs. Oliveira was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on June 28, 2025, at T-Mobile Arena in Paradise, Nevada, part of the Las Vegas Valley, United States. A UFC Lightweight Championship bout for the vacant title between former UFC Featherweight Champion Ilia Topuria and former champion Charles Oliveira served as the event's headliner.
         episodes:
           1:
-            title: Early Prelims - Atlanta Rising
+            title: Early Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/317/early-prelims.jpg
             summary: >
               The UFC Fight Night Early Prelims will feature promising prospects and competitive matchups to kick off the Atlanta card at State Farm Arena. Rising stars from the southeastern United States will have opportunities to showcase their skills on the big stage, while international prospects look to make statements in front of the passionate Georgia crowd. The card opens with technical battles across multiple weight divisions, setting the tone for the welterweight main event later in the evening.
           2:
-            title: Prelims - Southern Showcase
+            title: Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/317/prelims.jpg
             summary: >
               The UFC Fight Night Prelims will deliver high-stakes action featuring established veterans and rising contenders in Atlanta. Fighters from the region's renowned gyms look to climb the rankings in their respective divisions, while experienced veterans aim to reestablish themselves with impressive performances. The prelims feature technical striking battles and grappling showcases across multiple weight classes, building anticipation for the main card as the State Farm Arena crowd witnesses crucial matchups.
           3:
-            title: Main Card - Usman vs Buckley
+            title: Main Card
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/317/ppv.jpg
             summary: >
               The UFC Fight Night Main Card will be headlined by former welterweight champion Kamaru Usman taking on surging contender Joaquin Buckley in a crucial division matchup. Usman returns to action looking to reestablish himself as a top title contender, while Buckley aims to prove he belongs among the welterweight elite with a statement victory over the former champion. The main card features several compelling matchups across multiple weight classes, as the UFC delivers another exciting Fight Night event from Atlanta's State Farm Arena.
@@ -388,20 +388,20 @@ metadata:
         title: UFC 318
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/318/poster.jpg
         summary: >
-          UFC Fight Night: Hill vs Rountree Jr. is scheduled for June 21, 2025, at Baku Crystal Hall in Baku, Azerbaijan. The main event features a light heavyweight clash between former title challenger Jamahal Hill and dangerous striker Khalil Rountree Jr. in an explosive contest. This marks the UFC's continued expansion into new international markets, bringing elite MMA action to Azerbaijan for the first time. The card showcases striking specialists and promises fireworks as both fighters look to position themselves for future title opportunities in the competitive light heavyweight division.
+          UFC 318: Holloway vs. Poirier 3 was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on July 19, 2025, at the Smoothie King Center in New Orleans, Louisiana, United States. Former UFC Featherweight Champion Max Holloway put his symbolic "BMF" title on the line against former interim UFC Lightweight Champion Dustin Poirier in a lightweight bout in the main event. This was their third meeting and Poirier's retirement fight.
         episodes:
           1:
-            title: Early Prelims - Baku Debut
+            title: Early Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/318/early-prelims.jpg
             summary: >
               The UFC Fight Night Early Prelims will mark the historic debut of UFC in Azerbaijan, featuring regional talent and international prospects at Baku Crystal Hall. Local fighters will have the opportunity to showcase their skills on the global stage, while promising prospects from around the world look to make statements in this new market. The card opens with technical battles across multiple weight divisions, introducing Azerbaijani fans to the highest level of mixed martial arts competition.
           2:
-            title: Prelims - International Showcase
+            title: Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/318/prelims.jpg
             summary: >
               The UFC Fight Night Prelims will deliver high-stakes action featuring international veterans and rising contenders in Baku. Fighters from Europe, the Middle East, and beyond look to climb the rankings in their respective divisions, while experienced campaigners aim to make strong impressions in this new market. The prelims feature technical striking battles and grappling showcases across multiple weight classes, building anticipation for the explosive light heavyweight main event.
           3:
-            title: Main Card - Hill vs Rountree Jr.
+            title: Main Card
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/318/ppv.jpg
             summary: >
               The UFC Fight Night Main Card will be headlined by former light heavyweight title challenger Jamahal Hill facing dangerous striker Khalil Rountree Jr. in an explosive contest at Baku Crystal Hall. Hill looks to bounce back from his title loss and reestablish himself as a top contender, while Rountree Jr. aims to build on his knockout power and break into title contention. This historic event marks the UFC's debut in Azerbaijan, featuring several compelling matchups across multiple weight classes as the promotion continues its global expansion.
@@ -409,20 +409,20 @@ metadata:
         title: UFC 319
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/319/poster.jpg
         summary: >
-          UFC 319: Topuria vs Oliveira is scheduled for June 28, 2025, at T-Mobile Arena in Las Vegas, Nevada. The main event features featherweight champion Ilia Topuria defending his title against former lightweight champion Charles Oliveira in a highly anticipated cross-divisional superfight. This pay-per-view event showcases elite talent across multiple weight classes, with Oliveira moving down to challenge for his second UFC championship. The Las Vegas venue provides the perfect backdrop for this championship spectacle as two of the UFC's most dynamic finishers collide.
+          UFC 319: du Plessis vs. Chimaev was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on August 16, 2025, at the United Center in Chicago, Illinois, United States. A UFC Middleweight Championship bout between current champion (also former KSW Welterweight Champion) Dricus du Plessis and undefeated contender Khamzat Chimaev headlined the event.
         episodes:
           1:
-            title: Early Prelims - Vegas Showcase
+            title: Early Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/319/early-prelims.jpg
             summary: >
               The UFC 319 Early Prelims will feature promising prospects and competitive matchups to kick off the championship card at T-Mobile Arena. Rising stars from around the world will have opportunities to showcase their skills on the pay-per-view stage, while regional favorites look to make statements in the fight capital of the world. The card opens with technical battles across multiple weight divisions, setting the tone for the featherweight championship main event later in the evening.
           2:
-            title: Prelims - Championship Build-Up
+            title: Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/319/prelims.jpg
             summary: >
               The UFC 319 Prelims will deliver high-stakes action featuring established veterans and rising contenders in Las Vegas. Former title challengers and top-ranked fighters look to position themselves for future championship opportunities, while promising prospects aim to break into the rankings with statement performances. The prelims feature technical striking battles and grappling showcases across multiple weight classes, building anticipation for the championship main event.
           3:
-            title: Main Card - Topuria vs Oliveira
+            title: Main Card
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/319/ppv.jpg
             summary: >
               The UFC 319 Main Card will be headlined by featherweight champion Ilia Topuria defending his title against former lightweight champion Charles Oliveira in a cross-divisional superfight. Topuria puts his featherweight belt on the line against the dangerous Brazilian submission specialist, who moves down in weight seeking his second UFC championship. The main card features several high-profile matchups with title implications across multiple weight divisions, as T-Mobile Arena hosts another blockbuster championship event showcasing the best fighters in the world.
@@ -430,20 +430,20 @@ metadata:
         title: UFC 320
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/320/poster.jpg
         summary: >
-          UFC Fight Night: Lewis vs Teixeira is scheduled for July 13, 2025, at Bridgestone Arena in Nashville, Tennessee. The main event features heavyweight veteran Derrick Lewis taking on former light heavyweight champion Glover Teixeira in an intriguing cross-divisional matchup. This Fight Night card brings elite MMA action to Music City, showcasing Lewis's knockout power against Teixeira's veteran savvy and grappling skills. The Nashville venue provides an energetic atmosphere for this unique heavyweight contest between two fan favorites.
+          UFC 320: Ankalaev vs. Pereira 2 was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on October 4, 2025, at the T-Mobile Arena in Paradise, Nevada, part of the Las Vegas Valley, United States. A UFC Light Heavyweight Championship rematch between current champion Magomed Ankalaev and former champion Alex Pereira (also former UFC Middleweight Champion, former Glory Middleweight and Light Heavyweight Champion) headlined the event.
         episodes:
           1:
-            title: Early Prelims - Music City Debut
+            title: Early Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/320/early-prelims.jpg
             summary: >
               The UFC Fight Night Early Prelims will feature rising prospects and competitive matchups to kick off the Nashville card at Bridgestone Arena. Local fighters from Tennessee and the surrounding region will have opportunities to showcase their skills in front of their home crowd, while international prospects look to make statements in Music City. The card opens with technical battles across multiple weight divisions, introducing Nashville fans to elite mixed martial arts competition.
           2:
-            title: Prelims - Southern Warriors
+            title: Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/320/prelims.jpg
             summary: >
               The UFC Fight Night Prelims will deliver high-stakes action featuring established veterans and rising contenders in Nashville. Fighters from the southeastern United States look to climb the rankings in their respective divisions, while experienced campaigners aim to make strong impressions in this new market. The prelims feature technical striking battles and grappling showcases across multiple weight classes, building anticipation for the unique heavyweight main event.
           3:
-            title: Main Card - Lewis vs Teixeira
+            title: Main Card
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/320/ppv.jpg
             summary: >
               The UFC Fight Night Main Card will be headlined by heavyweight veteran Derrick Lewis facing former light heavyweight champion Glover Teixeira in an intriguing cross-divisional contest at Bridgestone Arena. Lewis brings his devastating knockout power to Nashville, while Teixeira looks to utilize his veteran experience and grappling skills in his heavyweight debut. The main card features several compelling matchups across multiple weight classes, as the UFC delivers exciting Fight Night action to Music City for the first time.
@@ -451,20 +451,19 @@ metadata:
         title: UFC 321
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/321/poster.jpg
         summary: >
-          UFC 321: Holloway vs Poirier 3 is scheduled for July 19, 2025, at Smoothie King Center in New Orleans, Louisiana. The main event features the highly anticipated trilogy bout between featherweight legend Max Holloway and former interim lightweight champion Dustin Poirier. This pay-per-view event marks the completion of their storied rivalry, with both fighters having split their previous encounters. The New Orleans venue provides a vibrant atmosphere for this landmark bout between two of the sport's most beloved and skilled strikers.
-        episodes:
+          UFC 321: Aspinall vs. Gane was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on October 25, 2025, at the Etihad Arena in Abu Dhabi, United Arab Emirates. A UFC Heavyweight Championship bout between current champion Tom Aspinall and former interim champion Ciryl Gane headlined the event. A UFC Women's Strawweight Championship bout for the vacant title between former Invicta FC Strawweight Champion Virna Jandiroba and Mackenzie Dern took place in the co-main event.
           1:
-            title: Early Prelims - Big Easy Showcase
+            title: Early Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/321/early-prelims.jpg
             summary: >
               The UFC 321 Early Prelims will feature promising prospects and competitive matchups to kick off the trilogy card at Smoothie King Center. Rising stars from Louisiana and the surrounding Gulf Coast region will have opportunities to showcase their skills in front of their home crowd, while international prospects look to make statements in the vibrant New Orleans atmosphere. The card opens with technical battles across multiple weight divisions, setting the tone for the historic trilogy main event.
           2:
-            title: Prelims - Crescent City Warriors
+            title: Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/321/prelims.jpg
             summary: >
               The UFC 321 Prelims will deliver high-stakes action featuring established veterans and rising contenders in New Orleans. Former title challengers and top-ranked fighters look to position themselves for future championship opportunities, while promising prospects aim to break into the rankings with statement performances. The prelims feature technical striking battles and grappling showcases across multiple weight classes, building anticipation for the trilogy main event between two legendary strikers.
           3:
-            title: Main Card - Holloway vs Poirier 3
+            title: Main Card
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/321/ppv.jpg
             summary: >
               The UFC 321 Main Card will be headlined by the trilogy bout between Max Holloway and Dustin Poirier at Smoothie King Center in New Orleans. After splitting their previous two encounters, these elite strikers complete their rivalry in what promises to be an instant classic. Holloway brings his volume striking and cardio, while Poirier counters with his power and technical boxing. The main card features several high-profile matchups across multiple weight divisions, as the UFC delivers a historic trilogy bout between two of the sport's most respected veterans.
@@ -472,20 +471,41 @@ metadata:
         title: UFC 322
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/322/poster.jpg
         summary: >
-          UFC Fight Night: Whittaker vs de Ridder is scheduled for July 26, 2025, at Etihad Arena in Abu Dhabi, UAE. The main event features former middleweight champion Robert Whittaker taking on surging contender Reinier de Ridder in a crucial division matchup. This Fight Night card marks the UFC's return to "Fight Island," showcasing elite middleweight action in the Middle East. The international venue provides the perfect backdrop for Whittaker's experience against de Ridder's rising momentum in the competitive 185-pound division.
+          UFC 322: Della Maddalena vs. Makhachev was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on November 15, 2025, at Madison Square Garden in New York City, New York, United States.
         episodes:
           1:
-            title: Early Prelims - Fight Island Returns
+            title: Early Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/322/early-prelims.jpg
             summary: >
-              The UFC Fight Night Early Prelims will feature international talent and rising prospects as the UFC returns to Etihad Arena in Abu Dhabi. Fighters from the Middle East, Europe, and beyond will have opportunities to showcase their skills on the global stage, while regional favorites look to make statements in front of the passionate UAE crowd. The card opens with technical battles across multiple weight divisions, setting the tone for the middleweight main event later in the evening.
+              UFC 322: Della Maddalena vs. Makhachev was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on November 15, 2025, at Madison Square Garden in New York City, New York, United States.
           2:
-            title: Prelims - International Showcase
+            title: Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/322/prelims.jpg
             summary: >
               The UFC Fight Night Prelims will deliver high-stakes action featuring international veterans and rising contenders in Abu Dhabi. Fighters from across the globe look to climb the rankings in their respective divisions, while established campaigners aim to make strong impressions on Fight Island. The prelims feature technical striking battles and grappling showcases across multiple weight classes, building anticipation for the crucial middleweight main event.
           3:
-            title: Main Card - Whittaker vs de Ridder
+            title: Main Card
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/322/ppv.jpg
+            summary: >
+              The UFC Fight Night Main Card will be headlined by former middleweight champion Robert Whittaker facing surging contender Reinier de Ridder in a crucial division matchup at Etihad Arena. Whittaker looks to reestablish himself as a top title contender after his recent setback, while de Ridder aims to prove he belongs among the middleweight elite with a statement victory over the former champion. The main card features several compelling international matchups across multiple weight classes, as the UFC returns to Abu Dhabi with another exciting Fight Night event.
+      323:
+        title: UFC 323
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/323/poster.jpg
+        summary: >
+          UFC 323: Dvalishvili vs. Yan 2 was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on December 6, 2025, at the T-Mobile Arena in Paradise, Nevada, part of the Las Vegas Valley, United States.
+        episodes:
+          1:
+            title: Early Prelims
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/323/early-prelims.jpg
+            summary: >
+              UFC 322: Della Maddalena vs. Makhachev was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on November 15, 2025, at Madison Square Garden in New York City, New York, United States.
+          2:
+            title: Prelims
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/323/prelims.jpg
+            summary: >
+              The UFC Fight Night Prelims will deliver high-stakes action featuring international veterans and rising contenders in Abu Dhabi. Fighters from across the globe look to climb the rankings in their respective divisions, while established campaigners aim to make strong impressions on Fight Island. The prelims feature technical striking battles and grappling showcases across multiple weight classes, building anticipation for the crucial middleweight main event.
+          3:
+            title: Main Card
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/323/ppv.jpg
             summary: >
               The UFC Fight Night Main Card will be headlined by former middleweight champion Robert Whittaker facing surging contender Reinier de Ridder in a crucial division matchup at Etihad Arena. Whittaker looks to reestablish himself as a top title contender after his recent setback, while de Ridder aims to prove he belongs among the middleweight elite with a statement victory over the former champion. The main card features several compelling international matchups across multiple weight classes, as the UFC returns to Abu Dhabi with another exciting Fight Night event.
