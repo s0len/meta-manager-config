@@ -1,0 +1,2459 @@
+metadata:
+  Premier League 2025-2026:
+    title: Premier League 2025-2026
+    sort_title: Premier League 2025-2026
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league-2025-2026/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league-2025-2026/background.jpg
+    summary: >
+      The 2025-2026 Premier League campaign spans 38 matchweeks, bringing top-flight fixtures from across
+      England and Wales. This metadata groups each matchweek with its scheduled fixtures, including
+      kickoff notes and venue details so Sports Organizer can match and rename recordings accurately.
+    seasons:
+      1:
+        title: Matchweek 1
+        sort_title: 01_Matchweek 1
+        summary: >
+          Matchweek 1 covers August 15-18, 2025 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Liverpool vs Bournemouth
+            originally_available: 2025-08-15
+            summary: >
+              Matchweek 1 fixture at Anfield (Liverpool). Scheduled date: August 15, 2025. Kickoff:
+              Fri 15 Aug 2025, 20:00 BST.
+          2:
+            title: Aston Villa vs Newcastle United
+            originally_available: 2025-08-16
+            summary: >
+              Matchweek 1 fixture at Villa Park (Birmingham). Scheduled date: August 16, 2025.
+              Kickoff: Sat 16 Aug 2025, 12:30 BST.
+          3:
+            title: Brighton & Hove Albion vs Fulham
+            originally_available: 2025-08-16
+            summary: >
+              Matchweek 1 fixture at American Express Stadium (Falmer). Scheduled date: August 16,
+              2025. Kickoff: Sat 16 Aug 2025, 15:00 BST.
+          4:
+            title: Sunderland vs West Ham United
+            originally_available: 2025-08-16
+            summary: >
+              Matchweek 1 fixture at Stadium of Light (Sunderland). Scheduled date: August 16, 2025.
+              Kickoff: Sat 16 Aug 2025, 15:00 BST.
+          5:
+            title: Tottenham Hotspur vs Burnley
+            originally_available: 2025-08-16
+            summary: >
+              Matchweek 1 fixture at Tottenham Hotspur Stadium (London). Scheduled date: August 16,
+              2025. Kickoff: Sat 16 Aug 2025, 15:00 BST.
+          6:
+            title: Wolverhampton Wanderers vs Manchester City
+            originally_available: 2025-08-16
+            summary: >
+              Matchweek 1 fixture at Molineux Stadium (Wolverhampton). Scheduled date: August 16,
+              2025. Kickoff: Sat 16 Aug 2025, 17:30 BST.
+          7:
+            title: Chelsea vs Crystal Palace
+            originally_available: 2025-08-17
+            summary: >
+              Matchweek 1 fixture at Stamford Bridge (London). Scheduled date: August 17, 2025.
+              Kickoff: Sun 17 Aug 2025, 14:00 BST.
+          8:
+            title: Manchester United vs Arsenal
+            originally_available: 2025-08-17
+            summary: >
+              Matchweek 1 fixture at Old Trafford (Manchester). Scheduled date: August 17, 2025.
+              Kickoff: Sun 17 Aug 2025, 16:30 BST.
+          9:
+            title: Nottingham Forest vs Brentford
+            originally_available: 2025-08-17
+            summary: >
+              Matchweek 1 fixture at The City Ground (Nottingham). Scheduled date: August 17, 2025.
+              Kickoff: Sun 17 Aug 2025, 14:00 BST.
+          10:
+            title: Leeds United vs Everton
+            originally_available: 2025-08-18
+            summary: >
+              Matchweek 1 fixture at Elland Road (Leeds). Scheduled date: August 18, 2025. Kickoff:
+              Mon 18 Aug 2025, 20:00 BST.
+      2:
+        title: Matchweek 2
+        sort_title: 02_Matchweek 2
+        summary: >
+          Matchweek 2 covers August 22-25, 2025 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: West Ham United vs Chelsea
+            originally_available: 2025-08-22
+            summary: >
+              Matchweek 2 fixture at London Stadium (London). Scheduled date: August 22, 2025.
+              Kickoff: Fri 22 Aug 2025, 20:00 BST.
+          2:
+            title: Arsenal vs Leeds United
+            originally_available: 2025-08-23
+            summary: >
+              Matchweek 2 fixture at Emirates Stadium (London). Scheduled date: August 23, 2025.
+              Kickoff: Sat 23 Aug 2025, 17:30 BST.
+          3:
+            title: Bournemouth vs Wolverhampton Wanderers
+            originally_available: 2025-08-23
+            summary: >
+              Matchweek 2 fixture at Vitality Stadium (Bournemouth). Scheduled date: August 23,
+              2025. Kickoff: Sat 23 Aug 2025, 15:00 BST.
+          4:
+            title: Brentford vs Aston Villa
+            originally_available: 2025-08-23
+            summary: >
+              Matchweek 2 fixture at Gtech Community Stadium (Brentford). Scheduled date: August 23,
+              2025. Kickoff: Sat 23 Aug 2025, 15:00 BST.
+          5:
+            title: Burnley vs Sunderland
+            originally_available: 2025-08-23
+            summary: >
+              Matchweek 2 fixture at Turf Moor (Burnley). Scheduled date: August 23, 2025. Kickoff:
+              Sat 23 Aug 2025, 15:00 BST.
+          6:
+            title: Manchester City vs Tottenham Hotspur
+            originally_available: 2025-08-23
+            summary: >
+              Matchweek 2 fixture at Etihad Stadium (Manchester). Scheduled date: August 23, 2025.
+              Kickoff: Sat 23 Aug 2025, 12:30 BST.
+          7:
+            title: Crystal Palace vs Nottingham Forest
+            originally_available: 2025-08-24
+            summary: >
+              Matchweek 2 fixture at Selhurst Park (London). Scheduled date: August 24, 2025.
+              Kickoff: Sun 24 Aug 2025, 14:00 BST.
+          8:
+            title: Everton vs Brighton & Hove Albion
+            originally_available: 2025-08-24
+            summary: >
+              Matchweek 2 fixture at Hill Dickinson Stadium (Liverpool). Scheduled date: August 24,
+              2025. Kickoff: Sun 24 Aug 2025, 14:00 BST.
+          9:
+            title: Fulham vs Manchester United
+            originally_available: 2025-08-24
+            summary: >
+              Matchweek 2 fixture at Craven Cottage (London). Scheduled date: August 24, 2025.
+              Kickoff: Sun 24 Aug 2025, 16:30 BST.
+          10:
+            title: Newcastle United vs Liverpool
+            originally_available: 2025-08-25
+            summary: >
+              Matchweek 2 fixture at St. James' Park (Newcastle). Scheduled date: August 25, 2025.
+              Kickoff: Mon 25 Aug 2025, 20:00 BST.
+      3:
+        title: Matchweek 3
+        sort_title: 03_Matchweek 3
+        summary: >
+          Matchweek 3 covers August 30-31, 2025 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Chelsea vs Fulham
+            originally_available: 2025-08-30
+            summary: >
+              Matchweek 3 fixture at Stamford Bridge (London). Scheduled date: August 30, 2025.
+              Kickoff: Sat 30 Aug 2025, 12:30 BST.
+          2:
+            title: Leeds United vs Newcastle United
+            originally_available: 2025-08-30
+            summary: >
+              Matchweek 3 fixture at Elland Road (Leeds). Scheduled date: August 30, 2025. Kickoff:
+              Sat 30 Aug 2025, 17:30 BST.
+          3:
+            title: Manchester United vs Burnley
+            originally_available: 2025-08-30
+            summary: >
+              Matchweek 3 fixture at Old Trafford (Manchester). Scheduled date: August 30, 2025.
+              Kickoff: Sat 30 Aug 2025, 15:00 BST.
+          4:
+            title: Sunderland vs Brentford
+            originally_available: 2025-08-30
+            summary: >
+              Matchweek 3 fixture at Stadium of Light (Sunderland). Scheduled date: August 30, 2025.
+              Kickoff: Sat 30 Aug 2025, 15:00 BST.
+          5:
+            title: Tottenham Hotspur vs Bournemouth
+            originally_available: 2025-08-30
+            summary: >
+              Matchweek 3 fixture at Tottenham Hotspur Stadium (London). Scheduled date: August 30,
+              2025. Kickoff: Sat 30 Aug 2025, 15:00 BST.
+          6:
+            title: Wolverhampton Wanderers vs Everton
+            originally_available: 2025-08-30
+            summary: >
+              Matchweek 3 fixture at Molineux Stadium (Wolverhampton). Scheduled date: August 30,
+              2025. Kickoff: Sat 30 Aug 2025, 15:00 BST.
+          7:
+            title: Aston Villa vs Crystal Palace
+            originally_available: 2025-08-31
+            summary: >
+              Matchweek 3 fixture at Villa Park (Birmingham). Scheduled date: August 31, 2025.
+              Kickoff: Sun 31 Aug 2025, 19:00 BST.
+          8:
+            title: Brighton & Hove Albion vs Manchester City
+            originally_available: 2025-08-31
+            summary: >
+              Matchweek 3 fixture at American Express Stadium (Falmer). Scheduled date: August 31,
+              2025. Kickoff: Sun 31 Aug 2025, 14:00 BST.
+          9:
+            title: Liverpool vs Arsenal
+            originally_available: 2025-08-31
+            summary: >
+              Matchweek 3 fixture at Anfield (Liverpool). Scheduled date: August 31, 2025. Kickoff:
+              Sun 31 Aug 2025, 16:30 BST.
+          10:
+            title: Nottingham Forest vs West Ham United
+            originally_available: 2025-08-31
+            summary: >
+              Matchweek 3 fixture at The City Ground (Nottingham). Scheduled date: August 31, 2025.
+              Kickoff: Sun 31 Aug 2025, 14:00 BST.
+      4:
+        title: Matchweek 4
+        sort_title: 04_Matchweek 4
+        summary: >
+          Matchweek 4 covers September 13-14, 2025 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Arsenal vs Nottingham Forest
+            originally_available: 2025-09-13
+            summary: >
+              Matchweek 4 fixture at Emirates Stadium (London). Scheduled date: September 13, 2025.
+              Kickoff: Sat 13 Sep 2025, 12:30 BST.
+          2:
+            title: Bournemouth vs Brighton & Hove Albion
+            originally_available: 2025-09-13
+            summary: >
+              Matchweek 4 fixture at Vitality Stadium (Bournemouth). Scheduled date: September 13,
+              2025. Kickoff: Sat 13 Sep 2025, 15:00 BST.
+          3:
+            title: Brentford vs Chelsea
+            originally_available: 2025-09-13
+            summary: >
+              Matchweek 4 fixture at Gtech Community Stadium (Brentford). Scheduled date: September
+              13, 2025. Kickoff: Sat 13 Sep 2025, 20:00 BST.
+          4:
+            title: Crystal Palace vs Sunderland
+            originally_available: 2025-09-13
+            summary: >
+              Matchweek 4 fixture at Selhurst Park (London). Scheduled date: September 13, 2025.
+              Kickoff: Sat 13 Sep 2025, 15:00 BST.
+          5:
+            title: Everton vs Aston Villa
+            originally_available: 2025-09-13
+            summary: >
+              Matchweek 4 fixture at Hill Dickinson Stadium (Liverpool). Scheduled date: September
+              13, 2025. Kickoff: Sat 13 Sep 2025, 15:00 BST.
+          6:
+            title: Fulham vs Leeds United
+            originally_available: 2025-09-13
+            summary: >
+              Matchweek 4 fixture at Craven Cottage (London). Scheduled date: September 13, 2025.
+              Kickoff: Sat 13 Sep 2025, 15:00 BST.
+          7:
+            title: Newcastle United vs Wolverhampton Wanderers
+            originally_available: 2025-09-13
+            summary: >
+              Matchweek 4 fixture at St. James' Park (Newcastle). Scheduled date: September 13,
+              2025. Kickoff: Sat 13 Sep 2025, 15:00 BST.
+          8:
+            title: West Ham United vs Tottenham Hotspur
+            originally_available: 2025-09-13
+            summary: >
+              Matchweek 4 fixture at London Stadium (London). Scheduled date: September 13, 2025.
+              Kickoff: Sat 13 Sep 2025, 17:30 BST.
+          9:
+            title: Burnley vs Liverpool
+            originally_available: 2025-09-14
+            summary: >
+              Matchweek 4 fixture at Turf Moor (Burnley). Scheduled date: September 14, 2025.
+              Kickoff: Sun 14 Sep 2025, 14:00 BST.
+          10:
+            title: Manchester City vs Manchester United
+            originally_available: 2025-09-14
+            summary: >
+              Matchweek 4 fixture at Etihad Stadium (Manchester). Scheduled date: September 14,
+              2025. Kickoff: Sun 14 Sep 2025, 16:30 BST.
+      5:
+        title: Matchweek 5
+        sort_title: 05_Matchweek 5
+        summary: >
+          Matchweek 5 covers September 20-21, 2025 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Brighton & Hove Albion vs Tottenham Hotspur
+            originally_available: 2025-09-20
+            summary: >
+              Matchweek 5 fixture at American Express Stadium (Falmer). Scheduled date: September
+              20, 2025. Kickoff: Sat 20 Sep 2025, 15:00 BST.
+          2:
+            title: Burnley vs Nottingham Forest
+            originally_available: 2025-09-20
+            summary: >
+              Matchweek 5 fixture at Turf Moor (Burnley). Scheduled date: September 20, 2025.
+              Kickoff: Sat 20 Sep 2025, 15:00 BST.
+          3:
+            title: Fulham vs Brentford
+            originally_available: 2025-09-20
+            summary: >
+              Matchweek 5 fixture at Craven Cottage (London). Scheduled date: September 20, 2025.
+              Kickoff: Sat 20 Sep 2025, 20:00 BST.
+          4:
+            title: Liverpool vs Everton
+            originally_available: 2025-09-20
+            summary: >
+              Matchweek 5 fixture at Anfield (Liverpool). Scheduled date: September 20, 2025.
+              Kickoff: Sat 20 Sep 2025, 12:30 BST.
+          5:
+            title: Manchester United vs Chelsea
+            originally_available: 2025-09-20
+            summary: >
+              Matchweek 5 fixture at Old Trafford (Manchester). Scheduled date: September 20, 2025.
+              Kickoff: Sat 20 Sep 2025, 17:30 BST.
+          6:
+            title: West Ham United vs Crystal Palace
+            originally_available: 2025-09-20
+            summary: >
+              Matchweek 5 fixture at London Stadium (London). Scheduled date: September 20, 2025.
+              Kickoff: Sat 20 Sep 2025, 15:00 BST.
+          7:
+            title: Wolverhampton Wanderers vs Leeds United
+            originally_available: 2025-09-20
+            summary: >
+              Matchweek 5 fixture at Molineux Stadium (Wolverhampton). Scheduled date: September 20,
+              2025. Kickoff: Sat 20 Sep 2025, 15:00 BST.
+          8:
+            title: Arsenal vs Manchester City
+            originally_available: 2025-09-21
+            summary: >
+              Matchweek 5 fixture at Emirates Stadium (London). Scheduled date: September 21, 2025.
+              Kickoff: Sun 21 Sep 2025, 16:30 BST.
+          9:
+            title: Bournemouth vs Newcastle United
+            originally_available: 2025-09-21
+            summary: >
+              Matchweek 5 fixture at Vitality Stadium (Bournemouth). Scheduled date: September 21,
+              2025. Kickoff: Sun 21 Sep 2025, 14:00 BST.
+          10:
+            title: Sunderland vs Aston Villa
+            originally_available: 2025-09-21
+            summary: >
+              Matchweek 5 fixture at Stadium of Light (Sunderland). Scheduled date: September 21,
+              2025. Kickoff: Sun 21 Sep 2025, 14:00 BST.
+      6:
+        title: Matchweek 6
+        sort_title: 06_Matchweek 6
+        summary: >
+          Matchweek 6 covers September 27-29, 2025 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Brentford vs Manchester United
+            originally_available: 2025-09-27
+            summary: >
+              Matchweek 6 fixture at Gtech Community Stadium (Brentford). Scheduled date: September
+              27, 2025. Kickoff: Sat 27 Sep 2025, 12:30 BST.
+          2:
+            title: Chelsea vs Brighton & Hove Albion
+            originally_available: 2025-09-27
+            summary: >
+              Matchweek 6 fixture at Stamford Bridge (London). Scheduled date: September 27, 2025.
+              Kickoff: Sat 27 Sep 2025, 15:00 BST.
+          3:
+            title: Crystal Palace vs Liverpool
+            originally_available: 2025-09-27
+            summary: >
+              Matchweek 6 fixture at Selhurst Park (London). Scheduled date: September 27, 2025.
+              Kickoff: Sat 27 Sep 2025, 15:00 BST.
+          4:
+            title: Leeds United vs Bournemouth
+            originally_available: 2025-09-27
+            summary: >
+              Matchweek 6 fixture at Elland Road (Leeds). Scheduled date: September 27, 2025.
+              Kickoff: Sat 27 Sep 2025, 15:00 BST.
+          5:
+            title: Manchester City vs Burnley
+            originally_available: 2025-09-27
+            summary: >
+              Matchweek 6 fixture at Etihad Stadium (Manchester). Scheduled date: September 27,
+              2025. Kickoff: Sat 27 Sep 2025, 15:00 BST.
+          6:
+            title: Nottingham Forest vs Sunderland
+            originally_available: 2025-09-27
+            summary: >
+              Matchweek 6 fixture at The City Ground (Nottingham). Scheduled date: September 27,
+              2025. Kickoff: Sat 27 Sep 2025, 17:30 BST.
+          7:
+            title: Tottenham Hotspur vs Wolverhampton Wanderers
+            originally_available: 2025-09-27
+            summary: >
+              Matchweek 6 fixture at Tottenham Hotspur Stadium (London). Scheduled date: September
+              27, 2025. Kickoff: Sat 27 Sep 2025, 20:00 BST.
+          8:
+            title: Aston Villa vs Fulham
+            originally_available: 2025-09-28
+            summary: >
+              Matchweek 6 fixture at Villa Park (Birmingham). Scheduled date: September 28, 2025.
+              Kickoff: Sun 28 Sep 2025, 14:00 BST.
+          9:
+            title: Newcastle United vs Arsenal
+            originally_available: 2025-09-28
+            summary: >
+              Matchweek 6 fixture at St. James' Park (Newcastle). Scheduled date: September 28,
+              2025. Kickoff: Sun 28 Sep 2025, 16:30 BST.
+          10:
+            title: Everton vs West Ham United
+            originally_available: 2025-09-29
+            summary: >
+              Matchweek 6 fixture at Hill Dickinson Stadium (Liverpool). Scheduled date: September
+              29, 2025. Kickoff: Mon 29 Sep 2025, 20:00 BST.
+      7:
+        title: Matchweek 7
+        sort_title: 07_Matchweek 7
+        summary: >
+          Matchweek 7 covers October 3-5, 2025 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Bournemouth vs Fulham
+            originally_available: 2025-10-03
+            summary: >
+              Matchweek 7 fixture at Vitality Stadium (Bournemouth). Scheduled date: October 3,
+              2025. Kickoff: Fri 3 Oct 2025, 20:00 BST.
+          2:
+            title: Arsenal vs West Ham United
+            originally_available: 2025-10-04
+            summary: >
+              Matchweek 7 fixture at Emirates Stadium (London). Scheduled date: October 4, 2025.
+              Kickoff: Sat 4 Oct 2025, 15:00 BST.
+          3:
+            title: Chelsea vs Liverpool
+            originally_available: 2025-10-04
+            summary: >
+              Matchweek 7 fixture at Stamford Bridge (London). Scheduled date: October 4, 2025.
+              Kickoff: Sat 4 Oct 2025, 17:30 BST.
+          4:
+            title: Leeds United vs Tottenham Hotspur
+            originally_available: 2025-10-04
+            summary: >
+              Matchweek 7 fixture at Elland Road (Leeds). Scheduled date: October 4, 2025. Kickoff:
+              Sat 4 Oct 2025, 12:30 BST.
+          5:
+            title: Manchester United vs Sunderland
+            originally_available: 2025-10-04
+            summary: >
+              Matchweek 7 fixture at Old Trafford (Manchester). Scheduled date: October 4, 2025.
+              Kickoff: Sat 4 Oct 2025, 15:00 BST.
+          6:
+            title: Aston Villa vs Burnley
+            originally_available: 2025-10-05
+            summary: >
+              Matchweek 7 fixture at Villa Park (Birmingham). Scheduled date: October 5, 2025.
+              Kickoff: Sun 5 Oct 2025, 14:00 BST.
+          7:
+            title: Brentford vs Manchester City
+            originally_available: 2025-10-05
+            summary: >
+              Matchweek 7 fixture at Gtech Community Stadium (Brentford). Scheduled date: October 5,
+              2025. Kickoff: Sun 5 Oct 2025, 16:30 BST.
+          8:
+            title: Everton vs Crystal Palace
+            originally_available: 2025-10-05
+            summary: >
+              Matchweek 7 fixture at Hill Dickinson Stadium (Liverpool). Scheduled date: October 5,
+              2025. Kickoff: Sun 5 Oct 2025, 14:00 BST.
+          9:
+            title: Newcastle United vs Nottingham Forest
+            originally_available: 2025-10-05
+            summary: >
+              Matchweek 7 fixture at St. James' Park (Newcastle). Scheduled date: October 5, 2025.
+              Kickoff: Sun 5 Oct 2025, 14:00 BST.
+          10:
+            title: Wolverhampton Wanderers vs Brighton & Hove Albion
+            originally_available: 2025-10-05
+            summary: >
+              Matchweek 7 fixture at Molineux Stadium (Wolverhampton). Scheduled date: October 5,
+              2025. Kickoff: Sun 5 Oct 2025, 14:00 BST.
+      8:
+        title: Matchweek 8
+        sort_title: 08_Matchweek 8
+        summary: >
+          Matchweek 8 covers October 18-20, 2025 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Brighton & Hove Albion vs Newcastle United
+            originally_available: 2025-10-18
+            summary: >
+              Matchweek 8 fixture at American Express Stadium (Falmer). Scheduled date: October 18,
+              2025. Kickoff: Sat 18 Oct 2025, 15:00 BST.
+          2:
+            title: Burnley vs Leeds United
+            originally_available: 2025-10-18
+            summary: >
+              Matchweek 8 fixture at Turf Moor (Burnley). Scheduled date: October 18, 2025. Kickoff:
+              Sat 18 Oct 2025, 15:00 BST.
+          3:
+            title: Crystal Palace vs Bournemouth
+            originally_available: 2025-10-18
+            summary: >
+              Matchweek 8 fixture at Selhurst Park (London). Scheduled date: October 18, 2025.
+              Kickoff: Sat 18 Oct 2025, 15:00 BST.
+          4:
+            title: Fulham vs Arsenal
+            originally_available: 2025-10-18
+            summary: >
+              Matchweek 8 fixture at Craven Cottage (London). Scheduled date: October 18, 2025.
+              Kickoff: Sat 18 Oct 2025, 17:30 BST.
+          5:
+            title: Manchester City vs Everton
+            originally_available: 2025-10-18
+            summary: >
+              Matchweek 8 fixture at Etihad Stadium (Manchester). Scheduled date: October 18, 2025.
+              Kickoff: Sat 18 Oct 2025, 15:00 BST.
+          6:
+            title: Nottingham Forest vs Chelsea
+            originally_available: 2025-10-18
+            summary: >
+              Matchweek 8 fixture at The City Ground (Nottingham). Scheduled date: October 18, 2025.
+              Kickoff: Sat 18 Oct 2025, 12:30 BST.
+          7:
+            title: Sunderland vs Wolverhampton Wanderers
+            originally_available: 2025-10-18
+            summary: >
+              Matchweek 8 fixture at Stadium of Light (Sunderland). Scheduled date: October 18,
+              2025. Kickoff: Sat 18 Oct 2025, 15:00 BST.
+          8:
+            title: Liverpool vs Manchester United
+            originally_available: 2025-10-19
+            summary: >
+              Matchweek 8 fixture at Anfield (Liverpool). Scheduled date: October 19, 2025. Kickoff:
+              Sun 19 Oct 2025, 16:30 BST.
+          9:
+            title: Tottenham Hotspur vs Aston Villa
+            originally_available: 2025-10-19
+            summary: >
+              Matchweek 8 fixture at Tottenham Hotspur Stadium (London). Scheduled date: October 19,
+              2025. Kickoff: Sun 19 Oct 2025, 14:00 BST.
+          10:
+            title: West Ham United vs Brentford
+            originally_available: 2025-10-20
+            summary: >
+              Matchweek 8 fixture at London Stadium (London). Scheduled date: October 20, 2025.
+              Kickoff: Mon 20 Oct 2025, 20:00 BST.
+      9:
+        title: Matchweek 9
+        sort_title: 09_Matchweek 9
+        summary: >
+          Matchweek 9 covers October 24-26, 2025 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Leeds United vs West Ham United
+            originally_available: 2025-10-24
+            summary: >
+              Matchweek 9 fixture at Elland Road (Leeds). Scheduled date: October 24, 2025. Kickoff:
+              Fri 24 Oct 2025, 20:00 BST.
+          2:
+            title: Brentford vs Liverpool
+            originally_available: 2025-10-25
+            summary: >
+              Matchweek 9 fixture at Gtech Community Stadium (Brentford). Scheduled date: October
+              25, 2025. Kickoff: Sat 25 Oct 2025, 20:00 BST.
+          3:
+            title: Chelsea vs Sunderland
+            originally_available: 2025-10-25
+            summary: >
+              Matchweek 9 fixture at Stamford Bridge (London). Scheduled date: October 25, 2025.
+              Kickoff: Sat 25 Oct 2025, 15:00 BST.
+          4:
+            title: Manchester United vs Brighton & Hove Albion
+            originally_available: 2025-10-25
+            summary: >
+              Matchweek 9 fixture at Old Trafford (Manchester). Scheduled date: October 25, 2025.
+              Kickoff: Sat 25 Oct 2025, 17:30 BST.
+          5:
+            title: Newcastle United vs Fulham
+            originally_available: 2025-10-25
+            summary: >
+              Matchweek 9 fixture at St. James' Park (Newcastle). Scheduled date: October 25, 2025.
+              Kickoff: Sat 25 Oct 2025, 15:00 BST.
+          6:
+            title: Arsenal vs Crystal Palace
+            originally_available: 2025-10-26
+            summary: >
+              Matchweek 9 fixture at Emirates Stadium (London). Scheduled date: October 26, 2025.
+              Kickoff: Sun 26 Oct 2025, 14:00 GMT.
+          7:
+            title: Aston Villa vs Manchester City
+            originally_available: 2025-10-26
+            summary: >
+              Matchweek 9 fixture at Villa Park (Birmingham). Scheduled date: October 26, 2025.
+              Kickoff: Sun 26 Oct 2025, 14:00 GMT.
+          8:
+            title: Bournemouth vs Nottingham Forest
+            originally_available: 2025-10-26
+            summary: >
+              Matchweek 9 fixture at Vitality Stadium (Bournemouth). Scheduled date: October 26,
+              2025. Kickoff: Sun 26 Oct 2025, 14:00 GMT.
+          9:
+            title: Everton vs Tottenham Hotspur
+            originally_available: 2025-10-26
+            summary: >
+              Matchweek 9 fixture at Hill Dickinson Stadium (Liverpool). Scheduled date: October 26,
+              2025. Kickoff: Sun 26 Oct 2025, 16:30 GMT.
+          10:
+            title: Wolverhampton Wanderers vs Burnley
+            originally_available: 2025-10-26
+            summary: >
+              Matchweek 9 fixture at Molineux Stadium (Wolverhampton). Scheduled date: October 26,
+              2025. Kickoff: Sun 26 Oct 2025, 14:00 GMT.
+      10:
+        title: Matchweek 10
+        sort_title: 10_Matchweek 10
+        summary: >
+          Matchweek 10 covers November 1-3, 2025 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Brighton & Hove Albion vs Leeds United
+            originally_available: 2025-11-01
+            summary: >
+              Matchweek 10 fixture at American Express Stadium (Falmer). Scheduled date: November 1,
+              2025. Kickoff: Sat 1 Nov 2025, 15:00 GMT.
+          2:
+            title: Burnley vs Arsenal
+            originally_available: 2025-11-01
+            summary: >
+              Matchweek 10 fixture at Turf Moor (Burnley). Scheduled date: November 1, 2025.
+              Kickoff: Sat 1 Nov 2025, 15:00 GMT.
+          3:
+            title: Crystal Palace vs Brentford
+            originally_available: 2025-11-01
+            summary: >
+              Matchweek 10 fixture at Selhurst Park (London). Scheduled date: November 1, 2025.
+              Kickoff: Sat 1 Nov 2025, 15:00 GMT.
+          4:
+            title: Fulham vs Wolverhampton Wanderers
+            originally_available: 2025-11-01
+            summary: >
+              Matchweek 10 fixture at Craven Cottage (London). Scheduled date: November 1, 2025.
+              Kickoff: Sat 1 Nov 2025, 15:00 GMT.
+          5:
+            title: Liverpool vs Aston Villa
+            originally_available: 2025-11-01
+            summary: >
+              Matchweek 10 fixture at Anfield (Liverpool). Scheduled date: November 1, 2025.
+              Kickoff: Sat 1 Nov 2025, 20:00 GMT.
+          6:
+            title: Nottingham Forest vs Manchester United
+            originally_available: 2025-11-01
+            summary: >
+              Matchweek 10 fixture at The City Ground (Nottingham). Scheduled date: November 1,
+              2025. Kickoff: Sat 1 Nov 2025, 15:00 GMT.
+          7:
+            title: Tottenham Hotspur vs Chelsea
+            originally_available: 2025-11-01
+            summary: >
+              Matchweek 10 fixture at Tottenham Hotspur Stadium (London). Scheduled date: November
+              1, 2025. Kickoff: Sat 1 Nov 2025, 17:30 GMT.
+          8:
+            title: Manchester City vs Bournemouth
+            originally_available: 2025-11-02
+            summary: >
+              Matchweek 10 fixture at Etihad Stadium (Manchester). Scheduled date: November 2, 2025.
+              Kickoff: Sun 2 Nov 2025, 16:30 GMT.
+          9:
+            title: West Ham United vs Newcastle United
+            originally_available: 2025-11-02
+            summary: >
+              Matchweek 10 fixture at London Stadium (London). Scheduled date: November 2, 2025.
+              Kickoff: Sun 2 Nov 2025, 14:00 GMT.
+          10:
+            title: Sunderland vs Everton
+            originally_available: 2025-11-03
+            summary: >
+              Matchweek 10 fixture at Stadium of Light (Sunderland). Scheduled date: November 3,
+              2025. Kickoff: Mon 3 Nov 2025, 20:00 GMT.
+      11:
+        title: Matchweek 11
+        sort_title: 11_Matchweek 11
+        summary: >
+          Matchweek 11 covers November 8-9, 2025 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Chelsea vs Wolverhampton Wanderers
+            originally_available: 2025-11-08
+            summary: >
+              Matchweek 11 fixture at Stamford Bridge (London). Scheduled date: November 8, 2025.
+              Kickoff: Sat 8 Nov 2025, 20:00 GMT.
+          2:
+            title: Everton vs Fulham
+            originally_available: 2025-11-08
+            summary: >
+              Matchweek 11 fixture at Hill Dickinson Stadium (Liverpool). Scheduled date: November
+              8, 2025. Kickoff: Sat 8 Nov 2025, 15:00 GMT.
+          3:
+            title: Sunderland vs Arsenal
+            originally_available: 2025-11-08
+            summary: >
+              Matchweek 11 fixture at Stadium of Light (Sunderland). Scheduled date: November 8,
+              2025. Kickoff: Sat 8 Nov 2025, 17:30 GMT.
+          4:
+            title: Tottenham Hotspur vs Manchester United
+            originally_available: 2025-11-08
+            summary: >
+              Matchweek 11 fixture at Tottenham Hotspur Stadium (London). Scheduled date: November
+              8, 2025. Kickoff: Sat 8 Nov 2025, 12:30 GMT.
+          5:
+            title: West Ham United vs Burnley
+            originally_available: 2025-11-08
+            summary: >
+              Matchweek 11 fixture at London Stadium (London). Scheduled date: November 8, 2025.
+              Kickoff: Sat 8 Nov 2025, 15:00 GMT.
+          6:
+            title: Aston Villa vs Bournemouth
+            originally_available: 2025-11-09
+            summary: >
+              Matchweek 11 fixture at Villa Park (Birmingham). Scheduled date: November 9, 2025.
+              Kickoff: Sun 9 Nov 2025, 14:00 GMT.
+          7:
+            title: Brentford vs Newcastle United
+            originally_available: 2025-11-09
+            summary: >
+              Matchweek 11 fixture at Gtech Community Stadium (Brentford). Scheduled date: November
+              9, 2025. Kickoff: Sun 9 Nov 2025, 14:00 GMT.
+          8:
+            title: Crystal Palace vs Brighton & Hove Albion
+            originally_available: 2025-11-09
+            summary: >
+              Matchweek 11 fixture at Selhurst Park (London). Scheduled date: November 9, 2025.
+              Kickoff: Sun 9 Nov 2025, 14:00 GMT.
+          9:
+            title: Manchester City vs Liverpool
+            originally_available: 2025-11-09
+            summary: >
+              Matchweek 11 fixture at Etihad Stadium (Manchester). Scheduled date: November 9, 2025.
+              Kickoff: Sun 9 Nov 2025, 16:30 GMT.
+          10:
+            title: Nottingham Forest vs Leeds United
+            originally_available: 2025-11-09
+            summary: >
+              Matchweek 11 fixture at The City Ground (Nottingham). Scheduled date: November 9,
+              2025. Kickoff: Sun 9 Nov 2025, 14:00 GMT.
+      12:
+        title: Matchweek 12
+        sort_title: 12_Matchweek 12
+        summary: >
+          Matchweek 12 covers November 22-24, 2025 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Bournemouth vs West Ham United
+            originally_available: 2025-11-22
+            summary: >
+              Matchweek 12 fixture at Vitality Stadium (Bournemouth). Scheduled date: November 22,
+              2025. Kickoff: Sat 22 Nov 2025, 15:00 GMT.
+          2:
+            title: Brighton & Hove Albion vs Brentford
+            originally_available: 2025-11-22
+            summary: >
+              Matchweek 12 fixture at American Express Stadium (Falmer). Scheduled date: November
+              22, 2025. Kickoff: Sat 22 Nov 2025, 15:00 GMT.
+          3:
+            title: Burnley vs Chelsea
+            originally_available: 2025-11-22
+            summary: >
+              Matchweek 12 fixture at Turf Moor (Burnley). Scheduled date: November 22, 2025.
+              Kickoff: Sat 22 Nov 2025, 12:30 GMT.
+          4:
+            title: Fulham vs Sunderland
+            originally_available: 2025-11-22
+            summary: >
+              Matchweek 12 fixture at Craven Cottage (London). Scheduled date: November 22, 2025.
+              Kickoff: Sat 22 Nov 2025, 15:00 GMT.
+          5:
+            title: Liverpool vs Nottingham Forest
+            originally_available: 2025-11-22
+            summary: >
+              Matchweek 12 fixture at Anfield (Liverpool). Scheduled date: November 22, 2025.
+              Kickoff: Sat 22 Nov 2025, 15:00 GMT.
+          6:
+            title: Newcastle United vs Manchester City
+            originally_available: 2025-11-22
+            summary: >
+              Matchweek 12 fixture at St. James' Park (Newcastle). Scheduled date: November 22,
+              2025. Kickoff: Sat 22 Nov 2025, 17:30 GMT.
+          7:
+            title: Wolverhampton Wanderers vs Crystal Palace
+            originally_available: 2025-11-22
+            summary: >
+              Matchweek 12 fixture at Molineux Stadium (Wolverhampton). Scheduled date: November 22,
+              2025. Kickoff: Sat 22 Nov 2025, 15:00 GMT.
+          8:
+            title: Arsenal vs Tottenham Hotspur
+            originally_available: 2025-11-23
+            summary: >
+              Matchweek 12 fixture at Emirates Stadium (London). Scheduled date: November 23, 2025.
+              Kickoff: Sun 23 Nov 2025, 16:30 GMT.
+          9:
+            title: Leeds United vs Aston Villa
+            originally_available: 2025-11-23
+            summary: >
+              Matchweek 12 fixture at Elland Road (Leeds). Scheduled date: November 23, 2025.
+              Kickoff: Sun 23 Nov 2025, 14:00 GMT.
+          10:
+            title: Manchester United vs Everton
+            originally_available: 2025-11-24
+            summary: >
+              Matchweek 12 fixture at Old Trafford (Manchester). Scheduled date: November 24, 2025.
+              Kickoff: Mon 24 Nov 2025, 20:00 GMT.
+      13:
+        title: Matchweek 13
+        sort_title: 13_Matchweek 13
+        summary: >
+          Matchweek 13 covers November 29-30, 2025 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Brentford vs Burnley
+            originally_available: 2025-11-29
+            summary: >
+              Matchweek 13 fixture at Gtech Community Stadium (Brentford). Scheduled date: November
+              29, 2025. Kickoff: Sat 29 Nov 2025, 15:00 GMT.
+          2:
+            title: Everton vs Newcastle United
+            originally_available: 2025-11-29
+            summary: >
+              Matchweek 13 fixture at Hill Dickinson Stadium (Liverpool). Scheduled date: November
+              29, 2025. Kickoff: Sat 29 Nov 2025, 17:30 GMT.
+          3:
+            title: Manchester City vs Leeds United
+            originally_available: 2025-11-29
+            summary: >
+              Matchweek 13 fixture at Etihad Stadium (Manchester). Scheduled date: November 29,
+              2025. Kickoff: Sat 29 Nov 2025, 15:00 GMT.
+          4:
+            title: Sunderland vs Bournemouth
+            originally_available: 2025-11-29
+            summary: >
+              Matchweek 13 fixture at Stadium of Light (Sunderland). Scheduled date: November 29,
+              2025. Kickoff: Sat 29 Nov 2025, 15:00 GMT.
+          5:
+            title: Tottenham Hotspur vs Fulham
+            originally_available: 2025-11-29
+            summary: >
+              Matchweek 13 fixture at Tottenham Hotspur Stadium (London). Scheduled date: November
+              29, 2025. Kickoff: Sat 29 Nov 2025, 20:00 GMT.
+          6:
+            title: Aston Villa vs Wolverhampton Wanderers
+            originally_available: 2025-11-30
+            summary: >
+              Matchweek 13 fixture at Villa Park (Birmingham). Scheduled date: November 30, 2025.
+              Kickoff: Sun 30 Nov 2025, 14:05 GMT.
+          7:
+            title: Chelsea vs Arsenal
+            originally_available: 2025-11-30
+            summary: >
+              Matchweek 13 fixture at Stamford Bridge (London). Scheduled date: November 30, 2025.
+              Kickoff: Sun 30 Nov 2025, 16:30 GMT.
+          8:
+            title: Crystal Palace vs Manchester United
+            originally_available: 2025-11-30
+            summary: >
+              Matchweek 13 fixture at Selhurst Park (London). Scheduled date: November 30, 2025.
+              Kickoff: Sun 30 Nov 2025, 12:00 GMT.
+          9:
+            title: Nottingham Forest vs Brighton & Hove Albion
+            originally_available: 2025-11-30
+            summary: >
+              Matchweek 13 fixture at The City Ground (Nottingham). Scheduled date: November 30,
+              2025. Kickoff: Sun 30 Nov 2025, 14:05 GMT.
+          10:
+            title: West Ham United vs Liverpool
+            originally_available: 2025-11-30
+            summary: >
+              Matchweek 13 fixture at London Stadium (London). Scheduled date: November 30, 2025.
+              Kickoff: Sun 30 Nov 2025, 14:05 GMT.
+      14:
+        title: Matchweek 14
+        sort_title: 14_Matchweek 14
+        summary: >
+          Matchweek 14 covers December 2-4, 2025 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Bournemouth vs Everton
+            originally_available: 2025-12-02
+            summary: >
+              Matchweek 14 fixture at Vitality Stadium (Bournemouth). Scheduled date: December 2,
+              2025. Kickoff: Tue 2 Dec 2025, 19:30 GMT.
+          2:
+            title: Fulham vs Manchester City
+            originally_available: 2025-12-02
+            summary: >
+              Matchweek 14 fixture at Craven Cottage (London). Scheduled date: December 2, 2025.
+              Kickoff: Tue 2 Dec 2025, 19:30 GMT.
+          3:
+            title: Newcastle United vs Tottenham Hotspur
+            originally_available: 2025-12-02
+            summary: >
+              Matchweek 14 fixture at St. James' Park (Newcastle). Scheduled date: December 2, 2025.
+              Kickoff: Tue 2 Dec 2025, 20:15 GMT.
+          4:
+            title: Arsenal vs Brentford
+            originally_available: 2025-12-03
+            summary: >
+              Matchweek 14 fixture at Emirates Stadium (London). Scheduled date: December 3, 2025.
+              Kickoff: Wed 3 Dec 2025, 19:30 GMT.
+          5:
+            title: Brighton & Hove Albion vs Aston Villa
+            originally_available: 2025-12-03
+            summary: >
+              Matchweek 14 fixture at American Express Stadium (Falmer). Scheduled date: December 3,
+              2025. Kickoff: Wed 3 Dec 2025, 19:30 GMT.
+          6:
+            title: Burnley vs Crystal Palace
+            originally_available: 2025-12-03
+            summary: >
+              Matchweek 14 fixture at Turf Moor (Burnley). Scheduled date: December 3, 2025.
+              Kickoff: Wed 3 Dec 2025, 19:30 GMT.
+          7:
+            title: Leeds United vs Chelsea
+            originally_available: 2025-12-03
+            summary: >
+              Matchweek 14 fixture at Elland Road (Leeds). Scheduled date: December 3, 2025.
+              Kickoff: Wed 3 Dec 2025, 20:15 GMT.
+          8:
+            title: Liverpool vs Sunderland
+            originally_available: 2025-12-03
+            summary: >
+              Matchweek 14 fixture at Anfield (Liverpool). Scheduled date: December 3, 2025.
+              Kickoff: Wed 3 Dec 2025, 20:15 GMT.
+          9:
+            title: Wolverhampton Wanderers vs Nottingham Forest
+            originally_available: 2025-12-03
+            summary: >
+              Matchweek 14 fixture at Molineux Stadium (Wolverhampton). Scheduled date: December 3,
+              2025. Kickoff: Wed 3 Dec 2025, 19:30 GMT.
+          10:
+            title: Manchester United vs West Ham United
+            originally_available: 2025-12-04
+            summary: >
+              Matchweek 14 fixture at Old Trafford (Manchester). Scheduled date: December 4, 2025.
+              Kickoff: Thu 4 Dec 2025, 20:00 GMT.
+      15:
+        title: Matchweek 15
+        sort_title: 15_Matchweek 15
+        summary: >
+          Matchweek 15 covers December 6-8, 2025 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Aston Villa vs Arsenal
+            originally_available: 2025-12-06
+            summary: >
+              Matchweek 15 fixture at Villa Park (Birmingham). Scheduled date: December 6, 2025.
+              Kickoff: Sat 6 Dec 2025, 12:30 GMT.
+          2:
+            title: Bournemouth vs Chelsea
+            originally_available: 2025-12-06
+            summary: >
+              Matchweek 15 fixture at Vitality Stadium (Bournemouth). Scheduled date: December 6,
+              2025. Kickoff: Sat 6 Dec 2025, 15:00 GMT.
+          3:
+            title: Everton vs Nottingham Forest
+            originally_available: 2025-12-06
+            summary: >
+              Matchweek 15 fixture at Hill Dickinson Stadium (Liverpool). Scheduled date: December
+              6, 2025. Kickoff: Sat 6 Dec 2025, 15:00 GMT.
+          4:
+            title: Leeds United vs Liverpool
+            originally_available: 2025-12-06
+            summary: >
+              Matchweek 15 fixture at Elland Road (Leeds). Scheduled date: December 6, 2025.
+              Kickoff: Sat 6 Dec 2025, 17:30 GMT.
+          5:
+            title: Manchester City vs Sunderland
+            originally_available: 2025-12-06
+            summary: >
+              Matchweek 15 fixture at Etihad Stadium (Manchester). Scheduled date: December 6, 2025.
+              Kickoff: Sat 6 Dec 2025, 15:00 GMT.
+          6:
+            title: Newcastle United vs Burnley
+            originally_available: 2025-12-06
+            summary: >
+              Matchweek 15 fixture at St. James' Park (Newcastle). Scheduled date: December 6, 2025.
+              Kickoff: Sat 6 Dec 2025, 15:00 GMT.
+          7:
+            title: Tottenham Hotspur vs Brentford
+            originally_available: 2025-12-06
+            summary: >
+              Matchweek 15 fixture at Tottenham Hotspur Stadium (London). Scheduled date: December
+              6, 2025. Kickoff: Sat 6 Dec 2025, 15:00 GMT.
+          8:
+            title: Brighton & Hove Albion vs West Ham United
+            originally_available: 2025-12-07
+            summary: >
+              Matchweek 15 fixture at American Express Stadium (Falmer). Scheduled date: December 7,
+              2025. Kickoff: Sun 7 Dec 2025, 14:00 GMT.
+          9:
+            title: Fulham vs Crystal Palace
+            originally_available: 2025-12-07
+            summary: >
+              Matchweek 15 fixture at Craven Cottage (London). Scheduled date: December 7, 2025.
+              Kickoff: Sun 7 Dec 2025, 16:30 GMT.
+          10:
+            title: Wolverhampton Wanderers vs Manchester United
+            originally_available: 2025-12-08
+            summary: >
+              Matchweek 15 fixture at Molineux Stadium (Wolverhampton). Scheduled date: December 8,
+              2025. Kickoff: Mon 8 Dec 2025, 20:00 GMT.
+      16:
+        title: Matchweek 16
+        sort_title: 16_Matchweek 16
+        summary: >
+          Matchweek 16 covers December 13-15, 2025 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Arsenal vs Wolverhampton Wanderers
+            originally_available: 2025-12-13
+            summary: >
+              Matchweek 16 fixture at Emirates Stadium (London). Scheduled date: December 13, 2025.
+              Kickoff: Sat 13 Dec 2025, 20:00 GMT.
+          2:
+            title: Burnley vs Fulham
+            originally_available: 2025-12-13
+            summary: >
+              Matchweek 16 fixture at Turf Moor (Burnley). Scheduled date: December 13, 2025.
+              Kickoff: Sat 13 Dec 2025, 17:30 GMT.
+          3:
+            title: Chelsea vs Everton
+            originally_available: 2025-12-13
+            summary: >
+              Matchweek 16 fixture at Stamford Bridge (London). Scheduled date: December 13, 2025.
+              Kickoff: Sat 13 Dec 2025, 15:00 GMT.
+          4:
+            title: Liverpool vs Brighton & Hove Albion
+            originally_available: 2025-12-13
+            summary: >
+              Matchweek 16 fixture at Anfield (Liverpool). Scheduled date: December 13, 2025.
+              Kickoff: Sat 13 Dec 2025, 15:00 GMT.
+          5:
+            title: Brentford vs Leeds United
+            originally_available: 2025-12-14
+            summary: >
+              Matchweek 16 fixture at Gtech Community Stadium (Brentford). Scheduled date: December
+              14, 2025. Kickoff: Sun 14 Dec 2025, 16:30 GMT.
+          6:
+            title: Crystal Palace vs Manchester City
+            originally_available: 2025-12-14
+            summary: >
+              Matchweek 16 fixture at Selhurst Park (London). Scheduled date: December 14, 2025.
+              Kickoff: Sun 14 Dec 2025, 14:00 GMT.
+          7:
+            title: Nottingham Forest vs Tottenham Hotspur
+            originally_available: 2025-12-14
+            summary: >
+              Matchweek 16 fixture at The City Ground (Nottingham). Scheduled date: December 14,
+              2025. Kickoff: Sun 14 Dec 2025, 14:00 GMT.
+          8:
+            title: Sunderland vs Newcastle United
+            originally_available: 2025-12-14
+            summary: >
+              Matchweek 16 fixture at Stadium of Light (Sunderland). Scheduled date: December 14,
+              2025. Kickoff: Sun 14 Dec 2025, 14:00 GMT.
+          9:
+            title: West Ham United vs Aston Villa
+            originally_available: 2025-12-14
+            summary: >
+              Matchweek 16 fixture at London Stadium (London). Scheduled date: December 14, 2025.
+              Kickoff: Sun 14 Dec 2025, 14:00 GMT.
+          10:
+            title: Manchester United vs Bournemouth
+            originally_available: 2025-12-15
+            summary: >
+              Matchweek 16 fixture at Old Trafford (Manchester). Scheduled date: December 15, 2025.
+              Kickoff: Mon 15 Dec 2025, 20:00 GMT.
+      17:
+        title: Matchweek 17
+        sort_title: 17_Matchweek 17
+        summary: >
+          Matchweek 17 covers December 20-22, 2025 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Bournemouth vs Burnley
+            originally_available: 2025-12-20
+            summary: >
+              Matchweek 17 fixture at Vitality Stadium (Bournemouth). Scheduled date: December 20,
+              2025. Kickoff: Sat 20 Dec 2025, 15:00 GMT.
+          2:
+            title: Brighton & Hove Albion vs Sunderland
+            originally_available: 2025-12-20
+            summary: >
+              Matchweek 17 fixture at American Express Stadium (Falmer). Scheduled date: December
+              20, 2025. Kickoff: Sat 20 Dec 2025, 15:00 GMT.
+          3:
+            title: Manchester City vs West Ham United
+            originally_available: 2025-12-20
+            summary: >
+              Matchweek 17 fixture at Etihad Stadium (Manchester). Scheduled date: December 20,
+              2025. Kickoff: Sat 20 Dec 2025, 15:00 GMT.
+          4:
+            title: Newcastle United vs Chelsea
+            originally_available: 2025-12-20
+            summary: >
+              Matchweek 17 fixture at St. James' Park (Newcastle). Scheduled date: December 20,
+              2025. Kickoff: Sat 20 Dec 2025, 12:30 GMT.
+          5:
+            title: Tottenham Hotspur vs Liverpool
+            originally_available: 2025-12-20
+            summary: >
+              Matchweek 17 fixture at Tottenham Hotspur Stadium (London). Scheduled date: December
+              20, 2025. Kickoff: Sat 20 Dec 2025, 17:30 GMT.
+          6:
+            title: Wolverhampton Wanderers vs Brentford
+            originally_available: 2025-12-20
+            summary: >
+              Matchweek 17 fixture at Molineux Stadium (Wolverhampton). Scheduled date: December 20,
+              2025. Kickoff: Sat 20 Dec 2025, 15:00 GMT.
+          7:
+            title: Aston Villa vs Manchester United
+            originally_available: 2025-12-21
+            summary: >
+              Matchweek 17 fixture at Villa Park (Birmingham). Scheduled date: December 21, 2025.
+              Kickoff: Sun 21 Dec 2025, 16:30 GMT.
+          8:
+            title: Everton vs Arsenal
+            originally_available: 2025-12-21
+            summary: >
+              Matchweek 17 fixture at Hill Dickinson Stadium (Liverpool). Scheduled date: December
+              21, 2025. Kickoff: Sun 21 Dec 2025, 14:00 GMT.
+          9:
+            title: Leeds United vs Crystal Palace
+            originally_available: 2025-12-21
+            summary: >
+              Matchweek 17 fixture at Elland Road (Leeds). Scheduled date: December 21, 2025.
+              Kickoff: Sun 21 Dec 2025, 14:00 GMT.
+          10:
+            title: Fulham vs Nottingham Forest
+            originally_available: 2025-12-22
+            summary: >
+              Matchweek 17 fixture at Craven Cottage (London). Scheduled date: December 22, 2025.
+              Kickoff: Mon 22 Dec 2025, 20:00 GMT.
+      18:
+        title: Matchweek 18
+        sort_title: 18_Matchweek 18
+        summary: >
+          Matchweek 18 covers December 26-28, 2025 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Manchester United vs Newcastle United
+            originally_available: 2025-12-26
+            summary: >
+              Matchweek 18 fixture at Old Trafford (Manchester). Scheduled date: December 26, 2025.
+              Kickoff: Fri 26 Dec 2025, 20:00 GMT.
+          2:
+            title: Arsenal vs Brighton & Hove Albion
+            originally_available: 2025-12-27
+            summary: >
+              Matchweek 18 fixture at Emirates Stadium (London). Scheduled date: December 27, 2025.
+              Kickoff: Sat 27 Dec 2025, 15:00 GMT.
+          3:
+            title: Brentford vs Bournemouth
+            originally_available: 2025-12-27
+            summary: >
+              Matchweek 18 fixture at Gtech Community Stadium (Brentford). Scheduled date: December
+              27, 2025. Kickoff: Sat 27 Dec 2025, 15:00 GMT.
+          4:
+            title: Burnley vs Everton
+            originally_available: 2025-12-27
+            summary: >
+              Matchweek 18 fixture at Turf Moor (Burnley). Scheduled date: December 27, 2025.
+              Kickoff: Sat 27 Dec 2025, 15:00 GMT.
+          5:
+            title: Chelsea vs Aston Villa
+            originally_available: 2025-12-27
+            summary: >
+              Matchweek 18 fixture at Stamford Bridge (London). Scheduled date: December 27, 2025.
+              Kickoff: Sat 27 Dec 2025, 17:30 GMT.
+          6:
+            title: Liverpool vs Wolverhampton Wanderers
+            originally_available: 2025-12-27
+            summary: >
+              Matchweek 18 fixture at Anfield (Liverpool). Scheduled date: December 27, 2025.
+              Kickoff: Sat 27 Dec 2025, 15:00 GMT.
+          7:
+            title: Nottingham Forest vs Manchester City
+            originally_available: 2025-12-27
+            summary: >
+              Matchweek 18 fixture at The City Ground (Nottingham). Scheduled date: December 27,
+              2025. Kickoff: Sat 27 Dec 2025, 12:30 GMT.
+          8:
+            title: West Ham United vs Fulham
+            originally_available: 2025-12-27
+            summary: >
+              Matchweek 18 fixture at London Stadium (London). Scheduled date: December 27, 2025.
+              Kickoff: Sat 27 Dec 2025, 15:00 GMT.
+          9:
+            title: Crystal Palace vs Tottenham Hotspur
+            originally_available: 2025-12-28
+            summary: >
+              Matchweek 18 fixture at Selhurst Park (London). Scheduled date: December 28, 2025.
+              Kickoff: Sun 28 Dec 2025, 16:30 GMT.
+          10:
+            title: Sunderland vs Leeds United
+            originally_available: 2025-12-28
+            summary: >
+              Matchweek 18 fixture at Stadium of Light (Sunderland). Scheduled date: December 28,
+              2025. Kickoff: Sun 28 Dec 2025, 14:00 GMT.
+      19:
+        title: Matchweek 19
+        sort_title: 19_Matchweek 19
+        summary: >
+          Matchweek 19 covers December 30, 2025 with 6 scheduled fixtures.
+        episodes:
+          1:
+            title: Arsenal vs Aston Villa
+            originally_available: 2025-12-30
+            summary: >
+              Matchweek 19 fixture at Emirates Stadium (London). Scheduled date: December 30, 2025.
+              Kickoff: Tue 30 Dec 2025, 20:15 GMT.
+          2:
+            title: Burnley vs Newcastle United
+            originally_available: 2025-12-30
+            summary: >
+              Matchweek 19 fixture at Turf Moor (Burnley). Scheduled date: December 30, 2025.
+              Kickoff: Tue 30 Dec 2025, 19:30 GMT.
+          3:
+            title: Chelsea vs Bournemouth
+            originally_available: 2025-12-30
+            summary: >
+              Matchweek 19 fixture at Stamford Bridge (London). Scheduled date: December 30, 2025.
+              Kickoff: Tue 30 Dec 2025, 19:30 GMT.
+          4:
+            title: Manchester United vs Wolverhampton Wanderers
+            originally_available: 2025-12-30
+            summary: >
+              Matchweek 19 fixture at Old Trafford (Manchester). Scheduled date: December 30, 2025.
+              Kickoff: Tue 30 Dec 2025, 20:15 GMT.
+          5:
+            title: Nottingham Forest vs Everton
+            originally_available: 2025-12-30
+            summary: >
+              Matchweek 19 fixture at The City Ground (Nottingham). Scheduled date: December 30,
+              2025. Kickoff: Tue 30 Dec 2025, 19:30 GMT.
+          6:
+            title: West Ham United vs Brighton & Hove Albion
+            originally_available: 2025-12-30
+            summary: >
+              Matchweek 19 fixture at London Stadium (London). Scheduled date: December 30, 2025.
+              Kickoff: Tue 30 Dec 2025, 19:30 GMT.
+      20:
+        title: Matchweek 20
+        sort_title: 20_Matchweek 20
+        summary: >
+          Matchweek 20 covers January 1, 2026 with 4 scheduled fixtures.
+        episodes:
+          1:
+            title: Brentford vs Tottenham Hotspur
+            originally_available: 2026-01-01
+            summary: >
+              Matchweek 20 fixture at Gtech Community Stadium (Brentford). Scheduled date: January
+              1, 2026. Kickoff: Thu 1 Jan 2026, 20:00 GMT.
+          2:
+            title: Crystal Palace vs Fulham
+            originally_available: 2026-01-01
+            summary: >
+              Matchweek 20 fixture at Selhurst Park (London). Scheduled date: January 1, 2026.
+              Kickoff: Thu 1 Jan 2026, 17:30 GMT.
+          3:
+            title: Liverpool vs Leeds United
+            originally_available: 2026-01-01
+            summary: >
+              Matchweek 20 fixture at Anfield (Liverpool). Scheduled date: January 1, 2026. Kickoff:
+              Thu 1 Jan 2026, 17:30 GMT.
+          4:
+            title: Sunderland vs Manchester City
+            originally_available: 2026-01-01
+            summary: >
+              Matchweek 20 fixture at Stadium of Light (Sunderland). Scheduled date: January 1,
+              2026. Kickoff: Thu 1 Jan 2026, 20:00 GMT.
+      21:
+        title: Matchweek 21
+        sort_title: 21_Matchweek 21
+        summary: >
+          Matchweek 21 covers January 3-4, 2026 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Aston Villa vs Nottingham Forest
+            originally_available: 2026-01-03
+            summary: >
+              Matchweek 21 fixture at Villa Park (Birmingham). Scheduled date: January 3, 2026.
+              Kickoff: Sat 3 Jan 2026, 12:30 GMT.
+          2:
+            title: Bournemouth vs Arsenal
+            originally_available: 2026-01-03
+            summary: >
+              Matchweek 21 fixture at Vitality Stadium (Bournemouth). Scheduled date: January 3,
+              2026. Kickoff: Sat 3 Jan 2026, 17:30 GMT.
+          3:
+            title: Brighton & Hove Albion vs Burnley
+            originally_available: 2026-01-03
+            summary: >
+              Matchweek 21 fixture at American Express Stadium (Falmer). Scheduled date: January 3,
+              2026. Kickoff: Sat 3 Jan 2026, 15:00 GMT.
+          4:
+            title: Wolverhampton Wanderers vs West Ham United
+            originally_available: 2026-01-03
+            summary: >
+              Matchweek 21 fixture at Molineux Stadium (Wolverhampton). Scheduled date: January 3,
+              2026. Kickoff: Sat 3 Jan 2026, 15:00 GMT.
+          5:
+            title: Everton vs Brentford
+            originally_available: 2026-01-04
+            summary: >
+              Matchweek 21 fixture at Hill Dickinson Stadium (Liverpool). Scheduled date: January 4,
+              2026. Kickoff: Sun 4 Jan 2026, 15:00 GMT.
+          6:
+            title: Fulham vs Liverpool
+            originally_available: 2026-01-04
+            summary: >
+              Matchweek 21 fixture at Craven Cottage (London). Scheduled date: January 4, 2026.
+              Kickoff: Sun 4 Jan 2026, 15:00 GMT.
+          7:
+            title: Leeds United vs Manchester United
+            originally_available: 2026-01-04
+            summary: >
+              Matchweek 21 fixture at Elland Road (Leeds). Scheduled date: January 4, 2026. Kickoff:
+              Sun 4 Jan 2026, 12:30 GMT.
+          8:
+            title: Manchester City vs Chelsea
+            originally_available: 2026-01-04
+            summary: >
+              Matchweek 21 fixture at Etihad Stadium (Manchester). Scheduled date: January 4, 2026.
+              Kickoff: Sun 4 Jan 2026, 17:30 GMT.
+          9:
+            title: Newcastle United vs Crystal Palace
+            originally_available: 2026-01-04
+            summary: >
+              Matchweek 21 fixture at St. James' Park (Newcastle). Scheduled date: January 4, 2026.
+              Kickoff: Sun 4 Jan 2026, 15:00 GMT.
+          10:
+            title: Tottenham Hotspur vs Sunderland
+            originally_available: 2026-01-04
+            summary: >
+              Matchweek 21 fixture at Tottenham Hotspur Stadium (London). Scheduled date: January 4,
+              2026. Kickoff: Sun 4 Jan 2026, 15:00 GMT.
+      22:
+        title: Matchweek 22
+        sort_title: 22_Matchweek 22
+        summary: >
+          Matchweek 22 covers January 6-8, 2026 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: West Ham United vs Nottingham Forest
+            originally_available: 2026-01-06
+            summary: >
+              Matchweek 22 fixture at London Stadium (London). Scheduled date: January 6, 2026.
+              Kickoff: Tue 6 Jan 2026, 20:00 GMT.
+          2:
+            title: Bournemouth vs Tottenham Hotspur
+            originally_available: 2026-01-07
+            summary: >
+              Matchweek 22 fixture at Vitality Stadium (Bournemouth). Scheduled date: January 7,
+              2026. Kickoff: Wed 7 Jan 2026, 19:30 GMT.
+          3:
+            title: Brentford vs Sunderland
+            originally_available: 2026-01-07
+            summary: >
+              Matchweek 22 fixture at Gtech Community Stadium (Brentford). Scheduled date: January
+              7, 2026. Kickoff: Wed 7 Jan 2026, 19:30 GMT.
+          4:
+            title: Burnley vs Manchester United
+            originally_available: 2026-01-07
+            summary: >
+              Matchweek 22 fixture at Turf Moor (Burnley). Scheduled date: January 7, 2026. Kickoff:
+              Wed 7 Jan 2026, 20:15 GMT.
+          5:
+            title: Crystal Palace vs Aston Villa
+            originally_available: 2026-01-07
+            summary: >
+              Matchweek 22 fixture at Selhurst Park (London). Scheduled date: January 7, 2026.
+              Kickoff: Wed 7 Jan 2026, 19:30 GMT.
+          6:
+            title: Everton vs Wolverhampton Wanderers
+            originally_available: 2026-01-07
+            summary: >
+              Matchweek 22 fixture at Hill Dickinson Stadium (Liverpool). Scheduled date: January 7,
+              2026. Kickoff: Wed 7 Jan 2026, 19:30 GMT.
+          7:
+            title: Fulham vs Chelsea
+            originally_available: 2026-01-07
+            summary: >
+              Matchweek 22 fixture at Craven Cottage (London). Scheduled date: January 7, 2026.
+              Kickoff: Wed 7 Jan 2026, 19:30 GMT.
+          8:
+            title: Manchester City vs Brighton & Hove Albion
+            originally_available: 2026-01-07
+            summary: >
+              Matchweek 22 fixture at Etihad Stadium (Manchester). Scheduled date: January 7, 2026.
+              Kickoff: Wed 7 Jan 2026, 19:30 GMT.
+          9:
+            title: Newcastle United vs Leeds United
+            originally_available: 2026-01-07
+            summary: >
+              Matchweek 22 fixture at St. James' Park (Newcastle). Scheduled date: January 7, 2026.
+              Kickoff: Wed 7 Jan 2026, 20:15 GMT.
+          10:
+            title: Arsenal vs Liverpool
+            originally_available: 2026-01-08
+            summary: >
+              Matchweek 22 fixture at Emirates Stadium (London). Scheduled date: January 8, 2026.
+              Kickoff: Thu 8 Jan 2026, 20:00 GMT.
+      23:
+        title: Matchweek 23
+        sort_title: 23_Matchweek 23
+        summary: >
+          Matchweek 23 covers January 17, 2026 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Aston Villa vs Everton
+            originally_available: 2026-01-17
+            summary: >
+              Matchweek 23 fixture at Villa Park (Birmingham). Scheduled date: January 17, 2026.
+              Kickoff: Sat 17 Jan 2026, 15:00 GMT.
+          2:
+            title: Brighton & Hove Albion vs Bournemouth
+            originally_available: 2026-01-17
+            summary: >
+              Matchweek 23 fixture at American Express Stadium (Falmer). Scheduled date: January 17,
+              2026. Kickoff: Sat 17 Jan 2026, 15:00 GMT.
+          3:
+            title: Chelsea vs Brentford
+            originally_available: 2026-01-17
+            summary: >
+              Matchweek 23 fixture at Stamford Bridge (London). Scheduled date: January 17, 2026.
+              Kickoff: Sat 17 Jan 2026, 15:00 GMT.
+          4:
+            title: Leeds United vs Fulham
+            originally_available: 2026-01-17
+            summary: >
+              Matchweek 23 fixture at Elland Road (Leeds). Scheduled date: January 17, 2026.
+              Kickoff: Sat 17 Jan 2026, 15:00 GMT.
+          5:
+            title: Liverpool vs Burnley
+            originally_available: 2026-01-17
+            summary: >
+              Matchweek 23 fixture at Anfield (Liverpool). Scheduled date: January 17, 2026.
+              Kickoff: Sat 17 Jan 2026, 15:00 GMT.
+          6:
+            title: Manchester United vs Manchester City
+            originally_available: 2026-01-17
+            summary: >
+              Matchweek 23 fixture at Old Trafford (Manchester). Scheduled date: January 17, 2026.
+              Kickoff: Sat 17 Jan 2026, 15:00 GMT.
+          7:
+            title: Nottingham Forest vs Arsenal
+            originally_available: 2026-01-17
+            summary: >
+              Matchweek 23 fixture at The City Ground (Nottingham). Scheduled date: January 17,
+              2026. Kickoff: Sat 17 Jan 2026, 15:00 GMT.
+          8:
+            title: Sunderland vs Crystal Palace
+            originally_available: 2026-01-17
+            summary: >
+              Matchweek 23 fixture at Stadium of Light (Sunderland). Scheduled date: January 17,
+              2026. Kickoff: Sat 17 Jan 2026, 15:00 GMT.
+          9:
+            title: Tottenham Hotspur vs West Ham United
+            originally_available: 2026-01-17
+            summary: >
+              Matchweek 23 fixture at Tottenham Hotspur Stadium (London). Scheduled date: January
+              17, 2026. Kickoff: Sat 17 Jan 2026, 15:00 GMT.
+          10:
+            title: Wolverhampton Wanderers vs Newcastle United
+            originally_available: 2026-01-17
+            summary: >
+              Matchweek 23 fixture at Molineux Stadium (Wolverhampton). Scheduled date: January 17,
+              2026. Kickoff: Sat 17 Jan 2026, 15:00 GMT.
+      24:
+        title: Matchweek 24
+        sort_title: 24_Matchweek 24
+        summary: >
+          Matchweek 24 covers January 24, 2026 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Arsenal vs Manchester United
+            originally_available: 2026-01-24
+            summary: >
+              Matchweek 24 fixture at Emirates Stadium (London). Scheduled date: January 24, 2026.
+              Kickoff: Sat 24 Jan 2026, 15:00 GMT.
+          2:
+            title: Bournemouth vs Liverpool
+            originally_available: 2026-01-24
+            summary: >
+              Matchweek 24 fixture at Vitality Stadium (Bournemouth). Scheduled date: January 24,
+              2026. Kickoff: Sat 24 Jan 2026, 15:00 GMT.
+          3:
+            title: Brentford vs Nottingham Forest
+            originally_available: 2026-01-24
+            summary: >
+              Matchweek 24 fixture at Gtech Community Stadium (Brentford). Scheduled date: January
+              24, 2026. Kickoff: Sat 24 Jan 2026, 15:00 GMT.
+          4:
+            title: Burnley vs Tottenham Hotspur
+            originally_available: 2026-01-24
+            summary: >
+              Matchweek 24 fixture at Turf Moor (Burnley). Scheduled date: January 24, 2026.
+              Kickoff: Sat 24 Jan 2026, 15:00 GMT.
+          5:
+            title: Crystal Palace vs Chelsea
+            originally_available: 2026-01-24
+            summary: >
+              Matchweek 24 fixture at Selhurst Park (London). Scheduled date: January 24, 2026.
+              Kickoff: Sat 24 Jan 2026, 15:00 GMT.
+          6:
+            title: Everton vs Leeds United
+            originally_available: 2026-01-24
+            summary: >
+              Matchweek 24 fixture at Hill Dickinson Stadium (Liverpool). Scheduled date: January
+              24, 2026. Kickoff: Sat 24 Jan 2026, 15:00 GMT.
+          7:
+            title: Fulham vs Brighton & Hove Albion
+            originally_available: 2026-01-24
+            summary: >
+              Matchweek 24 fixture at Craven Cottage (London). Scheduled date: January 24, 2026.
+              Kickoff: Sat 24 Jan 2026, 15:00 GMT.
+          8:
+            title: Manchester City vs Wolverhampton Wanderers
+            originally_available: 2026-01-24
+            summary: >
+              Matchweek 24 fixture at Etihad Stadium (Manchester). Scheduled date: January 24, 2026.
+              Kickoff: Sat 24 Jan 2026, 15:00 GMT.
+          9:
+            title: Newcastle United vs Aston Villa
+            originally_available: 2026-01-24
+            summary: >
+              Matchweek 24 fixture at St. James' Park (Newcastle). Scheduled date: January 24, 2026.
+              Kickoff: Sat 24 Jan 2026, 15:00 GMT.
+          10:
+            title: West Ham United vs Sunderland
+            originally_available: 2026-01-24
+            summary: >
+              Matchweek 24 fixture at London Stadium (London). Scheduled date: January 24, 2026.
+              Kickoff: Sat 24 Jan 2026, 15:00 GMT.
+      25:
+        title: Matchweek 25
+        sort_title: 25_Matchweek 25
+        summary: >
+          Matchweek 25 covers January 31, 2026 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Aston Villa vs Brentford
+            originally_available: 2026-01-31
+            summary: >
+              Matchweek 25 fixture at Villa Park (Birmingham). Scheduled date: January 31, 2026.
+              Kickoff: Sat 31 Jan 2026, 15:00 GMT.
+          2:
+            title: Brighton & Hove Albion vs Everton
+            originally_available: 2026-01-31
+            summary: >
+              Matchweek 25 fixture at American Express Stadium (Falmer). Scheduled date: January 31,
+              2026. Kickoff: Sat 31 Jan 2026, 15:00 GMT.
+          3:
+            title: Chelsea vs West Ham United
+            originally_available: 2026-01-31
+            summary: >
+              Matchweek 25 fixture at Stamford Bridge (London). Scheduled date: January 31, 2026.
+              Kickoff: Sat 31 Jan 2026, 15:00 GMT.
+          4:
+            title: Leeds United vs Arsenal
+            originally_available: 2026-01-31
+            summary: >
+              Matchweek 25 fixture at Elland Road (Leeds). Scheduled date: January 31, 2026.
+              Kickoff: Sat 31 Jan 2026, 15:00 GMT.
+          5:
+            title: Liverpool vs Newcastle United
+            originally_available: 2026-01-31
+            summary: >
+              Matchweek 25 fixture at Anfield (Liverpool). Scheduled date: January 31, 2026.
+              Kickoff: Sat 31 Jan 2026, 15:00 GMT.
+          6:
+            title: Manchester United vs Fulham
+            originally_available: 2026-01-31
+            summary: >
+              Matchweek 25 fixture at Old Trafford (Manchester). Scheduled date: January 31, 2026.
+              Kickoff: Sat 31 Jan 2026, 15:00 GMT.
+          7:
+            title: Nottingham Forest vs Crystal Palace
+            originally_available: 2026-01-31
+            summary: >
+              Matchweek 25 fixture at The City Ground (Nottingham). Scheduled date: January 31,
+              2026. Kickoff: Sat 31 Jan 2026, 15:00 GMT.
+          8:
+            title: Sunderland vs Burnley
+            originally_available: 2026-01-31
+            summary: >
+              Matchweek 25 fixture at Stadium of Light (Sunderland). Scheduled date: January 31,
+              2026. Kickoff: Sat 31 Jan 2026, 15:00 GMT.
+          9:
+            title: Tottenham Hotspur vs Manchester City
+            originally_available: 2026-01-31
+            summary: >
+              Matchweek 25 fixture at Tottenham Hotspur Stadium (London). Scheduled date: January
+              31, 2026. Kickoff: Sat 31 Jan 2026, 15:00 GMT.
+          10:
+            title: Wolverhampton Wanderers vs Bournemouth
+            originally_available: 2026-01-31
+            summary: >
+              Matchweek 25 fixture at Molineux Stadium (Wolverhampton). Scheduled date: January 31,
+              2026. Kickoff: Sat 31 Jan 2026, 15:00 GMT.
+      26:
+        title: Matchweek 26
+        sort_title: 26_Matchweek 26
+        summary: >
+          Matchweek 26 covers February 7, 2026 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Arsenal vs Sunderland
+            originally_available: 2026-02-07
+            summary: >
+              Matchweek 26 fixture at Emirates Stadium (London). Scheduled date: February 7, 2026.
+              Kickoff: Sat 7 Feb 2026, 15:00 GMT.
+          2:
+            title: Bournemouth vs Aston Villa
+            originally_available: 2026-02-07
+            summary: >
+              Matchweek 26 fixture at Vitality Stadium (Bournemouth). Scheduled date: February 7,
+              2026. Kickoff: Sat 7 Feb 2026, 15:00 GMT.
+          3:
+            title: Brighton & Hove Albion vs Crystal Palace
+            originally_available: 2026-02-07
+            summary: >
+              Matchweek 26 fixture at American Express Stadium (Falmer). Scheduled date: February 7,
+              2026. Kickoff: Sat 7 Feb 2026, 15:00 GMT.
+          4:
+            title: Burnley vs West Ham United
+            originally_available: 2026-02-07
+            summary: >
+              Matchweek 26 fixture at Turf Moor (Burnley). Scheduled date: February 7, 2026.
+              Kickoff: Sat 7 Feb 2026, 15:00 GMT.
+          5:
+            title: Fulham vs Everton
+            originally_available: 2026-02-07
+            summary: >
+              Matchweek 26 fixture at Craven Cottage (London). Scheduled date: February 7, 2026.
+              Kickoff: Sat 7 Feb 2026, 15:00 GMT.
+          6:
+            title: Leeds United vs Nottingham Forest
+            originally_available: 2026-02-07
+            summary: >
+              Matchweek 26 fixture at Elland Road (Leeds). Scheduled date: February 7, 2026.
+              Kickoff: Sat 7 Feb 2026, 15:00 GMT.
+          7:
+            title: Liverpool vs Manchester City
+            originally_available: 2026-02-07
+            summary: >
+              Matchweek 26 fixture at Anfield (Liverpool). Scheduled date: February 7, 2026.
+              Kickoff: Sat 7 Feb 2026, 15:00 GMT.
+          8:
+            title: Manchester United vs Tottenham Hotspur
+            originally_available: 2026-02-07
+            summary: >
+              Matchweek 26 fixture at Old Trafford (Manchester). Scheduled date: February 7, 2026.
+              Kickoff: Sat 7 Feb 2026, 15:00 GMT.
+          9:
+            title: Newcastle United vs Brentford
+            originally_available: 2026-02-07
+            summary: >
+              Matchweek 26 fixture at St. James' Park (Newcastle). Scheduled date: February 7, 2026.
+              Kickoff: Sat 7 Feb 2026, 15:00 GMT.
+          10:
+            title: Wolverhampton Wanderers vs Chelsea
+            originally_available: 2026-02-07
+            summary: >
+              Matchweek 26 fixture at Molineux Stadium (Wolverhampton). Scheduled date: February 7,
+              2026. Kickoff: Sat 7 Feb 2026, 15:00 GMT.
+      27:
+        title: Matchweek 27
+        sort_title: 27_Matchweek 27
+        summary: >
+          Matchweek 27 covers February 11, 2026 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Aston Villa vs Brighton & Hove Albion
+            originally_available: 2026-02-11
+            summary: >
+              Matchweek 27 fixture at Villa Park (Birmingham). Scheduled date: February 11, 2026.
+              Kickoff: Wed 11 Feb 2026, 20:00 GMT.
+          2:
+            title: Brentford vs Arsenal
+            originally_available: 2026-02-11
+            summary: >
+              Matchweek 27 fixture at Gtech Community Stadium (Brentford). Scheduled date: February
+              11, 2026. Kickoff: Wed 11 Feb 2026, 20:00 GMT.
+          3:
+            title: Chelsea vs Leeds United
+            originally_available: 2026-02-11
+            summary: >
+              Matchweek 27 fixture at Stamford Bridge (London). Scheduled date: February 11, 2026.
+              Kickoff: Wed 11 Feb 2026, 20:00 GMT.
+          4:
+            title: Crystal Palace vs Burnley
+            originally_available: 2026-02-11
+            summary: >
+              Matchweek 27 fixture at Selhurst Park (London). Scheduled date: February 11, 2026.
+              Kickoff: Wed 11 Feb 2026, 20:00 GMT.
+          5:
+            title: Everton vs Bournemouth
+            originally_available: 2026-02-11
+            summary: >
+              Matchweek 27 fixture at Hill Dickinson Stadium (Liverpool). Scheduled date: February
+              11, 2026. Kickoff: Wed 11 Feb 2026, 20:00 GMT.
+          6:
+            title: Manchester City vs Fulham
+            originally_available: 2026-02-11
+            summary: >
+              Matchweek 27 fixture at Etihad Stadium (Manchester). Scheduled date: February 11,
+              2026. Kickoff: Wed 11 Feb 2026, 20:00 GMT.
+          7:
+            title: Nottingham Forest vs Wolverhampton Wanderers
+            originally_available: 2026-02-11
+            summary: >
+              Matchweek 27 fixture at The City Ground (Nottingham). Scheduled date: February 11,
+              2026. Kickoff: Wed 11 Feb 2026, 20:00 GMT.
+          8:
+            title: Sunderland vs Liverpool
+            originally_available: 2026-02-11
+            summary: >
+              Matchweek 27 fixture at Stadium of Light (Sunderland). Scheduled date: February 11,
+              2026. Kickoff: Wed 11 Feb 2026, 20:00 GMT.
+          9:
+            title: Tottenham Hotspur vs Newcastle United
+            originally_available: 2026-02-11
+            summary: >
+              Matchweek 27 fixture at Tottenham Hotspur Stadium (London). Scheduled date: February
+              11, 2026. Kickoff: Wed 11 Feb 2026, 20:00 GMT.
+          10:
+            title: West Ham United vs Manchester United
+            originally_available: 2026-02-11
+            summary: >
+              Matchweek 27 fixture at London Stadium (London). Scheduled date: February 11, 2026.
+              Kickoff: Wed 11 Feb 2026, 20:00 GMT.
+      28:
+        title: Matchweek 28
+        sort_title: 28_Matchweek 28
+        summary: >
+          Matchweek 28 covers February 21, 2026 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Aston Villa vs Leeds United
+            originally_available: 2026-02-21
+            summary: >
+              Matchweek 28 fixture at Villa Park (Birmingham). Scheduled date: February 21, 2026.
+              Kickoff: Sat 21 Feb 2026, 15:00 GMT.
+          2:
+            title: Brentford vs Brighton & Hove Albion
+            originally_available: 2026-02-21
+            summary: >
+              Matchweek 28 fixture at Gtech Community Stadium (Brentford). Scheduled date: February
+              21, 2026. Kickoff: Sat 21 Feb 2026, 15:00 GMT.
+          3:
+            title: Chelsea vs Burnley
+            originally_available: 2026-02-21
+            summary: >
+              Matchweek 28 fixture at Stamford Bridge (London). Scheduled date: February 21, 2026.
+              Kickoff: Sat 21 Feb 2026, 15:00 GMT.
+          4:
+            title: Crystal Palace vs Wolverhampton Wanderers
+            originally_available: 2026-02-21
+            summary: >
+              Matchweek 28 fixture at Selhurst Park (London). Scheduled date: February 21, 2026.
+              Kickoff: Sat 21 Feb 2026, 15:00 GMT.
+          5:
+            title: Everton vs Manchester United
+            originally_available: 2026-02-21
+            summary: >
+              Matchweek 28 fixture at Hill Dickinson Stadium (Liverpool). Scheduled date: February
+              21, 2026. Kickoff: Sat 21 Feb 2026, 15:00 GMT.
+          6:
+            title: Manchester City vs Newcastle United
+            originally_available: 2026-02-21
+            summary: >
+              Matchweek 28 fixture at Etihad Stadium (Manchester). Scheduled date: February 21,
+              2026. Kickoff: Sat 21 Feb 2026, 15:00 GMT.
+          7:
+            title: Nottingham Forest vs Liverpool
+            originally_available: 2026-02-21
+            summary: >
+              Matchweek 28 fixture at The City Ground (Nottingham). Scheduled date: February 21,
+              2026. Kickoff: Sat 21 Feb 2026, 15:00 GMT.
+          8:
+            title: Sunderland vs Fulham
+            originally_available: 2026-02-21
+            summary: >
+              Matchweek 28 fixture at Stadium of Light (Sunderland). Scheduled date: February 21,
+              2026. Kickoff: Sat 21 Feb 2026, 15:00 GMT.
+          9:
+            title: Tottenham Hotspur vs Arsenal
+            originally_available: 2026-02-21
+            summary: >
+              Matchweek 28 fixture at Tottenham Hotspur Stadium (London). Scheduled date: February
+              21, 2026. Kickoff: Sat 21 Feb 2026, 15:00 GMT.
+          10:
+            title: West Ham United vs Bournemouth
+            originally_available: 2026-02-21
+            summary: >
+              Matchweek 28 fixture at London Stadium (London). Scheduled date: February 21, 2026.
+              Kickoff: Sat 21 Feb 2026, 15:00 GMT.
+      29:
+        title: Matchweek 29
+        sort_title: 29_Matchweek 29
+        summary: >
+          Matchweek 29 covers February 28, 2026 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Arsenal vs Chelsea
+            originally_available: 2026-02-28
+            summary: >
+              Matchweek 29 fixture at Emirates Stadium (London). Scheduled date: February 28, 2026.
+              Kickoff: Sat 28 Feb 2026, 15:00 GMT.
+          2:
+            title: Bournemouth vs Sunderland
+            originally_available: 2026-02-28
+            summary: >
+              Matchweek 29 fixture at Vitality Stadium (Bournemouth). Scheduled date: February 28,
+              2026. Kickoff: Sat 28 Feb 2026, 15:00 GMT.
+          3:
+            title: Brighton & Hove Albion vs Nottingham Forest
+            originally_available: 2026-02-28
+            summary: >
+              Matchweek 29 fixture at American Express Stadium (Falmer). Scheduled date: February
+              28, 2026. Kickoff: Sat 28 Feb 2026, 15:00 GMT.
+          4:
+            title: Burnley vs Brentford
+            originally_available: 2026-02-28
+            summary: >
+              Matchweek 29 fixture at Turf Moor (Burnley). Scheduled date: February 28, 2026.
+              Kickoff: Sat 28 Feb 2026, 15:00 GMT.
+          5:
+            title: Fulham vs Tottenham Hotspur
+            originally_available: 2026-02-28
+            summary: >
+              Matchweek 29 fixture at Craven Cottage (London). Scheduled date: February 28, 2026.
+              Kickoff: Sat 28 Feb 2026, 15:00 GMT.
+          6:
+            title: Leeds United vs Manchester City
+            originally_available: 2026-02-28
+            summary: >
+              Matchweek 29 fixture at Elland Road (Leeds). Scheduled date: February 28, 2026.
+              Kickoff: Sat 28 Feb 2026, 15:00 GMT.
+          7:
+            title: Liverpool vs West Ham United
+            originally_available: 2026-02-28
+            summary: >
+              Matchweek 29 fixture at Anfield (Liverpool). Scheduled date: February 28, 2026.
+              Kickoff: Sat 28 Feb 2026, 15:00 GMT.
+          8:
+            title: Manchester United vs Crystal Palace
+            originally_available: 2026-02-28
+            summary: >
+              Matchweek 29 fixture at Old Trafford (Manchester). Scheduled date: February 28, 2026.
+              Kickoff: Sat 28 Feb 2026, 15:00 GMT.
+          9:
+            title: Newcastle United vs Everton
+            originally_available: 2026-02-28
+            summary: >
+              Matchweek 29 fixture at St. James' Park (Newcastle). Scheduled date: February 28,
+              2026. Kickoff: Sat 28 Feb 2026, 15:00 GMT.
+          10:
+            title: Wolverhampton Wanderers vs Aston Villa
+            originally_available: 2026-02-28
+            summary: >
+              Matchweek 29 fixture at Molineux Stadium (Wolverhampton). Scheduled date: February 28,
+              2026. Kickoff: Sat 28 Feb 2026, 15:00 GMT.
+      30:
+        title: Matchweek 30
+        sort_title: 30_Matchweek 30
+        summary: >
+          Matchweek 30 covers March 4, 2026 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Aston Villa vs Chelsea
+            originally_available: 2026-03-04
+            summary: >
+              Matchweek 30 fixture at Villa Park (Birmingham). Scheduled date: March 4, 2026.
+              Kickoff: Wed 4 Mar 2026, 20:00 GMT.
+          2:
+            title: Bournemouth vs Brentford
+            originally_available: 2026-03-04
+            summary: >
+              Matchweek 30 fixture at Vitality Stadium (Bournemouth). Scheduled date: March 4, 2026.
+              Kickoff: Wed 4 Mar 2026, 20:00 GMT.
+          3:
+            title: Brighton & Hove Albion vs Arsenal
+            originally_available: 2026-03-04
+            summary: >
+              Matchweek 30 fixture at American Express Stadium (Falmer). Scheduled date: March 4,
+              2026. Kickoff: Wed 4 Mar 2026, 20:00 GMT.
+          4:
+            title: Everton vs Burnley
+            originally_available: 2026-03-04
+            summary: >
+              Matchweek 30 fixture at Hill Dickinson Stadium (Liverpool). Scheduled date: March 4,
+              2026. Kickoff: Wed 4 Mar 2026, 20:00 GMT.
+          5:
+            title: Fulham vs West Ham United
+            originally_available: 2026-03-04
+            summary: >
+              Matchweek 30 fixture at Craven Cottage (London). Scheduled date: March 4, 2026.
+              Kickoff: Wed 4 Mar 2026, 20:00 GMT.
+          6:
+            title: Leeds United vs Sunderland
+            originally_available: 2026-03-04
+            summary: >
+              Matchweek 30 fixture at Elland Road (Leeds). Scheduled date: March 4, 2026. Kickoff:
+              Wed 4 Mar 2026, 20:00 GMT.
+          7:
+            title: Manchester City vs Nottingham Forest
+            originally_available: 2026-03-04
+            summary: >
+              Matchweek 30 fixture at Etihad Stadium (Manchester). Scheduled date: March 4, 2026.
+              Kickoff: Wed 4 Mar 2026, 20:00 GMT.
+          8:
+            title: Newcastle United vs Manchester United
+            originally_available: 2026-03-04
+            summary: >
+              Matchweek 30 fixture at St. James' Park (Newcastle). Scheduled date: March 4, 2026.
+              Kickoff: Wed 4 Mar 2026, 20:00 GMT.
+          9:
+            title: Tottenham Hotspur vs Crystal Palace
+            originally_available: 2026-03-04
+            summary: >
+              Matchweek 30 fixture at Tottenham Hotspur Stadium (London). Scheduled date: March 4,
+              2026. Kickoff: Wed 4 Mar 2026, 20:00 GMT.
+          10:
+            title: Wolverhampton Wanderers vs Liverpool
+            originally_available: 2026-03-04
+            summary: >
+              Matchweek 30 fixture at Molineux Stadium (Wolverhampton). Scheduled date: March 4,
+              2026. Kickoff: Wed 4 Mar 2026, 20:00 GMT.
+      31:
+        title: Matchweek 31
+        sort_title: 31_Matchweek 31
+        summary: >
+          Matchweek 31 covers March 14, 2026 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Arsenal vs Everton
+            originally_available: 2026-03-14
+            summary: >
+              Matchweek 31 fixture at Emirates Stadium (London). Scheduled date: March 14, 2026.
+              Kickoff: Sat 14 Mar 2026, 15:00 GMT.
+          2:
+            title: Brentford vs Wolverhampton Wanderers
+            originally_available: 2026-03-14
+            summary: >
+              Matchweek 31 fixture at Gtech Community Stadium (Brentford). Scheduled date: March 14,
+              2026. Kickoff: Sat 14 Mar 2026, 15:00 GMT.
+          3:
+            title: Burnley vs Bournemouth
+            originally_available: 2026-03-14
+            summary: >
+              Matchweek 31 fixture at Turf Moor (Burnley). Scheduled date: March 14, 2026. Kickoff:
+              Sat 14 Mar 2026, 15:00 GMT.
+          4:
+            title: Chelsea vs Newcastle United
+            originally_available: 2026-03-14
+            summary: >
+              Matchweek 31 fixture at Stamford Bridge (London). Scheduled date: March 14, 2026.
+              Kickoff: Sat 14 Mar 2026, 15:00 GMT.
+          5:
+            title: Crystal Palace vs Leeds United
+            originally_available: 2026-03-14
+            summary: >
+              Matchweek 31 fixture at Selhurst Park (London). Scheduled date: March 14, 2026.
+              Kickoff: Sat 14 Mar 2026, 15:00 GMT.
+          6:
+            title: Liverpool vs Tottenham Hotspur
+            originally_available: 2026-03-14
+            summary: >
+              Matchweek 31 fixture at Anfield (Liverpool). Scheduled date: March 14, 2026. Kickoff:
+              Sat 14 Mar 2026, 15:00 GMT.
+          7:
+            title: Manchester United vs Aston Villa
+            originally_available: 2026-03-14
+            summary: >
+              Matchweek 31 fixture at Old Trafford (Manchester). Scheduled date: March 14, 2026.
+              Kickoff: Sat 14 Mar 2026, 15:00 GMT.
+          8:
+            title: Nottingham Forest vs Fulham
+            originally_available: 2026-03-14
+            summary: >
+              Matchweek 31 fixture at The City Ground (Nottingham). Scheduled date: March 14, 2026.
+              Kickoff: Sat 14 Mar 2026, 15:00 GMT.
+          9:
+            title: Sunderland vs Brighton & Hove Albion
+            originally_available: 2026-03-14
+            summary: >
+              Matchweek 31 fixture at Stadium of Light (Sunderland). Scheduled date: March 14, 2026.
+              Kickoff: Sat 14 Mar 2026, 15:00 GMT.
+          10:
+            title: West Ham United vs Manchester City
+            originally_available: 2026-03-14
+            summary: >
+              Matchweek 31 fixture at London Stadium (London). Scheduled date: March 14, 2026.
+              Kickoff: Sat 14 Mar 2026, 15:00 GMT.
+      32:
+        title: Matchweek 32
+        sort_title: 32_Matchweek 32
+        summary: >
+          Matchweek 32 covers March 21, 2026 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Aston Villa vs West Ham United
+            originally_available: 2026-03-21
+            summary: >
+              Matchweek 32 fixture at Villa Park (Birmingham). Scheduled date: March 21, 2026.
+              Kickoff: Sat 21 Mar 2026, 15:00 GMT.
+          2:
+            title: Bournemouth vs Manchester United
+            originally_available: 2026-03-21
+            summary: >
+              Matchweek 32 fixture at Vitality Stadium (Bournemouth). Scheduled date: March 21,
+              2026. Kickoff: Sat 21 Mar 2026, 15:00 GMT.
+          3:
+            title: Brighton & Hove Albion vs Liverpool
+            originally_available: 2026-03-21
+            summary: >
+              Matchweek 32 fixture at American Express Stadium (Falmer). Scheduled date: March 21,
+              2026. Kickoff: Sat 21 Mar 2026, 15:00 GMT.
+          4:
+            title: Everton vs Chelsea
+            originally_available: 2026-03-21
+            summary: >
+              Matchweek 32 fixture at Hill Dickinson Stadium (Liverpool). Scheduled date: March 21,
+              2026. Kickoff: Sat 21 Mar 2026, 15:00 GMT.
+          5:
+            title: Fulham vs Burnley
+            originally_available: 2026-03-21
+            summary: >
+              Matchweek 32 fixture at Craven Cottage (London). Scheduled date: March 21, 2026.
+              Kickoff: Sat 21 Mar 2026, 15:00 GMT.
+          6:
+            title: Leeds United vs Brentford
+            originally_available: 2026-03-21
+            summary: >
+              Matchweek 32 fixture at Elland Road (Leeds). Scheduled date: March 21, 2026. Kickoff:
+              Sat 21 Mar 2026, 15:00 GMT.
+          7:
+            title: Manchester City vs Crystal Palace
+            originally_available: 2026-03-21
+            summary: >
+              Matchweek 32 fixture at Etihad Stadium (Manchester). Scheduled date: March 21, 2026.
+              Kickoff: Sat 21 Mar 2026, 15:00 GMT.
+          8:
+            title: Newcastle United vs Sunderland
+            originally_available: 2026-03-21
+            summary: >
+              Matchweek 32 fixture at St. James' Park (Newcastle). Scheduled date: March 21, 2026.
+              Kickoff: Sat 21 Mar 2026, 15:00 GMT.
+          9:
+            title: Tottenham Hotspur vs Nottingham Forest
+            originally_available: 2026-03-21
+            summary: >
+              Matchweek 32 fixture at Tottenham Hotspur Stadium (London). Scheduled date: March 21,
+              2026. Kickoff: Sat 21 Mar 2026, 15:00 GMT.
+          10:
+            title: Wolverhampton Wanderers vs Arsenal
+            originally_available: 2026-03-21
+            summary: >
+              Matchweek 32 fixture at Molineux Stadium (Wolverhampton). Scheduled date: March 21,
+              2026. Kickoff: Sat 21 Mar 2026, 15:00 GMT.
+      33:
+        title: Matchweek 33
+        sort_title: 33_Matchweek 33
+        summary: >
+          Matchweek 33 covers April 11, 2026 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Arsenal vs Bournemouth
+            originally_available: 2026-04-11
+            summary: >
+              Matchweek 33 fixture at Emirates Stadium (London). Scheduled date: April 11, 2026.
+              Kickoff: Sat 11 Apr 2026, 15:00 BST.
+          2:
+            title: Brentford vs Everton
+            originally_available: 2026-04-11
+            summary: >
+              Matchweek 33 fixture at Gtech Community Stadium (Brentford). Scheduled date: April 11,
+              2026. Kickoff: Sat 11 Apr 2026, 15:00 BST.
+          3:
+            title: Burnley vs Brighton & Hove Albion
+            originally_available: 2026-04-11
+            summary: >
+              Matchweek 33 fixture at Turf Moor (Burnley). Scheduled date: April 11, 2026. Kickoff:
+              Sat 11 Apr 2026, 15:00 BST.
+          4:
+            title: Chelsea vs Manchester City
+            originally_available: 2026-04-11
+            summary: >
+              Matchweek 33 fixture at Stamford Bridge (London). Scheduled date: April 11, 2026.
+              Kickoff: Sat 11 Apr 2026, 15:00 BST.
+          5:
+            title: Crystal Palace vs Newcastle United
+            originally_available: 2026-04-11
+            summary: >
+              Matchweek 33 fixture at Selhurst Park (London). Scheduled date: April 11, 2026.
+              Kickoff: Sat 11 Apr 2026, 15:00 BST.
+          6:
+            title: Liverpool vs Fulham
+            originally_available: 2026-04-11
+            summary: >
+              Matchweek 33 fixture at Anfield (Liverpool). Scheduled date: April 11, 2026. Kickoff:
+              Sat 11 Apr 2026, 15:00 BST.
+          7:
+            title: Manchester United vs Leeds United
+            originally_available: 2026-04-11
+            summary: >
+              Matchweek 33 fixture at Old Trafford (Manchester). Scheduled date: April 11, 2026.
+              Kickoff: Sat 11 Apr 2026, 15:00 BST.
+          8:
+            title: Nottingham Forest vs Aston Villa
+            originally_available: 2026-04-11
+            summary: >
+              Matchweek 33 fixture at The City Ground (Nottingham). Scheduled date: April 11, 2026.
+              Kickoff: Sat 11 Apr 2026, 15:00 BST.
+          9:
+            title: Sunderland vs Tottenham Hotspur
+            originally_available: 2026-04-11
+            summary: >
+              Matchweek 33 fixture at Stadium of Light (Sunderland). Scheduled date: April 11, 2026.
+              Kickoff: Sat 11 Apr 2026, 15:00 BST.
+          10:
+            title: West Ham United vs Wolverhampton Wanderers
+            originally_available: 2026-04-11
+            summary: >
+              Matchweek 33 fixture at London Stadium (London). Scheduled date: April 11, 2026.
+              Kickoff: Sat 11 Apr 2026, 15:00 BST.
+      34:
+        title: Matchweek 34
+        sort_title: 34_Matchweek 34
+        summary: >
+          Matchweek 34 covers April 18, 2026 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Aston Villa vs Sunderland
+            originally_available: 2026-04-18
+            summary: >
+              Matchweek 34 fixture at Villa Park (Birmingham). Scheduled date: April 18, 2026.
+              Kickoff: Sat 18 Apr 2026, 15:00 BST.
+          2:
+            title: Brentford vs Fulham
+            originally_available: 2026-04-18
+            summary: >
+              Matchweek 34 fixture at Gtech Community Stadium (Brentford). Scheduled date: April 18,
+              2026. Kickoff: Sat 18 Apr 2026, 15:00 BST.
+          3:
+            title: Chelsea vs Manchester United
+            originally_available: 2026-04-18
+            summary: >
+              Matchweek 34 fixture at Stamford Bridge (London). Scheduled date: April 18, 2026.
+              Kickoff: Sat 18 Apr 2026, 15:00 BST.
+          4:
+            title: Crystal Palace vs West Ham United
+            originally_available: 2026-04-18
+            summary: >
+              Matchweek 34 fixture at Selhurst Park (London). Scheduled date: April 18, 2026.
+              Kickoff: Sat 18 Apr 2026, 15:00 BST.
+          5:
+            title: Everton vs Liverpool
+            originally_available: 2026-04-18
+            summary: >
+              Matchweek 34 fixture at Hill Dickinson Stadium (Liverpool). Scheduled date: April 18,
+              2026. Kickoff: Sat 18 Apr 2026, 15:00 BST.
+          6:
+            title: Leeds United vs Wolverhampton Wanderers
+            originally_available: 2026-04-18
+            summary: >
+              Matchweek 34 fixture at Elland Road (Leeds). Scheduled date: April 18, 2026. Kickoff:
+              Sat 18 Apr 2026, 15:00 BST.
+          7:
+            title: Manchester City vs Arsenal
+            originally_available: 2026-04-18
+            summary: >
+              Matchweek 34 fixture at Etihad Stadium (Manchester). Scheduled date: April 18, 2026.
+              Kickoff: Sat 18 Apr 2026, 15:00 BST.
+          8:
+            title: Newcastle United vs Bournemouth
+            originally_available: 2026-04-18
+            summary: >
+              Matchweek 34 fixture at St. James' Park (Newcastle). Scheduled date: April 18, 2026.
+              Kickoff: Sat 18 Apr 2026, 15:00 BST.
+          9:
+            title: Nottingham Forest vs Burnley
+            originally_available: 2026-04-18
+            summary: >
+              Matchweek 34 fixture at The City Ground (Nottingham). Scheduled date: April 18, 2026.
+              Kickoff: Sat 18 Apr 2026, 15:00 BST.
+          10:
+            title: Tottenham Hotspur vs Brighton & Hove Albion
+            originally_available: 2026-04-18
+            summary: >
+              Matchweek 34 fixture at Tottenham Hotspur Stadium (London). Scheduled date: April 18,
+              2026. Kickoff: Sat 18 Apr 2026, 15:00 BST.
+      35:
+        title: Matchweek 35
+        sort_title: 35_Matchweek 35
+        summary: >
+          Matchweek 35 covers April 25, 2026 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Arsenal vs Newcastle United
+            originally_available: 2026-04-25
+            summary: >
+              Matchweek 35 fixture at Emirates Stadium (London). Scheduled date: April 25, 2026.
+              Kickoff: Sat 25 Apr 2026, 15:00 BST.
+          2:
+            title: Bournemouth vs Leeds United
+            originally_available: 2026-04-25
+            summary: >
+              Matchweek 35 fixture at Vitality Stadium (Bournemouth). Scheduled date: April 25,
+              2026. Kickoff: Sat 25 Apr 2026, 15:00 BST.
+          3:
+            title: Brighton & Hove Albion vs Chelsea
+            originally_available: 2026-04-25
+            summary: >
+              Matchweek 35 fixture at American Express Stadium (Falmer). Scheduled date: April 25,
+              2026. Kickoff: Sat 25 Apr 2026, 15:00 BST.
+          4:
+            title: Burnley vs Manchester City
+            originally_available: 2026-04-25
+            summary: >
+              Matchweek 35 fixture at Turf Moor (Burnley). Scheduled date: April 25, 2026. Kickoff:
+              Sat 25 Apr 2026, 15:00 BST.
+          5:
+            title: Fulham vs Aston Villa
+            originally_available: 2026-04-25
+            summary: >
+              Matchweek 35 fixture at Craven Cottage (London). Scheduled date: April 25, 2026.
+              Kickoff: Sat 25 Apr 2026, 15:00 BST.
+          6:
+            title: Liverpool vs Crystal Palace
+            originally_available: 2026-04-25
+            summary: >
+              Matchweek 35 fixture at Anfield (Liverpool). Scheduled date: April 25, 2026. Kickoff:
+              Sat 25 Apr 2026, 15:00 BST.
+          7:
+            title: Manchester United vs Brentford
+            originally_available: 2026-04-25
+            summary: >
+              Matchweek 35 fixture at Old Trafford (Manchester). Scheduled date: April 25, 2026.
+              Kickoff: Sat 25 Apr 2026, 15:00 BST.
+          8:
+            title: Sunderland vs Nottingham Forest
+            originally_available: 2026-04-25
+            summary: >
+              Matchweek 35 fixture at Stadium of Light (Sunderland). Scheduled date: April 25, 2026.
+              Kickoff: Sat 25 Apr 2026, 15:00 BST.
+          9:
+            title: West Ham United vs Everton
+            originally_available: 2026-04-25
+            summary: >
+              Matchweek 35 fixture at London Stadium (London). Scheduled date: April 25, 2026.
+              Kickoff: Sat 25 Apr 2026, 15:00 BST.
+          10:
+            title: Wolverhampton Wanderers vs Tottenham Hotspur
+            originally_available: 2026-04-25
+            summary: >
+              Matchweek 35 fixture at Molineux Stadium (Wolverhampton). Scheduled date: April 25,
+              2026. Kickoff: Sat 25 Apr 2026, 15:00 BST.
+      36:
+        title: Matchweek 36
+        sort_title: 36_Matchweek 36
+        summary: >
+          Matchweek 36 covers May 2, 2026 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Arsenal vs Fulham
+            originally_available: 2026-05-02
+            summary: >
+              Matchweek 36 fixture at Emirates Stadium (London). Scheduled date: May 2, 2026.
+              Kickoff: Sat 2 May 2026, 15:00 BST.
+          2:
+            title: Aston Villa vs Tottenham Hotspur
+            originally_available: 2026-05-02
+            summary: >
+              Matchweek 36 fixture at Villa Park (Birmingham). Scheduled date: May 2, 2026. Kickoff:
+              Sat 2 May 2026, 15:00 BST.
+          3:
+            title: Bournemouth vs Crystal Palace
+            originally_available: 2026-05-02
+            summary: >
+              Matchweek 36 fixture at Vitality Stadium (Bournemouth). Scheduled date: May 2, 2026.
+              Kickoff: Sat 2 May 2026, 15:00 BST.
+          4:
+            title: Brentford vs West Ham United
+            originally_available: 2026-05-02
+            summary: >
+              Matchweek 36 fixture at Gtech Community Stadium (Brentford). Scheduled date: May 2,
+              2026. Kickoff: Sat 2 May 2026, 15:00 BST.
+          5:
+            title: Chelsea vs Nottingham Forest
+            originally_available: 2026-05-02
+            summary: >
+              Matchweek 36 fixture at Stamford Bridge (London). Scheduled date: May 2, 2026.
+              Kickoff: Sat 2 May 2026, 15:00 BST.
+          6:
+            title: Everton vs Manchester City
+            originally_available: 2026-05-02
+            summary: >
+              Matchweek 36 fixture at Hill Dickinson Stadium (Liverpool). Scheduled date: May 2,
+              2026. Kickoff: Sat 2 May 2026, 15:00 BST.
+          7:
+            title: Leeds United vs Burnley
+            originally_available: 2026-05-02
+            summary: >
+              Matchweek 36 fixture at Elland Road (Leeds). Scheduled date: May 2, 2026. Kickoff: Sat
+              2 May 2026, 15:00 BST.
+          8:
+            title: Manchester United vs Liverpool
+            originally_available: 2026-05-02
+            summary: >
+              Matchweek 36 fixture at Old Trafford (Manchester). Scheduled date: May 2, 2026.
+              Kickoff: Sat 2 May 2026, 15:00 BST.
+          9:
+            title: Newcastle United vs Brighton & Hove Albion
+            originally_available: 2026-05-02
+            summary: >
+              Matchweek 36 fixture at St. James' Park (Newcastle). Scheduled date: May 2, 2026.
+              Kickoff: Sat 2 May 2026, 15:00 BST.
+          10:
+            title: Wolverhampton Wanderers vs Sunderland
+            originally_available: 2026-05-02
+            summary: >
+              Matchweek 36 fixture at Molineux Stadium (Wolverhampton). Scheduled date: May 2, 2026.
+              Kickoff: Sat 2 May 2026, 15:00 BST.
+      37:
+        title: Matchweek 37
+        sort_title: 37_Matchweek 37
+        summary: >
+          Matchweek 37 covers May 9, 2026 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Brighton & Hove Albion vs Wolverhampton Wanderers
+            originally_available: 2026-05-09
+            summary: >
+              Matchweek 37 fixture at American Express Stadium (Falmer). Scheduled date: May 9,
+              2026. Kickoff: Sat 9 May 2026, 15:00 BST.
+          2:
+            title: Burnley vs Aston Villa
+            originally_available: 2026-05-09
+            summary: >
+              Matchweek 37 fixture at Turf Moor (Burnley). Scheduled date: May 9, 2026. Kickoff: Sat
+              9 May 2026, 15:00 BST.
+          3:
+            title: Crystal Palace vs Everton
+            originally_available: 2026-05-09
+            summary: >
+              Matchweek 37 fixture at Selhurst Park (London). Scheduled date: May 9, 2026. Kickoff:
+              Sat 9 May 2026, 15:00 BST.
+          4:
+            title: Fulham vs Bournemouth
+            originally_available: 2026-05-09
+            summary: >
+              Matchweek 37 fixture at Craven Cottage (London). Scheduled date: May 9, 2026. Kickoff:
+              Sat 9 May 2026, 15:00 BST.
+          5:
+            title: Liverpool vs Chelsea
+            originally_available: 2026-05-09
+            summary: >
+              Matchweek 37 fixture at Anfield (Liverpool). Scheduled date: May 9, 2026. Kickoff: Sat
+              9 May 2026, 15:00 BST.
+          6:
+            title: Manchester City vs Brentford
+            originally_available: 2026-05-09
+            summary: >
+              Matchweek 37 fixture at Etihad Stadium (Manchester). Scheduled date: May 9, 2026.
+              Kickoff: Sat 9 May 2026, 15:00 BST.
+          7:
+            title: Nottingham Forest vs Newcastle United
+            originally_available: 2026-05-09
+            summary: >
+              Matchweek 37 fixture at The City Ground (Nottingham). Scheduled date: May 9, 2026.
+              Kickoff: Sat 9 May 2026, 15:00 BST.
+          8:
+            title: Sunderland vs Manchester United
+            originally_available: 2026-05-09
+            summary: >
+              Matchweek 37 fixture at Stadium of Light (Sunderland). Scheduled date: May 9, 2026.
+              Kickoff: Sat 9 May 2026, 15:00 BST.
+          9:
+            title: Tottenham Hotspur vs Leeds United
+            originally_available: 2026-05-09
+            summary: >
+              Matchweek 37 fixture at Tottenham Hotspur Stadium (London). Scheduled date: May 9,
+              2026. Kickoff: Sat 9 May 2026, 15:00 BST.
+          10:
+            title: West Ham United vs Arsenal
+            originally_available: 2026-05-09
+            summary: >
+              Matchweek 37 fixture at London Stadium (London). Scheduled date: May 9, 2026. Kickoff:
+              Sat 9 May 2026, 15:00 BST.
+      38:
+        title: Matchweek 38
+        sort_title: 38_Matchweek 38
+        summary: >
+          Matchweek 38 covers May 17, 2026 with 10 scheduled fixtures.
+        episodes:
+          1:
+            title: Arsenal vs Burnley
+            originally_available: 2026-05-17
+            summary: >
+              Matchweek 38 fixture at Emirates Stadium (London). Scheduled date: May 17, 2026.
+              Kickoff: Sun 17 May 2026, 15:00 BST.
+          2:
+            title: Aston Villa vs Liverpool
+            originally_available: 2026-05-17
+            summary: >
+              Matchweek 38 fixture at Villa Park (Birmingham). Scheduled date: May 17, 2026.
+              Kickoff: Sun 17 May 2026, 15:00 BST.
+          3:
+            title: Bournemouth vs Manchester City
+            originally_available: 2026-05-17
+            summary: >
+              Matchweek 38 fixture at Vitality Stadium (Bournemouth). Scheduled date: May 17, 2026.
+              Kickoff: Sun 17 May 2026, 15:00 BST.
+          4:
+            title: Brentford vs Crystal Palace
+            originally_available: 2026-05-17
+            summary: >
+              Matchweek 38 fixture at Gtech Community Stadium (Brentford). Scheduled date: May 17,
+              2026. Kickoff: Sun 17 May 2026, 15:00 BST.
+          5:
+            title: Chelsea vs Tottenham Hotspur
+            originally_available: 2026-05-17
+            summary: >
+              Matchweek 38 fixture at Stamford Bridge (London). Scheduled date: May 17, 2026.
+              Kickoff: Sun 17 May 2026, 15:00 BST.
+          6:
+            title: Everton vs Sunderland
+            originally_available: 2026-05-17
+            summary: >
+              Matchweek 38 fixture at Hill Dickinson Stadium (Liverpool). Scheduled date: May 17,
+              2026. Kickoff: Sun 17 May 2026, 15:00 BST.
+          7:
+            title: Leeds United vs Brighton & Hove Albion
+            originally_available: 2026-05-17
+            summary: >
+              Matchweek 38 fixture at Elland Road (Leeds). Scheduled date: May 17, 2026. Kickoff:
+              Sun 17 May 2026, 15:00 BST.
+          8:
+            title: Manchester United vs Nottingham Forest
+            originally_available: 2026-05-17
+            summary: >
+              Matchweek 38 fixture at Old Trafford (Manchester). Scheduled date: May 17, 2026.
+              Kickoff: Sun 17 May 2026, 15:00 BST.
+          9:
+            title: Newcastle United vs West Ham United
+            originally_available: 2026-05-17
+            summary: >
+              Matchweek 38 fixture at St. James' Park (Newcastle). Scheduled date: May 17, 2026.
+              Kickoff: Sun 17 May 2026, 15:00 BST.
+          10:
+            title: Wolverhampton Wanderers vs Fulham
+            originally_available: 2026-05-17
+            summary: >
+              Matchweek 38 fixture at Molineux Stadium (Wolverhampton). Scheduled date: May 17,
+              2026. Kickoff: Sun 17 May 2026, 15:00 BST.

@@ -19,3 +19,17 @@ disable SSL verification if your platform lacks the required CA bundle.
 > Tip: rerun the script once the league finalises flexible kickoff windows (Weeks 17
 > and 18) to refresh the TBD entries.
 
+## `generate_premier_league_metadata.py`
+
+Generates Premier League metadata using Pulse Live's fixtures endpoint. Matchweeks are
+treated as seasons, with each fixture producing an episode entry that includes venue
+and kickoff details.
+
+```shell
+python3 scripts/generate_premier_league_metadata.py --year 2025 --season-id 777
+```
+
+Find the `season-id` with `https://footballapi.pulselive.com/football/competitions/1/compseasons`
+(`777` corresponds to 2025/26). Additional flags let you tweak artwork URLs, show
+titles or limit the matchweek range. Use `--help` for the complete option list.
+
