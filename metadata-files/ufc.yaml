@@ -452,6 +452,7 @@ metadata:
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/321/poster.jpg
         summary: >
           UFC 321: Aspinall vs. Gane was a mixed martial arts event produced by the Ultimate Fighting Championship that took place on October 25, 2025, at the Etihad Arena in Abu Dhabi, United Arab Emirates. A UFC Heavyweight Championship bout between current champion Tom Aspinall and former interim champion Ciryl Gane headlined the event. A UFC Women's Strawweight Championship bout for the vacant title between former Invicta FC Strawweight Champion Virna Jandiroba and Mackenzie Dern took place in the co-main event.
+        episodes:
           1:
             title: Early Prelims
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/321/early-prelims.jpg
