@@ -273,20 +273,12 @@ def build_metadata(matchdays: Dict[int, List[dict]]) -> str:
             )
 
             if match["status"] == "final":
-                result = (
-                    f"Result: {match['home']} {match['home_score']} - {match['away_score']} {match['away']}"
-                )
-                if match["home_pen"] is not None and match["away_pen"] is not None:
-                    result += f" (pens {match['home_pen']}-{match['away_pen']})."
-                else:
-                    result += "."
                 summary_lines = [
                     f"Matchday {round_num} fixture played on {match['date'].strftime('%B %d, %Y')}.",
-                    result,
                 ]
                 if match["time"]:
-                    summary_lines.insert(
-                        1, f"Listed kickoff: {match['time']} (local time)."
+                    summary_lines.append(
+                        f"Kickoff: {match['time']} (local time)."
                     )
             else:
                 summary_lines = [

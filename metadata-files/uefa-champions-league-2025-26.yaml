@@ -20,109 +20,91 @@ metadata:
             originally_available: 2025-09-16
             summary: >
               Matchday 1 fixture played on September 16, 2025.
-              Result: Benfica 2 - 3 Qarabağ.
           2:
             title: Bilbao vs Arsenal
             originally_available: 2025-09-16
             summary: >
               Matchday 1 fixture played on September 16, 2025.
-              Result: Bilbao 0 - 2 Arsenal.
           3:
             title: Juventus vs Dortmund
             originally_available: 2025-09-16
             summary: >
               Matchday 1 fixture played on September 16, 2025.
-              Result: Juventus 4 - 4 Dortmund.
           4:
             title: PSV Eindhoven vs Union Saint-Gilloise
             originally_available: 2025-09-16
             summary: >
               Matchday 1 fixture played on September 16, 2025.
-              Result: PSV Eindhoven 1 - 3 Union Saint-Gilloise.
           5:
             title: Real Madrid vs L'OM
             originally_available: 2025-09-16
             summary: >
               Matchday 1 fixture played on September 16, 2025.
-              Result: Real Madrid 2 - 1 L'OM.
           6:
             title: Tottenham vs Villarreal
             originally_available: 2025-09-16
             summary: >
               Matchday 1 fixture played on September 16, 2025.
-              Result: Tottenham 1 - 0 Villarreal.
           7:
             title: Ajax vs Inter
             originally_available: 2025-09-17
             summary: >
               Matchday 1 fixture played on September 17, 2025.
-              Result: Ajax 0 - 2 Inter.
           8:
             title: Bayern vs Chelsea
             originally_available: 2025-09-17
             summary: >
               Matchday 1 fixture played on September 17, 2025.
-              Result: Bayern 3 - 1 Chelsea.
           9:
             title: Liverpool vs Atlético Madrid
             originally_available: 2025-09-17
             summary: >
               Matchday 1 fixture played on September 17, 2025.
-              Result: Liverpool 3 - 2 Atlético Madrid.
           10:
             title: Olympiakos vs Pafos
             originally_available: 2025-09-17
             summary: >
               Matchday 1 fixture played on September 17, 2025.
-              Result: Olympiakos 0 - 0 Pafos.
           11:
             title: PSG vs Atalanta
             originally_available: 2025-09-17
             summary: >
               Matchday 1 fixture played on September 17, 2025.
-              Result: PSG 4 - 0 Atalanta.
           12:
             title: Slavia Prag vs Bodø/Glimt
             originally_available: 2025-09-17
             summary: >
               Matchday 1 fixture played on September 17, 2025.
-              Result: Slavia Prag 2 - 2 Bodø/Glimt.
           13:
             title: Brügge vs AS Monaco
             originally_available: 2025-09-18
             summary: >
               Matchday 1 fixture played on September 18, 2025.
-              Result: Brügge 4 - 1 AS Monaco.
           14:
             title: Eintracht Frankfurt vs Galatasaray
             originally_available: 2025-09-18
             summary: >
               Matchday 1 fixture played on September 18, 2025.
-              Result: Eintracht Frankfurt 5 - 1 Galatasaray.
           15:
             title: Köpenhamn vs Leverkusen
             originally_available: 2025-09-18
             summary: >
               Matchday 1 fixture played on September 18, 2025.
-              Result: Köpenhamn 2 - 2 Leverkusen.
           16:
             title: Man City vs Napoli
             originally_available: 2025-09-18
             summary: >
               Matchday 1 fixture played on September 18, 2025.
-              Result: Man City 2 - 0 Napoli.
           17:
             title: Newcastle vs Barcelona
             originally_available: 2025-09-18
             summary: >
               Matchday 1 fixture played on September 18, 2025.
-              Result: Newcastle 1 - 2 Barcelona.
           18:
             title: Sporting vs FC Kairat
             originally_available: 2025-09-18
             summary: >
               Matchday 1 fixture played on September 18, 2025.
-              Result: Sporting 4 - 1 FC Kairat.
       2:
         title: Matchday 2
         sort_title: 02_Matchday 2
@@ -134,109 +116,91 @@ metadata:
             originally_available: 2025-09-30
             summary: >
               Matchday 2 fixture played on September 30, 2025.
-              Result: Atalanta 2 - 1 Brügge.
           2:
             title: Atlético Madrid vs Eintracht Frankfurt
             originally_available: 2025-09-30
             summary: >
               Matchday 2 fixture played on September 30, 2025.
-              Result: Atlético Madrid 5 - 1 Eintracht Frankfurt.
           3:
             title: Bodø/Glimt vs Tottenham
             originally_available: 2025-09-30
             summary: >
               Matchday 2 fixture played on September 30, 2025.
-              Result: Bodø/Glimt 2 - 2 Tottenham.
           4:
             title: Chelsea vs Benfica
             originally_available: 2025-09-30
             summary: >
               Matchday 2 fixture played on September 30, 2025.
-              Result: Chelsea 1 - 0 Benfica.
           5:
             title: FC Kairat vs Real Madrid
             originally_available: 2025-09-30
             summary: >
               Matchday 2 fixture played on September 30, 2025.
-              Result: FC Kairat 0 - 5 Real Madrid.
           6:
             title: Galatasaray vs Liverpool
             originally_available: 2025-09-30
             summary: >
               Matchday 2 fixture played on September 30, 2025.
-              Result: Galatasaray 1 - 0 Liverpool.
           7:
             title: Inter vs Slavia Prag
             originally_available: 2025-09-30
             summary: >
               Matchday 2 fixture played on September 30, 2025.
-              Result: Inter 3 - 0 Slavia Prag.
           8:
             title: L'OM vs Ajax
             originally_available: 2025-09-30
             summary: >
               Matchday 2 fixture played on September 30, 2025.
-              Result: L'OM 4 - 0 Ajax.
           9:
             title: Pafos vs Bayern
             originally_available: 2025-09-30
             summary: >
               Matchday 2 fixture played on September 30, 2025.
-              Result: Pafos 1 - 5 Bayern.
           10:
             title: AS Monaco vs Man City
             originally_available: 2025-10-01
             summary: >
               Matchday 2 fixture played on October 01, 2025.
-              Result: AS Monaco 2 - 2 Man City.
           11:
             title: Arsenal vs Olympiakos
             originally_available: 2025-10-01
             summary: >
               Matchday 2 fixture played on October 01, 2025.
-              Result: Arsenal 2 - 0 Olympiakos.
           12:
             title: Barcelona vs PSG
             originally_available: 2025-10-01
             summary: >
               Matchday 2 fixture played on October 01, 2025.
-              Result: Barcelona 1 - 2 PSG.
           13:
             title: Dortmund vs Bilbao
             originally_available: 2025-10-01
             summary: >
               Matchday 2 fixture played on October 01, 2025.
-              Result: Dortmund 4 - 1 Bilbao.
           14:
             title: Leverkusen vs PSV Eindhoven
             originally_available: 2025-10-01
             summary: >
               Matchday 2 fixture played on October 01, 2025.
-              Result: Leverkusen 1 - 1 PSV Eindhoven.
           15:
             title: Napoli vs Sporting
             originally_available: 2025-10-01
             summary: >
               Matchday 2 fixture played on October 01, 2025.
-              Result: Napoli 2 - 1 Sporting.
           16:
             title: Qarabağ vs Köpenhamn
             originally_available: 2025-10-01
             summary: >
               Matchday 2 fixture played on October 01, 2025.
-              Result: Qarabağ 2 - 0 Köpenhamn.
           17:
             title: Union Saint-Gilloise vs Newcastle
             originally_available: 2025-10-01
             summary: >
               Matchday 2 fixture played on October 01, 2025.
-              Result: Union Saint-Gilloise 0 - 4 Newcastle.
           18:
             title: Villarreal vs Juventus
             originally_available: 2025-10-01
             summary: >
               Matchday 2 fixture played on October 01, 2025.
-              Result: Villarreal 2 - 2 Juventus.
       3:
         title: Matchday 3
         sort_title: 03_Matchday 3
@@ -248,109 +212,91 @@ metadata:
             originally_available: 2025-10-21
             summary: >
               Matchday 3 fixture played on October 21, 2025.
-              Result: Arsenal 4 - 0 Atlético Madrid.
           2:
             title: Barcelona vs Olympiakos
             originally_available: 2025-10-21
             summary: >
               Matchday 3 fixture played on October 21, 2025.
-              Result: Barcelona 6 - 1 Olympiakos.
           3:
             title: FC Kairat vs Pafos
             originally_available: 2025-10-21
             summary: >
               Matchday 3 fixture played on October 21, 2025.
-              Result: FC Kairat 0 - 0 Pafos.
           4:
             title: Köpenhamn vs Dortmund
             originally_available: 2025-10-21
             summary: >
               Matchday 3 fixture played on October 21, 2025.
-              Result: Köpenhamn 2 - 4 Dortmund.
           5:
             title: Leverkusen vs PSG
             originally_available: 2025-10-21
             summary: >
               Matchday 3 fixture played on October 21, 2025.
-              Result: Leverkusen 2 - 7 PSG.
           6:
             title: Newcastle vs Benfica
             originally_available: 2025-10-21
             summary: >
               Matchday 3 fixture played on October 21, 2025.
-              Result: Newcastle 3 - 0 Benfica.
           7:
             title: PSV Eindhoven vs Napoli
             originally_available: 2025-10-21
             summary: >
               Matchday 3 fixture played on October 21, 2025.
-              Result: PSV Eindhoven 6 - 2 Napoli.
           8:
             title: Union Saint-Gilloise vs Inter
             originally_available: 2025-10-21
             summary: >
               Matchday 3 fixture played on October 21, 2025.
-              Result: Union Saint-Gilloise 0 - 4 Inter.
           9:
             title: Villarreal vs Man City
             originally_available: 2025-10-21
             summary: >
               Matchday 3 fixture played on October 21, 2025.
-              Result: Villarreal 0 - 2 Man City.
           10:
             title: AS Monaco vs Tottenham
             originally_available: 2025-10-22
             summary: >
               Matchday 3 fixture played on October 22, 2025.
-              Result: AS Monaco 0 - 0 Tottenham.
           11:
             title: Atalanta vs Slavia Prag
             originally_available: 2025-10-22
             summary: >
               Matchday 3 fixture played on October 22, 2025.
-              Result: Atalanta 0 - 0 Slavia Prag.
           12:
             title: Bayern vs Brügge
             originally_available: 2025-10-22
             summary: >
               Matchday 3 fixture played on October 22, 2025.
-              Result: Bayern 4 - 0 Brügge.
           13:
             title: Bilbao vs Qarabağ
             originally_available: 2025-10-22
             summary: >
               Matchday 3 fixture played on October 22, 2025.
-              Result: Bilbao 3 - 1 Qarabağ.
           14:
             title: Chelsea vs Ajax
             originally_available: 2025-10-22
             summary: >
               Matchday 3 fixture played on October 22, 2025.
-              Result: Chelsea 5 - 1 Ajax.
           15:
             title: Eintracht Frankfurt vs Liverpool
             originally_available: 2025-10-22
             summary: >
               Matchday 3 fixture played on October 22, 2025.
-              Result: Eintracht Frankfurt 1 - 5 Liverpool.
           16:
             title: Galatasaray vs Bodø/Glimt
             originally_available: 2025-10-22
             summary: >
               Matchday 3 fixture played on October 22, 2025.
-              Result: Galatasaray 3 - 1 Bodø/Glimt.
           17:
             title: Real Madrid vs Juventus
             originally_available: 2025-10-22
             summary: >
               Matchday 3 fixture played on October 22, 2025.
-              Result: Real Madrid 1 - 0 Juventus.
           18:
             title: Sporting vs L'OM
             originally_available: 2025-10-22
             summary: >
               Matchday 3 fixture played on October 22, 2025.
-              Result: Sporting 2 - 1 L'OM.
       4:
         title: Matchday 4
         sort_title: 04_Matchday 4
@@ -362,109 +308,91 @@ metadata:
             originally_available: 2025-11-04
             summary: >
               Matchday 4 fixture played on November 04, 2025.
-              Result: Atlético Madrid 3 - 1 Union Saint-Gilloise.
           2:
             title: Bodø/Glimt vs AS Monaco
             originally_available: 2025-11-04
             summary: >
               Matchday 4 fixture played on November 04, 2025.
-              Result: Bodø/Glimt 0 - 1 AS Monaco.
           3:
             title: Juventus vs Sporting
             originally_available: 2025-11-04
             summary: >
               Matchday 4 fixture played on November 04, 2025.
-              Result: Juventus 1 - 1 Sporting.
           4:
             title: Liverpool vs Real Madrid
             originally_available: 2025-11-04
             summary: >
               Matchday 4 fixture played on November 04, 2025.
-              Result: Liverpool 1 - 0 Real Madrid.
           5:
             title: Napoli vs Eintracht Frankfurt
             originally_available: 2025-11-04
             summary: >
               Matchday 4 fixture played on November 04, 2025.
-              Result: Napoli 0 - 0 Eintracht Frankfurt.
           6:
             title: Olympiakos vs PSV Eindhoven
             originally_available: 2025-11-04
             summary: >
               Matchday 4 fixture played on November 04, 2025.
-              Result: Olympiakos 1 - 1 PSV Eindhoven.
           7:
             title: PSG vs Bayern
             originally_available: 2025-11-04
             summary: >
               Matchday 4 fixture played on November 04, 2025.
-              Result: PSG 1 - 2 Bayern.
           8:
             title: Slavia Prag vs Arsenal
             originally_available: 2025-11-04
             summary: >
               Matchday 4 fixture played on November 04, 2025.
-              Result: Slavia Prag 0 - 3 Arsenal.
           9:
             title: Tottenham vs Köpenhamn
             originally_available: 2025-11-04
             summary: >
               Matchday 4 fixture played on November 04, 2025.
-              Result: Tottenham 4 - 0 Köpenhamn.
           10:
             title: Ajax vs Galatasaray
             originally_available: 2025-11-05
             summary: >
               Matchday 4 fixture played on November 05, 2025.
-              Result: Ajax 0 - 3 Galatasaray.
           11:
             title: Benfica vs Leverkusen
             originally_available: 2025-11-05
             summary: >
               Matchday 4 fixture played on November 05, 2025.
-              Result: Benfica 0 - 1 Leverkusen.
           12:
             title: Brügge vs Barcelona
             originally_available: 2025-11-05
             summary: >
               Matchday 4 fixture played on November 05, 2025.
-              Result: Brügge 3 - 3 Barcelona.
           13:
             title: Inter vs FC Kairat
             originally_available: 2025-11-05
             summary: >
               Matchday 4 fixture played on November 05, 2025.
-              Result: Inter 2 - 1 FC Kairat.
           14:
             title: L'OM vs Atalanta
             originally_available: 2025-11-05
             summary: >
               Matchday 4 fixture played on November 05, 2025.
-              Result: L'OM 0 - 1 Atalanta.
           15:
             title: Man City vs Dortmund
             originally_available: 2025-11-05
             summary: >
               Matchday 4 fixture played on November 05, 2025.
-              Result: Man City 4 - 1 Dortmund.
           16:
             title: Newcastle vs Bilbao
             originally_available: 2025-11-05
             summary: >
               Matchday 4 fixture played on November 05, 2025.
-              Result: Newcastle 2 - 0 Bilbao.
           17:
             title: Pafos vs Villarreal
             originally_available: 2025-11-05
             summary: >
               Matchday 4 fixture played on November 05, 2025.
-              Result: Pafos 1 - 0 Villarreal.
           18:
             title: Qarabağ vs Chelsea
             originally_available: 2025-11-05
             summary: >
               Matchday 4 fixture played on November 05, 2025.
-              Result: Qarabağ 2 - 2 Chelsea.
       5:
         title: Matchday 5
         sort_title: 05_Matchday 5
