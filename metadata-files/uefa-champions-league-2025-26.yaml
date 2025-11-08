@@ -2,8 +2,8 @@ metadata:
   UEFA Champions League 2025-26:
     title: UEFA Champions League 2025-26
     sort_title: UEFA Champions League 2025-26
-    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league-2025-2026/poster.jpg
-    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league-2025-2026/background.jpg
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league-2025-26/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league-2025-26/background.jpg
     summary: >
       The 2025-2026 UEFA Champions League campaign adopts UEFA's new league phase structure across eight
       matchdays before the knockout rounds. This metadata file groups fixtures by matchday so Sports

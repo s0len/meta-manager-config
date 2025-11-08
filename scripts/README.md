@@ -19,6 +19,23 @@ disable SSL verification if your platform lacks the required CA bundle.
 > Tip: rerun the script once the league finalises flexible kickoff windows (Weeks 17
 > and 18) to refresh the TBD entries.
 
+## `generate_nba_metadata.py`
+
+Fetches the live NBA schedule JSON from the league CDN and groups fixtures into seasons
+using the league-provided `weekNumber`. Each entry in a week becomes an episode with
+summary details that cover the venue, city and scheduled date.
+
+```shell
+python3 scripts/generate_nba_metadata.py --year 2025
+```
+
+By default only regular-season games are written to `metadata-files/nba-2025-26.yaml`.
+Include additional phases such as preseason or the Emirates NBA Cup by repeating the
+`--phase` flag (for example `--phase preseason --phase cup`). Artwork URLs, summaries
+and output paths mirror the knobs provided by the other generators, so use `--help` to
+review every option. Re-run the script whenever the NBA updates the feed to keep dates
+and neutral-site markers fresh.
+
 ## `generate_premier_league_metadata.py`
 
 Generates Premier League metadata using Pulse Live's fixtures endpoint. Matchweeks are
