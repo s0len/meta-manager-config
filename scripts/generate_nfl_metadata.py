@@ -161,7 +161,7 @@ def _format_date_range(dates: Iterable[date]) -> str:
     )
 
 
-def _wrap_lines(prefix: str, text: str, width: int) -> List[str]:
+def _wrap_lines(prefix: str, text: str, width: int = 100) -> List[str]:
     wrapper = textwrap.TextWrapper(width=width)
     return [f"{prefix}{line}" for line in wrapper.wrap(text)]
 
@@ -319,7 +319,8 @@ def build_metadata(args: argparse.Namespace) -> dict:
             }
         )
 
-    show_id = args.show_id or f"NFL {args.year}-{args.year + 1}"
+    next_year_suffix = f"{(args.year + 1) % 100:02d}"
+    show_id = args.show_id or f"NFL {args.year}-{next_year_suffix}"
     return {
         "show_id": show_id,
         "title": args.title or show_id,
@@ -400,17 +401,17 @@ def parse_args(argv: Optional[List[str]] = None) -> argparse.Namespace:
 def main(argv: Optional[List[str]] = None) -> int:
     args = parse_args(argv)
 
-    year_next = args.year + 1
-    args.poster_url = args.poster_url.format(year=args.year, year_next=year_next)
-    args.background_url = args.background_url.format(year=args.year, year_next=year_next)
-    args.summary = args.summary.format(year=args.year, year_next=year_next)
+    year_next_suffix = f"{(args.year + 1) % 100:02d}"
+    args.poster_url = args.poster_url.format(year=args.year, year_next=year_next_suffix)
+    args.background_url = args.background_url.format(year=args.year, year_next=year_next_suffix)
+    args.summary = args.summary.format(year=args.year, year_next=year_next_suffix)
 
     metadata = build_metadata(args)
     yaml_text = render_yaml(metadata)
 
     output_path = args.output
     if output_path is None:
-        output_path = Path("metadata-files") / f"nfl-{args.year}-{year_next}.yaml"
+        output_path = Path("metadata-files") / f"nfl-{args.year}-{year_next_suffix}.yaml"
     else:
         output_path = output_path.expanduser()
 
