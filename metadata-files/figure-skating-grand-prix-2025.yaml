@@ -1,0 +1,375 @@
+metadata:
+  Figure Skating Grand Prix 2025:
+    title: Figure Skating Grand Prix 2025
+    sort_title: Figure Skating Grand Prix 2025
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix-2025/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix-2025/background.jpg
+    summary: >
+      Figure Skating Grand Prix 2025 follows the ISU Grand Prix stops staged during
+      the 2025–26 figure skating season, spotlighting short programs, free skates,
+      rhythm dances, and exhibition galas across France, China, Canada, Japan, the
+      United States, Finland, and the season-ending Final in Nagoya.
+    seasons:
+      1:
+        title: Grand Prix de France 2025
+        sort_title: 01_Grand Prix de France 2025
+        summary: >
+          Angers opens the Grand Prix calendar from 17–19 October 2025 with
+          competition inside Angers IceParc.
+        episodes:
+          1:
+            title: Pairs Short Program
+            summary: >
+              Pairs teams launch the Angers stop with short programs packed with
+              synchronized lifts and side-by-side jumps.
+            originally_available: 2025-10-17
+          2:
+            title: Women Short Program
+            summary: >
+              The women's field debuts new short programs while chasing early
+              Grand Prix points in France.
+            originally_available: 2025-10-17
+          3:
+            title: Ice Dance Rhythm Dance
+            summary: >
+              Ice dance duos showcase the season's rhythm dance themes before the
+              cut to the free segment.
+            originally_available: 2025-10-18
+          4:
+            title: Men Short Program
+            summary: >
+              Angers' men's short program sets the standings ahead of the decisive
+              free skates.
+            originally_available: 2025-10-18
+          5:
+            title: Women Free Program
+            summary: >
+              Free skates decide the women's podium as programs stretch to four
+              minutes under the French lights.
+            originally_available: 2025-10-18
+          6:
+            title: Pairs Free Program
+            summary: >
+              Pairs unleash throw jumps and dramatic lifts to secure medals in the
+              opening Grand Prix weekend.
+            originally_available: 2025-10-18
+          7:
+            title: Men Free Program
+            summary: >
+              The men's free skating finale crowns Angers champions and awards key
+              Grand Prix standings points.
+            originally_available: 2025-10-19
+          8:
+            title: Exhibition Gala
+            summary: >
+              Medalists and guests return for encore performances celebrating the
+              first Grand Prix stop.
+            originally_available: 2025-10-19
+      2:
+        title: Cup of China 2025
+        sort_title: 02_Cup of China 2025
+        summary: >
+          Chongqing hosts the second Grand Prix leg from 24–26 October 2025 as the
+          tour continues through Asia.
+        episodes:
+          1:
+            title: Ice Dance Rhythm Dance
+            summary: >
+              Rhythm dances open the Chongqing weekend with quick-step footwork
+              and precision twizzles.
+            originally_available: 2025-10-24
+          2:
+            title: Pairs Short Program
+            summary: >
+              Pairs teams navigate tight elements in their short programs to stay
+              in contention for medals in China.
+            originally_available: 2025-10-24
+          3:
+            title: Men Short Program
+            summary: >
+              Men's short programs lock in the starting order before the decisive
+              Cup of China free skates.
+            originally_available: 2025-10-24
+          4:
+            title: Ice Dance Free Dance
+            summary: >
+              Free dances bring storytelling and intricate lifts as teams chase
+              the Cup of China podium.
+            originally_available: 2025-10-25
+          5:
+            title: Women Free Program
+            summary: >
+              Women's free skates determine medalists while adding pressure to the
+              Grand Prix standings.
+            originally_available: 2025-10-25
+          6:
+            title: Men Free Program
+            summary: >
+              Men's free programs close their discipline with extended technical
+              content and second-half bonuses.
+            originally_available: 2025-10-25
+          7:
+            title: Pairs Free Program
+            summary: >
+              The pairs free skate finishes the competitive slate with soaring
+              throws and dramatic choreography.
+            originally_available: 2025-10-25
+          8:
+            title: Exhibition Gala
+            summary: >
+              Skaters celebrate the Chongqing stop with a relaxed exhibition gala
+              before the circuit moves on.
+            originally_available: 2025-10-26
+      3:
+        title: Skate Canada International 2025
+        sort_title: 03_Skate Canada International 2025
+        summary: >
+          Saskatoon welcomes the series on 1–2 November 2025 for the traditional
+          Skate Canada International showdown.
+        episodes:
+          1:
+            title: Pairs Short Program
+            summary: >
+              Canadian fans see pairs deliver intricate side-by-side work to open
+              the Saskatoon schedule.
+            originally_available: 2025-11-01
+          2:
+            title: Women Short Program
+            summary: >
+              Women's short programs highlight triple jumps and new spins as
+              judges set the initial rankings.
+            originally_available: 2025-11-01
+          3:
+            title: Men Short Program
+            summary: >
+              Men fine-tune triple-quads in short programs that set the tone for a
+              tight Skate Canada battle.
+            originally_available: 2025-11-01
+          4:
+            title: Ice Dance Rhythm Dance
+            summary: >
+              Rhythm dances keep the tempo high at SaskTel Centre before the free
+              dance finals.
+            originally_available: 2025-11-01
+          5:
+            title: Women Free Program
+            summary: >
+              Long programs decide the women's medals with back-to-back jumping
+              passes.
+            originally_available: 2025-11-01
+          6:
+            title: Pairs Free Program
+            summary: >
+              Pairs elevate the atmosphere with full-length programs featuring
+              throw triples and group lifts.
+            originally_available: 2025-11-01
+          7:
+            title: Men Free Program
+            summary: >
+              Men's free skates push stamina and artistry on the final day in
+              Saskatoon.
+            originally_available: 2025-11-02
+          8:
+            title: Ice Dance Free Dance
+            summary: >
+              Ice dance champions are crowned after storytelling-heavy free dances
+              at Skate Canada.
+            originally_available: 2025-11-02
+      4:
+        title: NHK Trophy 2025
+        sort_title: 04_NHK Trophy 2025
+        summary: >
+          The Grand Prix moves to Kadoma, Osaka from 7–9 November 2025 for NHK
+          Trophy inside Towa Pharmaceutical Ractab Dome.
+        episodes:
+          1:
+            title: Men Short Program
+            summary: >
+              Japanese fans witness the men's short program opener packed with
+              quads and hometown support.
+            originally_available: 2025-11-07
+          2:
+            title: Pairs Short Program
+            summary: >
+              Pairs teams tackle tight entrances and throw jumps to earn strong
+              NHK scores.
+            originally_available: 2025-11-07
+          3:
+            title: Ice Dance Rhythm Dance
+            summary: >
+              Rhythm dances feature quick-step precision and musicality to impress
+              the NHK judges.
+            originally_available: 2025-11-07
+          4:
+            title: Women Short Program
+            summary: >
+              Women's short programs blend triple jumps and Japanese crowd energy
+              on opening night.
+            originally_available: 2025-11-07
+          5:
+            title: Men Free Program
+            summary: >
+              Men's free skates deliver headline moments as contenders chase NHK
+              podiums.
+            originally_available: 2025-11-08
+          6:
+            title: Pairs Free Program
+            summary: >
+              Pairs close their battle with sweeping free programs and dramatic
+              choreography.
+            originally_available: 2025-11-08
+          7:
+            title: Ice Dance Free Dance
+            summary: >
+              Free dances wrap the discipline with intricate lifts and musical
+              storytelling.
+            originally_available: 2025-11-08
+          8:
+            title: Women Free Program
+            summary: >
+              Women's free programs determine medals and valuable Grand Prix
+              points before the gala.
+            originally_available: 2025-11-08
+          9:
+            title: Exhibition Gala
+            summary: >
+              NHK Trophy concludes with exhibition performances from medalists and
+              special guests.
+            originally_available: 2025-11-09
+      5:
+        title: Skate America 2025
+        sort_title: 05_Skate America 2025
+        summary: >
+          The series coverage wraps in the United States with Skate America short
+          programs on 15 November 2025.
+        episodes:
+          1:
+            title: Men Short Program
+            summary: >
+              The men's short program launches Skate America with fresh layouts
+              ahead of the free skates.
+            originally_available: 2025-11-15
+          2:
+            title: Pairs Short Program
+            summary: >
+              Pairs teams bring dynamic lifts and throw triples to start the U.S.
+              leg of the Grand Prix.
+            originally_available: 2025-11-15
+      6:
+        title: Grand Prix Espoo 2025
+        sort_title: 06_Grand Prix Espoo 2025
+        summary: >
+          Finland stages the penultimate Grand Prix at Espoo Metro Areena from 21–23
+          November 2025, offering one last chance to qualify for the Final.
+        episodes:
+          1:
+            title: Women Short Program
+            summary: >
+              Women debut refreshed short programs as the Grand Prix reaches Espoo.
+            originally_available: 2025-11-21
+          2:
+            title: Men Short Program
+            summary: >
+              Men's short programs set the standings entering the decisive free
+              skates in Finland.
+            originally_available: 2025-11-21
+          3:
+            title: Pairs Short Program
+            summary: >
+              Pairs balance precision and power through the short program opener in
+              Espoo.
+            originally_available: 2025-11-21
+          4:
+            title: Ice Dance Rhythm Dance
+            summary: >
+              Rhythm dances highlight musical interpretation before the free dance
+              showdown.
+            originally_available: 2025-11-21
+          5:
+            title: Women Free Program
+            summary: >
+              Women's free skates determine podium placements and crucial ranking
+              points in Finland.
+            originally_available: 2025-11-22
+          6:
+            title: Men Free Program
+            summary: >
+              Men close their Grand Prix campaigns with high-difficulty free
+              programs in Espoo.
+            originally_available: 2025-11-22
+          7:
+            title: Pairs Free Program
+            summary: >
+              Pairs free programs deliver soaring throws and intricate lifts in the
+              Saturday finale.
+            originally_available: 2025-11-22
+          8:
+            title: Ice Dance Free Dance
+            summary: >
+              Ice dance teams seal their Espoo results with emotionally charged free
+              dances.
+            originally_available: 2025-11-22
+          9:
+            title: Exhibition Gala
+            summary: >
+              Medalists and fan favorites return for a celebratory gala before the
+              tour heads to Nagoya.
+            originally_available: 2025-11-23
+      7:
+        title: Grand Prix Final 2025
+        sort_title: 07_Grand Prix Final 2025
+        summary: >
+          Nagoya, Japan hosts the top qualifiers from 4–7 December 2025 inside
+          Nippon Gaishi Hall for the season's climactic Grand Prix Final.
+        episodes:
+          1:
+            title: Women Short Program
+            summary: >
+              The women's short program assembles the six best performers of the
+              Grand Prix series.
+            originally_available: 2025-12-04
+          2:
+            title: Men Short Program
+            summary: >
+              Men's finalists duel through high-stakes short programs in Nagoya.
+            originally_available: 2025-12-04
+          3:
+            title: Pairs Short Program
+            summary: >
+              Pairs finalists showcase polished short programs to start the Final.
+            originally_available: 2025-12-04
+          4:
+            title: Ice Dance Rhythm Dance
+            summary: >
+              Ice dance couples bring championship-caliber rhythm dances on opening
+              night.
+            originally_available: 2025-12-04
+          5:
+            title: Women Free Program
+            summary: >
+              Women's free programs crown the Grand Prix champion after a season of
+              qualifiers.
+            originally_available: 2025-12-06
+          6:
+            title: Men Free Program
+            summary: >
+              Men's free programs deliver quad-packed finales for the Final title.
+            originally_available: 2025-12-06
+          7:
+            title: Pairs Free Program
+            summary: >
+              Pairs elevate the Nagoya crowd with high-difficulty free skating to
+              decide the podium.
+            originally_available: 2025-12-06
+          8:
+            title: Ice Dance Free Dance
+            summary: >
+              The Final's ice dance champions emerge after expressive free dances in
+              Japan.
+            originally_available: 2025-12-06
+          9:
+            title: Exhibition Gala
+            summary: >
+              The Grand Prix season concludes with an all-star gala celebrating the
+              Final medalists.
+            originally_available: 2025-12-07
