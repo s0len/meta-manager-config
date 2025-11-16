@@ -1,0 +1,485 @@
+metadata:
+  UFC 2025:
+    title: UFC 2025
+    sort_title: UFC 2025
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/background.jpg
+    summary: >
+      The 2025 UFC calendar spans numbered pay-per-view spectacles and weekly Fight Night cards around the
+      globe. Each SportsDB round is grouped here so recordings for Early Prelims, Prelims and Main Card
+      blocks can be matched and renamed automatically.
+    seasons:
+      1:
+        title: UFC Fight Night 249 Dern vs Ribas 2
+        sort_title: 001_UFC Fight Night 249 Dern vs Ribas 2
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/249/poster.jpg
+        summary: >
+          UFC Fight Night: Dern vs. Ribas 2 (also known as UFC Fight Night 249, UFC Vegas 101 and UFC on ESPN+
+          107) is an upcoming mixed martial arts event produced by the Ultimate Fighting Championship that
+          will take place on January 11, 2025, at the UFC Apex in Enterprise, Nevada, part of the Las Vegas
+          Valley, United States.    Background  A women's strawweight rematch between Mackenzie Dern and
+          Amanda Ribas is scheduled to headline this event. They were originally scheduled to compete at UFC
+          on ESPN: Covington vs. Buckley on December 14, 2024 but the bout was moved to this event in order to
+          serve as the main event. The duo previously met at UFC Fight Night: Joanna vs. Waterson in October
+          2019, where Ribas won by unanimous decision.    A women's bantamweight bout between former UFC
+          Women's Featherweight Champion Germaine de Randamie and former LFA Women's Bantamweight Champion
+          Jacqueline Cavalcanti was reportedly scheduled for this event. However, de Randamie announced her
+          retirement and the bout was scrapped.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2025-01-11
+            summary: >
+              Prelims for UFC Fight Night 249 Dern vs Ribas 2 hosted at UFC APEX (Las Vegas, Nevada, United
+              States) on January 11, 2025. Notable bouts: Flyweight: Jose Johnson vs. Felipe Bunes; Middleweight:
+              Marco Tulio vs. Ihor Potieria; Lightweight: Thiago Moisés vs. Trey Ogden.
+          2:
+            title: Main Card
+            originally_available: 2025-01-11
+            summary: >
+              Main Card for UFC Fight Night 249 Dern vs Ribas 2 hosted at UFC APEX (Las Vegas, Nevada, United
+              States) on January 11, 2025. Notable bouts: Women's Strawweight: Mackenzie Dern vs. Amanda Ribas;
+              Welterweight: Santiago Ponzinibbio vs. Carlston Harris; Middleweight: César Almeida vs. Abdul Razak
+              Alhassan.
+      2:
+        title: UFC 311 Makhachev vs Moicano
+        sort_title: 002_UFC 311 Makhachev vs Moicano
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/311/poster.jpg
+        summary: >
+          UFC 311: Makhachev vs. Moicano is an upcoming mixed martial arts event produced by the Ultimate
+          Fighting Championship that will take place on January 18, 2025, at Intuit Dome in Inglewood,
+          California, United States.
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2025-01-19
+            summary: >
+              Early Prelims for UFC 311 Makhachev vs Moicano hosted at Intuit Dome (Inglewood, California, United
+              States) on January 19, 2025. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Prelims
+            originally_available: 2025-01-19
+            summary: >
+              Prelims for UFC 311 Makhachev vs Moicano hosted at Intuit Dome (Inglewood, California, United
+              States) on January 19, 2025. Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2025-01-19
+            summary: >
+              Main Card for UFC 311 Makhachev vs Moicano hosted at Intuit Dome (Inglewood, California, United
+              States) on January 19, 2025. Detailed bout listings are pending in the SportsDB feed.
+      3:
+        title: UFC Fight Night 250 Adesanya vs Imavov
+        sort_title: 003_UFC Fight Night 250 Adesanya vs Imavov
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/250/poster.jpg
+        summary: >
+          UFC Fight Night: Adesanya vs. Imavov (also known as UFC Fight Night 250 and UFC on ESPN+ 108) is a
+          mixed martial arts event produced by the Ultimate Fighting Championship that is scheduled to take
+          place on February 1, 2025, at the anb Arena in Riyadh, Saudi Arabia.    The event will mark the
+          promotion's second visit to Riyadh and first since UFC on ABC: Whittaker vs. Aliskerov in June 2024.
+          A middleweight bout between former two-time UFC Middleweight Champion Israel Adesanya and
+          Nassourdine Imavov is expected to headline this event.    A middleweight bout between Ikram
+          Aliskerov and André Muniz is expected to take place at the event. The pair was originally scheduled
+          to compete at UFC on ESPN: Perez vs. Taira in June 2024, but Muniz withdrew from the bout after he
+          suffered a foot fracture.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2025-02-01
+            summary: >
+              Prelims for UFC Fight Night 250 Adesanya vs Imavov hosted at Kingdom Arena (Riyadh, Saudi Arabia) on
+              February 01, 2025. Notable bouts: Bantamweight: Said Nurmagomedov vs. Vinicius Oliveira;
+              Featherweight: Muhammad Naimov vs. Kaan Ofli; Featherweight: Bogdan Grad vs. Lucas Alexander.
+          2:
+            title: Main Card
+            originally_available: 2025-02-01
+            summary: >
+              Main Card for UFC Fight Night 250 Adesanya vs Imavov hosted at Kingdom Arena (Riyadh, Saudi Arabia)
+              on February 01, 2025. Notable bouts: Middleweight: Israel Adesanya vs. Nassourdine Imavov;
+              Middleweight: Sharabutdin Magomedov vs. Michael Page; Women's Flyweight: Jasmine Jasudavicius vs.
+              Mayra Bueno Silva.
+      4:
+        title: UFC 312 du Plessis vs Strickland 2
+        sort_title: 004_UFC 312 du Plessis vs Strickland 2
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/312/poster.jpg
+        summary: >
+          UFC 312: du Plessis vs Strickland 2 is an upcoming mixed martial arts event produced by the Ultimate
+          Fighting Championship that is scheduled to take place on February 9, 2025, at the Qudos Bank Arena
+          in Sydney, Australia.    The event will mark the promotion's seventh visit to Sydney and first since
+          UFC 293 in September 2023.    A UFC Middleweight Championship rematch between current champion
+          Dricus du Plessis (also former KSW Welterweight Champion) and former champion Sean Strickland is
+          scheduled to headline the event. The pairing previously met one year prior at UFC 297 in which du
+          Plessis captured the title by split decision.    A UFC Women's Strawweight Championship bout between
+          current two-time champion Zhang Weili and The Ultimate Fighter: Team Joanna vs. Team Cláudia
+          strawweight winner Tatiana Suarez is expected to be the co-main event.    A light heavyweight bout
+          between Jimmy Crute and Marcin Prachnio was scheduled for this event. However, Prachnio withdrew
+          from the fight for unknown reasons and was replaced by former LFA Light Heavyweight Champion Rodolfo
+          Bellato.
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2025-02-08
+            summary: >
+              Early Prelims for UFC 312 du Plessis vs Strickland 2 hosted at Qudos Bank Arena (Sydney, New South
+              Wales, Australia) on February 08, 2025. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Prelims
+            originally_available: 2025-02-08
+            summary: >
+              Prelims for UFC 312 du Plessis vs Strickland 2 hosted at Qudos Bank Arena (Sydney, New South Wales,
+              Australia) on February 08, 2025. Notable bouts: Featherweight: Gabriel Santos def. Jack Jenkins
+              (Submission (rear-naked choke), R3, 2:06); Lightweight: Tom Nolan def. Viacheslav Borshchev
+              (Decision (unanimous) (29–28, 29–28, 30–27), R3, 5:00); Women's Flyweight: Wang Cong def. Bruna
+              Brasil (Decision (unanimous) (30–27, 30–27, 30–27), R3, 5:00).
+          3:
+            title: Main Card
+            originally_available: 2025-02-08
+            summary: >
+              Main Card for UFC 312 du Plessis vs Strickland 2 hosted at Qudos Bank Arena (Sydney, New South
+              Wales, Australia) on February 08, 2025. Notable bouts: Middleweight: Dricus du Plessis (c) def. Sean
+              Strickland (Decision (unanimous) (50–45, 50–45, 49–46), R5, 5:00); Women's Strawweight: Zhang Weili
+              (c) def. Tatiana Suarez (Decision (unanimous) (49–46, 49–46, 49–45), R5, 5:00); Heavyweight:
+              Tallison Teixeira def. Justin Tafa (TKO (knee to the body and elbows), R1, 0:35).
+      5:
+        title: UFC Fight Night 251 Cannonier vs Rodrigues
+        sort_title: 005_UFC Fight Night 251 Cannonier vs Rodrigues
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/251/poster.jpg
+        summary: >
+          UFC Fight Night: Cannonier vs. Rodrigues (also known as UFC Fight Night 251 and UFC Vegas 102 and
+          UFC on ESPN+ 109) was a mixed martial arts event produced by the Ultimate Fighting Championship that
+          took place on February 15, 2025, at the UFC Apex in Enterprise, Nevada, part of the Las Vegas
+          Valley, United States.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2025-02-15
+            summary: >
+              Prelims for UFC Fight Night 251 Cannonier vs Rodrigues hosted at UFC APEX (Enterpise, Nevada, United
+              States) on February 15, 2025. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2025-02-15
+            summary: >
+              Main Card for UFC Fight Night 251 Cannonier vs Rodrigues hosted at UFC APEX (Enterpise, Nevada,
+              United States) on February 15, 2025. Detailed bout listings are pending in the SportsDB feed.
+      6:
+        title: UFC Fight Night 252 Cejudo vs Song 
+        sort_title: 006_UFC Fight Night 252 Cejudo vs Song 
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/252/poster.jpg
+        summary: >
+          UFC Fight Night: Cejudo vs. Song (also known as UFC Fight Night 252 and UFC on ESPN+ 110) is a mixed
+          martial arts event produced by the Ultimate Fighting Championship that is scheduled to take place on
+          February 22, 2025, at the Climate Pledge Arena in Seattle, Washington, United States.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2025-02-23
+            summary: >
+              Prelims for UFC Fight Night 252 Cejudo vs Song  hosted at Climate Pledge Arena (Seattle, Washington,
+              United States) on February 23, 2025. Notable bouts: Light Heavyweight: Ion Cuțelaba vs. Ibo Aslan;
+              Featherweight: Andre Fili vs. Melquizael Costa; Bantamweight: Ricky Simón vs. Javid Basharat.
+          2:
+            title: Main Card
+            originally_available: 2025-02-23
+            summary: >
+              Main Card for UFC Fight Night 252 Cejudo vs Song  hosted at Climate Pledge Arena (Seattle,
+              Washington, United States) on February 23, 2025. Notable bouts: Weight class: Method Round Time
+              Notes; Bantamweight: Henry Cejudo vs. Song Yadong; Middleweight: Brendan Allen vs. Anthony
+              Hernandez.
+      7:
+        title: UFC Fight Night 253 Kape vs Almabayev
+        sort_title: 007_UFC Fight Night 253 Kape vs Almabayev
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/253/poster.jpg
+        summary: >
+          UFC Fight Night 253 (also known as UFC Vegas 103) is an upcoming mixed martial arts event produced
+          by the Ultimate Fighting Championship that will take place on March 1, 2025, at the UFC Apex in
+          Enterprise, Nevada, part of the Las Vegas Valley, United States.    Background    A UFC Flyweight
+          title eliminator between former LFA Flyweight Champion (also former title challenger) Brandon Royval
+          and former RIZIN Bantamweight Champion Manel Kape was expected to headline the event. However,
+          Royval withdrew due to an undisclosed injury. He was replaced by Asu Almabayev. Albamayev was
+          originally expected to face former flyweight title challenger Steve Erceg at the event, but the
+          latter was moved to headline UFC on ESPN 64 and replaced by Allan Nascimento. Nascimento was in turn
+          pulled from the event after the latest changes.    A middleweight bout between Cody Brundage and The
+          Ultimate Fighter: Team Grasso vs. Team Shevchenko middleweight winner Ryan Loder was scheduled for
+          this event. However, Loder withdrew from the fight for unknown reasons and was replaced by Julian
+          Marquez.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2025-03-01
+            summary: >
+              Prelims for UFC Fight Night 253 Kape vs Almabayev hosted at UFC APEX (Enterprise, Nevada, United
+              States) on March 01, 2025. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2025-03-01
+            summary: >
+              Main Card for UFC Fight Night 253 Kape vs Almabayev hosted at UFC APEX (Enterprise, Nevada, United
+              States) on March 01, 2025. Detailed bout listings are pending in the SportsDB feed.
+      8:
+        title: UFC 313 Pereira vs Ankalaev
+        sort_title: 008_UFC 313 Pereira vs Ankalaev
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/313/poster.jpg
+        summary: >
+          UFC 313: Pereira vs. Ankalaev is an upcoming mixed martial arts event produced by the Ultimate
+          Fighting Championship that will take place on March 8, 2025, at T-Mobile Arena in Paradise, Nevada,
+          part of the Las Vegas Valley, United States.
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2025-03-09
+            summary: >
+              Early Prelims for UFC 313 Pereira vs Ankalaev hosted at T-Mobile Arena (Las Vegas, United States) on
+              March 09, 2025. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Prelims
+            originally_available: 2025-03-09
+            summary: >
+              Prelims for UFC 313 Pereira vs Ankalaev hosted at T-Mobile Arena (Las Vegas, United States) on March
+              09, 2025. Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2025-03-09
+            summary: >
+              Main Card for UFC 313 Pereira vs Ankalaev hosted at T-Mobile Arena (Las Vegas, United States) on
+              March 09, 2025. Detailed bout listings are pending in the SportsDB feed.
+      9:
+        title: UFC Fight Night 254 Vettori vs Dolidze 2
+        sort_title: 009_UFC Fight Night 254 Vettori vs Dolidze 2
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/254/poster.jpg
+        summary: >
+          UFC Fight Night: Vettori vs. Dolidze 2 (also known as UFC Fight Night 254 and UFC Vegas 104 and UFC
+          on ESPN+ 112) is an ongoing mixed martial arts event produced by the Ultimate Fighting Championship
+          that took place on March 15, 2025, at the UFC Apex in Enterprise, Nevada, part of the Las Vegas
+          Valley, United States.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2025-03-15
+            summary: >
+              Prelims for UFC Fight Night 254 Vettori vs Dolidze 2 hosted at UFC APEX (Enterprise, United States)
+              on March 15, 2025. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2025-03-15
+            summary: >
+              Main Card for UFC Fight Night 254 Vettori vs Dolidze 2 hosted at UFC APEX (Enterprise, United
+              States) on March 15, 2025. Detailed bout listings are pending in the SportsDB feed.
+      10:
+        title: UFC Fight Night 255 Edwards vs Brady
+        sort_title: 010_UFC Fight Night 255 Edwards vs Brady
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/255/poster.jpg
+        summary: >
+          The event will mark the promotion's 16th visit to London and first since UFC Fight Night: Aspinall
+          vs. Tybura in July 2023.    A welterweight bout between former UFC Welterweight Champion Leon
+          Edwards and Jack Della Maddalena was originally scheduled to headline the event. However, Della
+          Maddalena was pulled from the contest in order to face current welterweight champion Belal Muhammad
+          at UFC 315 and was replaced by Sean Brady.    A light heavyweight bout between Alonzo Menifield and
+          Oumar Sy was scheduled for this event. However, Sy withdrew from the fight due to an injury, so
+          Menifield was moved to UFC Fight Night: Cejudo vs. Song in February against promotional newcomer
+          Julius Walker.    A women's strawweight bout between Molly McCann and Istela Nunes was scheduled for
+          this event. However, Nunes withdrew from the fight for unknown reasons and was replaced by
+          promotional newcomer Alexia Thainara.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2025-03-22
+            summary: >
+              Prelims for UFC Fight Night 255 Edwards vs Brady hosted at The O2 Arena (London, United Kingdom) on
+              March 22, 2025. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2025-03-22
+            summary: >
+              Main Card for UFC Fight Night 255 Edwards vs Brady hosted at The O2 Arena (London, United Kingdom)
+              on March 22, 2025. Notable bouts: Welterweight: Leon Edwards vs. Jack Della Maddalena; Light
+              Heavyweight: Jan Błachowicz vs. Carlos Ulberg; Women's Flyweight: Molly McCann vs. Istela Nunes.
+      11:
+        title: UFC on ESPN 64 Moreno vs Erceg
+        sort_title: 011_UFC on ESPN 64 Moreno vs Erceg
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/poster.jpg
+        summary: >
+          UFC on ESPN: Moreno vs. Erceg (also known as UFC on ESPN 64) was a mixed martial arts event produced
+          by the Ultimate Fighting Championship that took place on March 29, 2025, at Arena CDMX in Mexico
+          City, Mexico.    Background  The event marked the promotion's seventh visit to Mexico City and first
+          since UFC Fight Night: Moreno vs. Royval 2 in February 2024.    A flyweight bout between former two-
+          time UFC Flyweight Champion Brandon Moreno and former title challenger Steve Erceg headlined the
+          event.    A featherweight bout between former interim UFC Featherweight Champion Yair Rodríguez and
+          Diego Lopes was rumored to be the headliner of the event, but Lopes later denied the fight ever
+          happened.    A women's flyweight bout between Yazmin Jauregui and Dione Barbosa was scheduled for
+          this event. However, due to Jauregui not wanting to face Barbosa, Barbosa replaced by former LFA
+          Women's Strawweight Champion Julia Polastri in a strawweight bout. In turn, Jauregui withdrew from
+          the bout due to an injury and was replaced by another former LFA strawweight champion in Loopy
+          Godinez.    A lightweight bout between Joaquim Silva and Rafa García was scheduled for this event.
+          However, Silva withdrew from the fight for undisclosed reasons and was replaced by Vinc Pichel.    A
+          lightweight bout between Daniel Zellhuber and Elves Brener was scheduled for this event. However,
+          Brener withdrew from the fight and was replaced by former LFA Lightweight Champion Austin Hubbard.
+          In turn, Zellhuber was pulled from the card due to injury and was replaced by MarQuel Mederos.    A
+          middleweight bout between former interim UFC Middleweight Championship challenger (also The Ultimate
+          Fighter: Team Jones vs. Team Sonnen middleweight winner) Kelvin Gastelum and Joe Pyfer was scheduled
+          for this event. Despite both men weighing in for the match, the fight was cancelled the day of the
+          event due to Pyfer's illness.    At the weigh-ins, Ronaldo Rodríguez weighed in at 127 pounds, one
+          pound over the flyweight non-title fight limit. The bout proceeded at catchweight and Rodríguez was
+          fined 20 percent of his purse which went to his opponent Kevin Borjas.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2025-03-29
+            summary: >
+              Prelims for UFC on ESPN 64 Moreno vs Erceg hosted at Mexico City Arena (Mexico City, Mexico) on
+              March 29, 2025. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2025-03-29
+            summary: >
+              Main Card for UFC on ESPN 64 Moreno vs Erceg hosted at Mexico City Arena (Mexico City, Mexico) on
+              March 29, 2025. Detailed bout listings are pending in the SportsDB feed.
+      12:
+        title: UFC on ESPN 65 Emmett vs Murphy
+        sort_title: 012_UFC on ESPN 65 Emmett vs Murphy
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/poster.jpg
+        summary: >
+          UFC on ESPN: Emmett vs. Murphy (also known as UFC on ESPN 65 and UFC Vegas 105) is an upcoming mixed
+          martial arts event produced by the Ultimate Fighting Championship that will take place on April 5,
+          2025, at the UFC Apex in Enterprise, Nevada, part of the Las Vegas Valley, United States.     A
+          featherweight bout between former interim UFC Featherweight Championship challenger Josh Emmett and
+          Lerone Murphy is expected to headline the event.    A featherweight bout between Giga Chikadze and
+          David Onama was scheduled for this event. However, the bout was moved to UFC on ESPN: Hill vs.
+          Rountree Jr. for unknown reasons.    A women's strawweight bout between Ariane Carnelossi and Loma
+          Lookboonmee was scheduled for this event. However, Carnelossi withdrew from the fight due to an
+          ankle injury and was replaced by Istela Nunes.    A heavyweight bout between Kennedy Nzechukwu and
+          Martin Buday was scheduled for this event. However, Nzechukwu was removed from the event due to
+          injury and replaced by current LFA Light Heavyweight Champion Uran Satybaldiev.    Daniel Santos
+          failed to make an appearance at the weigh-ins, so his bantamweight bout with Davey Grant was
+          cancelled due to medical issues.    In addition, at the weigh-ins, Cortavious Romious weighed in at
+          139.5 pounds, three and a half pounds over the bantamweight non-title fight limit. The bout will
+          proceed at catchweight and Romious will be fined 20 percent of his purse which will go to his
+          opponent Lee Chang-ho.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2025-04-05
+            summary: >
+              Prelims for UFC on ESPN 65 Emmett vs Murphy hosted at UFC APEX (Enterprise, Nevada, United States)
+              on April 05, 2025. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2025-04-05
+            summary: >
+              Main Card for UFC on ESPN 65 Emmett vs Murphy hosted at UFC APEX (Enterprise, Nevada, United States)
+              on April 05, 2025. Detailed bout listings are pending in the SportsDB feed.
+      13:
+        title: UFC 314 Volkanovski vs Lopes
+        sort_title: 013_UFC 314 Volkanovski vs Lopes
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/314/poster.jpg
+        summary: >
+          The event will mark the promotion's fourth visit to Miami and first since UFC 299 in March 2024.
+          A UFC Featherweight Championship bout for the vacant title between former champion Alexander
+          Volkanovski and Diego Lopes is expected to headline the event. Current champion Ilia Topuria will
+          vacate the title in order to move up to lightweight.    Former three-time Bellator Lightweight World
+          Champion (also former UFC Lightweight Championship challenger) Michael Chandler and Paddy Pimblett
+          are expected to meet in a five-round lightweight co-main event.    A UFC Flyweight Championship bout
+          between current champion Alexandre Pantoja and former interim title challenger Kai Kara-France was
+          rumored to take place at this event, but it never materialized.    A welterweight bout between
+          former UFC Welterweight Championship challenger Gilbert Burns and Michael Morales was scheduled for
+          this event. However, the pairing was moved to UFC 315 due to undisclosed reasons.    Former three-
+          time Bellator Featherweight World Champion (also former Bellator Lightweight World Champion)
+          Patrício Pitbull is expected to make his promotional debut in a featherweight bout against former
+          interim UFC Featherweight Champion Yair Rodríguez.    A women's bantamweight bout between Nora
+          Cornolle and Hailey Cowan was expected to take place at UFC 315. However, the bout was moved to this
+          event for unknown reasons.    A welterweight bout between Geoff Neal and Carlos Prates was scheduled
+          for this event. However, Neal withdrew from the fight due to an injury and the bout was subsequently
+          cancelled.    A featherweight bout between Roberto Romero and promotional newcomer Alberto Montes
+          was scheduled for this event. However, Montes withdrew from the fight for unknown reasons and Romero
+          was moved to UFC on ESPN: Machado Garry vs. Prates the week after.
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2025-04-13
+            summary: >
+              Early Prelims for UFC 314 Volkanovski vs Lopes hosted at Kaseya Center (Miami, Florida, United
+              States) on April 13, 2025. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Prelims
+            originally_available: 2025-04-13
+            summary: >
+              Prelims for UFC 314 Volkanovski vs Lopes hosted at Kaseya Center (Miami, Florida, United States) on
+              April 13, 2025. Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2025-04-13
+            summary: >
+              Main Card for UFC 314 Volkanovski vs Lopes hosted at Kaseya Center (Miami, Florida, United States)
+              on April 13, 2025. Detailed bout listings are pending in the SportsDB feed.
+      14:
+        title: UFC on ESPN 66 Machado Garry vs Prates
+        sort_title: 014_UFC on ESPN 66 Machado Garry vs Prates
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/poster.jpg
+        summary: >
+          UFC on ESPN: Machado Garry vs. Prates (also known as UFC on ESPN 66) is an upcoming mixed martial
+          arts event produced by the Ultimate Fighting Championship that will take place on April 26, 2025, at
+          the T-Mobile Center in Kansas City, Missouri, United States.     The event will mark the promotion's
+          third visit to Kansas City and first since UFC on ESPN: Holloway vs. Allen in April 2023.    A light
+          heavyweight bout between former UFC Light Heavyweight Champion Jamahal Hill and former title
+          challenger Khalil Rountree Jr. was scheduled to headline the event. The pairing was previously
+          expected to co-headline UFC 303 in last June, but it was scrapped as Rountree withdrew from the
+          event after unintentionally ingesting DHEA in a tainted supplement. On April 1, the pairing was
+          scrapped once again as Hill pulled out due to a lingering leg injury.    A welterweight bout between
+          Ian Machado Garry and Carlos Prates is now expected to serve as the new event headliner.    A
+          featherweight bout between Giga Chikadze and David Onama was scheduled for UFC Fight Night: Emmett
+          vs. Murphy, but it was moved to this event for unknown reasons.    A middleweight bout between Ikram
+          Aliskerov and André Muniz is expected to take place at the event. The pair was originally scheduled
+          to compete at UFC on ESPN: Perez vs. Taira in June 2024, but Muniz withdrew from the bout after he
+          suffered a foot fracture. Subsequently, the bout was rescheduled for UFC Fight Night: Adesanya vs.
+          Imavov in February, but it was cancelled once again as Muniz and his team had visa issues.    A
+          lightweight bout between Mitch Ramirez and Ahmad Sohail Hassanzada was scheduled for this event.
+          However, Ramirez withdrew from the fight due to an injury and was replaced by Evan Elder. In turn,
+          Hassanzada was removed from the event after being arrested on charges of alleged sexual assault and
+          was replaced by promotional newcomer Gauge Young.    A featherweight bout between Chris Gutiérrez
+          and John Castañeda is scheduled for this event. They were previously scheduled to compete in a short
+          notice contest at UFC 313 in March, but the bout was scrapped hours before taking place as Castañeda
+          suffered an undisclosed illness.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2025-04-27
+            summary: >
+              Prelims for UFC on ESPN 66 Machado Garry vs Prates hosted at T-Mobile Center (Kansas City, Missouri,
+              United States) on April 27, 2025. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2025-04-27
+            summary: >
+              Main Card for UFC on ESPN 66 Machado Garry vs Prates hosted at T-Mobile Center (Kansas City,
+              Missouri, United States) on April 27, 2025. Detailed bout listings are pending in the SportsDB feed.
+      15:
+        title: UFC on ESPN 67 Sandhagen vs Figueiredo
+        sort_title: 015_UFC on ESPN 67 Sandhagen vs Figueiredo
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/poster.jpg
+        summary: >
+          UFC Fight Night: Sandhagen vs. Figueiredo (also known as UFC on ESPN 67) is an upcoming mixed
+          martial arts event produced by the Ultimate Fighting Championship that will take place on May 3,
+          2025 at the Wells Fargo Arena in Des Moines, Iowa, United States.     The event will mark the
+          promotion's debut in Des Moines and first visit to the state of Iowa since UFC 26 in June 2000.    A
+          bantamweight bout between former interim UFC Bantamweight Championship challenger Cory Sandhagen and
+          former two-time UFC Flyweight Champion Deiveson Figueiredo is expected to headline the event.    A
+          bantamweight bout between former UFC Bantamweight Championship challenger Marlon Vera and Mario
+          Bautista was scheduled for this event. However, the bout was moved to UFC 316 for unknown reasons.
+          A featherweight bout between Trevor Peek and Lee Jeong-yeong was scheduled for this event. However,
+          Peek withdrew from the fight due to a fractured leg and the bout was subsequently cancelled as Lee
+          was rescheduled against a different opponent at UFC 315.    Junior Tafa was expected to face Tuco
+          Tokkos in a light heavyweight bout at the main card. However, the bout was removed from the card and
+          will be rescheduled as a result of injuries from both fighters.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2025-05-04
+            summary: >
+              Prelims for UFC on ESPN 67 Sandhagen vs Figueiredo hosted at Wells Fargo Arena (Des Moines, Iowa,
+              United States) on May 04, 2025. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2025-05-04
+            summary: >
+              Main Card for UFC on ESPN 67 Sandhagen vs Figueiredo hosted at Wells Fargo Arena (Des Moines, Iowa,
+              United States) on May 04, 2025. Detailed bout listings are pending in the SportsDB feed.
