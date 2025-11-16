@@ -67,6 +67,8 @@ Key flags:
 - `--api-key` – SportsDB API key (defaults to `123`)
 - `--season-poster-template` – format string for event posters (uses `{event_token}` extracted
   from the UFC number); pair with `--season-poster-fallback` if you need a default image
+- `--round-start/--round-stop` – numeric range of SportsDB rounds to fetch (default 1-60)
+- `--round-delay` – wait time between round fetches (default 2s to stay under the free 30 req/min limit)
 - `--insecure` – disable SSL verification if your environment lacks the CA bundle
 
 Re-run the script whenever bouts are rescheduled so the event summaries and block

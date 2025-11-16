@@ -18,6 +18,7 @@ import sys
 import textwrap
 import urllib.error
 import urllib.request
+import time
 from datetime import date, datetime
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Sequence, Tuple
@@ -71,6 +72,26 @@ def fetch_season_events(
             f"(API key {api_key})."
         )
     return events
+
+
+def fetch_round_event(
+    season: str,
+    league_id: int,
+    round_number: int,
+    api_key: str,
+    context: ssl.SSLContext,
+) -> Optional[dict]:
+    url = (
+        "https://www.thesportsdb.com/api/v1/json/{api_key}/eventsround.php"
+        "?id={league_id}&r={round_number}&s={season}"
+    ).format(api_key=api_key, league_id=league_id, season=season, round_number=round_number)
+    request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    with urllib.request.urlopen(request, context=context) as response:
+        payload = json.load(response)
+    events = payload.get("events") or []
+    if not events:
+        return None
+    return events[0]
 
 
 def _to_date(value: Optional[str]) -> Optional[date]:
@@ -223,6 +244,42 @@ def build_metadata(args: argparse.Namespace) -> dict:
         if round_number == 0:
             continue
         events_by_round[round_number] = event
+
+    if not args.skip_round_fill and args.round_stop >= args.round_start:
+        for round_number in range(args.round_start, args.round_stop + 1):
+            if round_number in events_by_round:
+                continue
+            try:
+                round_event = fetch_round_event(
+                    args.season,
+                    args.league_id,
+                    round_number,
+                    args.api_key,
+                    context,
+                )
+            except urllib.error.URLError as exc:
+                if verify_ssl:
+                    print(
+                        f"Round fetch failed with SSL error, retrying insecure for round {round_number}...",
+                        file=sys.stderr,
+                    )
+                    context = build_ssl_context(False)
+                    round_event = fetch_round_event(
+                        args.season,
+                        args.league_id,
+                        round_number,
+                        args.api_key,
+                        context,
+                    )
+                else:
+                    raise RuntimeError(
+                        f"Failed to fetch round {round_number}: {exc}"
+                    ) from exc
+
+            if round_event:
+                events_by_round[round_number] = round_event
+            if args.round_delay > 0 and round_number < args.round_stop:
+                time.sleep(args.round_delay)
 
     seasons = []
     for round_number in sorted(events_by_round):
@@ -417,6 +474,29 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
         "--insecure",
         action="store_true",
         help="Disable SSL certificate verification.",
+    )
+    parser.add_argument(
+        "--round-start",
+        type=int,
+        default=1,
+        help="First round number to try when filling missing events (default: 1).",
+    )
+    parser.add_argument(
+        "--round-stop",
+        type=int,
+        default=60,
+        help="Last round number to try when filling missing events (default: 60).",
+    )
+    parser.add_argument(
+        "--round-delay",
+        type=float,
+        default=2.0,
+        help="Seconds to wait between round fetches (helps avoid API rate limits).",
+    )
+    parser.add_argument(
+        "--skip-round-fill",
+        action="store_true",
+        help="Disable per-round fetches (use only eventsseason.php).",
     )
     return parser.parse_args(argv)
 
