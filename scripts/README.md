@@ -50,6 +50,30 @@ Find the `season-id` with `https://footballapi.pulselive.com/football/competitio
 (`777` corresponds to 2025/26). Additional flags let you tweak artwork URLs, show
 titles or limit the matchweek range. Use `--help` for the complete option list.
 
+## `generate_ufc_metadata.py`
+
+Builds the yearly UFC metadata file directly from TheSportsDB rounds feed. Each
+SportsDB `intRound` is emitted as a season (e.g. `UFC 2025` → Season 1 = Fight Night
+249, Season 2 = UFC 311, etc.), with episodes representing the Early Prelims,
+Prelims and Main Card blocks depending on whether the event is a PPV or Fight Night.
+
+```shell
+python3 scripts/generate_ufc_metadata.py --season 2025
+```
+
+Key flags:
+
+- `--season` – SportsDB season string (`2025`, `2026`, etc.)
+- `--api-key` – SportsDB API key (defaults to `123`)
+- `--season-poster-template` – format string for event posters (uses `{event_token}` extracted
+  from the UFC number); pair with `--season-poster-fallback` if you need a default image
+- `--round-start/--round-stop` – numeric range of SportsDB rounds to fetch (default 1-60)
+- `--round-delay` – wait time between round fetches (default 2s to stay under the free 30 req/min limit)
+- `--insecure` – disable SSL verification if your environment lacks the CA bundle
+
+Re-run the script whenever bouts are rescheduled so the event summaries and block
+details stay current. By default the YAML is written to `metadata-files/ufc-<season>.yaml`.
+
 ## `generate_uefa_champions_league_metadata.py`
 
 Builds UEFA Champions League metadata from the public match feed used by UEFA.com.
