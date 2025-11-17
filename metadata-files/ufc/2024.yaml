@@ -1,0 +1,1537 @@
+metadata:
+  UFC 2025:
+    title: UFC 2025
+    sort_title: UFC 2025
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/background.jpg
+    summary: >
+      The 2024 UFC calendar spans numbered pay-per-view spectacles and weekly Fight Night cards around the
+      globe. Each SportsDB round is grouped here so recordings for Early Prelims, Prelims and Main Card
+      blocks can be matched and renamed automatically.
+    seasons:
+      1:
+        title: UFC Fight Night 234 Ankalaev vs Walker 2
+        sort_title: 001_UFC Fight Night 234 Ankalaev vs Walker 2
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s1/poster.jpg
+        summary: >
+          UFC Fight Night: Ankalaev vs. Walker 2 (also known as UFC Fight Night 234, UFC on ESPN+ 92 and UFC
+          Vegas 84) was a mixed martial arts event produced by the Ultimate Fighting Championship that took
+          place on January 13, 2024, at the UFC Apex facility, in Enterprise, Nevada, part of the Las Vegas
+          Metropolitan Area, United States.    Background  A light heavyweight rematch between former UFC
+          Light Heavyweight Championship challenger Magomed Ankalaev and Johnny Walker headlined the event.
+          The pairing originally met at UFC 294 which ended in a no contest when Ankalaev landed an illegal
+          knee that rendered Walker unable to continue.    Former LFA Featherweight Champion Gabriel Santos
+          and Westin Wilson were expected to meet in a featherweight bout. However, Santos pulled out due to
+          undisclosed reasons and was replaced by promotional newcomer Jean Silva.    Bassil Hafez and Preston
+          Parsons were scheduled to meet in a welterweight bout. However, Hafez pulled out due to undisclosed
+          reasons and was replaced by Matthew Semelsberger.    A women's bantamweight bout between former
+          Invicta FC Bantamweight Champion and UFC Women's Featherweight Championship challenger Yana Santos
+          and Norma Dumont was expected to take place at the event. However, Santos pulled out due to a broken
+          nose and the bout was scrapped.    A flyweight bout between former LFA Flyweight Champion Felipe
+          Bunes and Denys Bondar was also scheduled for the preliminary portion of the event. However, Bondar
+          pulled out in late December due to undisclosed reasons and was replaced by Joshua Van.    A women’s
+          bantamweight bout between Ketlen Vieira and The Ultimate Fighter: Heavy Hitters women's
+          featherweight winner Macy Chiasson was expected to take place at the event. However, Vieira was
+          pulled for unknown reasons and the bout was scrapped.    Former Rizin Bantamweight Champion Manel
+          Kape was expected to face Matheus Nicolau in a flyweight rematch at the co-main event. The pairing
+          previously met at UFC Fight Night: Edwards vs. Muhammad in March 2021, where Nicolau won the fight
+          via controversial split decision. However at the weigh-ins, Kape weighed in at 129.5 pounds, three
+          and a half pounds over the flyweight non-title fight limit. As a result, the bout was cancelled.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-01-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s1/prelims.jpg
+            summary: >
+              Prelims for UFC Fight Night 234 Ankalaev vs Walker 2 hosted at UFC APEX (Enterprise, Nevada, United
+              States) on January 14, 2024. Notable bouts: Welterweight: Preston Parsons def. Matthew Semelsberger
+              (Decision (unanimous) (30–27, 30–27, 30–27), R3, 5:00); Bantamweight: Marcus McGhee def. Gastón
+              Bolaños (TKO (spinning wheel kick and punches), R2, 3:29); Bantamweight: Farid Basharat def. Taylor
+              Lapilus (Decision (unanimous) (30–27, 30–27, 30–27), R3, 5:00).
+          2:
+            title: Main Card
+            originally_available: 2024-01-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s1/main-card.jpg
+            summary: >
+              Main Card for UFC Fight Night 234 Ankalaev vs Walker 2 hosted at UFC APEX (Enterprise, Nevada,
+              United States) on January 14, 2024. Notable bouts: Light Heavyweight: Magomed Ankalaev def. Johnny
+              Walker (KO (punches), R2, 2:42); Lightweight: Jim Miller def. Gabriel Benítez (Submission (face
+              crank), R3, 3:25); Bantamweight: Mario Bautista def. Ricky Simón (Decision (unanimous) (30–27,
+              30–27, 29–28), R3, 5:00).
+      2:
+        title: UFC 297 Strickland vs Du Plessis
+        sort_title: 002_UFC 297 Strickland vs Du Plessis
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s2/poster.jpg
+        summary: >
+          UFC 297: Strickland vs. du Plessis is an upcoming mixed martial arts event produced by the Ultimate
+          Fighting Championship that will take place on January 20, 2024, at Scotiabank Arena in Toronto,
+          Ontario, Canada.
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2024-01-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s2/early-prelims.jpg
+            summary: >
+              Early Prelims for UFC 297 Strickland vs Du Plessis hosted at Scotiabank Arena (Toronto, Ontario,
+              Canada) on January 20, 2024. Notable bouts: Welterweight: Sam Patterson def. Yohan Lainesse
+              (Submission (rear-naked choke), R1, 2:03); Women's Bantamweight: Jasmine Jasudavicius def. Priscila
+              Cachoeira (Submission (anaconda choke), R3, 4:21); Catchweight (127.5 lb): Jimmy Flick def. Malcolm
+              Gordon (Submission (arm-triangle choke), R2, 1:17).
+          2:
+            title: Prelims
+            originally_available: 2024-01-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s2/prelims.jpg
+            summary: >
+              Prelims for UFC 297 Strickland vs Du Plessis hosted at Scotiabank Arena (Toronto, Ontario, Canada)
+              on January 20, 2024. Notable bouts: Bantamweight: Garrett Armfield def. Brad Katona (Decision
+              (unanimous) (29–28, 29–28, 29–28), R3, 5:00); Featherweight: Sean Woodson def. Charles Jourdain
+              (Decision (split) (28–29, 29–28, 29–28), R3, 5:00); Catchweight (139.75 lb): Ramon Taveras def.
+              Serhiy Sidey (Decision (split) (28–29, 29–28, 29–28), R3, 5:00).
+          3:
+            title: Main Card
+            originally_available: 2024-01-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s2/main-card.jpg
+            summary: >
+              Main Card for UFC 297 Strickland vs Du Plessis hosted at Scotiabank Arena (Toronto, Ontario, Canada)
+              on January 20, 2024. Notable bouts: Middleweight: Dricus du Plessis def. Sean Strickland (c)
+              (Decision (split) (47–48, 48–47, 48–47), R5, 5:00); Women's Bantamweight: Raquel Pennington def.
+              Mayra Bueno Silva (Decision (unanimous) (49–46, 49–46, 49–45), R5, 5:00); Welterweight: Neil Magny
+              def. Mike Malott (TKO (punches), R3, 4:45).
+      3:
+        title: UFC Fight Night 235 Dolidze vs Imavov
+        sort_title: 003_UFC Fight Night 235 Dolidze vs Imavov
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s3/poster.jpg
+        summary: >
+          UFC Fight Night: Dolidze vs. Imavov (also known as UFC Fight Night 235 and UFC on ESPN+ 93) is an
+          upcoming mixed martial arts event produced by the Ultimate Fighting Championship that will take
+          place on February 3, 2024, at the UFC Apex facility, in Enterprise, Nevada, part of the Las Vegas
+          Metropolitan Area, United States.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-02-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s3/prelims.jpg
+            summary: >
+              Prelims for UFC Fight Night 235 Dolidze vs Imavov hosted at TBD Venue (Enterprise, Nevada, United
+              States) on February 04, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2024-02-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s3/main-card.jpg
+            summary: >
+              Main Card for UFC Fight Night 235 Dolidze vs Imavov hosted at TBD Venue (Enterprise, Nevada, United
+              States) on February 04, 2024. Detailed bout listings are pending in the SportsDB feed.
+      4:
+        title: UFC Fight Night 236 Hermansson vs Pyfer
+        sort_title: 004_UFC Fight Night 236 Hermansson vs Pyfer
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s4/poster.jpg
+        summary: >
+          UFC Fight Night: Hermansson vs. Pyfer (also known as UFC Fight Night 236 or UFC on ESPN+ 94) was a
+          mixed martial arts event produced by the Ultimate Fighting Championship that took place on February
+          10, 2024, at the UFC Apex facility, in Enterprise, Nevada, part of the Las Vegas Metropolitan Area,
+          United States.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-02-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s4/prelims.jpg
+            summary: >
+              Prelims for UFC Fight Night 236 Hermansson vs Pyfer hosted at UFC Apex (Enterprise, Nevada, United
+              States) on February 10, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2024-02-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s4/main-card.jpg
+            summary: >
+              Main Card for UFC Fight Night 236 Hermansson vs Pyfer hosted at UFC Apex (Enterprise, Nevada, United
+              States) on February 10, 2024. Detailed bout listings are pending in the SportsDB feed.
+      5:
+        title: UFC 298 Volkanovski vs Topuria
+        sort_title: 005_UFC 298 Volkanovski vs Topuria
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s5/poster.jpg
+        summary: >
+          After a lackluster start to the year, fans will be thrilled with the action-packed fight card that
+          FC 298 brings to Anaheim, California on Saturday night. In the main event, champion Alexander
+          Volkanovski will try to defeat Ilia Topuria, his most recent opponent, to win the featherweight
+          belt. Incredibly, Volkanovski has maintained the championship for more than four years after losing
+          two bouts against lightweight champion Islam Makhachev.    Volkanovski hasn't faced this level of
+          uncertainty for a featherweight championship defense in a long time. Before visiting the Honda
+          Center in Anaheim, Volkanovski is a small favorite in the betting. Though some believe him to be the
+          best featherweight in MMA, it's a close call since he's up against one of the fastest-rising talents
+          in the division. Topuria is a formidable featherweight fighter who has won 14 straight bouts by
+          knockout. Even from that distance, damage is certain. Just ask Josh Emmett, against whom Topuria
+          earned his championship shot with an unbelievable 50-42 scoreline. The fact that Volkanovski
+          recovered quite quickly from Makhachev's October head kick further heightens worries.
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2024-02-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s5/early-prelims.jpg
+            summary: >
+              Early Prelims for UFC 298 Volkanovski vs Topuria hosted at Honda Center (Anaheim, California, United
+              States) on February 18, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Prelims
+            originally_available: 2024-02-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s5/prelims.jpg
+            summary: >
+              Prelims for UFC 298 Volkanovski vs Topuria hosted at Honda Center (Anaheim, California, United
+              States) on February 18, 2024. Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2024-02-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s5/main-card.jpg
+            summary: >
+              Main Card for UFC 298 Volkanovski vs Topuria hosted at Honda Center (Anaheim, California, United
+              States) on February 18, 2024. Detailed bout listings are pending in the SportsDB feed.
+      6:
+        title: UFC Fight Night 237 Moreno vs Royval 2
+        sort_title: 006_UFC Fight Night 237 Moreno vs Royval 2
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s6/poster.jpg
+        summary: >
+          UFC Fight Night: Moreno vs. Royval 2 (also known as UFC Fight Night 237 and UFC on ESPN+ 95) is an
+          upcoming mixed martial arts event produced by the Ultimate Fighting Championship that will take
+          place on February 24, 2024, at Arena CDMX, in Mexico City, Mexico.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-02-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s6/prelims.jpg
+            summary: >
+              Prelims for UFC Fight Night 237 Moreno vs Royval 2 hosted at Mexico City Arena (Mexico City, Mexico,
+              Mexico) on February 25, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2024-02-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s6/main-card.jpg
+            summary: >
+              Main Card for UFC Fight Night 237 Moreno vs Royval 2 hosted at Mexico City Arena (Mexico City,
+              Mexico, Mexico) on February 25, 2024. Detailed bout listings are pending in the SportsDB feed.
+      7:
+        title: UFC Fight Night 238 Rozenstruik vs Gaziev
+        sort_title: 007_UFC Fight Night 238 Rozenstruik vs Gaziev
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s7/poster.jpg
+        summary: >
+          UFC Fight Night: Rozenstruik vs. Gaziev (also known as UFC Fight Night 238 and UFC on ESPN+ 96) is
+          an upcoming mixed martial arts event produced by the Ultimate Fighting Championship that will take
+          place on March 2, 2024, at the UFC Apex facility, in Enterprise, Nevada, part of the Las Vegas
+          Metropolitan Area, United States.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-03-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s7/prelims.jpg
+            summary: >
+              Prelims for UFC Fight Night 238 Rozenstruik vs Gaziev hosted at UFC Apex (Enterprise, Nevada, United
+              States) on March 02, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2024-03-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s7/main-card.jpg
+            summary: >
+              Main Card for UFC Fight Night 238 Rozenstruik vs Gaziev hosted at UFC Apex (Enterprise, Nevada,
+              United States) on March 02, 2024. Detailed bout listings are pending in the SportsDB feed.
+      8:
+        title: UFC 299 OMalley vs Vera 2
+        sort_title: 008_UFC 299 OMalley vs Vera 2
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s8/poster.jpg
+        summary: >
+          UFC 299: O'Malley vs. Vera 2 is an upcoming mixed martial arts event produced by the Ultimate
+          Fighting Championship that will take place on March 9, 2024, at the Kaseya Center in Miami, Florida,
+          United States.
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2024-03-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s8/early-prelims.jpg
+            summary: >
+              Early Prelims for UFC 299 OMalley vs Vera 2 hosted at Kaseya Center (Miami, Florida, United States)
+              on March 09, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Prelims
+            originally_available: 2024-03-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s8/prelims.jpg
+            summary: >
+              Prelims for UFC 299 OMalley vs Vera 2 hosted at Kaseya Center (Miami, Florida, United States) on
+              March 09, 2024. Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2024-03-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s8/main-card.jpg
+            summary: >
+              Main Card for UFC 299 OMalley vs Vera 2 hosted at Kaseya Center (Miami, Florida, United States) on
+              March 09, 2024. Detailed bout listings are pending in the SportsDB feed.
+      9:
+        title: UFC Fight Night 239 Tuivasa vs Tybura
+        sort_title: 009_UFC Fight Night 239 Tuivasa vs Tybura
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s9/poster.jpg
+        summary: >
+          UFC Fight Night: Tuivasa vs. Tybura (also known as UFC Fight Night 239 and UFC on ESPN+ 97) is an
+          upcoming mixed martial arts event produced by the Ultimate Fighting Championship that will take
+          place on March 16, 2024, at UFC Apex in Enterprise, Nevada, United States.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-03-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s9/prelims.jpg
+            summary: >
+              Prelims for UFC Fight Night 239 Tuivasa vs Tybura hosted at UFC Apex (Enterprise, Nevada, United
+              States) on March 16, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2024-03-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s9/main-card.jpg
+            summary: >
+              Main Card for UFC Fight Night 239 Tuivasa vs Tybura hosted at UFC Apex (Enterprise, Nevada, United
+              States) on March 16, 2024. Detailed bout listings are pending in the SportsDB feed.
+      10:
+        title: UFC on ESPN 53 Ribas vs Namajunas
+        sort_title: 010_UFC on ESPN 53 Ribas vs Namajunas
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s10/poster.jpg
+        summary: >
+          UFC on ESPN: Ribas vs. Namajunas (also known as UFC on ESPN 53 and UFC Vegas 89) is an upcoming
+          mixed martial arts event produced by the Ultimate Fighting Championship that will take place on
+          March 23, 2024, at UFC Apex in Enterprise, Nevada, United States.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-03-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s10/prelims.jpg
+            summary: >
+              Prelims for UFC on ESPN 53 Ribas vs Namajunas hosted at UFC Apex (Enterprise, Nevada, United States)
+              on March 23, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2024-03-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s10/main-card.jpg
+            summary: >
+              Main Card for UFC on ESPN 53 Ribas vs Namajunas hosted at UFC Apex (Enterprise, Nevada, United
+              States) on March 23, 2024. Detailed bout listings are pending in the SportsDB feed.
+      11:
+        title: UFC on ESPN 54 Blanchfield vs Fiorot
+        sort_title: 011_UFC on ESPN 54 Blanchfield vs Fiorot
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s11/poster.jpg
+        summary: >
+          UFC on ESPN: Blanchfield vs. Fiorot (also known as UFC on ESPN 54) is an upcoming mixed martial arts
+          event produced by the Ultimate Fighting Championship that will take place on March 30, 2024, at
+          Boardwalk Hall in Atlantic City, New Jersey, United States.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-03-31
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s11/prelims.jpg
+            summary: >
+              Prelims for UFC on ESPN 54 Blanchfield vs Fiorot hosted at Boardwalk Hall (Atlantic City, New
+              Jersey, United States) on March 31, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2024-03-31
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s11/main-card.jpg
+            summary: >
+              Main Card for UFC on ESPN 54 Blanchfield vs Fiorot hosted at Boardwalk Hall (Atlantic City, New
+              Jersey, United States) on March 31, 2024. Detailed bout listings are pending in the SportsDB feed.
+      12:
+        title: UFC Fight Night 240 Allen vs Curtis 2
+        sort_title: 012_UFC Fight Night 240 Allen vs Curtis 2
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s12/poster.jpg
+        summary: >
+          UFC Fight Night: Allen vs. Curtis 2 (also known as UFC Fight Night 240 and UFC on ESPN+ 98) is an
+          upcoming mixed martial arts event produced by the Ultimate Fighting Championship that will take
+          place on April 6, 2024, at the UFC Apex facility, in Enterprise, Nevada, part of the Las Vegas
+          Metropolitan Area, United States.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-04-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s12/prelims.jpg
+            summary: >
+              Prelims for UFC Fight Night 240 Allen vs Curtis 2 hosted at UFC Apex (Enterprise, Nevada, United
+              States) on April 06, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2024-04-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s12/main-card.jpg
+            summary: >
+              Main Card for UFC Fight Night 240 Allen vs Curtis 2 hosted at UFC Apex (Enterprise, Nevada, United
+              States) on April 06, 2024. Detailed bout listings are pending in the SportsDB feed.
+      13:
+        title: UFC 300 Pereira vs Hill
+        sort_title: 013_UFC 300 Pereira vs Hill
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s13/poster.jpg
+        summary: >
+          UFC 300: Pereira vs. Hill is an upcoming mixed martial arts event produced by the Ultimate Fighting
+          Championship that will take place on April 13, 2024, at the T-Mobile Arena in Paradise, Nevada, part
+          of the Las Vegas Metropolitan Area, United States.    Background    After hosting UFC 200 in 2016,
+          T-Mobile Arena will host another milestone event, which will be its 28th UFC event overall.  A UFC
+          Light Heavyweight Championship bout between current champion Alex Pereira (also former UFC
+          Middleweight Champion and former Glory Middleweight and Light Heavyweight Champion) and former
+          champion Jamahal Hill will headline the event. The fight was verbally agreed for UFC 301 three weeks
+          later, but the promotion opted to book it at this card. Pereira won the vacant title at UFC 295
+          against former champion Jiří Procházka after Hill was forced to vacate it in July 2023 due to a
+          ruptured Achilles tendon.    A UFC Women's Strawweight Championship bout between current two-time
+          champion Zhang Weili and Yan Xiaonan is expected to take place at the event. It will mark the first
+          time two Chinese-born athletes will meet for a title in the organization.    Former interim UFC
+          Lightweight Champion Justin Gaethje (also former WSOF Lightweight Champion) is expected to defend
+          his symbolic "BMF" (baddest motherfucker) title against former UFC Featherweight Champion Max
+          Holloway in a lightweight bout. Gaethje won the symbolic title at UFC 291 defeating fellow former
+          interim champion Dustin Poirier by second round knockout in what was their second meeting.    Former
+          UFC Lightweight Champion Charles Oliveira and Arman Tsarukyan are scheduled to meet in a lightweight
+          title eliminator bout.    Former UFC Light Heavyweight Champion Jiří Procházka (also the inaugural
+          Rizin Light Heavyweight Champion) and Aleksandar Rakić are expected to meet in a light heavyweight
+          bout at the event.    Former UFC Bantamweight Champion Aljamain Sterling is expected to make his
+          promotional debut at featherweight against Calvin Kattar.    A middleweight bout between three-time
+          NCAA Division I National Wrestling Champion and undefeated prospect Bo Nickal and Cody Brundage is
+          expected to take place at the event.    A bantamweight bout between former UFC Bantamweight Champion
+          Cody Garbrandt and former two-time UFC Flyweight Champion Deiveson Figueiredo is expected to take
+          place at the event. The pairing was previously scheduled to meet at UFC 255 in November 2020 for the
+          flyweight title but Garbrandt withdrew due to a torn bicep.    2012 and 2016 Olympic gold medalist
+          in judo (also two-time PFL women's lightweight tournament champion) Kayla Harrison is expected to
+          make her promotional debut, as well as her bantamweight debut, against former UFC Women's
+          Bantamweight Champion (also International Boxing Hall of Famer) Holly Holm.    A featherweight bout
+          between Sodiq Yusuff and Diego Lopes is expected to take place at the event.    Former UFC Women's
+          Strawweight Champion Jéssica Andrade and Marina Rodriguez are expected to meet in a women's
+          strawweight bout.    Jim Miller and Bobby Green are expected to meet in a lightweight bout at the
+          event. Miller will become the only fighter to have competed at all three milestone events for the
+          organization, previously competing at UFC 100 and UFC 200. The duo was previously booked thrice, but
+          canceled all three times due to Green withdrawals: first at UFC 172 in April 2014, due to an elbow
+          injury; the second booking at UFC 258 in February 2021, when he collapsed after the weigh-ins and
+          was deemed unfit to compete; and the third time at UFC 276 in July 2022, when Green withdrew for
+          unknown reasons.
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2024-04-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s13/early-prelims.jpg
+            summary: >
+              Early Prelims for UFC 300 Pereira vs Hill hosted at T-Mobile Arena (Paradise, Nevada, United States)
+              on April 14, 2024. Notable bouts: Lightweight: Renato Moicano def. Jalin Turner (TKO (punches), R2,
+              4:11); Women's Strawweight: Jéssica Andrade def. Marina Rodriguez (Decision (split) (28–29, 29–28,
+              29–28), R3, 5:00); Lightweight: Bobby Green def. Jim Miller (Decision (unanimous) (30–27, 30–25,
+              29–26), R3, 5:00).
+          2:
+            title: Prelims
+            originally_available: 2024-04-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s13/prelims.jpg
+            summary: >
+              Prelims for UFC 300 Pereira vs Hill hosted at T-Mobile Arena (Paradise, Nevada, United States) on
+              April 14, 2024. Notable bouts: Light Heavyweight: Jiří Procházka def. Aleksandar Rakić (TKO
+              (punches), R2, 3:17); Featherweight: Aljamain Sterling def. Calvin Kattar (Decision (unanimous)
+              (30–27, 30–27, 30–27), R3, 5:00); Women's Bantamweight: Kayla Harrison def. Holly Holm (Submission
+              (rear-naked choke), R2, 1:47).
+          3:
+            title: Main Card
+            originally_available: 2024-04-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s13/main-card.jpg
+            summary: >
+              Main Card for UFC 300 Pereira vs Hill hosted at T-Mobile Arena (Paradise, Nevada, United States) on
+              April 14, 2024. Notable bouts: Light Heavyweight: Alex Pereira (c) def. Jamahal Hill (KO (punches),
+              R1, 3:14); Women's Strawweight: Zhang Weili (c) def. Yan Xiaonan (Decision (unanimous) (49–45,
+              49–45, 49–45), R5, 5:00); Lightweight: Max Holloway def. Justin Gaethje (c) (KO (punch), R5, 4:59).
+      14:
+        title: UFC on ESPN 55 Nicolau vs Perez
+        sort_title: 014_UFC on ESPN 55 Nicolau vs Perez
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s14/poster.jpg
+        summary: >
+          UFC on ESPN: Nicolau vs. Perez (also known as UFC on ESPN 55 and UFC Vegas 91) was a mixed martial
+          arts event produced by the Ultimate Fighting Championship that took place on April 27, 2024, at the
+          UFC Apex facility, in Enterprise, Nevada, part of the Las Vegas Metropolitan Area, United States.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-04-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s14/prelims.jpg
+            summary: >
+              Prelims for UFC on ESPN 55 Nicolau vs Perez hosted at TBD Venue (Enterprise, Nevada, United States)
+              on April 27, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2024-04-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s14/main-card.jpg
+            summary: >
+              Main Card for UFC on ESPN 55 Nicolau vs Perez hosted at TBD Venue (Enterprise, Nevada, United
+              States) on April 27, 2024. Detailed bout listings are pending in the SportsDB feed.
+      15:
+        title: UFC 301 Pantoja vs Erceg
+        sort_title: 015_UFC 301 Pantoja vs Erceg
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s15/poster.jpg
+        summary: >
+          UFC 301: Pantoja vs. Erceg was a mixed martial arts event produced by the Ultimate Fighting
+          Championship that took place on May 4, 2024, at the Farmasi Arena, in Rio de Janeiro, Brazil.
+          Background  The event marked the promotion's 12th visit to Rio de Janeiro and first since UFC 283 in
+          January 2023.    A UFC Flyweight Championship bout between current champion Alexandre Pantoja and
+          Steve Erceg headlined the event.    Former WEC Featherweight Champion and two-time UFC Featherweight
+          Champion José Aldo made his return in a bantamweight bout against Jonathan Martinez, after retiring
+          in September 2022.    A lightweight bout between Ismael Bonfim and Vinc Pichel is expected to take
+          place at the event. The pair was previously expected to meet at UFC Fight Night: Almeida vs. Lewis
+          but the bout was scrapped after Bonfim missed weight.    A middleweight bout between Michel Pereira
+          and Makhmud Muradov was expected to take place at the event. However, Muradov withdrew due to an
+          infection. He was replaced by Ihor Potieria, who is also scheduled to compete against Sharabutdin
+          Magomedov at UFC on ABC: Whittaker vs. Chimaev on June 22.    A featherweight bout between Jean
+          Silva and William Gomis was scheduled for this event. However, the bout was eventually cancelled due
+          to Gomis suffering a weight cut related illness.    During the event's broadcast, former UFC Light
+          Heavyweight Champion (also the 2005 PRIDE Middleweight Grand Prix Champion) Maurício Rua was
+          announced as the next "pioneer wing" UFC Hall of Fame inductee during June's International Fight
+          Week festivities in Las Vegas. Rua was already a UFC Hall of Famer himself after a light heavyweight
+          bout that took place in November 2011 at UFC 139 against the former PRIDE Welterweight, PRIDE
+          Middleweight and former Strikeforce Light Heavyweight Champion Dan Henderson (also a former UFC
+          Middleweight and Light Heavyweight title challenger) was inducted in the "fight wing" section as
+          part of the 2018 class.
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2024-05-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s15/early-prelims.jpg
+            summary: >
+              Early Prelims for UFC 301 Pantoja vs Erceg hosted at Farmasi Arena (Rio de Janeiro, Brazil) on May
+              04, 2024. Notable bouts: Lightweight: Maurício Ruffy def. Jamie Mullarkey (TKO (punches), R1, 4:42);
+              Women's Flyweight: Dione Barbosa def. Ernesta Kareckaitė (Decision (unanimous) (29–28, 29–28,
+              29–28), R3, 5:00); Lightweight: Ismael Bonfim def. Vinc Pichel (Decision (unanimous) (30–27, 30–27,
+              30–27), R3, 5:00).
+          2:
+            title: Prelims
+            originally_available: 2024-05-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s15/prelims.jpg
+            summary: >
+              Prelims for UFC 301 Pantoja vs Erceg hosted at Farmasi Arena (Rio de Janeiro, Brazil) on May 04,
+              2024. Notable bouts: Featherweight: Joanderson Brito def. Jack Shore (TKO (doctor stoppage), R2,
+              3:35); Women's Strawweight: Iasmin Lucindo def. Karolina Kowalkiewicz (Decision (unanimous) (30–27,
+              30–27, 30–27), R3, 5:00); Lightweight: Myktybek Orolbai def. Elves Brener (Decision (unanimous)
+              (29–27, 29–27, 29–27), R3, 5:00).
+          3:
+            title: Main Card
+            originally_available: 2024-05-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s15/main-card.jpg
+            summary: >
+              Main Card for UFC 301 Pantoja vs Erceg hosted at Farmasi Arena (Rio de Janeiro, Brazil) on May 04,
+              2024. Notable bouts: Flyweight: Alexandre Pantoja (c) def. Steve Erceg (Decision (unanimous) (48–47,
+              48–47, 49–46), R5, 5:00); Bantamweight: José Aldo def. Jonathan Martinez (Decision (unanimous)
+              (30–27, 30–27, 30–27), R3, 5:00); Light Heavyweight: Anthony Smith def. Vitor Petrino (Submission
+              (guillotine choke), R1, 2:00).
+      16:
+        title: UFC on ESPN 56 Lewis vs Nascimento
+        sort_title: 016_UFC on ESPN 56 Lewis vs Nascimento
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s16/poster.jpg
+        summary: >
+          UFC on ESPN: Lewis vs. Nascimento (also known as UFC on ESPN 56) is an upcoming mixed martial arts
+          event produced by the Ultimate Fighting Championship that will take place on May 11, 2024, at the
+          Enterprise Center, in St. Louis, Missouri, United States.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-05-11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s16/prelims.jpg
+            summary: >
+              Prelims for UFC on ESPN 56 Lewis vs Nascimento hosted at Enterprise Center (St. Louis, Missouri,
+              United States) on May 11, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2024-05-11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s16/main-card.jpg
+            summary: >
+              Main Card for UFC on ESPN 56 Lewis vs Nascimento hosted at Enterprise Center (St. Louis, Missouri,
+              United States) on May 11, 2024. Detailed bout listings are pending in the SportsDB feed.
+      17:
+        title: UFC Fight Night 241 Barboza vs Murphy
+        sort_title: 017_UFC Fight Night 241 Barboza vs Murphy
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s17/poster.jpg
+        summary: >
+          UFC Fight Night: Barboza vs. Murphy (also known as UFC Fight Night 241 and UFC on ESPN+ 99) was a
+          mixed martial arts event produced by the Ultimate Fighting Championship that took place on May 18,
+          2024, at the UFC Apex facility, in Enterprise, Nevada, part of the Las Vegas Metropolitan Area,
+          United States.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-05-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s17/prelims.jpg
+            summary: >
+              Prelims for UFC Fight Night 241 Barboza vs Murphy hosted at UFC APEX (Enterprise, Nevada, United
+              States) on May 18, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2024-05-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s17/main-card.jpg
+            summary: >
+              Main Card for UFC Fight Night 241 Barboza vs Murphy hosted at UFC APEX (Enterprise, Nevada, United
+              States) on May 18, 2024. Detailed bout listings are pending in the SportsDB feed.
+      18:
+        title: UFC 302 Makhachev vs Poirier
+        sort_title: 018_UFC 302 Makhachev vs Poirier
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s18/poster.jpg
+        summary: >
+          UFC 302: Makhachev vs. Poirier was a mixed martial arts event produced by the Ultimate Fighting
+          Championship that took place on June 1, 2024, at the Prudential Center, in Newark, New Jersey,
+          United States.    Background  The event marked the promotion's tenth visit to Newark and first since
+          UFC 288 in May 2023.    A UFC Lightweight Championship bout between current champion Islam Makhachev
+          and former interim champion Dustin Poirier headlined the event.    A five-round middleweight bout
+          between former UFC Middleweight Champion Sean Strickland and former title challenger Paulo Costa
+          took place in the co-main event.    A heavyweight bout between former Bellator Heavyweight World
+          Champion Alexander Volkov and Jailton Almeida was expected to take place at this event. However, the
+          bout was scrapped for unknown reasons and Volkov was booked for UFC on ABC: Whittaker vs. Chimaev
+          against former interim UFC Heavyweight Championship challenger Sergei Pavlovich. Almeida faced
+          Alexander Romanov instead.    A women's strawweight bout between former Invicta FC Atomweight
+          Champion Michelle Waterson-Gomez and Gillian Robertson was scheduled for the event. However, the
+          bout was postponed to UFC 303 for unknown reasons.    Jeremiah Wells was expected to face Niko Price
+          in a welterweight bout. However, Wells pulled out due to undisclosed reasons and was replaced by
+          Alex Morono. Price and Morono previously met at UFC Fight Night: Bermudez vs. The Korean Zombie in
+          February 2017, with the bout originally ending via second round knockout for Price, before
+          ultimately being overturned to a no contest due to him testing positive for marijuana.    Su
+          Mudaerji and Joshua Van were expected to meet in a flyweight bout at this event. However, Su pulled
+          out in late April due to undisclosed reasons. He was replaced by Tatsuro Taira. In turn, both
+          fighters were moved to UFC Fight Night: Perez vs. Taira in order to face different opponents.    A
+          middleweight bout between Roman Dolidze and former LFA Middleweight Champion Anthony Hernandez was
+          scheduled to take place at the event. However, Hernandez was forced out of the bout due to a torn
+          ligament in his hand.    Road to UFC Season 2 flyweight winner Park Hyun-sung was expected to face
+          André Lima. However, he pulled out due to a knee injury and was replaced by promotional newcomer
+          Nyamjargal Tumendemberel. In turn, Tumendemberel was forced to withdraw from the event due to visa
+          issues and was replaced by Mitch Raposo. At the weigh ins, Lima weighed in at 130 pounds, four
+          pounds over the flyweight non-title fight limit. The bout proceeded at catchweight and he was fined
+          30 percent of his purse which went to Raposo.
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2024-06-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s18/early-prelims.jpg
+            summary: >
+              Early Prelims for UFC 302 Makhachev vs Poirier hosted at Prudential Center (Newark, New Jersey,
+              United States) on June 01, 2024. Notable bouts: Welterweight: Bassil Hafez def. Mickey Gall
+              (Decision (unanimous) (30–27, 30–27, 29–28), R3, 5:00); Women's Bantamweight: Ailín Pérez def.
+              Joselyne Edwards (Decision (unanimous) (30–27, 29–28, 29–28), R3, 5:00); Catchweight (130 lb): André
+              Lima def. Mitch Raposo (Decision (split) (30–27, 28–29, 30–27), R3, 5:00).
+          2:
+            title: Prelims
+            originally_available: 2024-06-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s18/prelims.jpg
+            summary: >
+              Prelims for UFC 302 Makhachev vs Poirier hosted at Prudential Center (Newark, New Jersey, United
+              States) on June 01, 2024. Notable bouts: Middleweight: Roman Kopylov def. César Almeida (Decision
+              (split) (29–28, 28–29, 30–27), R3, 5:00); Heavyweight: Jailton Almeida def. Alexander Romanov
+              (Submission (rear-naked choke), R1, 2:27); Lightweight: Grant Dawson def. Joe Solecki (Decision
+              (unanimous) (29–28, 30–27, 30–27), R3, 5:00).
+          3:
+            title: Main Card
+            originally_available: 2024-06-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s18/main-card.jpg
+            summary: >
+              Main Card for UFC 302 Makhachev vs Poirier hosted at Prudential Center (Newark, New Jersey, United
+              States) on June 01, 2024. Notable bouts: Lightweight: Islam Makhachev (c) def. Dustin Poirier
+              (Submission (brabo choke), R5, 2:42); Middleweight: Sean Strickland def. Paulo Costa (Decision
+              (split) (46–49, 50–45, 49–46), R5, 5:00); Middleweight: Kevin Holland def. Michał Oleksiejczuk
+              (Technical Submission (armbar), R1, 1:34).
+      19:
+        title: UFC on ESPN 57 Cannonier vs Imavov
+        sort_title: 019_UFC on ESPN 57 Cannonier vs Imavov
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s19/poster.jpg
+        summary: >
+          UFC on ESPN: Cannonier vs. Imavov (also known as UFC on ESPN 57) is an upcoming mixed martial arts
+          event produced by the Ultimate Fighting Championship that will take place on June 8, 2024, at the
+          KFC Yum! Center in Louisville, Kentucky, United States.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-06-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s19/prelims.jpg
+            summary: >
+              Prelims for UFC on ESPN 57 Cannonier vs Imavov hosted at KFC Yum! Center (Louisville, Kentucky,
+              United States) on June 08, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2024-06-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s19/main-card.jpg
+            summary: >
+              Main Card for UFC on ESPN 57 Cannonier vs Imavov hosted at KFC Yum! Center (Louisville, Kentucky,
+              United States) on June 08, 2024. Detailed bout listings are pending in the SportsDB feed.
+      20:
+        title: UFC on ESPN 58 Perez vs Taira
+        sort_title: 020_UFC on ESPN 58 Perez vs Taira
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s20/poster.jpg
+        summary: >
+          UFC on ESPN: Perez vs. Taira (also known as UFC on ESPN 58 and UFC Vegas 93) was a mixed martial
+          arts event produced by the Ultimate Fighting Championship that took place on June 15, 2024, at the
+          UFC Apex facility, in Enterprise, Nevada, part of the Las Vegas Metropolitan Area, United States.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-06-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s20/prelims.jpg
+            summary: >
+              Prelims for UFC on ESPN 58 Perez vs Taira hosted at UFC APEX (Enterprise, Nevada, United States) on
+              June 15, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2024-06-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s20/main-card.jpg
+            summary: >
+              Main Card for UFC on ESPN 58 Perez vs Taira hosted at UFC APEX (Enterprise, Nevada, United States)
+              on June 15, 2024. Detailed bout listings are pending in the SportsDB feed.
+      21:
+        title: UFC on ABC 6 Whittaker vs Aliskerov
+        sort_title: 021_UFC on ABC 6 Whittaker vs Aliskerov
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s21/poster.jpg
+        summary: >
+          UFC on ABC: Whittaker vs. Aliskerov (also known as UFC on ABC 6) is an upcoming mixed martial arts
+          event produced by the Ultimate Fighting Championship that will take place on June 22, 2024, at the
+          Kingdom Arena in Riyadh, Saudi Arabia.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-06-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s21/prelims.jpg
+            summary: >
+              Prelims for UFC on ABC 6 Whittaker vs Aliskerov hosted at Kingdom Arena (Riyadh, Saudi Arabia) on
+              June 22, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2024-06-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s21/main-card.jpg
+            summary: >
+              Main Card for UFC on ABC 6 Whittaker vs Aliskerov hosted at Kingdom Arena (Riyadh, Saudi Arabia) on
+              June 22, 2024. Detailed bout listings are pending in the SportsDB feed.
+      22:
+        title: UFC 303 Pereira vs Procházka 2
+        sort_title: 022_UFC 303 Pereira vs Procházka 2
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s22/poster.jpg
+        summary: >
+          UFC 303: Pereira vs. Procházka 2 is an upcoming mixed martial arts event produced by the Ultimate
+          Fighting Championship that will take place on June 29, 2024, at the T-Mobile Arena in Paradise,
+          Nevada, part of the Las Vegas Metropolitan Area, United States.
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2024-06-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s22/early-prelims.jpg
+            summary: >
+              Early Prelims for UFC 303 Pereira vs Procházka 2 hosted at T-Mobile Arena (Paradise, United States)
+              on June 29, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Prelims
+            originally_available: 2024-06-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s22/prelims.jpg
+            summary: >
+              Prelims for UFC 303 Pereira vs Procházka 2 hosted at T-Mobile Arena (Paradise, United States) on
+              June 29, 2024. Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2024-06-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s22/main-card.jpg
+            summary: >
+              Main Card for UFC 303 Pereira vs Procházka 2 hosted at T-Mobile Arena (Paradise, United States) on
+              June 29, 2024. Detailed bout listings are pending in the SportsDB feed.
+      23:
+        title: UFC on ESPN 59 Namajunas vs Cortez
+        sort_title: 023_UFC on ESPN 59 Namajunas vs Cortez
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s23/poster.jpg
+        summary: >
+          UFC on ESPN: Namajunas vs. Cortez (also known as UFC on ESPN 59) is an upcoming mixed martial arts
+          event produced by the Ultimate Fighting Championship that will take place on July 13, 2024, at the
+          Ball Arena in Denver, Colorado, United States.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-07-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s23/prelims.jpg
+            summary: >
+              Prelims for UFC on ESPN 59 Namajunas vs Cortez hosted at Ball Arena (Denver, Colorado, United
+              States) on July 14, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2024-07-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s23/main-card.jpg
+            summary: >
+              Main Card for UFC on ESPN 59 Namajunas vs Cortez hosted at Ball Arena (Denver, Colorado, United
+              States) on July 14, 2024. Detailed bout listings are pending in the SportsDB feed.
+      24:
+        title: UFC on ESPN 60 Lemos vs Jandiroba
+        sort_title: 024_UFC on ESPN 60 Lemos vs Jandiroba
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s24/poster.jpg
+        summary: >
+          UFC on ESPN: Lemos vs. Jandiroba (also known as UFC on ESPN 60 and UFC Vegas 94) was a mixed martial
+          arts event produced by the Ultimate Fighting Championship that took place on July 20, 2024, at the
+          UFC Apex facility, in Enterprise, Nevada, part of the Las Vegas Metropolitan Area, United States.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-07-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s24/prelims.jpg
+            summary: >
+              Prelims for UFC on ESPN 60 Lemos vs Jandiroba hosted at UFC APEX (Enterprise, Nevada, United States)
+              on July 21, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2024-07-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s24/main-card.jpg
+            summary: >
+              Main Card for UFC on ESPN 60 Lemos vs Jandiroba hosted at UFC APEX (Enterprise, Nevada, United
+              States) on July 21, 2024. Detailed bout listings are pending in the SportsDB feed.
+      25:
+        title: UFC 304 Edwards vs Muhammad 2
+        sort_title: 025_UFC 304 Edwards vs Muhammad 2
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s25/poster.jpg
+        summary: >
+          UFC 304: Edwards vs. Muhammad 2 is an upcoming mixed martial arts event produced by the Ultimate
+          Fighting Championship that will take place on July 27, 2024, at the Co-op Live in Manchester,
+          England.    This will be the first sporting event to take place at the Co-op Live arena, which
+          opened in April 2024
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2024-07-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s25/early-prelims.jpg
+            summary: >
+              Early Prelims for UFC 304 Edwards vs Muhammad 2 hosted at Co-op Live (Manchester, United Kingdom) on
+              July 27, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Prelims
+            originally_available: 2024-07-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s25/prelims.jpg
+            summary: >
+              Prelims for UFC 304 Edwards vs Muhammad 2 hosted at Co-op Live (Manchester, United Kingdom) on July
+              27, 2024. Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2024-07-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s25/main-card.jpg
+            summary: >
+              Main Card for UFC 304 Edwards vs Muhammad 2 hosted at Co-op Live (Manchester, United Kingdom) on
+              July 27, 2024. Detailed bout listings are pending in the SportsDB feed.
+      26:
+        title: UFC on ABC 7 Sandhagen vs Nurmagomedov
+        sort_title: 026_UFC on ABC 7 Sandhagen vs Nurmagomedov
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s26/poster.jpg
+        summary: >
+          UFC on ABC: Sandhagen vs. Nurmagomedov (also known as UFC on ABC 7) is an upcoming mixed martial
+          arts event by the Ultimate Fighting Championship that will take place on August 3, 2024, at the
+          Etihad Arena in Abu Dhabi, United Arab Emirates.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-08-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s26/prelims.jpg
+            summary: >
+              Prelims for UFC on ABC 7 Sandhagen vs Nurmagomedov hosted at Etihad Arena (Abu Dhabi, United Arab
+              Emirates) on August 03, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2024-08-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s26/main-card.jpg
+            summary: >
+              Main Card for UFC on ABC 7 Sandhagen vs Nurmagomedov hosted at Etihad Arena (Abu Dhabi, United Arab
+              Emirates) on August 03, 2024. Detailed bout listings are pending in the SportsDB feed.
+      27:
+        title: UFC on ESPN 61 Tybura vs Spivac 2
+        sort_title: 027_UFC on ESPN 61 Tybura vs Spivac 2
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s27/poster.jpg
+        summary: >
+          UFC on ESPN: Tybura vs. Spivac 2 (also known as UFC on ESPN 61 and UFC Vegas 95) is an upcoming
+          mixed martial arts event produced by the Ultimate Fighting Championship that will take place on
+          August 10, 2024, at the UFC Apex facility, in Enterprise, Nevada, part of the Las Vegas Metropolitan
+          Area, United States
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-08-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s27/prelims.jpg
+            summary: >
+              Prelims for UFC on ESPN 61 Tybura vs Spivac 2 hosted at UFC APEX (Las Vegas, Nevada, United States,
+              United States) on August 10, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2024-08-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s27/main-card.jpg
+            summary: >
+              Main Card for UFC on ESPN 61 Tybura vs Spivac 2 hosted at UFC APEX (Las Vegas, Nevada, United
+              States, United States) on August 10, 2024. Detailed bout listings are pending in the SportsDB feed.
+      28:
+        title: Dana Whites Contender Series season 8 Week 1
+        sort_title: 028_Dana Whites Contender Series season 8 Week 1
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s28/poster.jpg
+        summary: >
+          Dana Whites Contender Series season 8 Week 1 is scheduled for August 14, 2024 at UFC APEX in Las
+          Vegas, Nevada, United States.
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2024-08-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s28/early-prelims.jpg
+            summary: >
+              Early Prelims for Dana Whites Contender Series season 8 Week 1 hosted at UFC APEX (Las Vegas,
+              Nevada, United States) on August 14, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Prelims
+            originally_available: 2024-08-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s28/prelims.jpg
+            summary: >
+              Prelims for Dana Whites Contender Series season 8 Week 1 hosted at UFC APEX (Las Vegas, Nevada,
+              United States) on August 14, 2024. Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2024-08-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s28/main-card.jpg
+            summary: >
+              Main Card for Dana Whites Contender Series season 8 Week 1 hosted at UFC APEX (Las Vegas, Nevada,
+              United States) on August 14, 2024. Detailed bout listings are pending in the SportsDB feed.
+      29:
+        title: UFC 305 du Plessis vs Adesanya
+        sort_title: 029_UFC 305 du Plessis vs Adesanya
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s29/poster.jpg
+        summary: >
+          UFC 305: du Plessis vs. Adesanya is an upcoming mixed martial arts event produced by the Ultimate
+          Fighting Championship that will take place on August 17, 2024, at the RAC Arena in Perth, Australia
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2024-08-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s29/early-prelims.jpg
+            summary: >
+              Early Prelims for UFC 305 du Plessis vs Adesanya hosted at RAC Arena (Perth, Australia) on August
+              18, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Prelims
+            originally_available: 2024-08-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s29/prelims.jpg
+            summary: >
+              Prelims for UFC 305 du Plessis vs Adesanya hosted at RAC Arena (Perth, Australia) on August 18,
+              2024. Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2024-08-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s29/main-card.jpg
+            summary: >
+              Main Card for UFC 305 du Plessis vs Adesanya hosted at RAC Arena (Perth, Australia) on August 18,
+              2024. Detailed bout listings are pending in the SportsDB feed.
+      30:
+        title: Dana Whites Contender Series season 8 Week 2
+        sort_title: 030_Dana Whites Contender Series season 8 Week 2
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s30/poster.jpg
+        summary: >
+          Dana Whites Contender Series season 8 Week 2 is scheduled for August 21, 2024 at UFC APEX in Las
+          Vegas, Nevada, United States.
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2024-08-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s30/early-prelims.jpg
+            summary: >
+              Early Prelims for Dana Whites Contender Series season 8 Week 2 hosted at UFC APEX (Las Vegas,
+              Nevada, United States) on August 21, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Prelims
+            originally_available: 2024-08-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s30/prelims.jpg
+            summary: >
+              Prelims for Dana Whites Contender Series season 8 Week 2 hosted at UFC APEX (Las Vegas, Nevada,
+              United States) on August 21, 2024. Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2024-08-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s30/main-card.jpg
+            summary: >
+              Main Card for Dana Whites Contender Series season 8 Week 2 hosted at UFC APEX (Las Vegas, Nevada,
+              United States) on August 21, 2024. Detailed bout listings are pending in the SportsDB feed.
+      31:
+        title: UFC on ESPN 62 Cannonier vs Borralho
+        sort_title: 031_UFC on ESPN 62 Cannonier vs Borralho
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s31/poster.jpg
+        summary: >
+          UFC on ESPN: Cannonier vs. Borralho (also known as UFC on ESPN 62 and UFC Vegas 96) is an upcoming
+          mixed martial arts event produced by the Ultimate Fighting Championship that will take place on
+          August 24, 2024, at the UFC Apex facility in Las Vegas, Nevada, United States.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-08-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s31/prelims.jpg
+            summary: >
+              Prelims for UFC on ESPN 62 Cannonier vs Borralho hosted at UFC APEX (Las Vegas, Nevada, United
+              States) on August 24, 2024. Notable bouts: Lightweight: Francis Marshall def. Dennis Buzukja
+              (Decision (split) (28–29, 30–27, 29–28), R3, 5:00); Middleweight: Zachary Reese def. José Daniel
+              Medina (Decision (unanimous) (30–27, 30–27, 30–27), R3, 5:00); Lightweight: Viacheslav Borshchev
+              def. James Llontop (Decision (split) (28–29, 29–28, 30–27), R3, 5:00).
+          2:
+            title: Main Card
+            originally_available: 2024-08-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s31/main-card.jpg
+            summary: >
+              Main Card for UFC on ESPN 62 Cannonier vs Borralho hosted at UFC APEX (Las Vegas, Nevada, United
+              States) on August 24, 2024. Notable bouts: Weight class: Method Round Time Notes; Middleweight: Caio
+              Borralho def. Jared Cannonier (Decision (unanimous) (49–45, 49–45, 48–46), R5, 5:00); Women's
+              Strawweight: Tabatha Ricci def. Angela Hill (Decision (unanimous) (29–28, 29–28, 29–28), R3, 5:00).
+      32:
+        title: Dana Whites Contender Series season 8 Week 3
+        sort_title: 032_Dana Whites Contender Series season 8 Week 3
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s32/poster.jpg
+        summary: >
+          Dana Whites Contender Series season 8 Week 3 is scheduled for August 28, 2024 at UFC APEX in Las
+          Vegas, Nevada, United States.
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2024-08-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s32/early-prelims.jpg
+            summary: >
+              Early Prelims for Dana Whites Contender Series season 8 Week 3 hosted at UFC APEX (Las Vegas,
+              Nevada, United States) on August 28, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Prelims
+            originally_available: 2024-08-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s32/prelims.jpg
+            summary: >
+              Prelims for Dana Whites Contender Series season 8 Week 3 hosted at UFC APEX (Las Vegas, Nevada,
+              United States) on August 28, 2024. Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2024-08-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s32/main-card.jpg
+            summary: >
+              Main Card for Dana Whites Contender Series season 8 Week 3 hosted at UFC APEX (Las Vegas, Nevada,
+              United States) on August 28, 2024. Detailed bout listings are pending in the SportsDB feed.
+      33:
+        title: Dana Whites Contender Series season 8 Week 4
+        sort_title: 033_Dana Whites Contender Series season 8 Week 4
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s33/poster.jpg
+        summary: >
+          Dana Whites Contender Series season 8 Week 4 is scheduled for September 04, 2024 at UFC APEX in Las
+          Vegas, Nevada, United States.
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2024-09-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s33/early-prelims.jpg
+            summary: >
+              Early Prelims for Dana Whites Contender Series season 8 Week 4 hosted at UFC APEX (Las Vegas,
+              Nevada, United States) on September 04, 2024. Detailed bout listings are pending in the SportsDB
+              feed.
+          2:
+            title: Prelims
+            originally_available: 2024-09-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s33/prelims.jpg
+            summary: >
+              Prelims for Dana Whites Contender Series season 8 Week 4 hosted at UFC APEX (Las Vegas, Nevada,
+              United States) on September 04, 2024. Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2024-09-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s33/main-card.jpg
+            summary: >
+              Main Card for Dana Whites Contender Series season 8 Week 4 hosted at UFC APEX (Las Vegas, Nevada,
+              United States) on September 04, 2024. Detailed bout listings are pending in the SportsDB feed.
+      34:
+        title: UFC Fight Night 242 Burns vs Brady
+        sort_title: 034_UFC Fight Night 242 Burns vs Brady
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s34/poster.jpg
+        summary: >
+          UFC Fight Night: Burns vs. Brady (also known as UFC Fight Night 242, UFC on ESPN+ 100, and UFC Vegas
+          97) is an upcoming mixed martial arts event produced by the Ultimate Fighting Championship that will
+          take place on September 7, 2024, at the UFC Apex facility in Las Vegas, Nevada, United States
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-09-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s34/prelims.jpg
+            summary: >
+              Prelims for UFC Fight Night 242 Burns vs Brady hosted at UFC APEX (Las Vegas, Nevada, United States,
+              United States) on September 07, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2024-09-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s34/main-card.jpg
+            summary: >
+              Main Card for UFC Fight Night 242 Burns vs Brady hosted at UFC APEX (Las Vegas, Nevada, United
+              States, United States) on September 07, 2024. Detailed bout listings are pending in the SportsDB
+              feed.
+      35:
+        title: Dana Whites Contender Series season 8 Week 5
+        sort_title: 035_Dana Whites Contender Series season 8 Week 5
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s35/poster.jpg
+        summary: >
+          Dana Whites Contender Series season 8 Week 5 is scheduled for September 11, 2024 at UFC APEX in Las
+          Vegas, Nevada, United States.
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2024-09-11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s35/early-prelims.jpg
+            summary: >
+              Early Prelims for Dana Whites Contender Series season 8 Week 5 hosted at UFC APEX (Las Vegas,
+              Nevada, United States) on September 11, 2024. Detailed bout listings are pending in the SportsDB
+              feed.
+          2:
+            title: Prelims
+            originally_available: 2024-09-11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s35/prelims.jpg
+            summary: >
+              Prelims for Dana Whites Contender Series season 8 Week 5 hosted at UFC APEX (Las Vegas, Nevada,
+              United States) on September 11, 2024. Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2024-09-11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s35/main-card.jpg
+            summary: >
+              Main Card for Dana Whites Contender Series season 8 Week 5 hosted at UFC APEX (Las Vegas, Nevada,
+              United States) on September 11, 2024. Detailed bout listings are pending in the SportsDB feed.
+      36:
+        title: UFC 306 O'Malley vs Dvalishvili
+        sort_title: 036_UFC 306 O'Malley vs Dvalishvili
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s36/poster.jpg
+        summary: >
+          UFC 306: O'Malley vs. Dvalishvili (branded as Riyadh Season Noche UFC for sponsorship reasons) is an
+          upcoming mixed martial arts event produced by the Ultimate Fighting Championship that will take
+          place on September 14, 2024, at the Sphere in Paradise, Nevada, part of the Las Vegas Metropolitan
+          Area, United States.
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2024-09-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s36/early-prelims.jpg
+            summary: >
+              Early Prelims for UFC 306 O'Malley vs Dvalishvili hosted at Sphere (Paradise, Nevada, United States)
+              on September 14, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Prelims
+            originally_available: 2024-09-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s36/prelims.jpg
+            summary: >
+              Prelims for UFC 306 O'Malley vs Dvalishvili hosted at Sphere (Paradise, Nevada, United States) on
+              September 14, 2024. Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2024-09-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s36/main-card.jpg
+            summary: >
+              Main Card for UFC 306 O'Malley vs Dvalishvili hosted at Sphere (Paradise, Nevada, United States) on
+              September 14, 2024. Detailed bout listings are pending in the SportsDB feed.
+      37:
+        title: Dana Whites Contender Series season 8 Week 6
+        sort_title: 037_Dana Whites Contender Series season 8 Week 6
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s37/poster.jpg
+        summary: >
+          Dana Whites Contender Series season 8 Week 6 is scheduled for September 18, 2024 at UFC APEX in Las
+          Vegas, Nevada, United States.
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2024-09-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s37/early-prelims.jpg
+            summary: >
+              Early Prelims for Dana Whites Contender Series season 8 Week 6 hosted at UFC APEX (Las Vegas,
+              Nevada, United States) on September 18, 2024. Detailed bout listings are pending in the SportsDB
+              feed.
+          2:
+            title: Prelims
+            originally_available: 2024-09-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s37/prelims.jpg
+            summary: >
+              Prelims for Dana Whites Contender Series season 8 Week 6 hosted at UFC APEX (Las Vegas, Nevada,
+              United States) on September 18, 2024. Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2024-09-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s37/main-card.jpg
+            summary: >
+              Main Card for Dana Whites Contender Series season 8 Week 6 hosted at UFC APEX (Las Vegas, Nevada,
+              United States) on September 18, 2024. Detailed bout listings are pending in the SportsDB feed.
+      38:
+        title: Dana Whites Contender Series season 8 Week 7
+        sort_title: 038_Dana Whites Contender Series season 8 Week 7
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s38/poster.jpg
+        summary: >
+          Dana Whites Contender Series season 8 Week 7 is scheduled for September 25, 2024 at UFC APEX in Las
+          Vegas, Nevada, United States.
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2024-09-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s38/early-prelims.jpg
+            summary: >
+              Early Prelims for Dana Whites Contender Series season 8 Week 7 hosted at UFC APEX (Las Vegas,
+              Nevada, United States) on September 25, 2024. Detailed bout listings are pending in the SportsDB
+              feed.
+          2:
+            title: Prelims
+            originally_available: 2024-09-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s38/prelims.jpg
+            summary: >
+              Prelims for Dana Whites Contender Series season 8 Week 7 hosted at UFC APEX (Las Vegas, Nevada,
+              United States) on September 25, 2024. Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2024-09-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s38/main-card.jpg
+            summary: >
+              Main Card for Dana Whites Contender Series season 8 Week 7 hosted at UFC APEX (Las Vegas, Nevada,
+              United States) on September 25, 2024. Detailed bout listings are pending in the SportsDB feed.
+      39:
+        title: UFC Fight Night 243 Moicano vs Saint Denis
+        sort_title: 039_UFC Fight Night 243 Moicano vs Saint Denis
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s39/poster.jpg
+        summary: >
+          UFC Fight Night: Moicano vs. Saint Denis (also known as UFC Fight Night 243 and UFC on ESPN+ 101) is
+          an upcoming mixed martial arts event produced by the Ultimate Fighting Championship that will take
+          place on September 28, 2024, at Accor Arena in Paris, France.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-09-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s39/prelims.jpg
+            summary: >
+              Prelims for UFC Fight Night 243 Moicano vs Saint Denis hosted at Accor Arena (Paris, France) on
+              September 28, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2024-09-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s39/main-card.jpg
+            summary: >
+              Main Card for UFC Fight Night 243 Moicano vs Saint Denis hosted at Accor Arena (Paris, France) on
+              September 28, 2024. Detailed bout listings are pending in the SportsDB feed.
+      40:
+        title: Dana Whites Contender Series season 8 Week 8
+        sort_title: 040_Dana Whites Contender Series season 8 Week 8
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s40/poster.jpg
+        summary: >
+          Dana Whites Contender Series season 8 Week 8 is scheduled for October 02, 2024 at UFC APEX in Las
+          Vegas, Nevada, United States.
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2024-10-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s40/early-prelims.jpg
+            summary: >
+              Early Prelims for Dana Whites Contender Series season 8 Week 8 hosted at UFC APEX (Las Vegas,
+              Nevada, United States) on October 02, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Prelims
+            originally_available: 2024-10-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s40/prelims.jpg
+            summary: >
+              Prelims for Dana Whites Contender Series season 8 Week 8 hosted at UFC APEX (Las Vegas, Nevada,
+              United States) on October 02, 2024. Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2024-10-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s40/main-card.jpg
+            summary: >
+              Main Card for Dana Whites Contender Series season 8 Week 8 hosted at UFC APEX (Las Vegas, Nevada,
+              United States) on October 02, 2024. Detailed bout listings are pending in the SportsDB feed.
+      41:
+        title: UFC 307 Pereira vs Rountree Jr.
+        sort_title: 041_UFC 307 Pereira vs Rountree Jr.
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s41/poster.jpg
+        summary: >
+          UFC 307: Pereira vs. Rountree Jr. is an upcoming mixed martial arts event produced by the Ultimate
+          Fighting Championship that will take place on October 5, 2024, at the Delta Center in Salt Lake
+          City, Utah, United States.
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2024-10-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s41/early-prelims.jpg
+            summary: >
+              Early Prelims for UFC 307 Pereira vs Rountree Jr. hosted at Delta Center (Salt Lake City, Utah,
+              United States) on October 05, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Prelims
+            originally_available: 2024-10-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s41/prelims.jpg
+            summary: >
+              Prelims for UFC 307 Pereira vs Rountree Jr. hosted at Delta Center (Salt Lake City, Utah, United
+              States) on October 05, 2024. Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2024-10-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s41/main-card.jpg
+            summary: >
+              Main Card for UFC 307 Pereira vs Rountree Jr. hosted at Delta Center (Salt Lake City, Utah, United
+              States) on October 05, 2024. Detailed bout listings are pending in the SportsDB feed.
+      42:
+        title: Dana Whites Contender Series season 8 Week 9
+        sort_title: 042_Dana Whites Contender Series season 8 Week 9
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s42/poster.jpg
+        summary: >
+          Dana Whites Contender Series season 8 Week 9 is scheduled for October 09, 2024 at UFC APEX in Las
+          Vegas, Nevada, United States.
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2024-10-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s42/early-prelims.jpg
+            summary: >
+              Early Prelims for Dana Whites Contender Series season 8 Week 9 hosted at UFC APEX (Las Vegas,
+              Nevada, United States) on October 09, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Prelims
+            originally_available: 2024-10-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s42/prelims.jpg
+            summary: >
+              Prelims for Dana Whites Contender Series season 8 Week 9 hosted at UFC APEX (Las Vegas, Nevada,
+              United States) on October 09, 2024. Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2024-10-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s42/main-card.jpg
+            summary: >
+              Main Card for Dana Whites Contender Series season 8 Week 9 hosted at UFC APEX (Las Vegas, Nevada,
+              United States) on October 09, 2024. Detailed bout listings are pending in the SportsDB feed.
+      43:
+        title: UFC Fight Night 244 Royval vs Taira
+        sort_title: 043_UFC Fight Night 244 Royval vs Taira
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s43/poster.jpg
+        summary: >
+          UFC Fight Night: Royval vs. Taira (also known as UFC Fight Night 244, UFC on ESPN+ 102 and UFC Vegas
+          98) is an upcoming mixed martial arts event produced by the Ultimate Fighting Championship that will
+          take place on October 12, 2024, at the UFC Apex in Enterprise, Nevada, part of the Las Vegas Valley,
+          United States.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-10-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s43/prelims.jpg
+            summary: >
+              Prelims for UFC Fight Night 244 Royval vs Taira hosted at UFC APEX (Las Vegas, Nevada, United
+              States) on October 12, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2024-10-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s43/main-card.jpg
+            summary: >
+              Main Card for UFC Fight Night 244 Royval vs Taira hosted at UFC APEX (Las Vegas, Nevada, United
+              States) on October 12, 2024. Detailed bout listings are pending in the SportsDB feed.
+      44:
+        title: Dana Whites Contender Series season 8 Week 10
+        sort_title: 044_Dana Whites Contender Series season 8 Week 10
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s44/poster.jpg
+        summary: >
+          Dana Whites Contender Series season 8 Week 10 is scheduled for October 16, 2024 at UFC APEX in Las
+          Vegas, Nevada, United States.
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2024-10-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s44/early-prelims.jpg
+            summary: >
+              Early Prelims for Dana Whites Contender Series season 8 Week 10 hosted at UFC APEX (Las Vegas,
+              Nevada, United States) on October 16, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Prelims
+            originally_available: 2024-10-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s44/prelims.jpg
+            summary: >
+              Prelims for Dana Whites Contender Series season 8 Week 10 hosted at UFC APEX (Las Vegas, Nevada,
+              United States) on October 16, 2024. Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2024-10-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s44/main-card.jpg
+            summary: >
+              Main Card for Dana Whites Contender Series season 8 Week 10 hosted at UFC APEX (Las Vegas, Nevada,
+              United States) on October 16, 2024. Detailed bout listings are pending in the SportsDB feed.
+      45:
+        title: UFC Fight Night 245 Hernandez vs Pereira
+        sort_title: 045_UFC Fight Night 245 Hernandez vs Pereira
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s45/poster.jpg
+        summary: >
+          UFC Fight Night: Hernandez vs. Pereira (also known as UFC Fight Night 245, UFC on ESPN+ 103 and UFC
+          Vegas 99) is an upcoming mixed martial arts event produced by the Ultimate Fighting Championship
+          that will take place on October 19, 2024, at the UFC Apex facility in Las Vegas, Nevada, United
+          States.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-10-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s45/prelims.jpg
+            summary: >
+              Prelims for UFC Fight Night 245 Hernandez vs Pereira hosted at UFC APEX (Las Vegas, Nevada, United
+              States) on October 19, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2024-10-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s45/main-card.jpg
+            summary: >
+              Main Card for UFC Fight Night 245 Hernandez vs Pereira hosted at UFC APEX (Las Vegas, Nevada, United
+              States) on October 19, 2024. Detailed bout listings are pending in the SportsDB feed.
+      46:
+        title: UFC 308 Topuria vs Holloway
+        sort_title: 046_UFC 308 Topuria vs Holloway
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s46/poster.jpg
+        summary: >
+          UFC 308: Topuria vs. Holloway is an upcoming mixed martial arts event produced by the Ultimate
+          Fighting Championship that will take place on October 26, 2024, at the Etihad Arena in Abu Dhabi,
+          United Arab Emirates.
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2024-10-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s46/early-prelims.jpg
+            summary: >
+              Early Prelims for UFC 308 Topuria vs Holloway hosted at Etihad Arena (Abu Dhabi, United Arab
+              Emirates) on October 26, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Prelims
+            originally_available: 2024-10-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s46/prelims.jpg
+            summary: >
+              Prelims for UFC 308 Topuria vs Holloway hosted at Etihad Arena (Abu Dhabi, United Arab Emirates) on
+              October 26, 2024. Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2024-10-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s46/main-card.jpg
+            summary: >
+              Main Card for UFC 308 Topuria vs Holloway hosted at Etihad Arena (Abu Dhabi, United Arab Emirates)
+              on October 26, 2024. Detailed bout listings are pending in the SportsDB feed.
+      47:
+        title: UFC Fight Night 246 Moreno vs Albazi
+        sort_title: 047_UFC Fight Night 246 Moreno vs Albazi
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s47/poster.jpg
+        summary: >
+          UFC Fight Night: Moreno vs. Albazi (also known as UFC Fight Night 246 and UFC on ESPN+ 104) is an
+          upcoming mixed martial arts event produced by the Ultimate Fighting Championship that will take
+          place on November 2, 2024, at Rogers Place in Edmonton, Alberta, Canada.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-11-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s47/prelims.jpg
+            summary: >
+              Prelims for UFC Fight Night 246 Moreno vs Albazi hosted at Rogers Place (Edmonton, Alberta, Canada)
+              on November 03, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2024-11-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s47/main-card.jpg
+            summary: >
+              Main Card for UFC Fight Night 246 Moreno vs Albazi hosted at Rogers Place (Edmonton, Alberta,
+              Canada) on November 03, 2024. Detailed bout listings are pending in the SportsDB feed.
+      48:
+        title: UFC Fight Night 247 Magny vs Prates
+        sort_title: 048_UFC Fight Night 247 Magny vs Prates
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s48/poster.jpg
+        summary: >
+          UFC Fight Night: Magny vs. Prates (also known as UFC Fight Night 247, UFC Vegas 100, and UFC on
+          ESPN+ 105) is an upcoming mixed martial arts event produced by the Ultimate Fighting Championship
+          that will take place on November 9, 2024, at the UFC Apex in Enterprise, Nevada, part of the Las
+          Vegas Valley, United States.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-11-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s48/prelims.jpg
+            summary: >
+              Prelims for UFC Fight Night 247 Magny vs Prates hosted at UFC APEX (Las Vegas, Nevada, United
+              States) on November 10, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2024-11-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s48/main-card.jpg
+            summary: >
+              Main Card for UFC Fight Night 247 Magny vs Prates hosted at UFC APEX (Las Vegas, Nevada, United
+              States) on November 10, 2024. Detailed bout listings are pending in the SportsDB feed.
+      49:
+        title: UFC 309 Jones vs Miocic
+        sort_title: 049_UFC 309 Jones vs Miocic
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s49/poster.jpg
+        summary: >
+          UFC 309: Jones vs. Miocic is an upcoming mixed martial arts event produced by the Ultimate Fighting
+          Championship that will take place on November 16, 2024, at Madison Square Garden in New York City,
+          New York, United States.
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2024-11-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s49/early-prelims.jpg
+            summary: >
+              Early Prelims for UFC 309 Jones vs Miocic hosted at Madison Square Garden (New York City, New York,
+              United States) on November 17, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Prelims
+            originally_available: 2024-11-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s49/prelims.jpg
+            summary: >
+              Prelims for UFC 309 Jones vs Miocic hosted at Madison Square Garden (New York City, New York, United
+              States) on November 17, 2024. Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2024-11-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s49/main-card.jpg
+            summary: >
+              Main Card for UFC 309 Jones vs Miocic hosted at Madison Square Garden (New York City, New York,
+              United States) on November 17, 2024. Detailed bout listings are pending in the SportsDB feed.
+      50:
+        title: UFC Fight Night 248 Yan vs Figueiredo
+        sort_title: 050_UFC Fight Night 248 Yan vs Figueiredo
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s50/poster.jpg
+        summary: >
+          UFC Fight Night: Yan vs. Figueiredo (also known as UFC Fight Night 248 and UFC on ESPN+ 106) is an
+          upcoming mixed martial arts event produced by the Ultimate Fighting Championship that will take
+          place on November 23, 2024, at the Galaxy Arena in Macau, SAR, China.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-11-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s50/prelims.jpg
+            summary: >
+              Prelims for UFC Fight Night 248 Yan vs Figueiredo hosted at Galaxy Macau (Macau, SAR, Macau) on
+              November 23, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2024-11-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s50/main-card.jpg
+            summary: >
+              Main Card for UFC Fight Night 248 Yan vs Figueiredo hosted at Galaxy Macau (Macau, SAR, Macau) on
+              November 23, 2024. Detailed bout listings are pending in the SportsDB feed.
+      51:
+        title: UFC 310 Pantoja vs Asakura
+        sort_title: 051_UFC 310 Pantoja vs Asakura
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s51/poster.jpg
+        summary: >
+          UFC 310: Pantoja vs. Asakura is an upcoming mixed martial arts event produced by the Ultimate
+          Fighting Championship that will take place on December 7, 2024, at the T-Mobile Arena in Paradise,
+          Nevada, part of the Las Vegas Valley, United States.
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2024-12-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s51/early-prelims.jpg
+            summary: >
+              Early Prelims for UFC 310 Pantoja vs Asakura hosted at T-Mobile Arena (Paradise, Nevada, United
+              States) on December 08, 2024. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Prelims
+            originally_available: 2024-12-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s51/prelims.jpg
+            summary: >
+              Prelims for UFC 310 Pantoja vs Asakura hosted at T-Mobile Arena (Paradise, Nevada, United States) on
+              December 08, 2024. Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2024-12-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s51/main-card.jpg
+            summary: >
+              Main Card for UFC 310 Pantoja vs Asakura hosted at T-Mobile Arena (Paradise, Nevada, United States)
+              on December 08, 2024. Detailed bout listings are pending in the SportsDB feed.
+      52:
+        title: UFC on ESPN 63 Covington vs Buckley
+        sort_title: 052_UFC on ESPN 63 Covington vs Buckley
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s52/poster.jpg
+        summary: >
+          UFC on ESPN: Covington vs. Buckley (also known as UFC on ESPN 63) is an upcoming mixed martial arts
+          event produced by the Ultimate Fighting Championship that will take place on December 14, 2024, at
+          the Amalie Arena in Tampa, Florida, United States.
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2024-12-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s52/prelims.jpg
+            summary: >
+              Prelims for UFC on ESPN 63 Covington vs Buckley hosted at Amalie Arena (Tampa, Florida, United
+              States) on December 15, 2024. Notable bouts: Lightweight: Michael Johnson def. Ottman Azaitar (KO
+              (punch), R2, 2:03); Lightweight: Joel Álvarez def. Drakkar Klose (KO (flying knee and punches), R1,
+              2:48); Featherweight: Sean Woodson def. Fernando Padilla (TKO (punches), R1, 4:58).
+          2:
+            title: Main Card
+            originally_available: 2024-12-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2024/s52/main-card.jpg
+            summary: >
+              Main Card for UFC on ESPN 63 Covington vs Buckley hosted at Amalie Arena (Tampa, Florida, United
+              States) on December 15, 2024. Notable bouts: Welterweight: Joaquin Buckley def. Colby Covington (TKO
+              (doctor stoppage), R3, 4:42); Featherweight: Cub Swanson def. Billy Quarantillo (KO (punch), R3,
+              1:36); Flyweight: Manel Kape def. Bruno Gustavo da Silva (TKO (body kick and punches), R3, 1:57).
