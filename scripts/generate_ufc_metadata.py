@@ -219,6 +219,41 @@ def _wrap_lines(prefix: str, text: str, width: int = 100) -> List[str]:
     return [f"{prefix}{line}" for line in wrapped]
 
 
+def slugify(value: str) -> str:
+    cleaned = re.sub(r"[^a-zA-Z0-9\s-]", "", value)
+    cleaned = cleaned.strip().lower()
+    cleaned = re.sub(r"[\s_-]+", "-", cleaned)
+    return cleaned or "episode"
+
+
+def build_asset_url(base: str, relative_path: str) -> str:
+    base_clean = base.rstrip("/")
+    rel_clean = relative_path.lstrip("/")
+    if not base_clean:
+        return rel_clean
+    return f"{base_clean}/{rel_clean}"
+
+
+def ensure_asset_download(
+    source_url: Optional[str],
+    dest_path: Path,
+    context: ssl.SSLContext,
+) -> bool:
+    if not source_url:
+        return False
+    if dest_path.exists():
+        return True
+    dest_path.parent.mkdir(parents=True, exist_ok=True)
+    request = urllib.request.Request(source_url, headers={"User-Agent": USER_AGENT})
+    try:
+        with urllib.request.urlopen(request, context=context) as response:
+            dest_path.write_bytes(response.read())
+        return True
+    except urllib.error.URLError as exc:
+        print(f"Warning: failed to download asset {source_url}: {exc}", file=sys.stderr)
+        return False
+
+
 def build_metadata(args: argparse.Namespace) -> dict:
     verify_ssl = not args.insecure
     context = build_ssl_context(verify_ssl)
@@ -281,6 +316,25 @@ def build_metadata(args: argparse.Namespace) -> dict:
             if args.round_delay > 0 and round_number < args.round_stop:
                 time.sleep(args.round_delay)
 
+    assets_root = args.assets_root
+    download_assets = not args.skip_asset_download
+
+    first_round = min(events_by_round) if events_by_round else None
+    first_event = events_by_round[first_round] if first_round else None
+
+    if download_assets and first_event and args.poster_rel:
+        ensure_asset_download(
+            first_event.get("strPoster"),
+            assets_root / args.poster_rel,
+            context,
+        )
+    if download_assets and first_event and args.background_rel:
+        ensure_asset_download(
+            first_event.get("strFanart"),
+            assets_root / args.background_rel,
+            context,
+        )
+
     seasons = []
     for round_number in sorted(events_by_round):
         event = events_by_round[round_number]
@@ -306,12 +360,29 @@ def build_metadata(args: argparse.Namespace) -> dict:
                 f"at {venue}{f' in {location}' if location else ''}."
             )
 
-        season_poster = None
         event_token = extract_event_number(event_title)
-        if event_token and args.season_poster_template:
-            season_poster = args.season_poster_template.format(event_token=event_token)
+        round_token = event_token or f"{round_number:03d}"
+        season_number = round_number
+        season_poster = None
+        if args.season_poster_template:
+            season_poster_rel = args.season_poster_template.format(
+                season=args.season,
+                round=round_token,
+                event_token=round_token,
+                season_number=season_number,
+            )
+            season_poster_path = assets_root / season_poster_rel
+            if download_assets:
+                ensure_asset_download(event.get("strPoster"), season_poster_path, context)
+            season_poster = build_asset_url(args.asset_url_base, season_poster_rel)
         elif args.season_poster_fallback:
-            season_poster = args.season_poster_fallback
+            fallback_rel = args.season_poster_fallback.format(
+                season=args.season,
+                round=round_token,
+                event_token=round_token,
+                season_number=season_number,
+            )
+            season_poster = build_asset_url(args.asset_url_base, fallback_rel)
 
         episodes = []
         for index, card_key in enumerate(card_layout, start=1):
@@ -329,12 +400,33 @@ def build_metadata(args: argparse.Namespace) -> dict:
                 episode_summary_parts.append(
                     "Detailed bout listings are pending in the SportsDB feed."
                 )
+            title_slug = slugify(episode_title)
+            episode_poster_url = None
+            if args.episode_poster_template:
+                episode_poster_rel = args.episode_poster_template.format(
+                    season=args.season,
+                    round=round_token,
+                    event_token=round_token,
+                    season_number=season_number,
+                    episode_title=title_slug,
+                )
+                episode_poster_path = assets_root / episode_poster_rel
+                episode_poster_url = build_asset_url(
+                    args.asset_url_base, episode_poster_rel
+                )
+
+                if download_assets and card_key == "main":
+                    ensure_asset_download(
+                        event.get("strThumb"), episode_poster_path, context
+                    )
+
             episodes.append(
                 {
                     "index": index,
                     "title": f"{episode_title}",
                     "originally_available": event_date_str,
                     "summary": " ".join(episode_summary_parts),
+                    "url_poster": episode_poster_url,
                 }
             )
 
@@ -390,6 +482,8 @@ def render_yaml(metadata: dict) -> str:
             lines.append(
                 f"            originally_available: {episode['originally_available']}"
             )
+            if episode.get("url_poster"):
+                lines.append(f"            url_poster: {episode['url_poster']}")
             lines.append("            summary: >")
             lines.extend(_wrap_lines("              ", episode["summary"]))
     return "\n".join(lines) + "\n"
@@ -432,43 +526,61 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
     )
     parser.add_argument(
         "--poster-url",
-        default="https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/poster.jpg",
-        help="Show-level poster URL.",
+        default="posters/ufc/{season}/poster.jpg",
+        help="Show-level poster path or URL (supports {season}).",
     )
     parser.add_argument(
         "--background-url",
-        default="https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/background.jpg",
-        help="Show-level background URL.",
+        default="posters/ufc/{season}/background.jpg",
+        help="Show-level background path or URL (supports {season}).",
     )
     parser.add_argument(
         "--summary",
         default=(
-            "The 2025 UFC calendar spans numbered pay-per-view spectacles and weekly "
+            "The {season} UFC calendar spans numbered pay-per-view spectacles and weekly "
             "Fight Night cards around the globe. Each SportsDB round is grouped here "
             "so recordings for Early Prelims, Prelims and Main Card blocks can be "
             "matched and renamed automatically."
         ),
-        help="Overall show summary text.",
+        help="Overall show summary text (supports {season}).",
+    )
+    parser.add_argument(
+        "--asset-url-base",
+        default="https://raw.githubusercontent.com/s0len/meta-manager-config/main",
+        help="Base URL prepended to relative poster paths.",
+    )
+    parser.add_argument(
+        "--assets-root",
+        default=".",
+        help="Local root directory where poster assets are stored/downloaded.",
     )
     parser.add_argument(
         "--season-poster-template",
-        default="https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/{event_token}/poster.jpg",
+        default="posters/ufc/{season}/s{season_number}/poster.jpg",
         help=(
-            "Format string for season posters; {event_token} is replaced with the "
-            "numeric UFC event extracted from the title. Leave empty to skip."
+            "Relative path template for season posters; {season_number} matches the "
+            "season entry (1..n). Leave empty to skip."
         ),
     )
     parser.add_argument(
         "--season-poster-fallback",
-        default="https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/poster.jpg",
-        help="Fallback poster URL when an event number is unavailable.",
+        default="",
+        help="Fallback relative poster path when SportsDB lacks artwork.",
+    )
+    parser.add_argument(
+        "--episode-poster-template",
+        default="posters/ufc/{season}/s{season_number}/{episode_title}.jpg",
+        help=(
+            "Relative path template for per-episode posters. Supports {season}, "
+            "{season_number} and {episode_title} (slug). Leave empty to skip."
+        ),
     )
     parser.add_argument(
         "--output",
         type=Path,
         default=None,
         help="Destination path for the generated YAML "
-        "(defaults to metadata-files/ufc-<season>.yaml).",
+        "(defaults to metadata-files/ufc/{season}.yaml).",
     )
     parser.add_argument(
         "--insecure",
@@ -498,17 +610,43 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
         action="store_true",
         help="Disable per-round fetches (use only eventsseason.php).",
     )
+    parser.add_argument(
+        "--skip-asset-download",
+        action="store_true",
+        help="Skip downloading SportsDB artwork for seasons/episodes.",
+    )
     return parser.parse_args(argv)
 
 
 def main(argv: Optional[Sequence[str]] = None) -> int:
     args = parse_args(argv)
+    args.assets_root = Path(args.assets_root).expanduser()
+
+    def resolve_asset(value: Optional[str]) -> Tuple[Optional[str], Optional[str]]:
+        if not value:
+            return None, None
+        formatted = value.format(season=args.season)
+        if formatted.lower().startswith(("http://", "https://")):
+            return formatted, None
+        return build_asset_url(args.asset_url_base, formatted), formatted
+
+    args.poster_url, args.poster_rel = resolve_asset(args.poster_url)
+    args.background_url, args.background_rel = resolve_asset(args.background_url)
+
+    if args.summary:
+        args.summary = args.summary.format(season=args.season)
+    if args.title:
+        args.title = args.title.format(season=args.season)
+    if args.sort_title:
+        args.sort_title = args.sort_title.format(season=args.season)
+    if args.show_id:
+        args.show_id = args.show_id.format(season=args.season)
     metadata = build_metadata(args)
     yaml_text = render_yaml(metadata)
 
     output_path = args.output
     if output_path is None:
-        output_path = Path("metadata-files") / f"ufc-{args.season}.yaml"
+        output_path = Path("metadata-files") / f"ufc/{args.season}.yaml"
     output_path = output_path.expanduser()
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(yaml_text, encoding="utf-8")
