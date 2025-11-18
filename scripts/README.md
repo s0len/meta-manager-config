@@ -50,6 +50,124 @@ Find the `season-id` with `https://footballapi.pulselive.com/football/competitio
 (`777` corresponds to 2025/26). Additional flags let you tweak artwork URLs, show
 titles or limit the matchweek range. Use `--help` for the complete option list.
 
+## `generate_premier_league_metadata_sportsdb.py`
+
+Builds the same matchweek structure as the Pulse Live script but sources fixtures
+directly from TheSportsDB (league id `4328`). Every SportsDB `intRound` becomes a
+season and each event is emitted as an episode with venue, city and kickoff details.
+
+```shell
+python3 scripts/generate_premier_league_metadata_sportsdb.py --season 2024-2025
+```
+
+Key flags mirror `generate_ufc_metadata`:
+
+- `--season` / `--league-id` / `--api-key` to select the SportsDB feed
+- `--matchweek-start/--matchweek-stop` plus `--matchweek-delay` / `--request-interval`
+  / `--max-retries` to respect SportsDB rate limits (default 2.1s spacing ≈28 req/min)
+- `--poster-url`, `--background-url`, `--asset-url-base`, `--assets-root`,
+  `--matchweek-poster-template`, `--fixture-poster-template` and
+  `--skip-asset-download` to mirror the UFC poster workflow
+- `--summary`, `--show-id`, `--sort-title` customise the library metadata, `--insecure`
+  switches off SSL verification when needed
+
+Season posters default to `posters/premier-league/<season>/sX/poster.jpg` and episodes
+to `posters/premier-league/<season>/sX/eY.jpg` (X = matchweek, Y = episode index). The
+script attempts to download SportsDB art (poster/fanart/thumb) into those paths when
+available so Plex/Jellyfin can reference the GitHub URLs straight away.
+
+By default the YAML is written to `metadata-files/premier-league/<season>.yaml`. Run
+the generator again whenever fixtures shift so kickoff dates stay aligned.
+
+## `generate_uefa_champions_league_metadata_sportsdb.py`
+
+Builds UEFA Champions League matchday metadata directly from TheSportsDB league feed
+(`league_id 4480`). Each SportsDB `intRound` becomes a season labelled as a matchday
+and every fixture is emitted as an episode with venue, city and kickoff context,
+mirroring the UFC-style CLI.
+
+```shell
+python3 scripts/generate_uefa_champions_league_metadata_sportsdb.py \
+  --season 2025-2026 --api-key "$TSD_KEY"
+```
+
+Key flags:
+
+- `--season` / `--league-id` / `--api-key` / `--round-label` select the SportsDB feed
+  and matchday naming
+- `--matchweek-start`, `--matchweek-stop`, `--matchweek-delay`,
+  `--skip-matchweek-fill`, `--request-interval`, `--max-retries`,
+  `--retry-backoff`, `--insecure` preserve the shared 2.1 s rate limiter,
+  exponential backoff for 429/5xx and the optional SSL bypass path
+- `--poster-url`, `--background-url`, `--asset-url-base`, `--assets-root`,
+  `--matchweek-poster-template`, `--matchweek-poster-fallback`,
+  `--fixture-poster-template`, `--skip-asset-download` manage the artwork workflow
+- `--summary`, `--show-id`, `--sort-title`, `--output` mirror the UFC metadata
+  overrides
+
+Season posters default to `posters/uefa-champions-league/<season>/sX/poster.jpg` and
+episodes to `posters/uefa-champions-league/<season>/sX/eY.jpg` (X = matchday,
+Y = episode index). Artwork downloads reuse the shared throttled downloader and the
+YAML still emits `url_poster` values even when SportsDB provides no art. The output
+path defaults to `metadata-files/uefa-champions-league/<season>.yaml`.
+
+## `generate_nba_metadata_sportsdb.py`
+
+Mirrors the UFC/Premier League SportsDB generators but targets the NBA feed
+(`league_id 4387`, seasons like `2025-2026`). Each SportsDB `intRound` becomes an
+NBA week season and every game is emitted as an episode with venue, city and
+scheduled date context.
+
+```shell
+python3 scripts/generate_nba_metadata_sportsdb.py --season 2025-2026 --api-key "$TSD_KEY"
+```
+
+Key flags:
+
+- `--season` / `--league-id` / `--api-key` select the SportsDB payload
+- `--matchweek-start`, `--matchweek-stop`, `--matchweek-delay`,
+  `--skip-matchweek-fill`, `--request-interval`, `--max-retries`,
+  `--retry-backoff` maintain the shared 2.1 s throttle plus exponential backoff
+  for 429/5xx responses (including the optional `--insecure` retry path)
+- `--poster-url`, `--background-url`, `--asset-url-base`, `--assets-root`,
+  `--matchweek-poster-template`, `--matchweek-poster-fallback`,
+  `--fixture-poster-template`, `--skip-asset-download` control the artwork workflow
+- `--summary`, `--show-id`, `--sort-title`, `--output` mirror the UFC CLI surface
+
+Season posters default to `posters/nba/<season>/sX/poster.jpg` and episodes to
+`posters/nba/<season>/sX/eY.jpg` (X = NBA week, Y = episode index). Art downloads
+use the same throttled downloader as the UFC/PL scripts and still emit
+`url_poster` entries even when SportsDB lacks artwork. The YAML is written to
+`metadata-files/nba/<season>.yaml` by default.
+
+## `generate_nfl_metadata_sportsdb.py`
+
+Targets TheSportsDB NFL feed (league `4391`) so each SportsDB `intRound`
+(regular-season week or postseason round) becomes a season and every scheduled
+game becomes an episode entry with venue, city and kickoff notes.
+
+```shell
+python3 scripts/generate_nfl_metadata_sportsdb.py --season 2025 --api-key "$TSD_KEY"
+```
+
+Key flags mirror the UFC/Premier League generators:
+
+- `--season` / `--league-id` / `--api-key` select the SportsDB payload
+- `--matchweek-start`, `--matchweek-stop`, `--matchweek-delay`,
+  `--request-interval`, `--max-retries`, `--retry-backoff` respect the shared
+  2.1 s rate limiter plus exponential backoff for 429/5xx
+- `--poster-url`, `--background-url`, `--asset-url-base`, `--assets-root`,
+  `--matchweek-poster-template`, `--fixture-poster-template`,
+  `--skip-asset-download` control the artwork flow (defaults write to
+  `posters/nfl/<season>/sX/poster.jpg` and `/eY.jpg`)
+- `--summary`, `--show-id`, `--sort-title`, `--insecure`,
+  `--skip-matchweek-fill` mirror the UFC surface for metadata overrides and SSL
+  fallbacks
+
+By default the YAML is written to `metadata-files/nfl/<season>.yaml`. Re-run the
+script whenever the NFL flexes kickoffs or updates postseason matchups so dates
+remain current.
+
 ## `generate_ufc_metadata.py`
 
 Builds the yearly UFC metadata file directly from TheSportsDB rounds feed. Each
