@@ -1,0 +1,1277 @@
+metadata:
+  MotoGP 2025:
+    title: MotoGP 2025
+    sort_title: MotoGP 2025
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/background.jpg
+    summary: >
+      The 2025 MotoGP World Championship spans every Grand Prix weekend across the global calendar. Each
+      SportsDB round is grouped here so practice, sprint and race recordings can be organised
+      automatically.
+    seasons:
+      1:
+        title: Thailand
+        sort_title: 01_Thailand
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s1/poster.jpg
+        summary: >
+          Round 1 (Thailand) spans March 1-2, 2025 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-03-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s1/e1.jpg
+            summary: >
+              Practice One for Thailand Sprint Race takes place at Chang International Circuit (Buriram, Thailand)
+              on March 01, 2025. Listed start: 00:00:00 (UTC). Opening free practice runs focus on baseline setup
+              work and understanding track evolution.
+          2:
+            title: Practice Two
+            originally_available: 2025-03-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s1/e2.jpg
+            summary: >
+              Practice Two for Thailand Sprint Race takes place at Chang International Circuit (Buriram, Thailand)
+              on March 01, 2025. Listed start: 00:00:00 (UTC). Second practice refines race pace, tyre selection
+              and long-run balance.
+          3:
+            title: Qualifying One
+            originally_available: 2025-03-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s1/e3.jpg
+            summary: >
+              Qualifying One for Thailand Sprint Race takes place at Chang International Circuit (Buriram,
+              Thailand) on March 01, 2025. Listed start: 00:00:00 (UTC). First qualifying segment where riders
+              outside the automatic Q2 slots fight for advancement.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-03-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s1/e4.jpg
+            summary: >
+              Qualifying Two for Thailand Sprint Race takes place at Chang International Circuit (Buriram,
+              Thailand) on March 01, 2025. Listed start: 00:00:00 (UTC). Pole-position shootout featuring the ten
+              quickest riders from practice plus the two Q1 graduates.
+          5:
+            title: Sprint
+            originally_available: 2025-03-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s1/e5.jpg
+            summary: >
+              Sprint for Thailand Sprint Race takes place at Chang International Circuit (Buriram, Thailand) on
+              March 01, 2025. Listed start: 00:00:00 (UTC). Half-distance sprint awards half points and offers a
+              preview of full-race pace without tyre or fuel conservation.
+          6:
+            title: Race
+            originally_available: 2025-03-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s1/e6.jpg
+            summary: >
+              Race for Thailand Sprint Race takes place at Chang International Circuit (Buriram, Thailand) on
+              March 01, 2025. Listed start: 00:00:00 (UTC). Full-distance Grand Prix awards the complete
+              championship haul and often shakes up the points standings.
+      2:
+        title: Argentina
+        sort_title: 02_Argentina
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s2/poster.jpg
+        summary: >
+          Round 2 (Argentina) spans March 15-16, 2025 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-03-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s2/e1.jpg
+            summary: >
+              Practice One for Argentina Sprint Race takes place at Autódromo Termas de Río Hondo (Termas de Río
+              Hondo, Argentina) on March 15, 2025. Listed start: 00:00:00 (UTC). Opening free practice runs focus
+              on baseline setup work and understanding track evolution.
+          2:
+            title: Practice Two
+            originally_available: 2025-03-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s2/e2.jpg
+            summary: >
+              Practice Two for Argentina Sprint Race takes place at Autódromo Termas de Río Hondo (Termas de Río
+              Hondo, Argentina) on March 15, 2025. Listed start: 00:00:00 (UTC). Second practice refines race
+              pace, tyre selection and long-run balance.
+          3:
+            title: Qualifying One
+            originally_available: 2025-03-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s2/e3.jpg
+            summary: >
+              Qualifying One for Argentina Sprint Race takes place at Autódromo Termas de Río Hondo (Termas de Río
+              Hondo, Argentina) on March 15, 2025. Listed start: 00:00:00 (UTC). First qualifying segment where
+              riders outside the automatic Q2 slots fight for advancement.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-03-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s2/e4.jpg
+            summary: >
+              Qualifying Two for Argentina Sprint Race takes place at Autódromo Termas de Río Hondo (Termas de Río
+              Hondo, Argentina) on March 15, 2025. Listed start: 00:00:00 (UTC). Pole-position shootout featuring
+              the ten quickest riders from practice plus the two Q1 graduates.
+          5:
+            title: Sprint
+            originally_available: 2025-03-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s2/e5.jpg
+            summary: >
+              Sprint for Argentina Sprint Race takes place at Autódromo Termas de Río Hondo (Termas de Río Hondo,
+              Argentina) on March 15, 2025. Listed start: 00:00:00 (UTC). Half-distance sprint awards half points
+              and offers a preview of full-race pace without tyre or fuel conservation.
+          6:
+            title: Race
+            originally_available: 2025-03-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s2/e6.jpg
+            summary: >
+              Race for Argentina Sprint Race takes place at Autódromo Termas de Río Hondo (Termas de Río Hondo,
+              Argentina) on March 15, 2025. Listed start: 00:00:00 (UTC). Full-distance Grand Prix awards the
+              complete championship haul and often shakes up the points standings.
+      3:
+        title: USA
+        sort_title: 03_USA
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s3/poster.jpg
+        summary: >
+          Round 3 (USA) spans March 29-30, 2025 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-03-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s3/e1.jpg
+            summary: >
+              Practice One for USA Sprint Race takes place at Circuit of the Americas (Austin, Texas, United
+              States) on March 29, 2025. Listed start: 00:00:00 (UTC). Opening free practice runs focus on
+              baseline setup work and understanding track evolution.
+          2:
+            title: Practice Two
+            originally_available: 2025-03-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s3/e2.jpg
+            summary: >
+              Practice Two for USA Sprint Race takes place at Circuit of the Americas (Austin, Texas, United
+              States) on March 29, 2025. Listed start: 00:00:00 (UTC). Second practice refines race pace, tyre
+              selection and long-run balance.
+          3:
+            title: Qualifying One
+            originally_available: 2025-03-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s3/e3.jpg
+            summary: >
+              Qualifying One for USA Sprint Race takes place at Circuit of the Americas (Austin, Texas, United
+              States) on March 29, 2025. Listed start: 00:00:00 (UTC). First qualifying segment where riders
+              outside the automatic Q2 slots fight for advancement.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-03-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s3/e4.jpg
+            summary: >
+              Qualifying Two for USA Sprint Race takes place at Circuit of the Americas (Austin, Texas, United
+              States) on March 29, 2025. Listed start: 00:00:00 (UTC). Pole-position shootout featuring the ten
+              quickest riders from practice plus the two Q1 graduates.
+          5:
+            title: Sprint
+            originally_available: 2025-03-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s3/e5.jpg
+            summary: >
+              Sprint for USA Sprint Race takes place at Circuit of the Americas (Austin, Texas, United States) on
+              March 29, 2025. Listed start: 00:00:00 (UTC). Half-distance sprint awards half points and offers a
+              preview of full-race pace without tyre or fuel conservation.
+          6:
+            title: Race
+            originally_available: 2025-03-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s3/e6.jpg
+            summary: >
+              Race for USA Sprint Race takes place at Circuit of the Americas (Austin, Texas, United States) on
+              March 29, 2025. Listed start: 00:00:00 (UTC). Full-distance Grand Prix awards the complete
+              championship haul and often shakes up the points standings.
+      4:
+        title: Qatar
+        sort_title: 04_Qatar
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s4/poster.jpg
+        summary: >
+          Round 4 (Qatar) spans April 12-13, 2025 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-04-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s4/e1.jpg
+            summary: >
+              Practice One for Qatar Sprint Race takes place at Lusail International Circuit (Doha, Qatar) on
+              April 12, 2025. Listed start: 00:00:00 (UTC). Opening free practice runs focus on baseline setup
+              work and understanding track evolution.
+          2:
+            title: Practice Two
+            originally_available: 2025-04-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s4/e2.jpg
+            summary: >
+              Practice Two for Qatar Sprint Race takes place at Lusail International Circuit (Doha, Qatar) on
+              April 12, 2025. Listed start: 00:00:00 (UTC). Second practice refines race pace, tyre selection and
+              long-run balance.
+          3:
+            title: Qualifying One
+            originally_available: 2025-04-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s4/e3.jpg
+            summary: >
+              Qualifying One for Qatar Sprint Race takes place at Lusail International Circuit (Doha, Qatar) on
+              April 12, 2025. Listed start: 00:00:00 (UTC). First qualifying segment where riders outside the
+              automatic Q2 slots fight for advancement.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-04-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s4/e4.jpg
+            summary: >
+              Qualifying Two for Qatar Sprint Race takes place at Lusail International Circuit (Doha, Qatar) on
+              April 12, 2025. Listed start: 00:00:00 (UTC). Pole-position shootout featuring the ten quickest
+              riders from practice plus the two Q1 graduates.
+          5:
+            title: Sprint
+            originally_available: 2025-04-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s4/e5.jpg
+            summary: >
+              Sprint for Qatar Sprint Race takes place at Lusail International Circuit (Doha, Qatar) on April 12,
+              2025. Listed start: 00:00:00 (UTC). Half-distance sprint awards half points and offers a preview of
+              full-race pace without tyre or fuel conservation.
+          6:
+            title: Race
+            originally_available: 2025-04-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s4/e6.jpg
+            summary: >
+              Race for Qatar Sprint Race takes place at Lusail International Circuit (Doha, Qatar) on April 12,
+              2025. Listed start: 00:00:00 (UTC). Full-distance Grand Prix awards the complete championship haul
+              and often shakes up the points standings.
+      5:
+        title: Spain
+        sort_title: 05_Spain
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s5/poster.jpg
+        summary: >
+          Round 5 (Spain) spans April 26-27, 2025 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-04-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s5/e1.jpg
+            summary: >
+              Practice One for Spain Sprint Race takes place at Circuito de Jerez – Ángel Nieto (Jerez, Spain) on
+              April 26, 2025. Local start: 15:00:00. Opening free practice runs focus on baseline setup work and
+              understanding track evolution.
+          2:
+            title: Practice Two
+            originally_available: 2025-04-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s5/e2.jpg
+            summary: >
+              Practice Two for Spain Sprint Race takes place at Circuito de Jerez – Ángel Nieto (Jerez, Spain) on
+              April 26, 2025. Local start: 15:00:00. Second practice refines race pace, tyre selection and long-
+              run balance.
+          3:
+            title: Qualifying One
+            originally_available: 2025-04-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s5/e3.jpg
+            summary: >
+              Qualifying One for Spain Sprint Race takes place at Circuito de Jerez – Ángel Nieto (Jerez, Spain)
+              on April 26, 2025. Local start: 15:00:00. First qualifying segment where riders outside the
+              automatic Q2 slots fight for advancement.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-04-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s5/e4.jpg
+            summary: >
+              Qualifying Two for Spain Sprint Race takes place at Circuito de Jerez – Ángel Nieto (Jerez, Spain)
+              on April 26, 2025. Local start: 15:00:00. Pole-position shootout featuring the ten quickest riders
+              from practice plus the two Q1 graduates.
+          5:
+            title: Sprint
+            originally_available: 2025-04-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s5/e5.jpg
+            summary: >
+              Sprint for Spain Sprint Race takes place at Circuito de Jerez – Ángel Nieto (Jerez, Spain) on April
+              26, 2025. Local start: 15:00:00. Half-distance sprint awards half points and offers a preview of
+              full-race pace without tyre or fuel conservation.
+          6:
+            title: Race
+            originally_available: 2025-04-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s5/e6.jpg
+            summary: >
+              Race for Spain Sprint Race takes place at Circuito de Jerez – Ángel Nieto (Jerez, Spain) on April
+              26, 2025. Local start: 15:00:00. Full-distance Grand Prix awards the complete championship haul and
+              often shakes up the points standings.
+      6:
+        title: France
+        sort_title: 06_France
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s6/poster.jpg
+        summary: >
+          Round 6 (France) spans May 10-11, 2025 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-05-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s6/e1.jpg
+            summary: >
+              Practice One for France Sprint Race takes place at Le Mans (Le Mans, France) on May 10, 2025. Local
+              start: 14:45:00. Opening free practice runs focus on baseline setup work and understanding track
+              evolution.
+          2:
+            title: Practice Two
+            originally_available: 2025-05-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s6/e2.jpg
+            summary: >
+              Practice Two for France Sprint Race takes place at Le Mans (Le Mans, France) on May 10, 2025. Local
+              start: 14:45:00. Second practice refines race pace, tyre selection and long-run balance.
+          3:
+            title: Qualifying One
+            originally_available: 2025-05-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s6/e3.jpg
+            summary: >
+              Qualifying One for France Sprint Race takes place at Le Mans (Le Mans, France) on May 10, 2025.
+              Local start: 14:45:00. First qualifying segment where riders outside the automatic Q2 slots fight
+              for advancement.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-05-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s6/e4.jpg
+            summary: >
+              Qualifying Two for France Sprint Race takes place at Le Mans (Le Mans, France) on May 10, 2025.
+              Local start: 14:45:00. Pole-position shootout featuring the ten quickest riders from practice plus
+              the two Q1 graduates.
+          5:
+            title: Sprint
+            originally_available: 2025-05-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s6/e5.jpg
+            summary: >
+              Sprint for France Sprint Race takes place at Le Mans (Le Mans, France) on May 10, 2025. Local start:
+              14:45:00. Half-distance sprint awards half points and offers a preview of full-race pace without
+              tyre or fuel conservation.
+          6:
+            title: Race
+            originally_available: 2025-05-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s6/e6.jpg
+            summary: >
+              Race for France Sprint Race takes place at Le Mans (Le Mans, France) on May 10, 2025. Local start:
+              14:45:00. Full-distance Grand Prix awards the complete championship haul and often shakes up the
+              points standings.
+      7:
+        title: United Kingdom
+        sort_title: 07_United Kingdom
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s7/poster.jpg
+        summary: >
+          Round 7 (United Kingdom) spans May 24-25, 2025 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-05-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s7/e1.jpg
+            summary: >
+              Practice One for United Kingdom Sprint Race takes place at Silverstone Circuit (Silverstone, United
+              Kingdom) on May 24, 2025. Local start: 15:45:00. Opening free practice runs focus on baseline setup
+              work and understanding track evolution.
+          2:
+            title: Practice Two
+            originally_available: 2025-05-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s7/e2.jpg
+            summary: >
+              Practice Two for United Kingdom Sprint Race takes place at Silverstone Circuit (Silverstone, United
+              Kingdom) on May 24, 2025. Local start: 15:45:00. Second practice refines race pace, tyre selection
+              and long-run balance.
+          3:
+            title: Qualifying One
+            originally_available: 2025-05-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s7/e3.jpg
+            summary: >
+              Qualifying One for United Kingdom Sprint Race takes place at Silverstone Circuit (Silverstone,
+              United Kingdom) on May 24, 2025. Local start: 15:45:00. First qualifying segment where riders
+              outside the automatic Q2 slots fight for advancement.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-05-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s7/e4.jpg
+            summary: >
+              Qualifying Two for United Kingdom Sprint Race takes place at Silverstone Circuit (Silverstone,
+              United Kingdom) on May 24, 2025. Local start: 15:45:00. Pole-position shootout featuring the ten
+              quickest riders from practice plus the two Q1 graduates.
+          5:
+            title: Sprint
+            originally_available: 2025-05-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s7/e5.jpg
+            summary: >
+              Sprint for United Kingdom Sprint Race takes place at Silverstone Circuit (Silverstone, United
+              Kingdom) on May 24, 2025. Local start: 15:45:00. Half-distance sprint awards half points and offers
+              a preview of full-race pace without tyre or fuel conservation.
+          6:
+            title: Race
+            originally_available: 2025-05-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s7/e6.jpg
+            summary: >
+              Race for United Kingdom Sprint Race takes place at Silverstone Circuit (Silverstone, United Kingdom)
+              on May 24, 2025. Local start: 15:45:00. Full-distance Grand Prix awards the complete championship
+              haul and often shakes up the points standings.
+      8:
+        title: Aragón
+        sort_title: 08_Aragón
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s8/poster.jpg
+        summary: >
+          Round 8 (Aragón) spans June 7, 2025 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-06-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s8/e1.jpg
+            summary: >
+              Practice One for Aragón Sprint Race takes place at MotorLand Aragón (Alcañiz, Spain) on June 07,
+              2025. Listed start: 12:00:00 (UTC). Opening free practice runs focus on baseline setup work and
+              understanding track evolution.
+          2:
+            title: Practice Two
+            originally_available: 2025-06-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s8/e2.jpg
+            summary: >
+              Practice Two for Aragón Sprint Race takes place at MotorLand Aragón (Alcañiz, Spain) on June 07,
+              2025. Listed start: 12:00:00 (UTC). Second practice refines race pace, tyre selection and long-run
+              balance.
+          3:
+            title: Qualifying One
+            originally_available: 2025-06-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s8/e3.jpg
+            summary: >
+              Qualifying One for Aragón Sprint Race takes place at MotorLand Aragón (Alcañiz, Spain) on June 07,
+              2025. Listed start: 12:00:00 (UTC). First qualifying segment where riders outside the automatic Q2
+              slots fight for advancement.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-06-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s8/e4.jpg
+            summary: >
+              Qualifying Two for Aragón Sprint Race takes place at MotorLand Aragón (Alcañiz, Spain) on June 07,
+              2025. Listed start: 12:00:00 (UTC). Pole-position shootout featuring the ten quickest riders from
+              practice plus the two Q1 graduates.
+          5:
+            title: Sprint
+            originally_available: 2025-06-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s8/e5.jpg
+            summary: >
+              Sprint for Aragón Sprint Race takes place at MotorLand Aragón (Alcañiz, Spain) on June 07, 2025.
+              Listed start: 12:00:00 (UTC). Half-distance sprint awards half points and offers a preview of full-
+              race pace without tyre or fuel conservation.
+          6:
+            title: Race
+            originally_available: 2025-06-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s8/e6.jpg
+            summary: >
+              Race for Aragón Sprint Race takes place at MotorLand Aragón (Alcañiz, Spain) on June 07, 2025.
+              Listed start: 12:00:00 (UTC). Full-distance Grand Prix awards the complete championship haul and
+              often shakes up the points standings.
+      9:
+        title: Italy
+        sort_title: 09_Italy
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s9/poster.jpg
+        summary: >
+          Round 9 (Italy) spans June 21-22, 2025 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-06-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s9/e1.jpg
+            summary: >
+              Practice One for Italy Sprint Race takes place at Autodromo Internazionale del Mugello (Scarperia e
+              San Piero, Florence, Italy) on June 21, 2025. Listed start: 12:30:00 (UTC). Opening free practice
+              runs focus on baseline setup work and understanding track evolution.
+          2:
+            title: Practice Two
+            originally_available: 2025-06-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s9/e2.jpg
+            summary: >
+              Practice Two for Italy Sprint Race takes place at Autodromo Internazionale del Mugello (Scarperia e
+              San Piero, Florence, Italy) on June 21, 2025. Listed start: 12:30:00 (UTC). Second practice refines
+              race pace, tyre selection and long-run balance.
+          3:
+            title: Qualifying One
+            originally_available: 2025-06-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s9/e3.jpg
+            summary: >
+              Qualifying One for Italy Sprint Race takes place at Autodromo Internazionale del Mugello (Scarperia
+              e San Piero, Florence, Italy) on June 21, 2025. Listed start: 12:30:00 (UTC). First qualifying
+              segment where riders outside the automatic Q2 slots fight for advancement.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-06-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s9/e4.jpg
+            summary: >
+              Qualifying Two for Italy Sprint Race takes place at Autodromo Internazionale del Mugello (Scarperia
+              e San Piero, Florence, Italy) on June 21, 2025. Listed start: 12:30:00 (UTC). Pole-position shootout
+              featuring the ten quickest riders from practice plus the two Q1 graduates.
+          5:
+            title: Sprint
+            originally_available: 2025-06-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s9/e5.jpg
+            summary: >
+              Sprint for Italy Sprint Race takes place at Autodromo Internazionale del Mugello (Scarperia e San
+              Piero, Florence, Italy) on June 21, 2025. Listed start: 12:30:00 (UTC). Half-distance sprint awards
+              half points and offers a preview of full-race pace without tyre or fuel conservation.
+          6:
+            title: Race
+            originally_available: 2025-06-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s9/e6.jpg
+            summary: >
+              Race for Italy Sprint Race takes place at Autodromo Internazionale del Mugello (Scarperia e San
+              Piero, Florence, Italy) on June 21, 2025. Listed start: 12:30:00 (UTC). Full-distance Grand Prix
+              awards the complete championship haul and often shakes up the points standings.
+      10:
+        title: Netherlands
+        sort_title: 10_Netherlands
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s10/poster.jpg
+        summary: >
+          Round 10 (Netherlands) spans June 28-29, 2025 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-06-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s10/e1.jpg
+            summary: >
+              Practice One for Netherlands Sprint Race takes place at TT Circuit Assen (Assen, The Netherlands) on
+              June 28, 2025. Local start: 15:00:00. Opening free practice runs focus on baseline setup work and
+              understanding track evolution.
+          2:
+            title: Practice Two
+            originally_available: 2025-06-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s10/e2.jpg
+            summary: >
+              Practice Two for Netherlands Sprint Race takes place at TT Circuit Assen (Assen, The Netherlands) on
+              June 28, 2025. Local start: 15:00:00. Second practice refines race pace, tyre selection and long-run
+              balance.
+          3:
+            title: Qualifying One
+            originally_available: 2025-06-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s10/e3.jpg
+            summary: >
+              Qualifying One for Netherlands Sprint Race takes place at TT Circuit Assen (Assen, The Netherlands)
+              on June 28, 2025. Local start: 15:00:00. First qualifying segment where riders outside the automatic
+              Q2 slots fight for advancement.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-06-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s10/e4.jpg
+            summary: >
+              Qualifying Two for Netherlands Sprint Race takes place at TT Circuit Assen (Assen, The Netherlands)
+              on June 28, 2025. Local start: 15:00:00. Pole-position shootout featuring the ten quickest riders
+              from practice plus the two Q1 graduates.
+          5:
+            title: Sprint
+            originally_available: 2025-06-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s10/e5.jpg
+            summary: >
+              Sprint for Netherlands Sprint Race takes place at TT Circuit Assen (Assen, The Netherlands) on June
+              28, 2025. Local start: 15:00:00. Half-distance sprint awards half points and offers a preview of
+              full-race pace without tyre or fuel conservation.
+          6:
+            title: Race
+            originally_available: 2025-06-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s10/e6.jpg
+            summary: >
+              Race for Netherlands Sprint Race takes place at TT Circuit Assen (Assen, The Netherlands) on June
+              28, 2025. Local start: 15:00:00. Full-distance Grand Prix awards the complete championship haul and
+              often shakes up the points standings.
+      11:
+        title: Germany
+        sort_title: 11_Germany
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s11/poster.jpg
+        summary: >
+          Round 11 (Germany) spans July 12-13, 2025 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-07-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s11/e1.jpg
+            summary: >
+              Practice One for Germany Sprint Race takes place at Sachsenring (Chemnitz, Germany) on July 12,
+              2025. Local start: 12:30:00. Opening free practice runs focus on baseline setup work and
+              understanding track evolution.
+          2:
+            title: Practice Two
+            originally_available: 2025-07-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s11/e2.jpg
+            summary: >
+              Practice Two for Germany Sprint Race takes place at Sachsenring (Chemnitz, Germany) on July 12,
+              2025. Local start: 12:30:00. Second practice refines race pace, tyre selection and long-run balance.
+          3:
+            title: Qualifying One
+            originally_available: 2025-07-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s11/e3.jpg
+            summary: >
+              Qualifying One for Germany Sprint Race takes place at Sachsenring (Chemnitz, Germany) on July 12,
+              2025. Local start: 12:30:00. First qualifying segment where riders outside the automatic Q2 slots
+              fight for advancement.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-07-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s11/e4.jpg
+            summary: >
+              Qualifying Two for Germany Sprint Race takes place at Sachsenring (Chemnitz, Germany) on July 12,
+              2025. Local start: 12:30:00. Pole-position shootout featuring the ten quickest riders from practice
+              plus the two Q1 graduates.
+          5:
+            title: Sprint
+            originally_available: 2025-07-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s11/e5.jpg
+            summary: >
+              Sprint for Germany Sprint Race takes place at Sachsenring (Chemnitz, Germany) on July 12, 2025.
+              Local start: 12:30:00. Half-distance sprint awards half points and offers a preview of full-race
+              pace without tyre or fuel conservation.
+          6:
+            title: Race
+            originally_available: 2025-07-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s11/e6.jpg
+            summary: >
+              Race for Germany Sprint Race takes place at Sachsenring (Chemnitz, Germany) on July 12, 2025. Local
+              start: 12:30:00. Full-distance Grand Prix awards the complete championship haul and often shakes up
+              the points standings.
+      12:
+        title: Czechia
+        sort_title: 12_Czechia
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s12/poster.jpg
+        summary: >
+          Round 12 (Czechia) spans July 19-20, 2025 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-07-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s12/e1.jpg
+            summary: >
+              Practice One for Czechia Sprint Race takes place at Automotodrom Brno (Brno, Czechia) on July 19,
+              2025. Listed start: 00:00:00 (UTC). Opening free practice runs focus on baseline setup work and
+              understanding track evolution.
+          2:
+            title: Practice Two
+            originally_available: 2025-07-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s12/e2.jpg
+            summary: >
+              Practice Two for Czechia Sprint Race takes place at Automotodrom Brno (Brno, Czechia) on July 19,
+              2025. Listed start: 00:00:00 (UTC). Second practice refines race pace, tyre selection and long-run
+              balance.
+          3:
+            title: Qualifying One
+            originally_available: 2025-07-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s12/e3.jpg
+            summary: >
+              Qualifying One for Czechia Sprint Race takes place at Automotodrom Brno (Brno, Czechia) on July 19,
+              2025. Listed start: 00:00:00 (UTC). First qualifying segment where riders outside the automatic Q2
+              slots fight for advancement.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-07-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s12/e4.jpg
+            summary: >
+              Qualifying Two for Czechia Sprint Race takes place at Automotodrom Brno (Brno, Czechia) on July 19,
+              2025. Listed start: 00:00:00 (UTC). Pole-position shootout featuring the ten quickest riders from
+              practice plus the two Q1 graduates.
+          5:
+            title: Sprint
+            originally_available: 2025-07-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s12/e5.jpg
+            summary: >
+              Sprint for Czechia Sprint Race takes place at Automotodrom Brno (Brno, Czechia) on July 19, 2025.
+              Listed start: 00:00:00 (UTC). Half-distance sprint awards half points and offers a preview of full-
+              race pace without tyre or fuel conservation.
+          6:
+            title: Race
+            originally_available: 2025-07-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s12/e6.jpg
+            summary: >
+              Race for Czechia Sprint Race takes place at Automotodrom Brno (Brno, Czechia) on July 19, 2025.
+              Listed start: 00:00:00 (UTC). Full-distance Grand Prix awards the complete championship haul and
+              often shakes up the points standings.
+      13:
+        title: Austria
+        sort_title: 13_Austria
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s13/poster.jpg
+        summary: >
+          Round 13 (Austria) spans August 16-17, 2025 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-08-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s13/e1.jpg
+            summary: >
+              Practice One for Austria Sprint Race takes place at Red Bull Ring (Spielberg, Styria, Austria) on
+              August 16, 2025. Listed start: 00:00:00 (UTC). Opening free practice runs focus on baseline setup
+              work and understanding track evolution.
+          2:
+            title: Practice Two
+            originally_available: 2025-08-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s13/e2.jpg
+            summary: >
+              Practice Two for Austria Sprint Race takes place at Red Bull Ring (Spielberg, Styria, Austria) on
+              August 16, 2025. Listed start: 00:00:00 (UTC). Second practice refines race pace, tyre selection and
+              long-run balance.
+          3:
+            title: Qualifying One
+            originally_available: 2025-08-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s13/e3.jpg
+            summary: >
+              Qualifying One for Austria Sprint Race takes place at Red Bull Ring (Spielberg, Styria, Austria) on
+              August 16, 2025. Listed start: 00:00:00 (UTC). First qualifying segment where riders outside the
+              automatic Q2 slots fight for advancement.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-08-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s13/e4.jpg
+            summary: >
+              Qualifying Two for Austria Sprint Race takes place at Red Bull Ring (Spielberg, Styria, Austria) on
+              August 16, 2025. Listed start: 00:00:00 (UTC). Pole-position shootout featuring the ten quickest
+              riders from practice plus the two Q1 graduates.
+          5:
+            title: Sprint
+            originally_available: 2025-08-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s13/e5.jpg
+            summary: >
+              Sprint for Austria Sprint Race takes place at Red Bull Ring (Spielberg, Styria, Austria) on August
+              16, 2025. Listed start: 00:00:00 (UTC). Half-distance sprint awards half points and offers a preview
+              of full-race pace without tyre or fuel conservation.
+          6:
+            title: Race
+            originally_available: 2025-08-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s13/e6.jpg
+            summary: >
+              Race for Austria Sprint Race takes place at Red Bull Ring (Spielberg, Styria, Austria) on August 16,
+              2025. Listed start: 00:00:00 (UTC). Full-distance Grand Prix awards the complete championship haul
+              and often shakes up the points standings.
+      14:
+        title: Hungary
+        sort_title: 14_Hungary
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s14/poster.jpg
+        summary: >
+          Round 14 (Hungary) spans August 23-24, 2025 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-08-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s14/e1.jpg
+            summary: >
+              Practice One for Hungary Sprint Race takes place at TBD Circuit (Balatonfőkajár, Hungary) on August
+              23, 2025. Listed start: 00:00:00 (UTC). Opening free practice runs focus on baseline setup work and
+              understanding track evolution.
+          2:
+            title: Practice Two
+            originally_available: 2025-08-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s14/e2.jpg
+            summary: >
+              Practice Two for Hungary Sprint Race takes place at TBD Circuit (Balatonfőkajár, Hungary) on August
+              23, 2025. Listed start: 00:00:00 (UTC). Second practice refines race pace, tyre selection and long-
+              run balance.
+          3:
+            title: Qualifying One
+            originally_available: 2025-08-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s14/e3.jpg
+            summary: >
+              Qualifying One for Hungary Sprint Race takes place at TBD Circuit (Balatonfőkajár, Hungary) on
+              August 23, 2025. Listed start: 00:00:00 (UTC). First qualifying segment where riders outside the
+              automatic Q2 slots fight for advancement.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-08-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s14/e4.jpg
+            summary: >
+              Qualifying Two for Hungary Sprint Race takes place at TBD Circuit (Balatonfőkajár, Hungary) on
+              August 23, 2025. Listed start: 00:00:00 (UTC). Pole-position shootout featuring the ten quickest
+              riders from practice plus the two Q1 graduates.
+          5:
+            title: Sprint
+            originally_available: 2025-08-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s14/e5.jpg
+            summary: >
+              Sprint for Hungary Sprint Race takes place at TBD Circuit (Balatonfőkajár, Hungary) on August 23,
+              2025. Listed start: 00:00:00 (UTC). Half-distance sprint awards half points and offers a preview of
+              full-race pace without tyre or fuel conservation.
+          6:
+            title: Race
+            originally_available: 2025-08-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s14/e6.jpg
+            summary: >
+              Race for Hungary Sprint Race takes place at TBD Circuit (Balatonfőkajár, Hungary) on August 23,
+              2025. Listed start: 00:00:00 (UTC). Full-distance Grand Prix awards the complete championship haul
+              and often shakes up the points standings.
+      15:
+        title: Catalonia
+        sort_title: 15_Catalonia
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s15/poster.jpg
+        summary: >
+          Round 15 (Catalonia) spans September 6-7, 2025 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-09-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s15/e1.jpg
+            summary: >
+              Practice One for Catalonia Sprint Race takes place at Circuit de Barcelona-Catalunya (Montmeló,
+              Barcelona, Spain) on September 06, 2025. Local start: 15:00:00. Marc Marquez’s (Ducati Lenovo Team)
+              unbeaten run continues, but the #93 was handed a gold medal gift on Saturday afternoon at the
+              Monster Energy Grand Prix of Catalonia as Alex Marquez (BK8 Gresini Racing MotoGP) crashes out of
+              the lead while over a second clear. Fabio Quartararo (Monster Energy Yamaha MotoGP) finished the
+              Tissot Sprint just over a second behind Marc Marquez to earn silver, while Fabio Di Giannantonio
+              (Pertamina Enduro VR46 Racing Team) earned a relatively comfortable P3 after breaking clear of a
+              brilliant KTM battle.
+          2:
+            title: Practice Two
+            originally_available: 2025-09-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s15/e2.jpg
+            summary: >
+              Practice Two for Catalonia Sprint Race takes place at Circuit de Barcelona-Catalunya (Montmeló,
+              Barcelona, Spain) on September 06, 2025. Local start: 15:00:00. Marc Marquez’s (Ducati Lenovo Team)
+              unbeaten run continues, but the #93 was handed a gold medal gift on Saturday afternoon at the
+              Monster Energy Grand Prix of Catalonia as Alex Marquez (BK8 Gresini Racing MotoGP) crashes out of
+              the lead while over a second clear. Fabio Quartararo (Monster Energy Yamaha MotoGP) finished the
+              Tissot Sprint just over a second behind Marc Marquez to earn silver, while Fabio Di Giannantonio
+              (Pertamina Enduro VR46 Racing Team) earned a relatively comfortable P3 after breaking clear of a
+              brilliant KTM battle.
+          3:
+            title: Qualifying One
+            originally_available: 2025-09-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s15/e3.jpg
+            summary: >
+              Qualifying One for Catalonia Sprint Race takes place at Circuit de Barcelona-Catalunya (Montmeló,
+              Barcelona, Spain) on September 06, 2025. Local start: 15:00:00. Marc Marquez’s (Ducati Lenovo Team)
+              unbeaten run continues, but the #93 was handed a gold medal gift on Saturday afternoon at the
+              Monster Energy Grand Prix of Catalonia as Alex Marquez (BK8 Gresini Racing MotoGP) crashes out of
+              the lead while over a second clear. Fabio Quartararo (Monster Energy Yamaha MotoGP) finished the
+              Tissot Sprint just over a second behind Marc Marquez to earn silver, while Fabio Di Giannantonio
+              (Pertamina Enduro VR46 Racing Team) earned a relatively comfortable P3 after breaking clear of a
+              brilliant KTM battle.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-09-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s15/e4.jpg
+            summary: >
+              Qualifying Two for Catalonia Sprint Race takes place at Circuit de Barcelona-Catalunya (Montmeló,
+              Barcelona, Spain) on September 06, 2025. Local start: 15:00:00. Marc Marquez’s (Ducati Lenovo Team)
+              unbeaten run continues, but the #93 was handed a gold medal gift on Saturday afternoon at the
+              Monster Energy Grand Prix of Catalonia as Alex Marquez (BK8 Gresini Racing MotoGP) crashes out of
+              the lead while over a second clear. Fabio Quartararo (Monster Energy Yamaha MotoGP) finished the
+              Tissot Sprint just over a second behind Marc Marquez to earn silver, while Fabio Di Giannantonio
+              (Pertamina Enduro VR46 Racing Team) earned a relatively comfortable P3 after breaking clear of a
+              brilliant KTM battle.
+          5:
+            title: Sprint
+            originally_available: 2025-09-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s15/e5.jpg
+            summary: >
+              Sprint for Catalonia Sprint Race takes place at Circuit de Barcelona-Catalunya (Montmeló, Barcelona,
+              Spain) on September 06, 2025. Local start: 15:00:00. Marc Marquez’s (Ducati Lenovo Team) unbeaten
+              run continues, but the #93 was handed a gold medal gift on Saturday afternoon at the Monster Energy
+              Grand Prix of Catalonia as Alex Marquez (BK8 Gresini Racing MotoGP) crashes out of the lead while
+              over a second clear. Fabio Quartararo (Monster Energy Yamaha MotoGP) finished the Tissot Sprint just
+              over a second behind Marc Marquez to earn silver, while Fabio Di Giannantonio (Pertamina Enduro VR46
+              Racing Team) earned a relatively comfortable P3 after breaking clear of a brilliant KTM battle.
+          6:
+            title: Race
+            originally_available: 2025-09-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s15/e6.jpg
+            summary: >
+              Race for Catalonia Sprint Race takes place at Circuit de Barcelona-Catalunya (Montmeló, Barcelona,
+              Spain) on September 06, 2025. Local start: 15:00:00. Marc Marquez’s (Ducati Lenovo Team) unbeaten
+              run continues, but the #93 was handed a gold medal gift on Saturday afternoon at the Monster Energy
+              Grand Prix of Catalonia as Alex Marquez (BK8 Gresini Racing MotoGP) crashes out of the lead while
+              over a second clear. Fabio Quartararo (Monster Energy Yamaha MotoGP) finished the Tissot Sprint just
+              over a second behind Marc Marquez to earn silver, while Fabio Di Giannantonio (Pertamina Enduro VR46
+              Racing Team) earned a relatively comfortable P3 after breaking clear of a brilliant KTM battle.
+      16:
+        title: San Marino
+        sort_title: 16_San Marino
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s16/poster.jpg
+        summary: >
+          Round 16 (San Marino) spans September 13-14, 2025 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-09-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s16/e1.jpg
+            summary: >
+              Practice One for San Marino Sprint Race takes place at Misano World Circuit Marco Simoncelli (Misano
+              Adriatico, San Marino) on September 13, 2025. Listed start: 00:00:00 (UTC). Simply the Bez. Saturday
+              well and truly belongs to Marco Bezzecchi and Aprilia Racing at the Red Bull Grand Prix of San
+              Marino and the Rimini Riviera after the Italian clinches his first gold medal in two years with a
+              sublime ride on home territory. Bezzecchi and title race leader Marc Marquez (Ducati Lenovo Team)
+              engaged in battle in the Tissot Sprint, but a rare mistake saw the #93 crash as Alex Marquez (BK8
+              Gresini Racing MotoGP) and Fabio Di Giannantonio (Pertamina Enduro VR46 Racing Team) complete the
+              medal honours list at Misano.
+          2:
+            title: Practice Two
+            originally_available: 2025-09-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s16/e2.jpg
+            summary: >
+              Practice Two for San Marino Sprint Race takes place at Misano World Circuit Marco Simoncelli (Misano
+              Adriatico, San Marino) on September 13, 2025. Listed start: 00:00:00 (UTC). Simply the Bez. Saturday
+              well and truly belongs to Marco Bezzecchi and Aprilia Racing at the Red Bull Grand Prix of San
+              Marino and the Rimini Riviera after the Italian clinches his first gold medal in two years with a
+              sublime ride on home territory. Bezzecchi and title race leader Marc Marquez (Ducati Lenovo Team)
+              engaged in battle in the Tissot Sprint, but a rare mistake saw the #93 crash as Alex Marquez (BK8
+              Gresini Racing MotoGP) and Fabio Di Giannantonio (Pertamina Enduro VR46 Racing Team) complete the
+              medal honours list at Misano.
+          3:
+            title: Qualifying One
+            originally_available: 2025-09-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s16/e3.jpg
+            summary: >
+              Qualifying One for San Marino Sprint Race takes place at Misano World Circuit Marco Simoncelli
+              (Misano Adriatico, San Marino) on September 13, 2025. Listed start: 00:00:00 (UTC). Simply the Bez.
+              Saturday well and truly belongs to Marco Bezzecchi and Aprilia Racing at the Red Bull Grand Prix of
+              San Marino and the Rimini Riviera after the Italian clinches his first gold medal in two years with
+              a sublime ride on home territory. Bezzecchi and title race leader Marc Marquez (Ducati Lenovo Team)
+              engaged in battle in the Tissot Sprint, but a rare mistake saw the #93 crash as Alex Marquez (BK8
+              Gresini Racing MotoGP) and Fabio Di Giannantonio (Pertamina Enduro VR46 Racing Team) complete the
+              medal honours list at Misano.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-09-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s16/e4.jpg
+            summary: >
+              Qualifying Two for San Marino Sprint Race takes place at Misano World Circuit Marco Simoncelli
+              (Misano Adriatico, San Marino) on September 13, 2025. Listed start: 00:00:00 (UTC). Simply the Bez.
+              Saturday well and truly belongs to Marco Bezzecchi and Aprilia Racing at the Red Bull Grand Prix of
+              San Marino and the Rimini Riviera after the Italian clinches his first gold medal in two years with
+              a sublime ride on home territory. Bezzecchi and title race leader Marc Marquez (Ducati Lenovo Team)
+              engaged in battle in the Tissot Sprint, but a rare mistake saw the #93 crash as Alex Marquez (BK8
+              Gresini Racing MotoGP) and Fabio Di Giannantonio (Pertamina Enduro VR46 Racing Team) complete the
+              medal honours list at Misano.
+          5:
+            title: Sprint
+            originally_available: 2025-09-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s16/e5.jpg
+            summary: >
+              Sprint for San Marino Sprint Race takes place at Misano World Circuit Marco Simoncelli (Misano
+              Adriatico, San Marino) on September 13, 2025. Listed start: 00:00:00 (UTC). Simply the Bez. Saturday
+              well and truly belongs to Marco Bezzecchi and Aprilia Racing at the Red Bull Grand Prix of San
+              Marino and the Rimini Riviera after the Italian clinches his first gold medal in two years with a
+              sublime ride on home territory. Bezzecchi and title race leader Marc Marquez (Ducati Lenovo Team)
+              engaged in battle in the Tissot Sprint, but a rare mistake saw the #93 crash as Alex Marquez (BK8
+              Gresini Racing MotoGP) and Fabio Di Giannantonio (Pertamina Enduro VR46 Racing Team) complete the
+              medal honours list at Misano.
+          6:
+            title: Race
+            originally_available: 2025-09-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s16/e6.jpg
+            summary: >
+              Race for San Marino Sprint Race takes place at Misano World Circuit Marco Simoncelli (Misano
+              Adriatico, San Marino) on September 13, 2025. Listed start: 00:00:00 (UTC). Simply the Bez. Saturday
+              well and truly belongs to Marco Bezzecchi and Aprilia Racing at the Red Bull Grand Prix of San
+              Marino and the Rimini Riviera after the Italian clinches his first gold medal in two years with a
+              sublime ride on home territory. Bezzecchi and title race leader Marc Marquez (Ducati Lenovo Team)
+              engaged in battle in the Tissot Sprint, but a rare mistake saw the #93 crash as Alex Marquez (BK8
+              Gresini Racing MotoGP) and Fabio Di Giannantonio (Pertamina Enduro VR46 Racing Team) complete the
+              medal honours list at Misano.
+      17:
+        title: Japan
+        sort_title: 17_Japan
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s17/poster.jpg
+        summary: >
+          Round 17 (Japan) spans September 27-28, 2025 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-09-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s17/e1.jpg
+            summary: >
+              Practice One for Japan Sprint Race takes place at Mobility Resort Motegi (Motegi, Tochigi
+              Prefecture, Japan) on September 27, 2025. Local start: 15:00:00. Opening free practice runs focus on
+              baseline setup work and understanding track evolution.
+          2:
+            title: Practice Two
+            originally_available: 2025-09-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s17/e2.jpg
+            summary: >
+              Practice Two for Japan Sprint Race takes place at Mobility Resort Motegi (Motegi, Tochigi
+              Prefecture, Japan) on September 27, 2025. Local start: 15:00:00. Second practice refines race pace,
+              tyre selection and long-run balance.
+          3:
+            title: Qualifying One
+            originally_available: 2025-09-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s17/e3.jpg
+            summary: >
+              Qualifying One for Japan Sprint Race takes place at Mobility Resort Motegi (Motegi, Tochigi
+              Prefecture, Japan) on September 27, 2025. Local start: 15:00:00. First qualifying segment where
+              riders outside the automatic Q2 slots fight for advancement.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-09-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s17/e4.jpg
+            summary: >
+              Qualifying Two for Japan Sprint Race takes place at Mobility Resort Motegi (Motegi, Tochigi
+              Prefecture, Japan) on September 27, 2025. Local start: 15:00:00. Pole-position shootout featuring
+              the ten quickest riders from practice plus the two Q1 graduates.
+          5:
+            title: Sprint
+            originally_available: 2025-09-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s17/e5.jpg
+            summary: >
+              Sprint for Japan Sprint Race takes place at Mobility Resort Motegi (Motegi, Tochigi Prefecture,
+              Japan) on September 27, 2025. Local start: 15:00:00. Half-distance sprint awards half points and
+              offers a preview of full-race pace without tyre or fuel conservation.
+          6:
+            title: Race
+            originally_available: 2025-09-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s17/e6.jpg
+            summary: >
+              Race for Japan Sprint Race takes place at Mobility Resort Motegi (Motegi, Tochigi Prefecture, Japan)
+              on September 27, 2025. Local start: 15:00:00. Full-distance Grand Prix awards the complete
+              championship haul and often shakes up the points standings.
+      18:
+        title: Indonesia
+        sort_title: 18_Indonesia
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s18/poster.jpg
+        summary: >
+          Round 18 (Indonesia) spans October 4-5, 2025 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-10-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s18/e1.jpg
+            summary: >
+              Practice One for Indonesia Sprint Race takes place at Pertamina Mandalika International Street
+              Circuit (Lombok, Indonesia) on October 04, 2025. Local start: 15:00:00. Opening free practice runs
+              focus on baseline setup work and understanding track evolution.
+          2:
+            title: Practice Two
+            originally_available: 2025-10-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s18/e2.jpg
+            summary: >
+              Practice Two for Indonesia Sprint Race takes place at Pertamina Mandalika International Street
+              Circuit (Lombok, Indonesia) on October 04, 2025. Local start: 15:00:00. Second practice refines race
+              pace, tyre selection and long-run balance.
+          3:
+            title: Qualifying One
+            originally_available: 2025-10-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s18/e3.jpg
+            summary: >
+              Qualifying One for Indonesia Sprint Race takes place at Pertamina Mandalika International Street
+              Circuit (Lombok, Indonesia) on October 04, 2025. Local start: 15:00:00. First qualifying segment
+              where riders outside the automatic Q2 slots fight for advancement.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-10-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s18/e4.jpg
+            summary: >
+              Qualifying Two for Indonesia Sprint Race takes place at Pertamina Mandalika International Street
+              Circuit (Lombok, Indonesia) on October 04, 2025. Local start: 15:00:00. Pole-position shootout
+              featuring the ten quickest riders from practice plus the two Q1 graduates.
+          5:
+            title: Sprint
+            originally_available: 2025-10-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s18/e5.jpg
+            summary: >
+              Sprint for Indonesia Sprint Race takes place at Pertamina Mandalika International Street Circuit
+              (Lombok, Indonesia) on October 04, 2025. Local start: 15:00:00. Half-distance sprint awards half
+              points and offers a preview of full-race pace without tyre or fuel conservation.
+          6:
+            title: Race
+            originally_available: 2025-10-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s18/e6.jpg
+            summary: >
+              Race for Indonesia Sprint Race takes place at Pertamina Mandalika International Street Circuit
+              (Lombok, Indonesia) on October 04, 2025. Local start: 15:00:00. Full-distance Grand Prix awards the
+              complete championship haul and often shakes up the points standings.
+      19:
+        title: Australia
+        sort_title: 19_Australia
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s19/poster.jpg
+        summary: >
+          Round 19 (Australia) spans October 18-19, 2025 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-10-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s19/e1.jpg
+            summary: >
+              Practice One for Australia Sprint Race takes place at TBD Circuit (Phillip Island, Australia) on
+              October 18, 2025. Listed start: 00:00:00 (UTC). Opening free practice runs focus on baseline setup
+              work and understanding track evolution.
+          2:
+            title: Practice Two
+            originally_available: 2025-10-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s19/e2.jpg
+            summary: >
+              Practice Two for Australia Sprint Race takes place at TBD Circuit (Phillip Island, Australia) on
+              October 18, 2025. Listed start: 00:00:00 (UTC). Second practice refines race pace, tyre selection
+              and long-run balance.
+          3:
+            title: Qualifying One
+            originally_available: 2025-10-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s19/e3.jpg
+            summary: >
+              Qualifying One for Australia Sprint Race takes place at TBD Circuit (Phillip Island, Australia) on
+              October 18, 2025. Listed start: 00:00:00 (UTC). First qualifying segment where riders outside the
+              automatic Q2 slots fight for advancement.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-10-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s19/e4.jpg
+            summary: >
+              Qualifying Two for Australia Sprint Race takes place at TBD Circuit (Phillip Island, Australia) on
+              October 18, 2025. Listed start: 00:00:00 (UTC). Pole-position shootout featuring the ten quickest
+              riders from practice plus the two Q1 graduates.
+          5:
+            title: Sprint
+            originally_available: 2025-10-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s19/e5.jpg
+            summary: >
+              Sprint for Australia Sprint Race takes place at TBD Circuit (Phillip Island, Australia) on October
+              18, 2025. Listed start: 00:00:00 (UTC). Half-distance sprint awards half points and offers a preview
+              of full-race pace without tyre or fuel conservation.
+          6:
+            title: Race
+            originally_available: 2025-10-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s19/e6.jpg
+            summary: >
+              Race for Australia Sprint Race takes place at TBD Circuit (Phillip Island, Australia) on October 18,
+              2025. Listed start: 00:00:00 (UTC). Full-distance Grand Prix awards the complete championship haul
+              and often shakes up the points standings.
+      20:
+        title: Malaysia
+        sort_title: 20_Malaysia
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s20/poster.jpg
+        summary: >
+          Round 20 (Malaysia) spans October 25-26, 2025 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-10-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s20/e1.jpg
+            summary: >
+              Practice One for Malaysia Sprint Race takes place at Petronas Sepang International Circuit (Sepang,
+              Selangor,, Malaysia) on October 25, 2025. Local start: 15:00:00. Opening free practice runs focus on
+              baseline setup work and understanding track evolution.
+          2:
+            title: Practice Two
+            originally_available: 2025-10-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s20/e2.jpg
+            summary: >
+              Practice Two for Malaysia Sprint Race takes place at Petronas Sepang International Circuit (Sepang,
+              Selangor,, Malaysia) on October 25, 2025. Local start: 15:00:00. Second practice refines race pace,
+              tyre selection and long-run balance.
+          3:
+            title: Qualifying One
+            originally_available: 2025-10-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s20/e3.jpg
+            summary: >
+              Qualifying One for Malaysia Sprint Race takes place at Petronas Sepang International Circuit
+              (Sepang, Selangor,, Malaysia) on October 25, 2025. Local start: 15:00:00. First qualifying segment
+              where riders outside the automatic Q2 slots fight for advancement.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-10-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s20/e4.jpg
+            summary: >
+              Qualifying Two for Malaysia Sprint Race takes place at Petronas Sepang International Circuit
+              (Sepang, Selangor,, Malaysia) on October 25, 2025. Local start: 15:00:00. Pole-position shootout
+              featuring the ten quickest riders from practice plus the two Q1 graduates.
+          5:
+            title: Sprint
+            originally_available: 2025-10-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s20/e5.jpg
+            summary: >
+              Sprint for Malaysia Sprint Race takes place at Petronas Sepang International Circuit (Sepang,
+              Selangor,, Malaysia) on October 25, 2025. Local start: 15:00:00. Half-distance sprint awards half
+              points and offers a preview of full-race pace without tyre or fuel conservation.
+          6:
+            title: Race
+            originally_available: 2025-10-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s20/e6.jpg
+            summary: >
+              Race for Malaysia Sprint Race takes place at Petronas Sepang International Circuit (Sepang,
+              Selangor,, Malaysia) on October 25, 2025. Local start: 15:00:00. Full-distance Grand Prix awards the
+              complete championship haul and often shakes up the points standings.
+      21:
+        title: Portugal
+        sort_title: 21_Portugal
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s21/poster.jpg
+        summary: >
+          Round 21 (Portugal) spans November 8-9, 2025 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-11-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s21/e1.jpg
+            summary: >
+              Practice One for Portugal Sprint Race takes place at Algarve International Circuit (Portimao,
+              Portugal) on November 08, 2025. Local start: 15:00:00. Opening free practice runs focus on baseline
+              setup work and understanding track evolution.
+          2:
+            title: Practice Two
+            originally_available: 2025-11-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s21/e2.jpg
+            summary: >
+              Practice Two for Portugal Sprint Race takes place at Algarve International Circuit (Portimao,
+              Portugal) on November 08, 2025. Local start: 15:00:00. Second practice refines race pace, tyre
+              selection and long-run balance.
+          3:
+            title: Qualifying One
+            originally_available: 2025-11-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s21/e3.jpg
+            summary: >
+              Qualifying One for Portugal Sprint Race takes place at Algarve International Circuit (Portimao,
+              Portugal) on November 08, 2025. Local start: 15:00:00. First qualifying segment where riders outside
+              the automatic Q2 slots fight for advancement.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-11-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s21/e4.jpg
+            summary: >
+              Qualifying Two for Portugal Sprint Race takes place at Algarve International Circuit (Portimao,
+              Portugal) on November 08, 2025. Local start: 15:00:00. Pole-position shootout featuring the ten
+              quickest riders from practice plus the two Q1 graduates.
+          5:
+            title: Sprint
+            originally_available: 2025-11-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s21/e5.jpg
+            summary: >
+              Sprint for Portugal Sprint Race takes place at Algarve International Circuit (Portimao, Portugal) on
+              November 08, 2025. Local start: 15:00:00. Half-distance sprint awards half points and offers a
+              preview of full-race pace without tyre or fuel conservation.
+          6:
+            title: Race
+            originally_available: 2025-11-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s21/e6.jpg
+            summary: >
+              Race for Portugal Sprint Race takes place at Algarve International Circuit (Portimao, Portugal) on
+              November 08, 2025. Local start: 15:00:00. Full-distance Grand Prix awards the complete championship
+              haul and often shakes up the points standings.
+      22:
+        title: Valencia
+        sort_title: 22_Valencia
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s22/poster.jpg
+        summary: >
+          Round 22 (Valencia) spans November 15-16, 2025 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-11-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s22/e1.jpg
+            summary: >
+              Practice One for Valencia Sprint Race takes place at Circuit Ricardo Tormo (Cheste, Spain) on
+              November 15, 2025. Local start: 15:00:00. Opening free practice runs focus on baseline setup work
+              and understanding track evolution.
+          2:
+            title: Practice Two
+            originally_available: 2025-11-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s22/e2.jpg
+            summary: >
+              Practice Two for Valencia Sprint Race takes place at Circuit Ricardo Tormo (Cheste, Spain) on
+              November 15, 2025. Local start: 15:00:00. Second practice refines race pace, tyre selection and
+              long-run balance.
+          3:
+            title: Qualifying One
+            originally_available: 2025-11-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s22/e3.jpg
+            summary: >
+              Qualifying One for Valencia Sprint Race takes place at Circuit Ricardo Tormo (Cheste, Spain) on
+              November 15, 2025. Local start: 15:00:00. First qualifying segment where riders outside the
+              automatic Q2 slots fight for advancement.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-11-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s22/e4.jpg
+            summary: >
+              Qualifying Two for Valencia Sprint Race takes place at Circuit Ricardo Tormo (Cheste, Spain) on
+              November 15, 2025. Local start: 15:00:00. Pole-position shootout featuring the ten quickest riders
+              from practice plus the two Q1 graduates.
+          5:
+            title: Sprint
+            originally_available: 2025-11-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s22/e5.jpg
+            summary: >
+              Sprint for Valencia Sprint Race takes place at Circuit Ricardo Tormo (Cheste, Spain) on November 15,
+              2025. Local start: 15:00:00. Half-distance sprint awards half points and offers a preview of full-
+              race pace without tyre or fuel conservation.
+          6:
+            title: Race
+            originally_available: 2025-11-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2025/s22/e6.jpg
+            summary: >
+              Race for Valencia Sprint Race takes place at Circuit Ricardo Tormo (Cheste, Spain) on November 15,
+              2025. Local start: 15:00:00. Full-distance Grand Prix awards the complete championship haul and
+              often shakes up the points standings.

@@ -111,6 +111,111 @@ Y = episode index). Artwork downloads reuse the shared throttled downloader and 
 YAML still emits `url_poster` values even when SportsDB provides no art. The output
 path defaults to `metadata-files/uefa-champions-league/<season>.yaml`.
 
+## `generate_motogp_metadata_sportsdb.py`
+
+Targets TheSportsDB MotoGP feed (`league_id 4407`) so every SportsDB round is emitted
+as a season and each listed event for that weekend becomes an episode. The generator
+mirrors the UFC-style CLI but adds a `--round-label` flag so you can rename rounds as
+“Grand Prix”, “Round”, etc.
+
+Each round always outputs six episodes — Practice One, Practice Two, Qualifying One,
+Qualifying Two, Sprint and Race — even when TheSportsDB omits specific sessions, so
+library structure stays consistent across the calendar.
+
+```shell
+python3 scripts/generate_motogp_metadata_sportsdb.py --season 2025 --api-key "$TSD_KEY"
+```
+
+Key flags:
+
+- `--season` / `--league-id` / `--api-key` select the SportsDB payload for MotoGP
+- `--matchweek-start`, `--matchweek-stop`, `--matchweek-delay`,
+  `--skip-matchweek-fill`, `--request-interval`, `--max-retries`,
+  `--retry-backoff`, `--insecure` preserve the shared 2.1 s throttle,
+  exponential backoff for 429/5xx and the optional SSL bypass path
+- `--poster-url`, `--background-url`, `--asset-url-base`, `--assets-root`,
+  `--matchweek-poster-template`, `--matchweek-poster-fallback`,
+  `--fixture-poster-template`, `--skip-asset-download` manage the artwork workflow
+  (season posters default to `posters/motogp/<season>/sX/poster.jpg`, episodes to
+  `posters/motogp/<season>/sX/eY.jpg`; fixture templates can also use `{session_slug}`
+  to distinguish Practice/Qualifying/Sprint/Race assets)
+- `--round-label`, `--title`, `--summary`, `--sort-title`, `--show-id`, `--output`
+  mirror the UFC overrides so you can tailor the library metadata and target path
+
+Artwork downloads reuse the shared throttled downloader, pulling season art from the
+SportsDB poster/fanart fields and episodes from the thumb feed. The script still emits
+`url_poster` entries even when downloads fail so Plex/Jellyfin can serve assets from
+`--asset-url-base`. By default the YAML is written to
+`metadata-files/motogp/<season>.yaml`.
+
+## `generate_moto2_metadata_sportsdb.py`
+
+Targets TheSportsDB Moto2 feed (`league_id 4436`) so each SportsDB `intRound` becomes
+a Moto2 race weekend (season entry) and every listed session is rendered as an episode
+with venue, city and timing context.
+
+```shell
+python3 scripts/generate_moto2_metadata_sportsdb.py --season 2025 --api-key "$TSD_KEY"
+```
+
+Key flags mirror the other SportsDB generators:
+
+- `--season` / `--league-id` / `--api-key` select the Moto2 payload
+- `--matchweek-start`, `--matchweek-stop`, `--matchweek-delay`,
+  `--skip-matchweek-fill`, `--request-interval`, `--max-retries`,
+  `--retry-backoff`, `--insecure` preserve the shared 2.1 s rate limiter,
+  exponential backoff for 429/5xx and the optional SSL bypass path
+- `--poster-url`, `--background-url`, `--asset-url-base`, `--assets-root`,
+  `--matchweek-poster-template`, `--matchweek-poster-fallback`,
+  `--fixture-poster-template`, `--skip-asset-download` drive the artwork workflow
+  (season posters default to `posters/moto2/<season>/sX/poster.jpg`, episodes to
+  `posters/moto2/<season>/sX/eY.jpg`)
+- `--round-label`, `--title`, `--sort-title`, `--show-id`, `--summary`, `--output`
+  match the UFC-style CLI overrides
+
+Artwork downloads reuse the throttled downloader, pulling season art from SportsDB
+poster/fanart fields and episode art from thumb endpoints. The YAML always emits
+`url_poster` values even when downloads fail, so Plex/Jellyfin can reference
+`--asset-url-base`. By default the script writes to
+`metadata-files/moto2/<season>.yaml`.
+
+## `generate_moto3_metadata_sportsdb.py`
+
+Targets TheSportsDB Moto3 feed (`league_id 4437`) so every SportsDB round is rendered
+as a Moto3 weekend (season entry) and each listed session produces an episode with
+venue, city and timing context.
+
+```shell
+python3 scripts/generate_moto3_metadata_sportsdb.py --season 2025 --api-key "$TSD_KEY"
+```
+
+Each round always outputs five episodes — Practice One, Practice Two, Qualifying One,
+Qualifying Two and Race — so the library keeps a consistent structure even when
+SportsDB omits specific session payloads.
+
+Key flags mirror the UFC/Premier League tooling:
+
+- `--season` / `--league-id` / `--api-key` select the Moto3 payload (default season
+  `2025`)
+- `--matchweek-start`, `--matchweek-stop`, `--matchweek-delay`,
+  `--skip-matchweek-fill`, `--request-interval`, `--max-retries`,
+  `--retry-backoff`, `--insecure` preserve the shared 2.1 s limiter, exponential
+  backoff for 429/5xx and the optional SSL bypass path
+- `--poster-url`, `--background-url`, `--asset-url-base`, `--assets-root`,
+  `--matchweek-poster-template`, `--matchweek-poster-fallback`,
+  `--fixture-poster-template`, `--skip-asset-download` power the artwork workflow
+  (season posters default to `posters/moto3/<season>/sX/poster.jpg`, episodes to
+  `posters/moto3/<season>/sX/eY.jpg`; fixture templates can also use `{session_slug}`
+  if you prefer deterministic filenames such as `practice-one.jpg`)
+- `--round-label`, `--title`, `--sort-title`, `--show-id`, `--summary`, `--output`
+  mirror the UFC-style overrides so you can tailor metadata fields
+
+Art downloads reuse the throttled downloader: season assets pull from the SportsDB
+poster/fanart endpoints, while episode art comes from the various thumb fields. The
+YAML always emits `url_poster` entries— even when downloads fail — so Plex/Jellyfin
+can still resolve assets via `--asset-url-base`. By default, output lands in
+`metadata-files/moto3/<season>.yaml`.
+
 ## `generate_nba_metadata_sportsdb.py`
 
 Mirrors the UFC/Premier League SportsDB generators but targets the NBA feed

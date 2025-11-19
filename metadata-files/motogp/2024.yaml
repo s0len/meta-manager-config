@@ -1,0 +1,1832 @@
+metadata:
+  MotoGP 2024:
+    title: MotoGP 2024
+    sort_title: MotoGP 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/background.jpg
+    summary: >
+      The 2024 MotoGP World Championship spans every Grand Prix weekend across the global calendar. Each
+      SportsDB round is grouped here so practice, sprint and race recordings can be organised
+      automatically.
+    seasons:
+      1:
+        title: Grand Prix of Qatar
+        sort_title: 01_Grand Prix of Qatar
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s1/poster.jpg
+        summary: >
+          Round 1 (Grand Prix of Qatar) spans March 10, 2024 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2024-03-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s1/e1.jpg
+            summary: >
+              Practice One for Grand Prix of Qatar takes place at Lusail International Circuit (Lusail, Qatar) on
+              March 10, 2024. Local start: 20:00:00. The Qatar motorcycle Grand Prix is a motorcycling event that
+              is part of the FIM Grand Prix motorcycle racing season.  The Losail race track in Qatar represents
+              the debut race of each MotoGP season. In 2008, the track held the first night event in MotoGP
+              history. The 2008 night event, aside from drawing boosted viewing which also coincided with the race
+              being moved to the opening spot on the calendar, was initiated with the intent of increasing
+              equipment performance: the day-time heat in Qatar has been hazardous to the conditions of tires and
+              expensive, customized parts on the multimillion-dollar motorcycles. Rider safety notwithstanding,
+              the extreme heat could be a critical variable contributing to defeat. Qatar's Grand Prix is the only
+              event in the entire MotoGP calendar to be held at night.  The 2020 MotoGP race was scheduled to open
+              the season before being cancelled due to the outbreak of Coronavirus. The Moto2 and Moto3 classes
+              proceeded as planned.  The event is due to take place at the Losail International Circuit until at
+              least 2031.
+          2:
+            title: Practice Two
+            originally_available: 2024-03-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s1/e2.jpg
+            summary: >
+              Practice Two for Grand Prix of Qatar takes place at Lusail International Circuit (Lusail, Qatar) on
+              March 10, 2024. Local start: 20:00:00. The Qatar motorcycle Grand Prix is a motorcycling event that
+              is part of the FIM Grand Prix motorcycle racing season.  The Losail race track in Qatar represents
+              the debut race of each MotoGP season. In 2008, the track held the first night event in MotoGP
+              history. The 2008 night event, aside from drawing boosted viewing which also coincided with the race
+              being moved to the opening spot on the calendar, was initiated with the intent of increasing
+              equipment performance: the day-time heat in Qatar has been hazardous to the conditions of tires and
+              expensive, customized parts on the multimillion-dollar motorcycles. Rider safety notwithstanding,
+              the extreme heat could be a critical variable contributing to defeat. Qatar's Grand Prix is the only
+              event in the entire MotoGP calendar to be held at night.  The 2020 MotoGP race was scheduled to open
+              the season before being cancelled due to the outbreak of Coronavirus. The Moto2 and Moto3 classes
+              proceeded as planned.  The event is due to take place at the Losail International Circuit until at
+              least 2031.
+          3:
+            title: Qualifying One
+            originally_available: 2024-03-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s1/e3.jpg
+            summary: >
+              Qualifying One for Grand Prix of Qatar takes place at Lusail International Circuit (Lusail, Qatar)
+              on March 10, 2024. Local start: 20:00:00. The Qatar motorcycle Grand Prix is a motorcycling event
+              that is part of the FIM Grand Prix motorcycle racing season.  The Losail race track in Qatar
+              represents the debut race of each MotoGP season. In 2008, the track held the first night event in
+              MotoGP history. The 2008 night event, aside from drawing boosted viewing which also coincided with
+              the race being moved to the opening spot on the calendar, was initiated with the intent of
+              increasing equipment performance: the day-time heat in Qatar has been hazardous to the conditions of
+              tires and expensive, customized parts on the multimillion-dollar motorcycles. Rider safety
+              notwithstanding, the extreme heat could be a critical variable contributing to defeat. Qatar's Grand
+              Prix is the only event in the entire MotoGP calendar to be held at night.  The 2020 MotoGP race was
+              scheduled to open the season before being cancelled due to the outbreak of Coronavirus. The Moto2
+              and Moto3 classes proceeded as planned.  The event is due to take place at the Losail International
+              Circuit until at least 2031.
+          4:
+            title: Qualifying Two
+            originally_available: 2024-03-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s1/e4.jpg
+            summary: >
+              Qualifying Two for Grand Prix of Qatar takes place at Lusail International Circuit (Lusail, Qatar)
+              on March 10, 2024. Local start: 20:00:00. The Qatar motorcycle Grand Prix is a motorcycling event
+              that is part of the FIM Grand Prix motorcycle racing season.  The Losail race track in Qatar
+              represents the debut race of each MotoGP season. In 2008, the track held the first night event in
+              MotoGP history. The 2008 night event, aside from drawing boosted viewing which also coincided with
+              the race being moved to the opening spot on the calendar, was initiated with the intent of
+              increasing equipment performance: the day-time heat in Qatar has been hazardous to the conditions of
+              tires and expensive, customized parts on the multimillion-dollar motorcycles. Rider safety
+              notwithstanding, the extreme heat could be a critical variable contributing to defeat. Qatar's Grand
+              Prix is the only event in the entire MotoGP calendar to be held at night.  The 2020 MotoGP race was
+              scheduled to open the season before being cancelled due to the outbreak of Coronavirus. The Moto2
+              and Moto3 classes proceeded as planned.  The event is due to take place at the Losail International
+              Circuit until at least 2031.
+          5:
+            title: Sprint
+            originally_available: 2024-03-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s1/e5.jpg
+            summary: >
+              Sprint for Grand Prix of Qatar takes place at Lusail International Circuit (Lusail, Qatar) on March
+              10, 2024. Local start: 20:00:00. The Qatar motorcycle Grand Prix is a motorcycling event that is
+              part of the FIM Grand Prix motorcycle racing season.  The Losail race track in Qatar represents the
+              debut race of each MotoGP season. In 2008, the track held the first night event in MotoGP history.
+              The 2008 night event, aside from drawing boosted viewing which also coincided with the race being
+              moved to the opening spot on the calendar, was initiated with the intent of increasing equipment
+              performance: the day-time heat in Qatar has been hazardous to the conditions of tires and expensive,
+              customized parts on the multimillion-dollar motorcycles. Rider safety notwithstanding, the extreme
+              heat could be a critical variable contributing to defeat. Qatar's Grand Prix is the only event in
+              the entire MotoGP calendar to be held at night.  The 2020 MotoGP race was scheduled to open the
+              season before being cancelled due to the outbreak of Coronavirus. The Moto2 and Moto3 classes
+              proceeded as planned.  The event is due to take place at the Losail International Circuit until at
+              least 2031.
+          6:
+            title: Race
+            originally_available: 2024-03-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s1/e6.jpg
+            summary: >
+              Race for Grand Prix of Qatar takes place at Lusail International Circuit (Lusail, Qatar) on March
+              10, 2024. Local start: 20:00:00. The Qatar motorcycle Grand Prix is a motorcycling event that is
+              part of the FIM Grand Prix motorcycle racing season.  The Losail race track in Qatar represents the
+              debut race of each MotoGP season. In 2008, the track held the first night event in MotoGP history.
+              The 2008 night event, aside from drawing boosted viewing which also coincided with the race being
+              moved to the opening spot on the calendar, was initiated with the intent of increasing equipment
+              performance: the day-time heat in Qatar has been hazardous to the conditions of tires and expensive,
+              customized parts on the multimillion-dollar motorcycles. Rider safety notwithstanding, the extreme
+              heat could be a critical variable contributing to defeat. Qatar's Grand Prix is the only event in
+              the entire MotoGP calendar to be held at night.  The 2020 MotoGP race was scheduled to open the
+              season before being cancelled due to the outbreak of Coronavirus. The Moto2 and Moto3 classes
+              proceeded as planned.  The event is due to take place at the Losail International Circuit until at
+              least 2031.
+      2:
+        title: Grande Prémio de Portugal
+        sort_title: 02_Grande Prémio de Portugal
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s2/poster.jpg
+        summary: >
+          Round 2 (Grande Prémio de Portugal) spans March 24, 2024 with 6 events recorded for this MotoGP
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2024-03-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s2/e1.jpg
+            summary: >
+              Practice One for Grande Prémio de Portugal takes place at Algarve International Circuit (Portimão,
+              Portugal) on March 24, 2024. Local start: 14:00:00. The Portuguese motorcycle Grand Prix is a
+              motorcycling road racing event that is part of the MotoGP World Championship.  The event was first
+              held in 1987 at the Jarama circuit in Spain. The reason for this was because the main Portuguese
+              circuit at the time, the Circuito do Estoril, was not yet ready to be used for motorcycle racing.
+              However, Portugal still wanted to host a round in the championship that year and so opted to use the
+              Jarama circuit until their own was ready for use.  In 2000, Grand Prix motorcycle racing returned to
+              Portugal after the Estoril Circuit was homologated for international motorcycle racing. This was the
+              third time Portugal hosted a grand prix but only the first time a race was held in the country
+              itself. Estoril continued to host the Portuguese round until 2012, where it was confirmed for the
+              final time after the owners of the Estoril circuit and the Portuguese government came to an
+              agreement.
+          2:
+            title: Practice Two
+            originally_available: 2024-03-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s2/e2.jpg
+            summary: >
+              Practice Two for Grande Prémio de Portugal takes place at Algarve International Circuit (Portimão,
+              Portugal) on March 24, 2024. Local start: 14:00:00. The Portuguese motorcycle Grand Prix is a
+              motorcycling road racing event that is part of the MotoGP World Championship.  The event was first
+              held in 1987 at the Jarama circuit in Spain. The reason for this was because the main Portuguese
+              circuit at the time, the Circuito do Estoril, was not yet ready to be used for motorcycle racing.
+              However, Portugal still wanted to host a round in the championship that year and so opted to use the
+              Jarama circuit until their own was ready for use.  In 2000, Grand Prix motorcycle racing returned to
+              Portugal after the Estoril Circuit was homologated for international motorcycle racing. This was the
+              third time Portugal hosted a grand prix but only the first time a race was held in the country
+              itself. Estoril continued to host the Portuguese round until 2012, where it was confirmed for the
+              final time after the owners of the Estoril circuit and the Portuguese government came to an
+              agreement.
+          3:
+            title: Qualifying One
+            originally_available: 2024-03-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s2/e3.jpg
+            summary: >
+              Qualifying One for Grande Prémio de Portugal takes place at Algarve International Circuit (Portimão,
+              Portugal) on March 24, 2024. Local start: 14:00:00. The Portuguese motorcycle Grand Prix is a
+              motorcycling road racing event that is part of the MotoGP World Championship.  The event was first
+              held in 1987 at the Jarama circuit in Spain. The reason for this was because the main Portuguese
+              circuit at the time, the Circuito do Estoril, was not yet ready to be used for motorcycle racing.
+              However, Portugal still wanted to host a round in the championship that year and so opted to use the
+              Jarama circuit until their own was ready for use.  In 2000, Grand Prix motorcycle racing returned to
+              Portugal after the Estoril Circuit was homologated for international motorcycle racing. This was the
+              third time Portugal hosted a grand prix but only the first time a race was held in the country
+              itself. Estoril continued to host the Portuguese round until 2012, where it was confirmed for the
+              final time after the owners of the Estoril circuit and the Portuguese government came to an
+              agreement.
+          4:
+            title: Qualifying Two
+            originally_available: 2024-03-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s2/e4.jpg
+            summary: >
+              Qualifying Two for Grande Prémio de Portugal takes place at Algarve International Circuit (Portimão,
+              Portugal) on March 24, 2024. Local start: 14:00:00. The Portuguese motorcycle Grand Prix is a
+              motorcycling road racing event that is part of the MotoGP World Championship.  The event was first
+              held in 1987 at the Jarama circuit in Spain. The reason for this was because the main Portuguese
+              circuit at the time, the Circuito do Estoril, was not yet ready to be used for motorcycle racing.
+              However, Portugal still wanted to host a round in the championship that year and so opted to use the
+              Jarama circuit until their own was ready for use.  In 2000, Grand Prix motorcycle racing returned to
+              Portugal after the Estoril Circuit was homologated for international motorcycle racing. This was the
+              third time Portugal hosted a grand prix but only the first time a race was held in the country
+              itself. Estoril continued to host the Portuguese round until 2012, where it was confirmed for the
+              final time after the owners of the Estoril circuit and the Portuguese government came to an
+              agreement.
+          5:
+            title: Sprint
+            originally_available: 2024-03-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s2/e5.jpg
+            summary: >
+              Sprint for Grande Prémio de Portugal takes place at Algarve International Circuit (Portimão,
+              Portugal) on March 24, 2024. Local start: 14:00:00. The Portuguese motorcycle Grand Prix is a
+              motorcycling road racing event that is part of the MotoGP World Championship.  The event was first
+              held in 1987 at the Jarama circuit in Spain. The reason for this was because the main Portuguese
+              circuit at the time, the Circuito do Estoril, was not yet ready to be used for motorcycle racing.
+              However, Portugal still wanted to host a round in the championship that year and so opted to use the
+              Jarama circuit until their own was ready for use.  In 2000, Grand Prix motorcycle racing returned to
+              Portugal after the Estoril Circuit was homologated for international motorcycle racing. This was the
+              third time Portugal hosted a grand prix but only the first time a race was held in the country
+              itself. Estoril continued to host the Portuguese round until 2012, where it was confirmed for the
+              final time after the owners of the Estoril circuit and the Portuguese government came to an
+              agreement.
+          6:
+            title: Race
+            originally_available: 2024-03-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s2/e6.jpg
+            summary: >
+              Race for Grande Prémio de Portugal takes place at Algarve International Circuit (Portimão, Portugal)
+              on March 24, 2024. Local start: 14:00:00. The Portuguese motorcycle Grand Prix is a motorcycling
+              road racing event that is part of the MotoGP World Championship.  The event was first held in 1987
+              at the Jarama circuit in Spain. The reason for this was because the main Portuguese circuit at the
+              time, the Circuito do Estoril, was not yet ready to be used for motorcycle racing. However, Portugal
+              still wanted to host a round in the championship that year and so opted to use the Jarama circuit
+              until their own was ready for use.  In 2000, Grand Prix motorcycle racing returned to Portugal after
+              the Estoril Circuit was homologated for international motorcycle racing. This was the third time
+              Portugal hosted a grand prix but only the first time a race was held in the country itself. Estoril
+              continued to host the Portuguese round until 2012, where it was confirmed for the final time after
+              the owners of the Estoril circuit and the Portuguese government came to an agreement.
+      3:
+        title: Grand Prix of the Americas
+        sort_title: 03_Grand Prix of the Americas
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s3/poster.jpg
+        summary: >
+          Round 3 (Grand Prix of the Americas) spans April 14, 2024 with 6 events recorded for this MotoGP
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2024-04-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s3/e1.jpg
+            summary: >
+              Practice One for Grand Prix of the Americas takes place at Circuit of the Americas (Austin,Texas,
+              United States) on April 14, 2024. Local start: 14:00:00. The Motorcycle Grand Prix of the Americas
+              is a motorcycling event that is part of the FIM Grand Prix motorcycle racing season that takes place
+              at Circuit of the Americas. It became the third MotoGP round in the United States, alongside the
+              Indianapolis Grand Prix at the Indianapolis Motor Speedway (which lost its place on the calendar
+              from 2015), and the United States Grand Prix at Mazda Raceway Laguna Seca (which lost its place on
+              the calendar from 2014).
+          2:
+            title: Practice Two
+            originally_available: 2024-04-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s3/e2.jpg
+            summary: >
+              Practice Two for Grand Prix of the Americas takes place at Circuit of the Americas (Austin,Texas,
+              United States) on April 14, 2024. Local start: 14:00:00. The Motorcycle Grand Prix of the Americas
+              is a motorcycling event that is part of the FIM Grand Prix motorcycle racing season that takes place
+              at Circuit of the Americas. It became the third MotoGP round in the United States, alongside the
+              Indianapolis Grand Prix at the Indianapolis Motor Speedway (which lost its place on the calendar
+              from 2015), and the United States Grand Prix at Mazda Raceway Laguna Seca (which lost its place on
+              the calendar from 2014).
+          3:
+            title: Qualifying One
+            originally_available: 2024-04-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s3/e3.jpg
+            summary: >
+              Qualifying One for Grand Prix of the Americas takes place at Circuit of the Americas (Austin,Texas,
+              United States) on April 14, 2024. Local start: 14:00:00. The Motorcycle Grand Prix of the Americas
+              is a motorcycling event that is part of the FIM Grand Prix motorcycle racing season that takes place
+              at Circuit of the Americas. It became the third MotoGP round in the United States, alongside the
+              Indianapolis Grand Prix at the Indianapolis Motor Speedway (which lost its place on the calendar
+              from 2015), and the United States Grand Prix at Mazda Raceway Laguna Seca (which lost its place on
+              the calendar from 2014).
+          4:
+            title: Qualifying Two
+            originally_available: 2024-04-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s3/e4.jpg
+            summary: >
+              Qualifying Two for Grand Prix of the Americas takes place at Circuit of the Americas (Austin,Texas,
+              United States) on April 14, 2024. Local start: 14:00:00. The Motorcycle Grand Prix of the Americas
+              is a motorcycling event that is part of the FIM Grand Prix motorcycle racing season that takes place
+              at Circuit of the Americas. It became the third MotoGP round in the United States, alongside the
+              Indianapolis Grand Prix at the Indianapolis Motor Speedway (which lost its place on the calendar
+              from 2015), and the United States Grand Prix at Mazda Raceway Laguna Seca (which lost its place on
+              the calendar from 2014).
+          5:
+            title: Sprint
+            originally_available: 2024-04-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s3/e5.jpg
+            summary: >
+              Sprint for Grand Prix of the Americas takes place at Circuit of the Americas (Austin,Texas, United
+              States) on April 14, 2024. Local start: 14:00:00. The Motorcycle Grand Prix of the Americas is a
+              motorcycling event that is part of the FIM Grand Prix motorcycle racing season that takes place at
+              Circuit of the Americas. It became the third MotoGP round in the United States, alongside the
+              Indianapolis Grand Prix at the Indianapolis Motor Speedway (which lost its place on the calendar
+              from 2015), and the United States Grand Prix at Mazda Raceway Laguna Seca (which lost its place on
+              the calendar from 2014).
+          6:
+            title: Race
+            originally_available: 2024-04-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s3/e6.jpg
+            summary: >
+              Race for Grand Prix of the Americas takes place at Circuit of the Americas (Austin,Texas, United
+              States) on April 14, 2024. Local start: 14:00:00. The Motorcycle Grand Prix of the Americas is a
+              motorcycling event that is part of the FIM Grand Prix motorcycle racing season that takes place at
+              Circuit of the Americas. It became the third MotoGP round in the United States, alongside the
+              Indianapolis Grand Prix at the Indianapolis Motor Speedway (which lost its place on the calendar
+              from 2015), and the United States Grand Prix at Mazda Raceway Laguna Seca (which lost its place on
+              the calendar from 2014).
+      4:
+        title: Gran Premio de España
+        sort_title: 04_Gran Premio de España
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s4/poster.jpg
+        summary: >
+          Round 4 (Gran Premio de España) spans April 28, 2024 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2024-04-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s4/e1.jpg
+            summary: >
+              Practice One for Gran Premio de España takes place at Circuito de Jerez – Ángel Nieto (Jerez de la
+              Frontera, Spain) on April 28, 2024. Local start: 14:00:00. The Spanish Motorcycle Grand Prix is ​​a
+              motorcycle race that has been held since 1950 in Spain. Except for the inaugural edition and between
+              1956 and 1960, it was always part of the World Motorcycle Championship. Since the 1989 edition, the
+              competition has taken place uninterruptedly at the Jerez Circuit, which also hosted the 1987
+              edition.   The 2024 Spanish motorcycle Grand Prix (officially known as the Gran Premio Estrella
+              Galicia 0,0 de España) was the fourth round of the 2024 Grand Prix motorcycle racing season. It was
+              held at the Circuito de Jerez – Ángel Nieto in Jerez de la Frontera on 28 April 2024.
+          2:
+            title: Practice Two
+            originally_available: 2024-04-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s4/e2.jpg
+            summary: >
+              Practice Two for Gran Premio de España takes place at Circuito de Jerez – Ángel Nieto (Jerez de la
+              Frontera, Spain) on April 28, 2024. Local start: 14:00:00. The Spanish Motorcycle Grand Prix is ​​a
+              motorcycle race that has been held since 1950 in Spain. Except for the inaugural edition and between
+              1956 and 1960, it was always part of the World Motorcycle Championship. Since the 1989 edition, the
+              competition has taken place uninterruptedly at the Jerez Circuit, which also hosted the 1987
+              edition.   The 2024 Spanish motorcycle Grand Prix (officially known as the Gran Premio Estrella
+              Galicia 0,0 de España) was the fourth round of the 2024 Grand Prix motorcycle racing season. It was
+              held at the Circuito de Jerez – Ángel Nieto in Jerez de la Frontera on 28 April 2024.
+          3:
+            title: Qualifying One
+            originally_available: 2024-04-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s4/e3.jpg
+            summary: >
+              Qualifying One for Gran Premio de España takes place at Circuito de Jerez – Ángel Nieto (Jerez de la
+              Frontera, Spain) on April 28, 2024. Local start: 14:00:00. The Spanish Motorcycle Grand Prix is ​​a
+              motorcycle race that has been held since 1950 in Spain. Except for the inaugural edition and between
+              1956 and 1960, it was always part of the World Motorcycle Championship. Since the 1989 edition, the
+              competition has taken place uninterruptedly at the Jerez Circuit, which also hosted the 1987
+              edition.   The 2024 Spanish motorcycle Grand Prix (officially known as the Gran Premio Estrella
+              Galicia 0,0 de España) was the fourth round of the 2024 Grand Prix motorcycle racing season. It was
+              held at the Circuito de Jerez – Ángel Nieto in Jerez de la Frontera on 28 April 2024.
+          4:
+            title: Qualifying Two
+            originally_available: 2024-04-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s4/e4.jpg
+            summary: >
+              Qualifying Two for Gran Premio de España takes place at Circuito de Jerez – Ángel Nieto (Jerez de la
+              Frontera, Spain) on April 28, 2024. Local start: 14:00:00. The Spanish Motorcycle Grand Prix is ​​a
+              motorcycle race that has been held since 1950 in Spain. Except for the inaugural edition and between
+              1956 and 1960, it was always part of the World Motorcycle Championship. Since the 1989 edition, the
+              competition has taken place uninterruptedly at the Jerez Circuit, which also hosted the 1987
+              edition.   The 2024 Spanish motorcycle Grand Prix (officially known as the Gran Premio Estrella
+              Galicia 0,0 de España) was the fourth round of the 2024 Grand Prix motorcycle racing season. It was
+              held at the Circuito de Jerez – Ángel Nieto in Jerez de la Frontera on 28 April 2024.
+          5:
+            title: Sprint
+            originally_available: 2024-04-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s4/e5.jpg
+            summary: >
+              Sprint for Gran Premio de España takes place at Circuito de Jerez – Ángel Nieto (Jerez de la
+              Frontera, Spain) on April 28, 2024. Local start: 14:00:00. The Spanish Motorcycle Grand Prix is ​​a
+              motorcycle race that has been held since 1950 in Spain. Except for the inaugural edition and between
+              1956 and 1960, it was always part of the World Motorcycle Championship. Since the 1989 edition, the
+              competition has taken place uninterruptedly at the Jerez Circuit, which also hosted the 1987
+              edition.   The 2024 Spanish motorcycle Grand Prix (officially known as the Gran Premio Estrella
+              Galicia 0,0 de España) was the fourth round of the 2024 Grand Prix motorcycle racing season. It was
+              held at the Circuito de Jerez – Ángel Nieto in Jerez de la Frontera on 28 April 2024.
+          6:
+            title: Race
+            originally_available: 2024-04-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s4/e6.jpg
+            summary: >
+              Race for Gran Premio de España takes place at Circuito de Jerez – Ángel Nieto (Jerez de la Frontera,
+              Spain) on April 28, 2024. Local start: 14:00:00. The Spanish Motorcycle Grand Prix is ​​a motorcycle
+              race that has been held since 1950 in Spain. Except for the inaugural edition and between 1956 and
+              1960, it was always part of the World Motorcycle Championship. Since the 1989 edition, the
+              competition has taken place uninterruptedly at the Jerez Circuit, which also hosted the 1987
+              edition.   The 2024 Spanish motorcycle Grand Prix (officially known as the Gran Premio Estrella
+              Galicia 0,0 de España) was the fourth round of the 2024 Grand Prix motorcycle racing season. It was
+              held at the Circuito de Jerez – Ángel Nieto in Jerez de la Frontera on 28 April 2024.
+      5:
+        title: Grand Prix de France
+        sort_title: 05_Grand Prix de France
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s5/poster.jpg
+        summary: >
+          Round 5 (Grand Prix de France) spans May 12, 2024 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2024-05-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s5/e1.jpg
+            summary: >
+              Practice One for Grand Prix de France takes place at Circuit Bugatti (Le Mans, France) on May 12,
+              2024. Local start: 14:00:00. The French motorcycle Grand Prix is a motorcycling event that is part
+              of the FIM Grand Prix motorcycle racing season.  The Grand Prix was held on different circuits in
+              its history: on the Charade Circuit (Puy-de-Dôme) between 1959 and 1967, Le Mans circuit on numerous
+              occasions since 1969, alternating with the Paul Ricard Circuit at Le Castellet, used it for the
+              first time in 1973, the Circuit Paul Armagnac in Nogaro in 1978 and 1982 and the Circuit de Nevers
+              Magny-Cours once in 1992. Since 2000 the race has been held at Le Mans on the Bugatti Circuit.  The
+              event is due to take place at the Bugatti Circuit until at least 2026.
+          2:
+            title: Practice Two
+            originally_available: 2024-05-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s5/e2.jpg
+            summary: >
+              Practice Two for Grand Prix de France takes place at Circuit Bugatti (Le Mans, France) on May 12,
+              2024. Local start: 14:00:00. The French motorcycle Grand Prix is a motorcycling event that is part
+              of the FIM Grand Prix motorcycle racing season.  The Grand Prix was held on different circuits in
+              its history: on the Charade Circuit (Puy-de-Dôme) between 1959 and 1967, Le Mans circuit on numerous
+              occasions since 1969, alternating with the Paul Ricard Circuit at Le Castellet, used it for the
+              first time in 1973, the Circuit Paul Armagnac in Nogaro in 1978 and 1982 and the Circuit de Nevers
+              Magny-Cours once in 1992. Since 2000 the race has been held at Le Mans on the Bugatti Circuit.  The
+              event is due to take place at the Bugatti Circuit until at least 2026.
+          3:
+            title: Qualifying One
+            originally_available: 2024-05-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s5/e3.jpg
+            summary: >
+              Qualifying One for Grand Prix de France takes place at Circuit Bugatti (Le Mans, France) on May 12,
+              2024. Local start: 14:00:00. The French motorcycle Grand Prix is a motorcycling event that is part
+              of the FIM Grand Prix motorcycle racing season.  The Grand Prix was held on different circuits in
+              its history: on the Charade Circuit (Puy-de-Dôme) between 1959 and 1967, Le Mans circuit on numerous
+              occasions since 1969, alternating with the Paul Ricard Circuit at Le Castellet, used it for the
+              first time in 1973, the Circuit Paul Armagnac in Nogaro in 1978 and 1982 and the Circuit de Nevers
+              Magny-Cours once in 1992. Since 2000 the race has been held at Le Mans on the Bugatti Circuit.  The
+              event is due to take place at the Bugatti Circuit until at least 2026.
+          4:
+            title: Qualifying Two
+            originally_available: 2024-05-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s5/e4.jpg
+            summary: >
+              Qualifying Two for Grand Prix de France takes place at Circuit Bugatti (Le Mans, France) on May 12,
+              2024. Local start: 14:00:00. The French motorcycle Grand Prix is a motorcycling event that is part
+              of the FIM Grand Prix motorcycle racing season.  The Grand Prix was held on different circuits in
+              its history: on the Charade Circuit (Puy-de-Dôme) between 1959 and 1967, Le Mans circuit on numerous
+              occasions since 1969, alternating with the Paul Ricard Circuit at Le Castellet, used it for the
+              first time in 1973, the Circuit Paul Armagnac in Nogaro in 1978 and 1982 and the Circuit de Nevers
+              Magny-Cours once in 1992. Since 2000 the race has been held at Le Mans on the Bugatti Circuit.  The
+              event is due to take place at the Bugatti Circuit until at least 2026.
+          5:
+            title: Sprint
+            originally_available: 2024-05-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s5/e5.jpg
+            summary: >
+              Sprint for Grand Prix de France takes place at Circuit Bugatti (Le Mans, France) on May 12, 2024.
+              Local start: 14:00:00. The French motorcycle Grand Prix is a motorcycling event that is part of the
+              FIM Grand Prix motorcycle racing season.  The Grand Prix was held on different circuits in its
+              history: on the Charade Circuit (Puy-de-Dôme) between 1959 and 1967, Le Mans circuit on numerous
+              occasions since 1969, alternating with the Paul Ricard Circuit at Le Castellet, used it for the
+              first time in 1973, the Circuit Paul Armagnac in Nogaro in 1978 and 1982 and the Circuit de Nevers
+              Magny-Cours once in 1992. Since 2000 the race has been held at Le Mans on the Bugatti Circuit.  The
+              event is due to take place at the Bugatti Circuit until at least 2026.
+          6:
+            title: Race
+            originally_available: 2024-05-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s5/e6.jpg
+            summary: >
+              Race for Grand Prix de France takes place at Circuit Bugatti (Le Mans, France) on May 12, 2024.
+              Local start: 14:00:00. The French motorcycle Grand Prix is a motorcycling event that is part of the
+              FIM Grand Prix motorcycle racing season.  The Grand Prix was held on different circuits in its
+              history: on the Charade Circuit (Puy-de-Dôme) between 1959 and 1967, Le Mans circuit on numerous
+              occasions since 1969, alternating with the Paul Ricard Circuit at Le Castellet, used it for the
+              first time in 1973, the Circuit Paul Armagnac in Nogaro in 1978 and 1982 and the Circuit de Nevers
+              Magny-Cours once in 1992. Since 2000 the race has been held at Le Mans on the Bugatti Circuit.  The
+              event is due to take place at the Bugatti Circuit until at least 2026.
+      6:
+        title: Gran Premi de Catalunya
+        sort_title: 06_Gran Premi de Catalunya
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s6/poster.jpg
+        summary: >
+          Round 6 (Gran Premi de Catalunya) spans May 26, 2024 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2024-05-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s6/e1.jpg
+            summary: >
+              Practice One for Gran Premi de Catalunya takes place at Circuit de Barcelona-Catalunya (Montmeló,
+              Spain) on May 26, 2024. Listed start: 00:00:00 (UTC). The Catalan motorcycle Grand Prix is a
+              motorcycling event held at the Circuit de Barcelona-Catalunya in Barcelona, Catalonia, Spain, as
+              part of the FIM Grand Prix motorcycle racing season. Between 2022 and 2026, Circuit de Barcelona-
+              Catalunya is due to host at least three Grands Prix.
+          2:
+            title: Practice Two
+            originally_available: 2024-05-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s6/e2.jpg
+            summary: >
+              Practice Two for Gran Premi de Catalunya takes place at Circuit de Barcelona-Catalunya (Montmeló,
+              Spain) on May 26, 2024. Listed start: 00:00:00 (UTC). The Catalan motorcycle Grand Prix is a
+              motorcycling event held at the Circuit de Barcelona-Catalunya in Barcelona, Catalonia, Spain, as
+              part of the FIM Grand Prix motorcycle racing season. Between 2022 and 2026, Circuit de Barcelona-
+              Catalunya is due to host at least three Grands Prix.
+          3:
+            title: Qualifying One
+            originally_available: 2024-05-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s6/e3.jpg
+            summary: >
+              Qualifying One for Gran Premi de Catalunya takes place at Circuit de Barcelona-Catalunya (Montmeló,
+              Spain) on May 26, 2024. Listed start: 00:00:00 (UTC). The Catalan motorcycle Grand Prix is a
+              motorcycling event held at the Circuit de Barcelona-Catalunya in Barcelona, Catalonia, Spain, as
+              part of the FIM Grand Prix motorcycle racing season. Between 2022 and 2026, Circuit de Barcelona-
+              Catalunya is due to host at least three Grands Prix.
+          4:
+            title: Qualifying Two
+            originally_available: 2024-05-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s6/e4.jpg
+            summary: >
+              Qualifying Two for Gran Premi de Catalunya takes place at Circuit de Barcelona-Catalunya (Montmeló,
+              Spain) on May 26, 2024. Listed start: 00:00:00 (UTC). The Catalan motorcycle Grand Prix is a
+              motorcycling event held at the Circuit de Barcelona-Catalunya in Barcelona, Catalonia, Spain, as
+              part of the FIM Grand Prix motorcycle racing season. Between 2022 and 2026, Circuit de Barcelona-
+              Catalunya is due to host at least three Grands Prix.
+          5:
+            title: Sprint
+            originally_available: 2024-05-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s6/e5.jpg
+            summary: >
+              Sprint for Gran Premi de Catalunya takes place at Circuit de Barcelona-Catalunya (Montmeló, Spain)
+              on May 26, 2024. Listed start: 00:00:00 (UTC). The Catalan motorcycle Grand Prix is a motorcycling
+              event held at the Circuit de Barcelona-Catalunya in Barcelona, Catalonia, Spain, as part of the FIM
+              Grand Prix motorcycle racing season. Between 2022 and 2026, Circuit de Barcelona-Catalunya is due to
+              host at least three Grands Prix.
+          6:
+            title: Race
+            originally_available: 2024-05-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s6/e6.jpg
+            summary: >
+              Race for Gran Premi de Catalunya takes place at Circuit de Barcelona-Catalunya (Montmeló, Spain) on
+              May 26, 2024. Listed start: 00:00:00 (UTC). The Catalan motorcycle Grand Prix is a motorcycling
+              event held at the Circuit de Barcelona-Catalunya in Barcelona, Catalonia, Spain, as part of the FIM
+              Grand Prix motorcycle racing season. Between 2022 and 2026, Circuit de Barcelona-Catalunya is due to
+              host at least three Grands Prix.
+      7:
+        title: Gran Premio dItalia
+        sort_title: 07_Gran Premio dItalia
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s7/poster.jpg
+        summary: >
+          Round 7 (Gran Premio dItalia) spans June 2, 2024 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2024-06-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s7/e1.jpg
+            summary: >
+              Practice One for Gran Premio dItalia takes place at Autodromo Internazionale del Mugello (Scarperia
+              e San Piero, Italy) on June 02, 2024. Local start: 14:00:00. The Italian motorcycle Grand Prix is a
+              motorcycling event that is part of the Grand Prix motorcycle racing season. From 1949 to 1990 the
+              event was known by the Italian: Gran Premio Delle Nazioni (Nations Grand Prix). It was one of the
+              original rounds of the Grand Prix motorcycle racing calendar. The race was held exclusively at Monza
+              for the first 23 years of its existence. From 1972 to 1993, the event rotated among several circuits
+              and has been held at the Mugello Circuit since 1994
+          2:
+            title: Practice Two
+            originally_available: 2024-06-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s7/e2.jpg
+            summary: >
+              Practice Two for Gran Premio dItalia takes place at Autodromo Internazionale del Mugello (Scarperia
+              e San Piero, Italy) on June 02, 2024. Local start: 14:00:00. The Italian motorcycle Grand Prix is a
+              motorcycling event that is part of the Grand Prix motorcycle racing season. From 1949 to 1990 the
+              event was known by the Italian: Gran Premio Delle Nazioni (Nations Grand Prix). It was one of the
+              original rounds of the Grand Prix motorcycle racing calendar. The race was held exclusively at Monza
+              for the first 23 years of its existence. From 1972 to 1993, the event rotated among several circuits
+              and has been held at the Mugello Circuit since 1994
+          3:
+            title: Qualifying One
+            originally_available: 2024-06-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s7/e3.jpg
+            summary: >
+              Qualifying One for Gran Premio dItalia takes place at Autodromo Internazionale del Mugello
+              (Scarperia e San Piero, Italy) on June 02, 2024. Local start: 14:00:00. The Italian motorcycle Grand
+              Prix is a motorcycling event that is part of the Grand Prix motorcycle racing season. From 1949 to
+              1990 the event was known by the Italian: Gran Premio Delle Nazioni (Nations Grand Prix). It was one
+              of the original rounds of the Grand Prix motorcycle racing calendar. The race was held exclusively
+              at Monza for the first 23 years of its existence. From 1972 to 1993, the event rotated among several
+              circuits and has been held at the Mugello Circuit since 1994
+          4:
+            title: Qualifying Two
+            originally_available: 2024-06-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s7/e4.jpg
+            summary: >
+              Qualifying Two for Gran Premio dItalia takes place at Autodromo Internazionale del Mugello
+              (Scarperia e San Piero, Italy) on June 02, 2024. Local start: 14:00:00. The Italian motorcycle Grand
+              Prix is a motorcycling event that is part of the Grand Prix motorcycle racing season. From 1949 to
+              1990 the event was known by the Italian: Gran Premio Delle Nazioni (Nations Grand Prix). It was one
+              of the original rounds of the Grand Prix motorcycle racing calendar. The race was held exclusively
+              at Monza for the first 23 years of its existence. From 1972 to 1993, the event rotated among several
+              circuits and has been held at the Mugello Circuit since 1994
+          5:
+            title: Sprint
+            originally_available: 2024-06-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s7/e5.jpg
+            summary: >
+              Sprint for Gran Premio dItalia takes place at Autodromo Internazionale del Mugello (Scarperia e San
+              Piero, Italy) on June 02, 2024. Local start: 14:00:00. The Italian motorcycle Grand Prix is a
+              motorcycling event that is part of the Grand Prix motorcycle racing season. From 1949 to 1990 the
+              event was known by the Italian: Gran Premio Delle Nazioni (Nations Grand Prix). It was one of the
+              original rounds of the Grand Prix motorcycle racing calendar. The race was held exclusively at Monza
+              for the first 23 years of its existence. From 1972 to 1993, the event rotated among several circuits
+              and has been held at the Mugello Circuit since 1994
+          6:
+            title: Race
+            originally_available: 2024-06-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s7/e6.jpg
+            summary: >
+              Race for Gran Premio dItalia takes place at Autodromo Internazionale del Mugello (Scarperia e San
+              Piero, Italy) on June 02, 2024. Local start: 14:00:00. The Italian motorcycle Grand Prix is a
+              motorcycling event that is part of the Grand Prix motorcycle racing season. From 1949 to 1990 the
+              event was known by the Italian: Gran Premio Delle Nazioni (Nations Grand Prix). It was one of the
+              original rounds of the Grand Prix motorcycle racing calendar. The race was held exclusively at Monza
+              for the first 23 years of its existence. From 1972 to 1993, the event rotated among several circuits
+              and has been held at the Mugello Circuit since 1994
+      8:
+        title: TT Assen
+        sort_title: 08_TT Assen
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s8/poster.jpg
+        summary: >
+          Round 8 (TT Assen) spans June 30, 2024 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2024-06-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s8/e1.jpg
+            summary: >
+              Practice One for TT Assen takes place at TT Circuit Assen (Assen, The Netherlands) on June 30, 2024.
+              Local start: 14:00:00. The Dutch Tourist Trophy, also known as the TT Assen, and also sometimes
+              known as the Dutch Motorcycle Grand Prix, is an annual Dutch motorsport event established in 1925
+              for road racing motorcycles held on the TT Circuit Assen, also known as the ‘Cathedral of Speed'.
+              The event attained world championship status in 1949 when it was sanctioned by the FIM as part of
+              the inaugural Grand Prix motorcycle racing world championship season, making it the oldest event on
+              the MotoGP calendar. The venue holds the record for being the only circuit to have hosted a
+              motorcycle Grand Prix event every year since the series was created in 1949, with the exception of
+              2020 when the race was cancelled due to the outbreak of COVID-19. The races were traditionally held
+              on the last Saturday of June however, from 2016 onwards it has been held on Sunday of the last
+              weekend of June, bringing it in line with all other MotoGP races. The event is due to take place at
+              the TT Circuit Assen until at least 2026.
+          2:
+            title: Practice Two
+            originally_available: 2024-06-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s8/e2.jpg
+            summary: >
+              Practice Two for TT Assen takes place at TT Circuit Assen (Assen, The Netherlands) on June 30, 2024.
+              Local start: 14:00:00. The Dutch Tourist Trophy, also known as the TT Assen, and also sometimes
+              known as the Dutch Motorcycle Grand Prix, is an annual Dutch motorsport event established in 1925
+              for road racing motorcycles held on the TT Circuit Assen, also known as the ‘Cathedral of Speed'.
+              The event attained world championship status in 1949 when it was sanctioned by the FIM as part of
+              the inaugural Grand Prix motorcycle racing world championship season, making it the oldest event on
+              the MotoGP calendar. The venue holds the record for being the only circuit to have hosted a
+              motorcycle Grand Prix event every year since the series was created in 1949, with the exception of
+              2020 when the race was cancelled due to the outbreak of COVID-19. The races were traditionally held
+              on the last Saturday of June however, from 2016 onwards it has been held on Sunday of the last
+              weekend of June, bringing it in line with all other MotoGP races. The event is due to take place at
+              the TT Circuit Assen until at least 2026.
+          3:
+            title: Qualifying One
+            originally_available: 2024-06-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s8/e3.jpg
+            summary: >
+              Qualifying One for TT Assen takes place at TT Circuit Assen (Assen, The Netherlands) on June 30,
+              2024. Local start: 14:00:00. The Dutch Tourist Trophy, also known as the TT Assen, and also
+              sometimes known as the Dutch Motorcycle Grand Prix, is an annual Dutch motorsport event established
+              in 1925 for road racing motorcycles held on the TT Circuit Assen, also known as the ‘Cathedral of
+              Speed'. The event attained world championship status in 1949 when it was sanctioned by the FIM as
+              part of the inaugural Grand Prix motorcycle racing world championship season, making it the oldest
+              event on the MotoGP calendar. The venue holds the record for being the only circuit to have hosted a
+              motorcycle Grand Prix event every year since the series was created in 1949, with the exception of
+              2020 when the race was cancelled due to the outbreak of COVID-19. The races were traditionally held
+              on the last Saturday of June however, from 2016 onwards it has been held on Sunday of the last
+              weekend of June, bringing it in line with all other MotoGP races. The event is due to take place at
+              the TT Circuit Assen until at least 2026.
+          4:
+            title: Qualifying Two
+            originally_available: 2024-06-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s8/e4.jpg
+            summary: >
+              Qualifying Two for TT Assen takes place at TT Circuit Assen (Assen, The Netherlands) on June 30,
+              2024. Local start: 14:00:00. The Dutch Tourist Trophy, also known as the TT Assen, and also
+              sometimes known as the Dutch Motorcycle Grand Prix, is an annual Dutch motorsport event established
+              in 1925 for road racing motorcycles held on the TT Circuit Assen, also known as the ‘Cathedral of
+              Speed'. The event attained world championship status in 1949 when it was sanctioned by the FIM as
+              part of the inaugural Grand Prix motorcycle racing world championship season, making it the oldest
+              event on the MotoGP calendar. The venue holds the record for being the only circuit to have hosted a
+              motorcycle Grand Prix event every year since the series was created in 1949, with the exception of
+              2020 when the race was cancelled due to the outbreak of COVID-19. The races were traditionally held
+              on the last Saturday of June however, from 2016 onwards it has been held on Sunday of the last
+              weekend of June, bringing it in line with all other MotoGP races. The event is due to take place at
+              the TT Circuit Assen until at least 2026.
+          5:
+            title: Sprint
+            originally_available: 2024-06-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s8/e5.jpg
+            summary: >
+              Sprint for TT Assen takes place at TT Circuit Assen (Assen, The Netherlands) on June 30, 2024. Local
+              start: 14:00:00. The Dutch Tourist Trophy, also known as the TT Assen, and also sometimes known as
+              the Dutch Motorcycle Grand Prix, is an annual Dutch motorsport event established in 1925 for road
+              racing motorcycles held on the TT Circuit Assen, also known as the ‘Cathedral of Speed'. The event
+              attained world championship status in 1949 when it was sanctioned by the FIM as part of the
+              inaugural Grand Prix motorcycle racing world championship season, making it the oldest event on the
+              MotoGP calendar. The venue holds the record for being the only circuit to have hosted a motorcycle
+              Grand Prix event every year since the series was created in 1949, with the exception of 2020 when
+              the race was cancelled due to the outbreak of COVID-19. The races were traditionally held on the
+              last Saturday of June however, from 2016 onwards it has been held on Sunday of the last weekend of
+              June, bringing it in line with all other MotoGP races. The event is due to take place at the TT
+              Circuit Assen until at least 2026.
+          6:
+            title: Race
+            originally_available: 2024-06-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s8/e6.jpg
+            summary: >
+              Race for TT Assen takes place at TT Circuit Assen (Assen, The Netherlands) on June 30, 2024. Local
+              start: 14:00:00. The Dutch Tourist Trophy, also known as the TT Assen, and also sometimes known as
+              the Dutch Motorcycle Grand Prix, is an annual Dutch motorsport event established in 1925 for road
+              racing motorcycles held on the TT Circuit Assen, also known as the ‘Cathedral of Speed'. The event
+              attained world championship status in 1949 when it was sanctioned by the FIM as part of the
+              inaugural Grand Prix motorcycle racing world championship season, making it the oldest event on the
+              MotoGP calendar. The venue holds the record for being the only circuit to have hosted a motorcycle
+              Grand Prix event every year since the series was created in 1949, with the exception of 2020 when
+              the race was cancelled due to the outbreak of COVID-19. The races were traditionally held on the
+              last Saturday of June however, from 2016 onwards it has been held on Sunday of the last weekend of
+              June, bringing it in line with all other MotoGP races. The event is due to take place at the TT
+              Circuit Assen until at least 2026.
+      9:
+        title: Motorrad Grand Prix Deutschland
+        sort_title: 09_Motorrad Grand Prix Deutschland
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s9/poster.jpg
+        summary: >
+          Round 9 (Motorrad Grand Prix Deutschland) spans July 7, 2024 with 6 events recorded for this MotoGP
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2024-07-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s9/e1.jpg
+            summary: >
+              Practice One for Motorrad Grand Prix Deutschland takes place at Sachsenring (Hohenstein-Ernstthal,
+              Germany) on July 07, 2024. Local start: 14:00:00. The German motorcycle Grand Prix, first held in
+              1925, is a motorcycling event that is part of the FIM Grand Prix motorcycle racing season. The event
+              is due to take place at the Sachsenring until at least 2026.  In 1998, after having become rather
+              unpopular first at Hockenheim and then at Nürburgring due to the style of the promoters, the German
+              motorcycle Grand Prix moved to new promoters, and to the shortened purpose-built Sachsenring where
+              it became a sell-out event since.
+          2:
+            title: Practice Two
+            originally_available: 2024-07-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s9/e2.jpg
+            summary: >
+              Practice Two for Motorrad Grand Prix Deutschland takes place at Sachsenring (Hohenstein-Ernstthal,
+              Germany) on July 07, 2024. Local start: 14:00:00. The German motorcycle Grand Prix, first held in
+              1925, is a motorcycling event that is part of the FIM Grand Prix motorcycle racing season. The event
+              is due to take place at the Sachsenring until at least 2026.  In 1998, after having become rather
+              unpopular first at Hockenheim and then at Nürburgring due to the style of the promoters, the German
+              motorcycle Grand Prix moved to new promoters, and to the shortened purpose-built Sachsenring where
+              it became a sell-out event since.
+          3:
+            title: Qualifying One
+            originally_available: 2024-07-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s9/e3.jpg
+            summary: >
+              Qualifying One for Motorrad Grand Prix Deutschland takes place at Sachsenring (Hohenstein-Ernstthal,
+              Germany) on July 07, 2024. Local start: 14:00:00. The German motorcycle Grand Prix, first held in
+              1925, is a motorcycling event that is part of the FIM Grand Prix motorcycle racing season. The event
+              is due to take place at the Sachsenring until at least 2026.  In 1998, after having become rather
+              unpopular first at Hockenheim and then at Nürburgring due to the style of the promoters, the German
+              motorcycle Grand Prix moved to new promoters, and to the shortened purpose-built Sachsenring where
+              it became a sell-out event since.
+          4:
+            title: Qualifying Two
+            originally_available: 2024-07-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s9/e4.jpg
+            summary: >
+              Qualifying Two for Motorrad Grand Prix Deutschland takes place at Sachsenring (Hohenstein-Ernstthal,
+              Germany) on July 07, 2024. Local start: 14:00:00. The German motorcycle Grand Prix, first held in
+              1925, is a motorcycling event that is part of the FIM Grand Prix motorcycle racing season. The event
+              is due to take place at the Sachsenring until at least 2026.  In 1998, after having become rather
+              unpopular first at Hockenheim and then at Nürburgring due to the style of the promoters, the German
+              motorcycle Grand Prix moved to new promoters, and to the shortened purpose-built Sachsenring where
+              it became a sell-out event since.
+          5:
+            title: Sprint
+            originally_available: 2024-07-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s9/e5.jpg
+            summary: >
+              Sprint for Motorrad Grand Prix Deutschland takes place at Sachsenring (Hohenstein-Ernstthal,
+              Germany) on July 07, 2024. Local start: 14:00:00. The German motorcycle Grand Prix, first held in
+              1925, is a motorcycling event that is part of the FIM Grand Prix motorcycle racing season. The event
+              is due to take place at the Sachsenring until at least 2026.  In 1998, after having become rather
+              unpopular first at Hockenheim and then at Nürburgring due to the style of the promoters, the German
+              motorcycle Grand Prix moved to new promoters, and to the shortened purpose-built Sachsenring where
+              it became a sell-out event since.
+          6:
+            title: Race
+            originally_available: 2024-07-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s9/e6.jpg
+            summary: >
+              Race for Motorrad Grand Prix Deutschland takes place at Sachsenring (Hohenstein-Ernstthal, Germany)
+              on July 07, 2024. Local start: 14:00:00. The German motorcycle Grand Prix, first held in 1925, is a
+              motorcycling event that is part of the FIM Grand Prix motorcycle racing season. The event is due to
+              take place at the Sachsenring until at least 2026.  In 1998, after having become rather unpopular
+              first at Hockenheim and then at Nürburgring due to the style of the promoters, the German motorcycle
+              Grand Prix moved to new promoters, and to the shortened purpose-built Sachsenring where it became a
+              sell-out event since.
+      10:
+        title: British Grand Prix
+        sort_title: 10_British Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s10/poster.jpg
+        summary: >
+          Round 10 (British Grand Prix) spans August 4, 2024 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2024-08-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s10/e1.jpg
+            summary: >
+              Practice One for British Grand Prix takes place at Silverstone Circuit (Silverstone, United Kingdom)
+              on August 04, 2024. Local start: 13:00:00. The British motorcycle Grand Prix is a motorcycling event
+              that is part of the Grand Prix motorcycle racing season.  Before 1977, the only British round was
+              the Isle of Man TT, which was part of the FIM championship from its inauguration in 1949 until 1976.
+              The Isle of Man TT was the most prestigious event on the Grand Prix motorcycling calendar from 1949
+              to 1972. After the 1972 event, multiple world champion Giacomo Agostini dropped a bombshell on the
+              motorsports world by stating he would never race at the Isle of Man TT again, saying the 37-mile (62
+              km) circuit was too dangerous for international competition. His friend Gilberto Parlotti was killed
+              during the event. Many riders followed Agostini's boycotting of the next four events, and after the
+              1976 season, the Isle of Man TT was scratched from the FIM calendar.  The inaugural British
+              motorcycle Grand Prix, the first motorcycle Grand Prix to be held on the British mainland, took
+              place at the Silverstone Circuit. The event was moved to Donington Park in 1987 before returning to
+              Silverstone in 2010.
+          2:
+            title: Practice Two
+            originally_available: 2024-08-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s10/e2.jpg
+            summary: >
+              Practice Two for British Grand Prix takes place at Silverstone Circuit (Silverstone, United Kingdom)
+              on August 04, 2024. Local start: 13:00:00. The British motorcycle Grand Prix is a motorcycling event
+              that is part of the Grand Prix motorcycle racing season.  Before 1977, the only British round was
+              the Isle of Man TT, which was part of the FIM championship from its inauguration in 1949 until 1976.
+              The Isle of Man TT was the most prestigious event on the Grand Prix motorcycling calendar from 1949
+              to 1972. After the 1972 event, multiple world champion Giacomo Agostini dropped a bombshell on the
+              motorsports world by stating he would never race at the Isle of Man TT again, saying the 37-mile (62
+              km) circuit was too dangerous for international competition. His friend Gilberto Parlotti was killed
+              during the event. Many riders followed Agostini's boycotting of the next four events, and after the
+              1976 season, the Isle of Man TT was scratched from the FIM calendar.  The inaugural British
+              motorcycle Grand Prix, the first motorcycle Grand Prix to be held on the British mainland, took
+              place at the Silverstone Circuit. The event was moved to Donington Park in 1987 before returning to
+              Silverstone in 2010.
+          3:
+            title: Qualifying One
+            originally_available: 2024-08-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s10/e3.jpg
+            summary: >
+              Qualifying One for British Grand Prix takes place at Silverstone Circuit (Silverstone, United
+              Kingdom) on August 04, 2024. Local start: 13:00:00. The British motorcycle Grand Prix is a
+              motorcycling event that is part of the Grand Prix motorcycle racing season.  Before 1977, the only
+              British round was the Isle of Man TT, which was part of the FIM championship from its inauguration
+              in 1949 until 1976.  The Isle of Man TT was the most prestigious event on the Grand Prix
+              motorcycling calendar from 1949 to 1972. After the 1972 event, multiple world champion Giacomo
+              Agostini dropped a bombshell on the motorsports world by stating he would never race at the Isle of
+              Man TT again, saying the 37-mile (62 km) circuit was too dangerous for international competition.
+              His friend Gilberto Parlotti was killed during the event. Many riders followed Agostini's boycotting
+              of the next four events, and after the 1976 season, the Isle of Man TT was scratched from the FIM
+              calendar.  The inaugural British motorcycle Grand Prix, the first motorcycle Grand Prix to be held
+              on the British mainland, took place at the Silverstone Circuit. The event was moved to Donington
+              Park in 1987 before returning to Silverstone in 2010.
+          4:
+            title: Qualifying Two
+            originally_available: 2024-08-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s10/e4.jpg
+            summary: >
+              Qualifying Two for British Grand Prix takes place at Silverstone Circuit (Silverstone, United
+              Kingdom) on August 04, 2024. Local start: 13:00:00. The British motorcycle Grand Prix is a
+              motorcycling event that is part of the Grand Prix motorcycle racing season.  Before 1977, the only
+              British round was the Isle of Man TT, which was part of the FIM championship from its inauguration
+              in 1949 until 1976.  The Isle of Man TT was the most prestigious event on the Grand Prix
+              motorcycling calendar from 1949 to 1972. After the 1972 event, multiple world champion Giacomo
+              Agostini dropped a bombshell on the motorsports world by stating he would never race at the Isle of
+              Man TT again, saying the 37-mile (62 km) circuit was too dangerous for international competition.
+              His friend Gilberto Parlotti was killed during the event. Many riders followed Agostini's boycotting
+              of the next four events, and after the 1976 season, the Isle of Man TT was scratched from the FIM
+              calendar.  The inaugural British motorcycle Grand Prix, the first motorcycle Grand Prix to be held
+              on the British mainland, took place at the Silverstone Circuit. The event was moved to Donington
+              Park in 1987 before returning to Silverstone in 2010.
+          5:
+            title: Sprint
+            originally_available: 2024-08-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s10/e5.jpg
+            summary: >
+              Sprint for British Grand Prix takes place at Silverstone Circuit (Silverstone, United Kingdom) on
+              August 04, 2024. Local start: 13:00:00. The British motorcycle Grand Prix is a motorcycling event
+              that is part of the Grand Prix motorcycle racing season.  Before 1977, the only British round was
+              the Isle of Man TT, which was part of the FIM championship from its inauguration in 1949 until 1976.
+              The Isle of Man TT was the most prestigious event on the Grand Prix motorcycling calendar from 1949
+              to 1972. After the 1972 event, multiple world champion Giacomo Agostini dropped a bombshell on the
+              motorsports world by stating he would never race at the Isle of Man TT again, saying the 37-mile (62
+              km) circuit was too dangerous for international competition. His friend Gilberto Parlotti was killed
+              during the event. Many riders followed Agostini's boycotting of the next four events, and after the
+              1976 season, the Isle of Man TT was scratched from the FIM calendar.  The inaugural British
+              motorcycle Grand Prix, the first motorcycle Grand Prix to be held on the British mainland, took
+              place at the Silverstone Circuit. The event was moved to Donington Park in 1987 before returning to
+              Silverstone in 2010.
+          6:
+            title: Race
+            originally_available: 2024-08-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s10/e6.jpg
+            summary: >
+              Race for British Grand Prix takes place at Silverstone Circuit (Silverstone, United Kingdom) on
+              August 04, 2024. Local start: 13:00:00. The British motorcycle Grand Prix is a motorcycling event
+              that is part of the Grand Prix motorcycle racing season.  Before 1977, the only British round was
+              the Isle of Man TT, which was part of the FIM championship from its inauguration in 1949 until 1976.
+              The Isle of Man TT was the most prestigious event on the Grand Prix motorcycling calendar from 1949
+              to 1972. After the 1972 event, multiple world champion Giacomo Agostini dropped a bombshell on the
+              motorsports world by stating he would never race at the Isle of Man TT again, saying the 37-mile (62
+              km) circuit was too dangerous for international competition. His friend Gilberto Parlotti was killed
+              during the event. Many riders followed Agostini's boycotting of the next four events, and after the
+              1976 season, the Isle of Man TT was scratched from the FIM calendar.  The inaugural British
+              motorcycle Grand Prix, the first motorcycle Grand Prix to be held on the British mainland, took
+              place at the Silverstone Circuit. The event was moved to Donington Park in 1987 before returning to
+              Silverstone in 2010.
+      11:
+        title: Motorrad Grand Prix von Österreich
+        sort_title: 11_Motorrad Grand Prix von Österreich
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s11/poster.jpg
+        summary: >
+          Round 11 (Motorrad Grand Prix von Österreich) spans August 18, 2024 with 6 events recorded for this
+          MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2024-08-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s11/e1.jpg
+            summary: >
+              Practice One for Motorrad Grand Prix von Österreich takes place at Red Bull Ring (Spielberg,
+              Austria) on August 18, 2024. Local start: 14:00:00. The Austrian motorcycle Grand Prix is a
+              motorcycling event that is part of the FIM Grand Prix motorcycle racing season from 1971 to 1997,
+              and then again from 2016 onwards. The event is due to take place at the Red Bull Ring until at least
+              2025.The inaugural Austrian grand prix was held in 1971 at the Salzburgring, where it stayed until
+              1994. In 1995, the Austrian GP was taken off the calendar because the Salzburgring was deemed too
+              dangerous for racing., but would return in 1996 on the then-called Österreichring. In 1997, the
+              Österreichring became the A1-Ring, named after the Austrian mobile network operator A1.  For the
+              1998 season, the Austrian round was scrapped, mainly due to the low number of spectators who visited
+              the races.  After a 19-year absence, the Austrian Grand Prix returned in 2016 and currently takes
+              place at the Red Bull Ring in Spielberg. The layout was changed, and a chicane was added before the
+              2022 race.
+          2:
+            title: Practice Two
+            originally_available: 2024-08-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s11/e2.jpg
+            summary: >
+              Practice Two for Motorrad Grand Prix von Österreich takes place at Red Bull Ring (Spielberg,
+              Austria) on August 18, 2024. Local start: 14:00:00. The Austrian motorcycle Grand Prix is a
+              motorcycling event that is part of the FIM Grand Prix motorcycle racing season from 1971 to 1997,
+              and then again from 2016 onwards. The event is due to take place at the Red Bull Ring until at least
+              2025.The inaugural Austrian grand prix was held in 1971 at the Salzburgring, where it stayed until
+              1994. In 1995, the Austrian GP was taken off the calendar because the Salzburgring was deemed too
+              dangerous for racing., but would return in 1996 on the then-called Österreichring. In 1997, the
+              Österreichring became the A1-Ring, named after the Austrian mobile network operator A1.  For the
+              1998 season, the Austrian round was scrapped, mainly due to the low number of spectators who visited
+              the races.  After a 19-year absence, the Austrian Grand Prix returned in 2016 and currently takes
+              place at the Red Bull Ring in Spielberg. The layout was changed, and a chicane was added before the
+              2022 race.
+          3:
+            title: Qualifying One
+            originally_available: 2024-08-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s11/e3.jpg
+            summary: >
+              Qualifying One for Motorrad Grand Prix von Österreich takes place at Red Bull Ring (Spielberg,
+              Austria) on August 18, 2024. Local start: 14:00:00. The Austrian motorcycle Grand Prix is a
+              motorcycling event that is part of the FIM Grand Prix motorcycle racing season from 1971 to 1997,
+              and then again from 2016 onwards. The event is due to take place at the Red Bull Ring until at least
+              2025.The inaugural Austrian grand prix was held in 1971 at the Salzburgring, where it stayed until
+              1994. In 1995, the Austrian GP was taken off the calendar because the Salzburgring was deemed too
+              dangerous for racing., but would return in 1996 on the then-called Österreichring. In 1997, the
+              Österreichring became the A1-Ring, named after the Austrian mobile network operator A1.  For the
+              1998 season, the Austrian round was scrapped, mainly due to the low number of spectators who visited
+              the races.  After a 19-year absence, the Austrian Grand Prix returned in 2016 and currently takes
+              place at the Red Bull Ring in Spielberg. The layout was changed, and a chicane was added before the
+              2022 race.
+          4:
+            title: Qualifying Two
+            originally_available: 2024-08-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s11/e4.jpg
+            summary: >
+              Qualifying Two for Motorrad Grand Prix von Österreich takes place at Red Bull Ring (Spielberg,
+              Austria) on August 18, 2024. Local start: 14:00:00. The Austrian motorcycle Grand Prix is a
+              motorcycling event that is part of the FIM Grand Prix motorcycle racing season from 1971 to 1997,
+              and then again from 2016 onwards. The event is due to take place at the Red Bull Ring until at least
+              2025.The inaugural Austrian grand prix was held in 1971 at the Salzburgring, where it stayed until
+              1994. In 1995, the Austrian GP was taken off the calendar because the Salzburgring was deemed too
+              dangerous for racing., but would return in 1996 on the then-called Österreichring. In 1997, the
+              Österreichring became the A1-Ring, named after the Austrian mobile network operator A1.  For the
+              1998 season, the Austrian round was scrapped, mainly due to the low number of spectators who visited
+              the races.  After a 19-year absence, the Austrian Grand Prix returned in 2016 and currently takes
+              place at the Red Bull Ring in Spielberg. The layout was changed, and a chicane was added before the
+              2022 race.
+          5:
+            title: Sprint
+            originally_available: 2024-08-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s11/e5.jpg
+            summary: >
+              Sprint for Motorrad Grand Prix von Österreich takes place at Red Bull Ring (Spielberg, Austria) on
+              August 18, 2024. Local start: 14:00:00. The Austrian motorcycle Grand Prix is a motorcycling event
+              that is part of the FIM Grand Prix motorcycle racing season from 1971 to 1997, and then again from
+              2016 onwards. The event is due to take place at the Red Bull Ring until at least 2025.The inaugural
+              Austrian grand prix was held in 1971 at the Salzburgring, where it stayed until 1994. In 1995, the
+              Austrian GP was taken off the calendar because the Salzburgring was deemed too dangerous for
+              racing., but would return in 1996 on the then-called Österreichring. In 1997, the Österreichring
+              became the A1-Ring, named after the Austrian mobile network operator A1.  For the 1998 season, the
+              Austrian round was scrapped, mainly due to the low number of spectators who visited the races.
+              After a 19-year absence, the Austrian Grand Prix returned in 2016 and currently takes place at the
+              Red Bull Ring in Spielberg. The layout was changed, and a chicane was added before the 2022 race.
+          6:
+            title: Race
+            originally_available: 2024-08-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s11/e6.jpg
+            summary: >
+              Race for Motorrad Grand Prix von Österreich takes place at Red Bull Ring (Spielberg, Austria) on
+              August 18, 2024. Local start: 14:00:00. The Austrian motorcycle Grand Prix is a motorcycling event
+              that is part of the FIM Grand Prix motorcycle racing season from 1971 to 1997, and then again from
+              2016 onwards. The event is due to take place at the Red Bull Ring until at least 2025.The inaugural
+              Austrian grand prix was held in 1971 at the Salzburgring, where it stayed until 1994. In 1995, the
+              Austrian GP was taken off the calendar because the Salzburgring was deemed too dangerous for
+              racing., but would return in 1996 on the then-called Österreichring. In 1997, the Österreichring
+              became the A1-Ring, named after the Austrian mobile network operator A1.  For the 1998 season, the
+              Austrian round was scrapped, mainly due to the low number of spectators who visited the races.
+              After a 19-year absence, the Austrian Grand Prix returned in 2016 and currently takes place at the
+              Red Bull Ring in Spielberg. The layout was changed, and a chicane was added before the 2022 race.
+      12:
+        title: Gran Premio de Aragón
+        sort_title: 12_Gran Premio de Aragón
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s12/poster.jpg
+        summary: >
+          Round 12 (Gran Premio de Aragón) spans September 1, 2024 with 6 events recorded for this MotoGP
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2024-09-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s12/e1.jpg
+            summary: >
+              Practice One for Gran Premio de Aragón takes place at MotorLand Aragón (Alcañiz, Spain) on September
+              01, 2024. Local start: 14:00:00. The Aragon motorcycle Grand Prix is a motorcycling event that is
+              part of the FIM Grand Prix motorcycle racing season. Its first edition was held in 2010. The event
+              returned into the calendar, as MotorLand Aragón has a contract to host at least three Grands Prix
+              between 2022 and 2026.
+          2:
+            title: Practice Two
+            originally_available: 2024-09-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s12/e2.jpg
+            summary: >
+              Practice Two for Gran Premio de Aragón takes place at MotorLand Aragón (Alcañiz, Spain) on September
+              01, 2024. Local start: 14:00:00. The Aragon motorcycle Grand Prix is a motorcycling event that is
+              part of the FIM Grand Prix motorcycle racing season. Its first edition was held in 2010. The event
+              returned into the calendar, as MotorLand Aragón has a contract to host at least three Grands Prix
+              between 2022 and 2026.
+          3:
+            title: Qualifying One
+            originally_available: 2024-09-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s12/e3.jpg
+            summary: >
+              Qualifying One for Gran Premio de Aragón takes place at MotorLand Aragón (Alcañiz, Spain) on
+              September 01, 2024. Local start: 14:00:00. The Aragon motorcycle Grand Prix is a motorcycling event
+              that is part of the FIM Grand Prix motorcycle racing season. Its first edition was held in 2010. The
+              event returned into the calendar, as MotorLand Aragón has a contract to host at least three Grands
+              Prix between 2022 and 2026.
+          4:
+            title: Qualifying Two
+            originally_available: 2024-09-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s12/e4.jpg
+            summary: >
+              Qualifying Two for Gran Premio de Aragón takes place at MotorLand Aragón (Alcañiz, Spain) on
+              September 01, 2024. Local start: 14:00:00. The Aragon motorcycle Grand Prix is a motorcycling event
+              that is part of the FIM Grand Prix motorcycle racing season. Its first edition was held in 2010. The
+              event returned into the calendar, as MotorLand Aragón has a contract to host at least three Grands
+              Prix between 2022 and 2026.
+          5:
+            title: Sprint
+            originally_available: 2024-09-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s12/e5.jpg
+            summary: >
+              Sprint for Gran Premio de Aragón takes place at MotorLand Aragón (Alcañiz, Spain) on September 01,
+              2024. Local start: 14:00:00. The Aragon motorcycle Grand Prix is a motorcycling event that is part
+              of the FIM Grand Prix motorcycle racing season. Its first edition was held in 2010. The event
+              returned into the calendar, as MotorLand Aragón has a contract to host at least three Grands Prix
+              between 2022 and 2026.
+          6:
+            title: Race
+            originally_available: 2024-09-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s12/e6.jpg
+            summary: >
+              Race for Gran Premio de Aragón takes place at MotorLand Aragón (Alcañiz, Spain) on September 01,
+              2024. Local start: 14:00:00. The Aragon motorcycle Grand Prix is a motorcycling event that is part
+              of the FIM Grand Prix motorcycle racing season. Its first edition was held in 2010. The event
+              returned into the calendar, as MotorLand Aragón has a contract to host at least three Grands Prix
+              between 2022 and 2026.
+      13:
+        title: Gran Premio di San Marino e della Riviera di Rimini
+        sort_title: 13_Gran Premio di San Marino e della Riviera di Rimini
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s13/poster.jpg
+        summary: >
+          Round 13 (Gran Premio di San Marino e della Riviera di Rimini) spans September 8, 2024 with 6 events
+          recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2024-09-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s13/e1.jpg
+            summary: >
+              Practice One for Gran Premio di San Marino e della Riviera di Rimini takes place at Misano World
+              Circuit Marco Simoncelli (Misano Adriatico, Italy) on September 08, 2024. Local start: 14:00:00. The
+              San Marino and Rimini Riviera Grand Prix is a motorcycling event that is part of the World
+              Motorcycle Racing season. The name of the race is a misnomer as the race has always taken place in
+              Italy, but because there is already an Italian motorcycle Grand Prix, it was called the San Marino
+              Grand Prix because of the track location's proximity to San Marino.  The 2021 San Marino and Rimini
+              Riviera motorcycle Grand Prix (officially known as the Gran Premio Octo di San Marino e della
+              Riviera di Rimini) was the fourteenth round of the 2021 Grand Prix motorcycle racing season and the
+              sixth and seventh round of the 2021 MotoE World Cup, which represented the end of the season for the
+              MotoE class. It was held at the Misano World Circuit Marco Simoncelli in Misano Adriatico on 19
+              September 2021.
+          2:
+            title: Practice Two
+            originally_available: 2024-09-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s13/e2.jpg
+            summary: >
+              Practice Two for Gran Premio di San Marino e della Riviera di Rimini takes place at Misano World
+              Circuit Marco Simoncelli (Misano Adriatico, Italy) on September 08, 2024. Local start: 14:00:00. The
+              San Marino and Rimini Riviera Grand Prix is a motorcycling event that is part of the World
+              Motorcycle Racing season. The name of the race is a misnomer as the race has always taken place in
+              Italy, but because there is already an Italian motorcycle Grand Prix, it was called the San Marino
+              Grand Prix because of the track location's proximity to San Marino.  The 2021 San Marino and Rimini
+              Riviera motorcycle Grand Prix (officially known as the Gran Premio Octo di San Marino e della
+              Riviera di Rimini) was the fourteenth round of the 2021 Grand Prix motorcycle racing season and the
+              sixth and seventh round of the 2021 MotoE World Cup, which represented the end of the season for the
+              MotoE class. It was held at the Misano World Circuit Marco Simoncelli in Misano Adriatico on 19
+              September 2021.
+          3:
+            title: Qualifying One
+            originally_available: 2024-09-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s13/e3.jpg
+            summary: >
+              Qualifying One for Gran Premio di San Marino e della Riviera di Rimini takes place at Misano World
+              Circuit Marco Simoncelli (Misano Adriatico, Italy) on September 08, 2024. Local start: 14:00:00. The
+              San Marino and Rimini Riviera Grand Prix is a motorcycling event that is part of the World
+              Motorcycle Racing season. The name of the race is a misnomer as the race has always taken place in
+              Italy, but because there is already an Italian motorcycle Grand Prix, it was called the San Marino
+              Grand Prix because of the track location's proximity to San Marino.  The 2021 San Marino and Rimini
+              Riviera motorcycle Grand Prix (officially known as the Gran Premio Octo di San Marino e della
+              Riviera di Rimini) was the fourteenth round of the 2021 Grand Prix motorcycle racing season and the
+              sixth and seventh round of the 2021 MotoE World Cup, which represented the end of the season for the
+              MotoE class. It was held at the Misano World Circuit Marco Simoncelli in Misano Adriatico on 19
+              September 2021.
+          4:
+            title: Qualifying Two
+            originally_available: 2024-09-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s13/e4.jpg
+            summary: >
+              Qualifying Two for Gran Premio di San Marino e della Riviera di Rimini takes place at Misano World
+              Circuit Marco Simoncelli (Misano Adriatico, Italy) on September 08, 2024. Local start: 14:00:00. The
+              San Marino and Rimini Riviera Grand Prix is a motorcycling event that is part of the World
+              Motorcycle Racing season. The name of the race is a misnomer as the race has always taken place in
+              Italy, but because there is already an Italian motorcycle Grand Prix, it was called the San Marino
+              Grand Prix because of the track location's proximity to San Marino.  The 2021 San Marino and Rimini
+              Riviera motorcycle Grand Prix (officially known as the Gran Premio Octo di San Marino e della
+              Riviera di Rimini) was the fourteenth round of the 2021 Grand Prix motorcycle racing season and the
+              sixth and seventh round of the 2021 MotoE World Cup, which represented the end of the season for the
+              MotoE class. It was held at the Misano World Circuit Marco Simoncelli in Misano Adriatico on 19
+              September 2021.
+          5:
+            title: Sprint
+            originally_available: 2024-09-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s13/e5.jpg
+            summary: >
+              Sprint for Gran Premio di San Marino e della Riviera di Rimini takes place at Misano World Circuit
+              Marco Simoncelli (Misano Adriatico, Italy) on September 08, 2024. Local start: 14:00:00. The San
+              Marino and Rimini Riviera Grand Prix is a motorcycling event that is part of the World Motorcycle
+              Racing season. The name of the race is a misnomer as the race has always taken place in Italy, but
+              because there is already an Italian motorcycle Grand Prix, it was called the San Marino Grand Prix
+              because of the track location's proximity to San Marino.  The 2021 San Marino and Rimini Riviera
+              motorcycle Grand Prix (officially known as the Gran Premio Octo di San Marino e della Riviera di
+              Rimini) was the fourteenth round of the 2021 Grand Prix motorcycle racing season and the sixth and
+              seventh round of the 2021 MotoE World Cup, which represented the end of the season for the MotoE
+              class. It was held at the Misano World Circuit Marco Simoncelli in Misano Adriatico on 19 September
+              2021.
+          6:
+            title: Race
+            originally_available: 2024-09-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s13/e6.jpg
+            summary: >
+              Race for Gran Premio di San Marino e della Riviera di Rimini takes place at Misano World Circuit
+              Marco Simoncelli (Misano Adriatico, Italy) on September 08, 2024. Local start: 14:00:00. The San
+              Marino and Rimini Riviera Grand Prix is a motorcycling event that is part of the World Motorcycle
+              Racing season. The name of the race is a misnomer as the race has always taken place in Italy, but
+              because there is already an Italian motorcycle Grand Prix, it was called the San Marino Grand Prix
+              because of the track location's proximity to San Marino.  The 2021 San Marino and Rimini Riviera
+              motorcycle Grand Prix (officially known as the Gran Premio Octo di San Marino e della Riviera di
+              Rimini) was the fourteenth round of the 2021 Grand Prix motorcycle racing season and the sixth and
+              seventh round of the 2021 MotoE World Cup, which represented the end of the season for the MotoE
+              class. It was held at the Misano World Circuit Marco Simoncelli in Misano Adriatico on 19 September
+              2021.
+      14:
+        title: Emilia Romagna Grand Prix
+        sort_title: 14_Emilia Romagna Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s14/poster.jpg
+        summary: >
+          Round 14 (Emilia Romagna Grand Prix) spans September 22, 2024 with 6 events recorded for this MotoGP
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2024-09-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s14/e1.jpg
+            summary: >
+              Practice One for Emilia Romagna Grand Prix takes place at Misano World Circuit Marco Simoncelli
+              (Misano, Italy) on September 22, 2024. Local start: 13:00:00. The Emilia Romagna motorcycle Grand
+              Prix was a motorcycling event that was introduced during the 2020 Grand Prix motorcycle racing
+              season and retained for the 2021 season as a response to the COVID-19 pandemic. The race will make
+              another one-off return in 2024 as a replacement for the cancelled Kazakhstan motorcycle Grand Prix.
+          2:
+            title: Practice Two
+            originally_available: 2024-09-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s14/e2.jpg
+            summary: >
+              Practice Two for Emilia Romagna Grand Prix takes place at Misano World Circuit Marco Simoncelli
+              (Misano, Italy) on September 22, 2024. Local start: 13:00:00. The Emilia Romagna motorcycle Grand
+              Prix was a motorcycling event that was introduced during the 2020 Grand Prix motorcycle racing
+              season and retained for the 2021 season as a response to the COVID-19 pandemic. The race will make
+              another one-off return in 2024 as a replacement for the cancelled Kazakhstan motorcycle Grand Prix.
+          3:
+            title: Qualifying One
+            originally_available: 2024-09-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s14/e3.jpg
+            summary: >
+              Qualifying One for Emilia Romagna Grand Prix takes place at Misano World Circuit Marco Simoncelli
+              (Misano, Italy) on September 22, 2024. Local start: 13:00:00. The Emilia Romagna motorcycle Grand
+              Prix was a motorcycling event that was introduced during the 2020 Grand Prix motorcycle racing
+              season and retained for the 2021 season as a response to the COVID-19 pandemic. The race will make
+              another one-off return in 2024 as a replacement for the cancelled Kazakhstan motorcycle Grand Prix.
+          4:
+            title: Qualifying Two
+            originally_available: 2024-09-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s14/e4.jpg
+            summary: >
+              Qualifying Two for Emilia Romagna Grand Prix takes place at Misano World Circuit Marco Simoncelli
+              (Misano, Italy) on September 22, 2024. Local start: 13:00:00. The Emilia Romagna motorcycle Grand
+              Prix was a motorcycling event that was introduced during the 2020 Grand Prix motorcycle racing
+              season and retained for the 2021 season as a response to the COVID-19 pandemic. The race will make
+              another one-off return in 2024 as a replacement for the cancelled Kazakhstan motorcycle Grand Prix.
+          5:
+            title: Sprint
+            originally_available: 2024-09-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s14/e5.jpg
+            summary: >
+              Sprint for Emilia Romagna Grand Prix takes place at Misano World Circuit Marco Simoncelli (Misano,
+              Italy) on September 22, 2024. Local start: 13:00:00. The Emilia Romagna motorcycle Grand Prix was a
+              motorcycling event that was introduced during the 2020 Grand Prix motorcycle racing season and
+              retained for the 2021 season as a response to the COVID-19 pandemic. The race will make another one-
+              off return in 2024 as a replacement for the cancelled Kazakhstan motorcycle Grand Prix.
+          6:
+            title: Race
+            originally_available: 2024-09-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s14/e6.jpg
+            summary: >
+              Race for Emilia Romagna Grand Prix takes place at Misano World Circuit Marco Simoncelli (Misano,
+              Italy) on September 22, 2024. Local start: 13:00:00. The Emilia Romagna motorcycle Grand Prix was a
+              motorcycling event that was introduced during the 2020 Grand Prix motorcycle racing season and
+              retained for the 2021 season as a response to the COVID-19 pandemic. The race will make another one-
+              off return in 2024 as a replacement for the cancelled Kazakhstan motorcycle Grand Prix.
+      15:
+        title: Pertamina Grand Prix of Indonesia
+        sort_title: 15_Pertamina Grand Prix of Indonesia
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s15/poster.jpg
+        summary: >
+          Round 15 (Pertamina Grand Prix of Indonesia) spans September 29, 2024 with 6 events recorded for
+          this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2024-09-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s15/e1.jpg
+            summary: >
+              Practice One for Pertamina Grand Prix of Indonesia takes place at Pertamina Mandalika International
+              Street Circuit (Central Lombok, Indonesia) on September 29, 2024. Local start: 15:00:00. The
+              Indonesian motorcycle Grand Prix is a motorcycling event that is part of the FIM Grand Prix
+              motorcycle racing season. There have been four Grand Prix events held; in 1996 and 1997, both at the
+              Sentul International Circuit, Bogor, West Java, and since 2022 at the Pertamina Mandalika
+              International Street Circuit, Central Lombok, West Nusa Tenggara.  As a response to the 1997 Asian
+              financial crisis, this race was dropped from the 1998 calendar.  In February 2019, it was announced
+              that the Indonesian GP would return in 2021 to be held at the Mandalika International Street
+              Circuit, then under construction in the Mandalika resort area of Central Lombok Regency, West Nusa
+              Tenggara. The track, claimed to be a street circuit, is the first in Grand Prix motorcycle racing
+              since the Brno Circuit last staged a Grand Prix as a street circuit in 1986. The Grand Prix races
+              were subsequently postponed until 2022 due to the COVID-19 pandemic
+          2:
+            title: Practice Two
+            originally_available: 2024-09-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s15/e2.jpg
+            summary: >
+              Practice Two for Pertamina Grand Prix of Indonesia takes place at Pertamina Mandalika International
+              Street Circuit (Central Lombok, Indonesia) on September 29, 2024. Local start: 15:00:00. The
+              Indonesian motorcycle Grand Prix is a motorcycling event that is part of the FIM Grand Prix
+              motorcycle racing season. There have been four Grand Prix events held; in 1996 and 1997, both at the
+              Sentul International Circuit, Bogor, West Java, and since 2022 at the Pertamina Mandalika
+              International Street Circuit, Central Lombok, West Nusa Tenggara.  As a response to the 1997 Asian
+              financial crisis, this race was dropped from the 1998 calendar.  In February 2019, it was announced
+              that the Indonesian GP would return in 2021 to be held at the Mandalika International Street
+              Circuit, then under construction in the Mandalika resort area of Central Lombok Regency, West Nusa
+              Tenggara. The track, claimed to be a street circuit, is the first in Grand Prix motorcycle racing
+              since the Brno Circuit last staged a Grand Prix as a street circuit in 1986. The Grand Prix races
+              were subsequently postponed until 2022 due to the COVID-19 pandemic
+          3:
+            title: Qualifying One
+            originally_available: 2024-09-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s15/e3.jpg
+            summary: >
+              Qualifying One for Pertamina Grand Prix of Indonesia takes place at Pertamina Mandalika
+              International Street Circuit (Central Lombok, Indonesia) on September 29, 2024. Local start:
+              15:00:00. The Indonesian motorcycle Grand Prix is a motorcycling event that is part of the FIM Grand
+              Prix motorcycle racing season. There have been four Grand Prix events held; in 1996 and 1997, both
+              at the Sentul International Circuit, Bogor, West Java, and since 2022 at the Pertamina Mandalika
+              International Street Circuit, Central Lombok, West Nusa Tenggara.  As a response to the 1997 Asian
+              financial crisis, this race was dropped from the 1998 calendar.  In February 2019, it was announced
+              that the Indonesian GP would return in 2021 to be held at the Mandalika International Street
+              Circuit, then under construction in the Mandalika resort area of Central Lombok Regency, West Nusa
+              Tenggara. The track, claimed to be a street circuit, is the first in Grand Prix motorcycle racing
+              since the Brno Circuit last staged a Grand Prix as a street circuit in 1986. The Grand Prix races
+              were subsequently postponed until 2022 due to the COVID-19 pandemic
+          4:
+            title: Qualifying Two
+            originally_available: 2024-09-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s15/e4.jpg
+            summary: >
+              Qualifying Two for Pertamina Grand Prix of Indonesia takes place at Pertamina Mandalika
+              International Street Circuit (Central Lombok, Indonesia) on September 29, 2024. Local start:
+              15:00:00. The Indonesian motorcycle Grand Prix is a motorcycling event that is part of the FIM Grand
+              Prix motorcycle racing season. There have been four Grand Prix events held; in 1996 and 1997, both
+              at the Sentul International Circuit, Bogor, West Java, and since 2022 at the Pertamina Mandalika
+              International Street Circuit, Central Lombok, West Nusa Tenggara.  As a response to the 1997 Asian
+              financial crisis, this race was dropped from the 1998 calendar.  In February 2019, it was announced
+              that the Indonesian GP would return in 2021 to be held at the Mandalika International Street
+              Circuit, then under construction in the Mandalika resort area of Central Lombok Regency, West Nusa
+              Tenggara. The track, claimed to be a street circuit, is the first in Grand Prix motorcycle racing
+              since the Brno Circuit last staged a Grand Prix as a street circuit in 1986. The Grand Prix races
+              were subsequently postponed until 2022 due to the COVID-19 pandemic
+          5:
+            title: Sprint
+            originally_available: 2024-09-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s15/e5.jpg
+            summary: >
+              Sprint for Pertamina Grand Prix of Indonesia takes place at Pertamina Mandalika International Street
+              Circuit (Central Lombok, Indonesia) on September 29, 2024. Local start: 15:00:00. The Indonesian
+              motorcycle Grand Prix is a motorcycling event that is part of the FIM Grand Prix motorcycle racing
+              season. There have been four Grand Prix events held; in 1996 and 1997, both at the Sentul
+              International Circuit, Bogor, West Java, and since 2022 at the Pertamina Mandalika International
+              Street Circuit, Central Lombok, West Nusa Tenggara.  As a response to the 1997 Asian financial
+              crisis, this race was dropped from the 1998 calendar.  In February 2019, it was announced that the
+              Indonesian GP would return in 2021 to be held at the Mandalika International Street Circuit, then
+              under construction in the Mandalika resort area of Central Lombok Regency, West Nusa Tenggara. The
+              track, claimed to be a street circuit, is the first in Grand Prix motorcycle racing since the Brno
+              Circuit last staged a Grand Prix as a street circuit in 1986. The Grand Prix races were subsequently
+              postponed until 2022 due to the COVID-19 pandemic
+          6:
+            title: Race
+            originally_available: 2024-09-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s15/e6.jpg
+            summary: >
+              Race for Pertamina Grand Prix of Indonesia takes place at Pertamina Mandalika International Street
+              Circuit (Central Lombok, Indonesia) on September 29, 2024. Local start: 15:00:00. The Indonesian
+              motorcycle Grand Prix is a motorcycling event that is part of the FIM Grand Prix motorcycle racing
+              season. There have been four Grand Prix events held; in 1996 and 1997, both at the Sentul
+              International Circuit, Bogor, West Java, and since 2022 at the Pertamina Mandalika International
+              Street Circuit, Central Lombok, West Nusa Tenggara.  As a response to the 1997 Asian financial
+              crisis, this race was dropped from the 1998 calendar.  In February 2019, it was announced that the
+              Indonesian GP would return in 2021 to be held at the Mandalika International Street Circuit, then
+              under construction in the Mandalika resort area of Central Lombok Regency, West Nusa Tenggara. The
+              track, claimed to be a street circuit, is the first in Grand Prix motorcycle racing since the Brno
+              Circuit last staged a Grand Prix as a street circuit in 1986. The Grand Prix races were subsequently
+              postponed until 2022 due to the COVID-19 pandemic
+      16:
+        title: Grand Prix of Japan
+        sort_title: 16_Grand Prix of Japan
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s16/poster.jpg
+        summary: >
+          Round 16 (Grand Prix of Japan) spans October 6, 2024 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2024-10-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s16/e1.jpg
+            summary: >
+              Practice One for Grand Prix of Japan takes place at Mobility Resort Motegi (Motegi, Japan) on
+              October 06, 2024. Local start: 14:00:00. The Japanese Motorcycle Grand Prix is a motorcycling event
+              that is part of the Grand Prix motorcycle racing season.  The main venue who held the races for
+              years was the Suzuka Circuit, until it permanently was replaced by the Twin Ring Motegi from 2004
+              onwards after the circuit faced criticism for its short runoff area's and dangerous trackside
+              barriers, causing the death of Japanese rider Daijiro Kato and the injuries of Marco Melandri and
+              Alex Barros at the 2003 Japanese Grand Prix. As a result, Suzuka was faced with making considerable
+              safety alterations to avoid a possible strike by the riders – many of whom believed the 240 hp
+              motorbikes had outgrown the tight circuit. The FIM stated that the modifications would not be
+              completed before 2005 and that, therefore, the 2004 Japanese Grand Prix would be held at the Twin
+              Ring Motegi, but the circuit has not subsequently appeared on the calendar.  The 2020 and 2021 races
+              were cancelled due to the outbreak of COVID-19.
+          2:
+            title: Practice Two
+            originally_available: 2024-10-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s16/e2.jpg
+            summary: >
+              Practice Two for Grand Prix of Japan takes place at Mobility Resort Motegi (Motegi, Japan) on
+              October 06, 2024. Local start: 14:00:00. The Japanese Motorcycle Grand Prix is a motorcycling event
+              that is part of the Grand Prix motorcycle racing season.  The main venue who held the races for
+              years was the Suzuka Circuit, until it permanently was replaced by the Twin Ring Motegi from 2004
+              onwards after the circuit faced criticism for its short runoff area's and dangerous trackside
+              barriers, causing the death of Japanese rider Daijiro Kato and the injuries of Marco Melandri and
+              Alex Barros at the 2003 Japanese Grand Prix. As a result, Suzuka was faced with making considerable
+              safety alterations to avoid a possible strike by the riders – many of whom believed the 240 hp
+              motorbikes had outgrown the tight circuit. The FIM stated that the modifications would not be
+              completed before 2005 and that, therefore, the 2004 Japanese Grand Prix would be held at the Twin
+              Ring Motegi, but the circuit has not subsequently appeared on the calendar.  The 2020 and 2021 races
+              were cancelled due to the outbreak of COVID-19.
+          3:
+            title: Qualifying One
+            originally_available: 2024-10-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s16/e3.jpg
+            summary: >
+              Qualifying One for Grand Prix of Japan takes place at Mobility Resort Motegi (Motegi, Japan) on
+              October 06, 2024. Local start: 14:00:00. The Japanese Motorcycle Grand Prix is a motorcycling event
+              that is part of the Grand Prix motorcycle racing season.  The main venue who held the races for
+              years was the Suzuka Circuit, until it permanently was replaced by the Twin Ring Motegi from 2004
+              onwards after the circuit faced criticism for its short runoff area's and dangerous trackside
+              barriers, causing the death of Japanese rider Daijiro Kato and the injuries of Marco Melandri and
+              Alex Barros at the 2003 Japanese Grand Prix. As a result, Suzuka was faced with making considerable
+              safety alterations to avoid a possible strike by the riders – many of whom believed the 240 hp
+              motorbikes had outgrown the tight circuit. The FIM stated that the modifications would not be
+              completed before 2005 and that, therefore, the 2004 Japanese Grand Prix would be held at the Twin
+              Ring Motegi, but the circuit has not subsequently appeared on the calendar.  The 2020 and 2021 races
+              were cancelled due to the outbreak of COVID-19.
+          4:
+            title: Qualifying Two
+            originally_available: 2024-10-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s16/e4.jpg
+            summary: >
+              Qualifying Two for Grand Prix of Japan takes place at Mobility Resort Motegi (Motegi, Japan) on
+              October 06, 2024. Local start: 14:00:00. The Japanese Motorcycle Grand Prix is a motorcycling event
+              that is part of the Grand Prix motorcycle racing season.  The main venue who held the races for
+              years was the Suzuka Circuit, until it permanently was replaced by the Twin Ring Motegi from 2004
+              onwards after the circuit faced criticism for its short runoff area's and dangerous trackside
+              barriers, causing the death of Japanese rider Daijiro Kato and the injuries of Marco Melandri and
+              Alex Barros at the 2003 Japanese Grand Prix. As a result, Suzuka was faced with making considerable
+              safety alterations to avoid a possible strike by the riders – many of whom believed the 240 hp
+              motorbikes had outgrown the tight circuit. The FIM stated that the modifications would not be
+              completed before 2005 and that, therefore, the 2004 Japanese Grand Prix would be held at the Twin
+              Ring Motegi, but the circuit has not subsequently appeared on the calendar.  The 2020 and 2021 races
+              were cancelled due to the outbreak of COVID-19.
+          5:
+            title: Sprint
+            originally_available: 2024-10-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s16/e5.jpg
+            summary: >
+              Sprint for Grand Prix of Japan takes place at Mobility Resort Motegi (Motegi, Japan) on October 06,
+              2024. Local start: 14:00:00. The Japanese Motorcycle Grand Prix is a motorcycling event that is part
+              of the Grand Prix motorcycle racing season.  The main venue who held the races for years was the
+              Suzuka Circuit, until it permanently was replaced by the Twin Ring Motegi from 2004 onwards after
+              the circuit faced criticism for its short runoff area's and dangerous trackside barriers, causing
+              the death of Japanese rider Daijiro Kato and the injuries of Marco Melandri and Alex Barros at the
+              2003 Japanese Grand Prix. As a result, Suzuka was faced with making considerable safety alterations
+              to avoid a possible strike by the riders – many of whom believed the 240 hp motorbikes had outgrown
+              the tight circuit. The FIM stated that the modifications would not be completed before 2005 and
+              that, therefore, the 2004 Japanese Grand Prix would be held at the Twin Ring Motegi, but the circuit
+              has not subsequently appeared on the calendar.  The 2020 and 2021 races were cancelled due to the
+              outbreak of COVID-19.
+          6:
+            title: Race
+            originally_available: 2024-10-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s16/e6.jpg
+            summary: >
+              Race for Grand Prix of Japan takes place at Mobility Resort Motegi (Motegi, Japan) on October 06,
+              2024. Local start: 14:00:00. The Japanese Motorcycle Grand Prix is a motorcycling event that is part
+              of the Grand Prix motorcycle racing season.  The main venue who held the races for years was the
+              Suzuka Circuit, until it permanently was replaced by the Twin Ring Motegi from 2004 onwards after
+              the circuit faced criticism for its short runoff area's and dangerous trackside barriers, causing
+              the death of Japanese rider Daijiro Kato and the injuries of Marco Melandri and Alex Barros at the
+              2003 Japanese Grand Prix. As a result, Suzuka was faced with making considerable safety alterations
+              to avoid a possible strike by the riders – many of whom believed the 240 hp motorbikes had outgrown
+              the tight circuit. The FIM stated that the modifications would not be completed before 2005 and
+              that, therefore, the 2004 Japanese Grand Prix would be held at the Twin Ring Motegi, but the circuit
+              has not subsequently appeared on the calendar.  The 2020 and 2021 races were cancelled due to the
+              outbreak of COVID-19.
+      17:
+        title: Australian Motorcycle Grand Prix
+        sort_title: 17_Australian Motorcycle Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s17/poster.jpg
+        summary: >
+          Round 17 (Australian Motorcycle Grand Prix) spans October 20, 2024 with 6 events recorded for this
+          MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2024-10-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s17/e1.jpg
+            summary: >
+              Practice One for Australian Motorcycle Grand Prix takes place at Phillip Island Grand Prix Circuit
+              (Phillip Island, Australia) on October 20, 2024. Local start: 14:00:00. The Australian motorcycle
+              Grand Prix is a motorcycling event that is part of the Grand Prix motorcycle racing season. From
+              1997 to the present day, it is run at the scenic Phillip Island Grand Prix Circuit south of
+              Melbourne, Victoria. Prior to 1997 the event was held at a number of different venues, most notably
+              Eastern Creek west of Sydney New South Wales and Bathurst in central western New South Wales. The
+              only rider to win the 'premier class' race at multiple venues is five-time World Champion Mick
+              Doohan, Eastern Creek (1992, 1995) and Phillip Island (1998).
+          2:
+            title: Practice Two
+            originally_available: 2024-10-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s17/e2.jpg
+            summary: >
+              Practice Two for Australian Motorcycle Grand Prix takes place at Phillip Island Grand Prix Circuit
+              (Phillip Island, Australia) on October 20, 2024. Local start: 14:00:00. The Australian motorcycle
+              Grand Prix is a motorcycling event that is part of the Grand Prix motorcycle racing season. From
+              1997 to the present day, it is run at the scenic Phillip Island Grand Prix Circuit south of
+              Melbourne, Victoria. Prior to 1997 the event was held at a number of different venues, most notably
+              Eastern Creek west of Sydney New South Wales and Bathurst in central western New South Wales. The
+              only rider to win the 'premier class' race at multiple venues is five-time World Champion Mick
+              Doohan, Eastern Creek (1992, 1995) and Phillip Island (1998).
+          3:
+            title: Qualifying One
+            originally_available: 2024-10-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s17/e3.jpg
+            summary: >
+              Qualifying One for Australian Motorcycle Grand Prix takes place at Phillip Island Grand Prix Circuit
+              (Phillip Island, Australia) on October 20, 2024. Local start: 14:00:00. The Australian motorcycle
+              Grand Prix is a motorcycling event that is part of the Grand Prix motorcycle racing season. From
+              1997 to the present day, it is run at the scenic Phillip Island Grand Prix Circuit south of
+              Melbourne, Victoria. Prior to 1997 the event was held at a number of different venues, most notably
+              Eastern Creek west of Sydney New South Wales and Bathurst in central western New South Wales. The
+              only rider to win the 'premier class' race at multiple venues is five-time World Champion Mick
+              Doohan, Eastern Creek (1992, 1995) and Phillip Island (1998).
+          4:
+            title: Qualifying Two
+            originally_available: 2024-10-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s17/e4.jpg
+            summary: >
+              Qualifying Two for Australian Motorcycle Grand Prix takes place at Phillip Island Grand Prix Circuit
+              (Phillip Island, Australia) on October 20, 2024. Local start: 14:00:00. The Australian motorcycle
+              Grand Prix is a motorcycling event that is part of the Grand Prix motorcycle racing season. From
+              1997 to the present day, it is run at the scenic Phillip Island Grand Prix Circuit south of
+              Melbourne, Victoria. Prior to 1997 the event was held at a number of different venues, most notably
+              Eastern Creek west of Sydney New South Wales and Bathurst in central western New South Wales. The
+              only rider to win the 'premier class' race at multiple venues is five-time World Champion Mick
+              Doohan, Eastern Creek (1992, 1995) and Phillip Island (1998).
+          5:
+            title: Sprint
+            originally_available: 2024-10-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s17/e5.jpg
+            summary: >
+              Sprint for Australian Motorcycle Grand Prix takes place at Phillip Island Grand Prix Circuit
+              (Phillip Island, Australia) on October 20, 2024. Local start: 14:00:00. The Australian motorcycle
+              Grand Prix is a motorcycling event that is part of the Grand Prix motorcycle racing season. From
+              1997 to the present day, it is run at the scenic Phillip Island Grand Prix Circuit south of
+              Melbourne, Victoria. Prior to 1997 the event was held at a number of different venues, most notably
+              Eastern Creek west of Sydney New South Wales and Bathurst in central western New South Wales. The
+              only rider to win the 'premier class' race at multiple venues is five-time World Champion Mick
+              Doohan, Eastern Creek (1992, 1995) and Phillip Island (1998).
+          6:
+            title: Race
+            originally_available: 2024-10-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s17/e6.jpg
+            summary: >
+              Race for Australian Motorcycle Grand Prix takes place at Phillip Island Grand Prix Circuit (Phillip
+              Island, Australia) on October 20, 2024. Local start: 14:00:00. The Australian motorcycle Grand Prix
+              is a motorcycling event that is part of the Grand Prix motorcycle racing season. From 1997 to the
+              present day, it is run at the scenic Phillip Island Grand Prix Circuit south of Melbourne, Victoria.
+              Prior to 1997 the event was held at a number of different venues, most notably Eastern Creek west of
+              Sydney New South Wales and Bathurst in central western New South Wales. The only rider to win the
+              'premier class' race at multiple venues is five-time World Champion Mick Doohan, Eastern Creek
+              (1992, 1995) and Phillip Island (1998).
+      18:
+        title: Thailand Grand Prix
+        sort_title: 18_Thailand Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s18/poster.jpg
+        summary: >
+          Round 18 (Thailand Grand Prix) spans October 27, 2024 with 6 events recorded for this MotoGP
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2024-10-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s18/e1.jpg
+            summary: >
+              Practice One for Thailand Grand Prix takes place at Chang International Circuit (Buriram, Thailand)
+              on October 27, 2024. Local start: 15:00:00. The Thailand motorcycle Grand Prix is a motorcycle Grand
+              Prix event that started in 2018. The race is hosted at Chang International Circuit near Buriram in
+              Buriram province. In 2020 and 2021, the race was cancelled due to the COVID-19 pandemic. The event
+              is due to take place at the Buriram International Circuit until at least 2026.
+          2:
+            title: Practice Two
+            originally_available: 2024-10-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s18/e2.jpg
+            summary: >
+              Practice Two for Thailand Grand Prix takes place at Chang International Circuit (Buriram, Thailand)
+              on October 27, 2024. Local start: 15:00:00. The Thailand motorcycle Grand Prix is a motorcycle Grand
+              Prix event that started in 2018. The race is hosted at Chang International Circuit near Buriram in
+              Buriram province. In 2020 and 2021, the race was cancelled due to the COVID-19 pandemic. The event
+              is due to take place at the Buriram International Circuit until at least 2026.
+          3:
+            title: Qualifying One
+            originally_available: 2024-10-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s18/e3.jpg
+            summary: >
+              Qualifying One for Thailand Grand Prix takes place at Chang International Circuit (Buriram,
+              Thailand) on October 27, 2024. Local start: 15:00:00. The Thailand motorcycle Grand Prix is a
+              motorcycle Grand Prix event that started in 2018. The race is hosted at Chang International Circuit
+              near Buriram in Buriram province. In 2020 and 2021, the race was cancelled due to the COVID-19
+              pandemic. The event is due to take place at the Buriram International Circuit until at least 2026.
+          4:
+            title: Qualifying Two
+            originally_available: 2024-10-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s18/e4.jpg
+            summary: >
+              Qualifying Two for Thailand Grand Prix takes place at Chang International Circuit (Buriram,
+              Thailand) on October 27, 2024. Local start: 15:00:00. The Thailand motorcycle Grand Prix is a
+              motorcycle Grand Prix event that started in 2018. The race is hosted at Chang International Circuit
+              near Buriram in Buriram province. In 2020 and 2021, the race was cancelled due to the COVID-19
+              pandemic. The event is due to take place at the Buriram International Circuit until at least 2026.
+          5:
+            title: Sprint
+            originally_available: 2024-10-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s18/e5.jpg
+            summary: >
+              Sprint for Thailand Grand Prix takes place at Chang International Circuit (Buriram, Thailand) on
+              October 27, 2024. Local start: 15:00:00. The Thailand motorcycle Grand Prix is a motorcycle Grand
+              Prix event that started in 2018. The race is hosted at Chang International Circuit near Buriram in
+              Buriram province. In 2020 and 2021, the race was cancelled due to the COVID-19 pandemic. The event
+              is due to take place at the Buriram International Circuit until at least 2026.
+          6:
+            title: Race
+            originally_available: 2024-10-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s18/e6.jpg
+            summary: >
+              Race for Thailand Grand Prix takes place at Chang International Circuit (Buriram, Thailand) on
+              October 27, 2024. Local start: 15:00:00. The Thailand motorcycle Grand Prix is a motorcycle Grand
+              Prix event that started in 2018. The race is hosted at Chang International Circuit near Buriram in
+              Buriram province. In 2020 and 2021, the race was cancelled due to the COVID-19 pandemic. The event
+              is due to take place at the Buriram International Circuit until at least 2026.
+      19:
+        title: Petronas Grand Prix of Malaysia
+        sort_title: 19_Petronas Grand Prix of Malaysia
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s19/poster.jpg
+        summary: >
+          Round 19 (Petronas Grand Prix of Malaysia) spans November 3, 2024 with 6 events recorded for this
+          MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2024-11-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s19/e1.jpg
+            summary: >
+              Practice One for Petronas Grand Prix of Malaysia takes place at Petronas Sepang International
+              Circuit (Sepang, Malaysia) on November 03, 2024. Local start: 15:00:00. The Malaysian motorcycle
+              Grand Prix is a motorcycling event that is part of the FIM Grand Prix motorcycle racing season. The
+              event is due to take place at the Petronas Sepang International Circuit until at least 2024.  The
+              first Malaysian Grand Prix was held in 1991 at the Shah Alam Circuit as the final race of the
+              season. Because of the long trip and high cost, many riders chose to not participate in this event.
+              The 500cc race was won by John Kocinski. The event was notorious due to the tropical temperatures
+              and a high degree of humidity, something which plagued the riders for four consecutive years – from
+              1992 to 1995 respectively.
+          2:
+            title: Practice Two
+            originally_available: 2024-11-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s19/e2.jpg
+            summary: >
+              Practice Two for Petronas Grand Prix of Malaysia takes place at Petronas Sepang International
+              Circuit (Sepang, Malaysia) on November 03, 2024. Local start: 15:00:00. The Malaysian motorcycle
+              Grand Prix is a motorcycling event that is part of the FIM Grand Prix motorcycle racing season. The
+              event is due to take place at the Petronas Sepang International Circuit until at least 2024.  The
+              first Malaysian Grand Prix was held in 1991 at the Shah Alam Circuit as the final race of the
+              season. Because of the long trip and high cost, many riders chose to not participate in this event.
+              The 500cc race was won by John Kocinski. The event was notorious due to the tropical temperatures
+              and a high degree of humidity, something which plagued the riders for four consecutive years – from
+              1992 to 1995 respectively.
+          3:
+            title: Qualifying One
+            originally_available: 2024-11-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s19/e3.jpg
+            summary: >
+              Qualifying One for Petronas Grand Prix of Malaysia takes place at Petronas Sepang International
+              Circuit (Sepang, Malaysia) on November 03, 2024. Local start: 15:00:00. The Malaysian motorcycle
+              Grand Prix is a motorcycling event that is part of the FIM Grand Prix motorcycle racing season. The
+              event is due to take place at the Petronas Sepang International Circuit until at least 2024.  The
+              first Malaysian Grand Prix was held in 1991 at the Shah Alam Circuit as the final race of the
+              season. Because of the long trip and high cost, many riders chose to not participate in this event.
+              The 500cc race was won by John Kocinski. The event was notorious due to the tropical temperatures
+              and a high degree of humidity, something which plagued the riders for four consecutive years – from
+              1992 to 1995 respectively.
+          4:
+            title: Qualifying Two
+            originally_available: 2024-11-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s19/e4.jpg
+            summary: >
+              Qualifying Two for Petronas Grand Prix of Malaysia takes place at Petronas Sepang International
+              Circuit (Sepang, Malaysia) on November 03, 2024. Local start: 15:00:00. The Malaysian motorcycle
+              Grand Prix is a motorcycling event that is part of the FIM Grand Prix motorcycle racing season. The
+              event is due to take place at the Petronas Sepang International Circuit until at least 2024.  The
+              first Malaysian Grand Prix was held in 1991 at the Shah Alam Circuit as the final race of the
+              season. Because of the long trip and high cost, many riders chose to not participate in this event.
+              The 500cc race was won by John Kocinski. The event was notorious due to the tropical temperatures
+              and a high degree of humidity, something which plagued the riders for four consecutive years – from
+              1992 to 1995 respectively.
+          5:
+            title: Sprint
+            originally_available: 2024-11-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s19/e5.jpg
+            summary: >
+              Sprint for Petronas Grand Prix of Malaysia takes place at Petronas Sepang International Circuit
+              (Sepang, Malaysia) on November 03, 2024. Local start: 15:00:00. The Malaysian motorcycle Grand Prix
+              is a motorcycling event that is part of the FIM Grand Prix motorcycle racing season. The event is
+              due to take place at the Petronas Sepang International Circuit until at least 2024.  The first
+              Malaysian Grand Prix was held in 1991 at the Shah Alam Circuit as the final race of the season.
+              Because of the long trip and high cost, many riders chose to not participate in this event. The
+              500cc race was won by John Kocinski. The event was notorious due to the tropical temperatures and a
+              high degree of humidity, something which plagued the riders for four consecutive years – from 1992
+              to 1995 respectively.
+          6:
+            title: Race
+            originally_available: 2024-11-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s19/e6.jpg
+            summary: >
+              Race for Petronas Grand Prix of Malaysia takes place at Petronas Sepang International Circuit
+              (Sepang, Malaysia) on November 03, 2024. Local start: 15:00:00. The Malaysian motorcycle Grand Prix
+              is a motorcycling event that is part of the FIM Grand Prix motorcycle racing season. The event is
+              due to take place at the Petronas Sepang International Circuit until at least 2024.  The first
+              Malaysian Grand Prix was held in 1991 at the Shah Alam Circuit as the final race of the season.
+              Because of the long trip and high cost, many riders chose to not participate in this event. The
+              500cc race was won by John Kocinski. The event was notorious due to the tropical temperatures and a
+              high degree of humidity, something which plagued the riders for four consecutive years – from 1992
+              to 1995 respectively.
+      20:
+        title: Motul Solidarity Grand Prix of Barcelona
+        sort_title: 20_Motul Solidarity Grand Prix of Barcelona
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s20/poster.jpg
+        summary: >
+          Round 20 (Motul Solidarity Grand Prix of Barcelona) spans November 17, 2024 with 6 events recorded
+          for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2024-11-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s20/e1.jpg
+            summary: >
+              Practice One for Motul Solidarity Grand Prix of Barcelona takes place at Circuit de Barcelona-
+              Catalunya (Valencia, Spain) on November 17, 2024. Local start: 14:00:00. The 2024 Solidarity
+              motorcycle Grand Prix (officially known as the Motul Solidarity Grand Prix of Barcelona) was the
+              twentieth and final round of the 2024 Grand Prix motorcycle racing season. All races were held at
+              the Circuit de Barcelona-Catalunya in Montmeló on 17 November 2024.   Following the cancellation of
+              the Valencian Community Grand Prix, due to flooding in the region oganizers of the MotoGP World
+              Championship decided to create the Barcelona Solidarity Grand Prix under the motto "Racing for
+              Valencia".
+          2:
+            title: Practice Two
+            originally_available: 2024-11-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s20/e2.jpg
+            summary: >
+              Practice Two for Motul Solidarity Grand Prix of Barcelona takes place at Circuit de Barcelona-
+              Catalunya (Valencia, Spain) on November 17, 2024. Local start: 14:00:00. The 2024 Solidarity
+              motorcycle Grand Prix (officially known as the Motul Solidarity Grand Prix of Barcelona) was the
+              twentieth and final round of the 2024 Grand Prix motorcycle racing season. All races were held at
+              the Circuit de Barcelona-Catalunya in Montmeló on 17 November 2024.   Following the cancellation of
+              the Valencian Community Grand Prix, due to flooding in the region oganizers of the MotoGP World
+              Championship decided to create the Barcelona Solidarity Grand Prix under the motto "Racing for
+              Valencia".
+          3:
+            title: Qualifying One
+            originally_available: 2024-11-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s20/e3.jpg
+            summary: >
+              Qualifying One for Motul Solidarity Grand Prix of Barcelona takes place at Circuit de Barcelona-
+              Catalunya (Valencia, Spain) on November 17, 2024. Local start: 14:00:00. The 2024 Solidarity
+              motorcycle Grand Prix (officially known as the Motul Solidarity Grand Prix of Barcelona) was the
+              twentieth and final round of the 2024 Grand Prix motorcycle racing season. All races were held at
+              the Circuit de Barcelona-Catalunya in Montmeló on 17 November 2024.   Following the cancellation of
+              the Valencian Community Grand Prix, due to flooding in the region oganizers of the MotoGP World
+              Championship decided to create the Barcelona Solidarity Grand Prix under the motto "Racing for
+              Valencia".
+          4:
+            title: Qualifying Two
+            originally_available: 2024-11-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s20/e4.jpg
+            summary: >
+              Qualifying Two for Motul Solidarity Grand Prix of Barcelona takes place at Circuit de Barcelona-
+              Catalunya (Valencia, Spain) on November 17, 2024. Local start: 14:00:00. The 2024 Solidarity
+              motorcycle Grand Prix (officially known as the Motul Solidarity Grand Prix of Barcelona) was the
+              twentieth and final round of the 2024 Grand Prix motorcycle racing season. All races were held at
+              the Circuit de Barcelona-Catalunya in Montmeló on 17 November 2024.   Following the cancellation of
+              the Valencian Community Grand Prix, due to flooding in the region oganizers of the MotoGP World
+              Championship decided to create the Barcelona Solidarity Grand Prix under the motto "Racing for
+              Valencia".
+          5:
+            title: Sprint
+            originally_available: 2024-11-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s20/e5.jpg
+            summary: >
+              Sprint for Motul Solidarity Grand Prix of Barcelona takes place at Circuit de Barcelona-Catalunya
+              (Valencia, Spain) on November 17, 2024. Local start: 14:00:00. The 2024 Solidarity motorcycle Grand
+              Prix (officially known as the Motul Solidarity Grand Prix of Barcelona) was the twentieth and final
+              round of the 2024 Grand Prix motorcycle racing season. All races were held at the Circuit de
+              Barcelona-Catalunya in Montmeló on 17 November 2024.   Following the cancellation of the Valencian
+              Community Grand Prix, due to flooding in the region oganizers of the MotoGP World Championship
+              decided to create the Barcelona Solidarity Grand Prix under the motto "Racing for Valencia".
+          6:
+            title: Race
+            originally_available: 2024-11-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2024/s20/e6.jpg
+            summary: >
+              Race for Motul Solidarity Grand Prix of Barcelona takes place at Circuit de Barcelona-Catalunya
+              (Valencia, Spain) on November 17, 2024. Local start: 14:00:00. The 2024 Solidarity motorcycle Grand
+              Prix (officially known as the Motul Solidarity Grand Prix of Barcelona) was the twentieth and final
+              round of the 2024 Grand Prix motorcycle racing season. All races were held at the Circuit de
+              Barcelona-Catalunya in Montmeló on 17 November 2024.   Following the cancellation of the Valencian
+              Community Grand Prix, due to flooding in the region oganizers of the MotoGP World Championship
+              decided to create the Barcelona Solidarity Grand Prix under the motto "Racing for Valencia".

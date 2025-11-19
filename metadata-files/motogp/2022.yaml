@@ -1,0 +1,1805 @@
+metadata:
+  MotoGP 2022:
+    title: MotoGP 2022
+    sort_title: MotoGP 2022
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/background.jpg
+    summary: >
+      The 2022 MotoGP World Championship spans every Grand Prix weekend across the global calendar. Each
+      SportsDB round is grouped here so practice, sprint and race recordings can be organised
+      automatically.
+    seasons:
+      1:
+        title: Grand Prix of Qatar
+        sort_title: 01_Grand Prix of Qatar
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s1/poster.jpg
+        summary: >
+          Round 1 (Grand Prix of Qatar) spans March 6, 2022 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2022-03-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s1/e1.jpg
+            summary: >
+              Practice One for Grand Prix of Qatar takes place at Losail International Circuit (Doha, Qatar) on
+              March 06, 2022. Listed start: 15:00:00 (UTC). The Qatar motorcycle Grand Prix is a motorcycling
+              event that is part of the FIM Grand Prix motorcycle racing season.  The Losail race track in Qatar
+              represents the debut race of each MotoGP season. In 2008, the track held the first night event in
+              MotoGP history. The 2008 night event, aside from drawing boosted viewing which also coincided with
+              the race being moved to the opening spot on the calendar, was initiated with the intent of
+              increasing equipment performance: the day-time heat in Qatar has been hazardous to the conditions of
+              tires and expensive, customized parts on the multimillion-dollar motorcycles. Rider safety
+              notwithstanding, the extreme heat could be a critical variable contributing to defeat.
+          2:
+            title: Practice Two
+            originally_available: 2022-03-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s1/e2.jpg
+            summary: >
+              Practice Two for Grand Prix of Qatar takes place at Losail International Circuit (Doha, Qatar) on
+              March 06, 2022. Listed start: 15:00:00 (UTC). The Qatar motorcycle Grand Prix is a motorcycling
+              event that is part of the FIM Grand Prix motorcycle racing season.  The Losail race track in Qatar
+              represents the debut race of each MotoGP season. In 2008, the track held the first night event in
+              MotoGP history. The 2008 night event, aside from drawing boosted viewing which also coincided with
+              the race being moved to the opening spot on the calendar, was initiated with the intent of
+              increasing equipment performance: the day-time heat in Qatar has been hazardous to the conditions of
+              tires and expensive, customized parts on the multimillion-dollar motorcycles. Rider safety
+              notwithstanding, the extreme heat could be a critical variable contributing to defeat.
+          3:
+            title: Qualifying One
+            originally_available: 2022-03-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s1/e3.jpg
+            summary: >
+              Qualifying One for Grand Prix of Qatar takes place at Losail International Circuit (Doha, Qatar) on
+              March 06, 2022. Listed start: 15:00:00 (UTC). The Qatar motorcycle Grand Prix is a motorcycling
+              event that is part of the FIM Grand Prix motorcycle racing season.  The Losail race track in Qatar
+              represents the debut race of each MotoGP season. In 2008, the track held the first night event in
+              MotoGP history. The 2008 night event, aside from drawing boosted viewing which also coincided with
+              the race being moved to the opening spot on the calendar, was initiated with the intent of
+              increasing equipment performance: the day-time heat in Qatar has been hazardous to the conditions of
+              tires and expensive, customized parts on the multimillion-dollar motorcycles. Rider safety
+              notwithstanding, the extreme heat could be a critical variable contributing to defeat.
+          4:
+            title: Qualifying Two
+            originally_available: 2022-03-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s1/e4.jpg
+            summary: >
+              Qualifying Two for Grand Prix of Qatar takes place at Losail International Circuit (Doha, Qatar) on
+              March 06, 2022. Listed start: 15:00:00 (UTC). The Qatar motorcycle Grand Prix is a motorcycling
+              event that is part of the FIM Grand Prix motorcycle racing season.  The Losail race track in Qatar
+              represents the debut race of each MotoGP season. In 2008, the track held the first night event in
+              MotoGP history. The 2008 night event, aside from drawing boosted viewing which also coincided with
+              the race being moved to the opening spot on the calendar, was initiated with the intent of
+              increasing equipment performance: the day-time heat in Qatar has been hazardous to the conditions of
+              tires and expensive, customized parts on the multimillion-dollar motorcycles. Rider safety
+              notwithstanding, the extreme heat could be a critical variable contributing to defeat.
+          5:
+            title: Sprint
+            originally_available: 2022-03-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s1/e5.jpg
+            summary: >
+              Sprint for Grand Prix of Qatar takes place at Losail International Circuit (Doha, Qatar) on March
+              06, 2022. Listed start: 15:00:00 (UTC). The Qatar motorcycle Grand Prix is a motorcycling event that
+              is part of the FIM Grand Prix motorcycle racing season.  The Losail race track in Qatar represents
+              the debut race of each MotoGP season. In 2008, the track held the first night event in MotoGP
+              history. The 2008 night event, aside from drawing boosted viewing which also coincided with the race
+              being moved to the opening spot on the calendar, was initiated with the intent of increasing
+              equipment performance: the day-time heat in Qatar has been hazardous to the conditions of tires and
+              expensive, customized parts on the multimillion-dollar motorcycles. Rider safety notwithstanding,
+              the extreme heat could be a critical variable contributing to defeat.
+          6:
+            title: Race
+            originally_available: 2022-03-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s1/e6.jpg
+            summary: >
+              Race for Grand Prix of Qatar takes place at Losail International Circuit (Doha, Qatar) on March 06,
+              2022. Listed start: 15:00:00 (UTC). The Qatar motorcycle Grand Prix is a motorcycling event that is
+              part of the FIM Grand Prix motorcycle racing season.  The Losail race track in Qatar represents the
+              debut race of each MotoGP season. In 2008, the track held the first night event in MotoGP history.
+              The 2008 night event, aside from drawing boosted viewing which also coincided with the race being
+              moved to the opening spot on the calendar, was initiated with the intent of increasing equipment
+              performance: the day-time heat in Qatar has been hazardous to the conditions of tires and expensive,
+              customized parts on the multimillion-dollar motorcycles. Rider safety notwithstanding, the extreme
+              heat could be a critical variable contributing to defeat.
+      2:
+        title: Grand Prix of Indonesia
+        sort_title: 02_Grand Prix of Indonesia
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s2/poster.jpg
+        summary: >
+          Round 2 (Grand Prix of Indonesia) spans March 20, 2022 with 6 events recorded for this MotoGP
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2022-03-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s2/e1.jpg
+            summary: >
+              Practice One for Grand Prix of Indonesia takes place at Pertamina Mandalika Circuit (Mandalika,
+              Indonesia) on March 20, 2022. Listed start: 07:00:00 (UTC). A new country makes its debut on the
+              MotoGP calendar, a place where the love of motorcycling has grown exponentially in recent years. The
+              Mandalika circuit will be the stage where the fastest drivers in the world will once again play for
+              points for a championship that has just begun.
+          2:
+            title: Practice Two
+            originally_available: 2022-03-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s2/e2.jpg
+            summary: >
+              Practice Two for Grand Prix of Indonesia takes place at Pertamina Mandalika Circuit (Mandalika,
+              Indonesia) on March 20, 2022. Listed start: 07:00:00 (UTC). A new country makes its debut on the
+              MotoGP calendar, a place where the love of motorcycling has grown exponentially in recent years. The
+              Mandalika circuit will be the stage where the fastest drivers in the world will once again play for
+              points for a championship that has just begun.
+          3:
+            title: Qualifying One
+            originally_available: 2022-03-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s2/e3.jpg
+            summary: >
+              Qualifying One for Grand Prix of Indonesia takes place at Pertamina Mandalika Circuit (Mandalika,
+              Indonesia) on March 20, 2022. Listed start: 07:00:00 (UTC). A new country makes its debut on the
+              MotoGP calendar, a place where the love of motorcycling has grown exponentially in recent years. The
+              Mandalika circuit will be the stage where the fastest drivers in the world will once again play for
+              points for a championship that has just begun.
+          4:
+            title: Qualifying Two
+            originally_available: 2022-03-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s2/e4.jpg
+            summary: >
+              Qualifying Two for Grand Prix of Indonesia takes place at Pertamina Mandalika Circuit (Mandalika,
+              Indonesia) on March 20, 2022. Listed start: 07:00:00 (UTC). A new country makes its debut on the
+              MotoGP calendar, a place where the love of motorcycling has grown exponentially in recent years. The
+              Mandalika circuit will be the stage where the fastest drivers in the world will once again play for
+              points for a championship that has just begun.
+          5:
+            title: Sprint
+            originally_available: 2022-03-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s2/e5.jpg
+            summary: >
+              Sprint for Grand Prix of Indonesia takes place at Pertamina Mandalika Circuit (Mandalika, Indonesia)
+              on March 20, 2022. Listed start: 07:00:00 (UTC). A new country makes its debut on the MotoGP
+              calendar, a place where the love of motorcycling has grown exponentially in recent years. The
+              Mandalika circuit will be the stage where the fastest drivers in the world will once again play for
+              points for a championship that has just begun.
+          6:
+            title: Race
+            originally_available: 2022-03-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s2/e6.jpg
+            summary: >
+              Race for Grand Prix of Indonesia takes place at Pertamina Mandalika Circuit (Mandalika, Indonesia)
+              on March 20, 2022. Listed start: 07:00:00 (UTC). A new country makes its debut on the MotoGP
+              calendar, a place where the love of motorcycling has grown exponentially in recent years. The
+              Mandalika circuit will be the stage where the fastest drivers in the world will once again play for
+              points for a championship that has just begun.
+      3:
+        title: Gran Premio Michelin® de la República Argentina
+        sort_title: 03_Gran Premio Michelin® de la República Argentina
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s3/poster.jpg
+        summary: >
+          Round 3 (Gran Premio Michelin® de la República Argentina) spans April 3, 2022 with 6 events recorded
+          for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2022-04-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s3/e1.jpg
+            summary: >
+              Practice One for Gran Premio Michelin® de la República Argentina takes place at Autódromo Termas de
+              Río Hondo (Termas de Río Hondo, Argentina) on April 03, 2022. Listed start: 14:50:00 (UTC). The
+              Argentine Republic motorcycle Grand Prix is the Argentine round of the FIM Grand Prix motorcycle
+              racing championship. The Grand Prix returned in 2014 with a race at Autódromo Termas de Río Hondo.
+              Previously, the event was held ten times at the Autódromo Oscar Alfredo Gálvez in the capital city
+              of Buenos Aires between 1961 and 1999 and was known as the Argentine motorcycle Grand Prix.
+          2:
+            title: Practice Two
+            originally_available: 2022-04-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s3/e2.jpg
+            summary: >
+              Practice Two for Gran Premio Michelin® de la República Argentina takes place at Autódromo Termas de
+              Río Hondo (Termas de Río Hondo, Argentina) on April 03, 2022. Listed start: 14:50:00 (UTC). The
+              Argentine Republic motorcycle Grand Prix is the Argentine round of the FIM Grand Prix motorcycle
+              racing championship. The Grand Prix returned in 2014 with a race at Autódromo Termas de Río Hondo.
+              Previously, the event was held ten times at the Autódromo Oscar Alfredo Gálvez in the capital city
+              of Buenos Aires between 1961 and 1999 and was known as the Argentine motorcycle Grand Prix.
+          3:
+            title: Qualifying One
+            originally_available: 2022-04-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s3/e3.jpg
+            summary: >
+              Qualifying One for Gran Premio Michelin® de la República Argentina takes place at Autódromo Termas
+              de Río Hondo (Termas de Río Hondo, Argentina) on April 03, 2022. Listed start: 14:50:00 (UTC). The
+              Argentine Republic motorcycle Grand Prix is the Argentine round of the FIM Grand Prix motorcycle
+              racing championship. The Grand Prix returned in 2014 with a race at Autódromo Termas de Río Hondo.
+              Previously, the event was held ten times at the Autódromo Oscar Alfredo Gálvez in the capital city
+              of Buenos Aires between 1961 and 1999 and was known as the Argentine motorcycle Grand Prix.
+          4:
+            title: Qualifying Two
+            originally_available: 2022-04-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s3/e4.jpg
+            summary: >
+              Qualifying Two for Gran Premio Michelin® de la República Argentina takes place at Autódromo Termas
+              de Río Hondo (Termas de Río Hondo, Argentina) on April 03, 2022. Listed start: 14:50:00 (UTC). The
+              Argentine Republic motorcycle Grand Prix is the Argentine round of the FIM Grand Prix motorcycle
+              racing championship. The Grand Prix returned in 2014 with a race at Autódromo Termas de Río Hondo.
+              Previously, the event was held ten times at the Autódromo Oscar Alfredo Gálvez in the capital city
+              of Buenos Aires between 1961 and 1999 and was known as the Argentine motorcycle Grand Prix.
+          5:
+            title: Sprint
+            originally_available: 2022-04-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s3/e5.jpg
+            summary: >
+              Sprint for Gran Premio Michelin® de la República Argentina takes place at Autódromo Termas de Río
+              Hondo (Termas de Río Hondo, Argentina) on April 03, 2022. Listed start: 14:50:00 (UTC). The
+              Argentine Republic motorcycle Grand Prix is the Argentine round of the FIM Grand Prix motorcycle
+              racing championship. The Grand Prix returned in 2014 with a race at Autódromo Termas de Río Hondo.
+              Previously, the event was held ten times at the Autódromo Oscar Alfredo Gálvez in the capital city
+              of Buenos Aires between 1961 and 1999 and was known as the Argentine motorcycle Grand Prix.
+          6:
+            title: Race
+            originally_available: 2022-04-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s3/e6.jpg
+            summary: >
+              Race for Gran Premio Michelin® de la República Argentina takes place at Autódromo Termas de Río
+              Hondo (Termas de Río Hondo, Argentina) on April 03, 2022. Listed start: 14:50:00 (UTC). The
+              Argentine Republic motorcycle Grand Prix is the Argentine round of the FIM Grand Prix motorcycle
+              racing championship. The Grand Prix returned in 2014 with a race at Autódromo Termas de Río Hondo.
+              Previously, the event was held ten times at the Autódromo Oscar Alfredo Gálvez in the capital city
+              of Buenos Aires between 1961 and 1999 and was known as the Argentine motorcycle Grand Prix.
+      4:
+        title: Grand Prix of The Americas
+        sort_title: 04_Grand Prix of The Americas
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s4/poster.jpg
+        summary: >
+          Round 4 (Grand Prix of The Americas) spans April 10, 2022 with 6 events recorded for this MotoGP
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2022-04-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s4/e1.jpg
+            summary: >
+              Practice One for Grand Prix of The Americas takes place at Circuit Of The Americas (Austin, United
+              States) on April 10, 2022. Listed start: 14:10:00 (UTC). The Grand Prix of the Americas is a Grand
+              Prix motorcycle race that was held for the first time in the 2013 season at the Circuit of the
+              Americas. It became the third MotoGP round in the United States, alongside the Indianapolis Grand
+              Prix at the Indianapolis Motor Speedway (which lost its place on the calendar from 2015) and the
+              United States Grand Prix at Mazda Raceway Laguna Seca (which lost its place on the calendar from
+              2014).
+          2:
+            title: Practice Two
+            originally_available: 2022-04-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s4/e2.jpg
+            summary: >
+              Practice Two for Grand Prix of The Americas takes place at Circuit Of The Americas (Austin, United
+              States) on April 10, 2022. Listed start: 14:10:00 (UTC). The Grand Prix of the Americas is a Grand
+              Prix motorcycle race that was held for the first time in the 2013 season at the Circuit of the
+              Americas. It became the third MotoGP round in the United States, alongside the Indianapolis Grand
+              Prix at the Indianapolis Motor Speedway (which lost its place on the calendar from 2015) and the
+              United States Grand Prix at Mazda Raceway Laguna Seca (which lost its place on the calendar from
+              2014).
+          3:
+            title: Qualifying One
+            originally_available: 2022-04-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s4/e3.jpg
+            summary: >
+              Qualifying One for Grand Prix of The Americas takes place at Circuit Of The Americas (Austin, United
+              States) on April 10, 2022. Listed start: 14:10:00 (UTC). The Grand Prix of the Americas is a Grand
+              Prix motorcycle race that was held for the first time in the 2013 season at the Circuit of the
+              Americas. It became the third MotoGP round in the United States, alongside the Indianapolis Grand
+              Prix at the Indianapolis Motor Speedway (which lost its place on the calendar from 2015) and the
+              United States Grand Prix at Mazda Raceway Laguna Seca (which lost its place on the calendar from
+              2014).
+          4:
+            title: Qualifying Two
+            originally_available: 2022-04-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s4/e4.jpg
+            summary: >
+              Qualifying Two for Grand Prix of The Americas takes place at Circuit Of The Americas (Austin, United
+              States) on April 10, 2022. Listed start: 14:10:00 (UTC). The Grand Prix of the Americas is a Grand
+              Prix motorcycle race that was held for the first time in the 2013 season at the Circuit of the
+              Americas. It became the third MotoGP round in the United States, alongside the Indianapolis Grand
+              Prix at the Indianapolis Motor Speedway (which lost its place on the calendar from 2015) and the
+              United States Grand Prix at Mazda Raceway Laguna Seca (which lost its place on the calendar from
+              2014).
+          5:
+            title: Sprint
+            originally_available: 2022-04-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s4/e5.jpg
+            summary: >
+              Sprint for Grand Prix of The Americas takes place at Circuit Of The Americas (Austin, United States)
+              on April 10, 2022. Listed start: 14:10:00 (UTC). The Grand Prix of the Americas is a Grand Prix
+              motorcycle race that was held for the first time in the 2013 season at the Circuit of the Americas.
+              It became the third MotoGP round in the United States, alongside the Indianapolis Grand Prix at the
+              Indianapolis Motor Speedway (which lost its place on the calendar from 2015) and the United States
+              Grand Prix at Mazda Raceway Laguna Seca (which lost its place on the calendar from 2014).
+          6:
+            title: Race
+            originally_available: 2022-04-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s4/e6.jpg
+            summary: >
+              Race for Grand Prix of The Americas takes place at Circuit Of The Americas (Austin, United States)
+              on April 10, 2022. Listed start: 14:10:00 (UTC). The Grand Prix of the Americas is a Grand Prix
+              motorcycle race that was held for the first time in the 2013 season at the Circuit of the Americas.
+              It became the third MotoGP round in the United States, alongside the Indianapolis Grand Prix at the
+              Indianapolis Motor Speedway (which lost its place on the calendar from 2015) and the United States
+              Grand Prix at Mazda Raceway Laguna Seca (which lost its place on the calendar from 2014).
+      5:
+        title: Grande Prémio de Portugal
+        sort_title: 05_Grande Prémio de Portugal
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s5/poster.jpg
+        summary: >
+          Round 5 (Grande Prémio de Portugal) spans April 24, 2022 with 6 events recorded for this MotoGP
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2022-04-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s5/e1.jpg
+            summary: >
+              Practice One for Grande Prémio de Portugal takes place at Algarve International Circuit (Portimão,
+              Portugal) on April 24, 2022. Listed start: 11:30:00 (UTC). The Portuguese Grand Prix (Grande Prémio
+              de Portugal) is a motorsports event that was first held in 1951 as a sportscar event, and then
+              intermittently disappearing for many years before being revived again. In 1964 event was held as a
+              sportscar race, and the 1965 and 1966 editions being held for Formula Three entrants. The event took
+              part in the Formula One World Championship in 1958–1960, then again between 1984 and 1996, and after
+              long hiatus, it was revived from 2020 onwards. The event has been held at several circuits
+              throughout its history.
+          2:
+            title: Practice Two
+            originally_available: 2022-04-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s5/e2.jpg
+            summary: >
+              Practice Two for Grande Prémio de Portugal takes place at Algarve International Circuit (Portimão,
+              Portugal) on April 24, 2022. Listed start: 11:30:00 (UTC). The Portuguese Grand Prix (Grande Prémio
+              de Portugal) is a motorsports event that was first held in 1951 as a sportscar event, and then
+              intermittently disappearing for many years before being revived again. In 1964 event was held as a
+              sportscar race, and the 1965 and 1966 editions being held for Formula Three entrants. The event took
+              part in the Formula One World Championship in 1958–1960, then again between 1984 and 1996, and after
+              long hiatus, it was revived from 2020 onwards. The event has been held at several circuits
+              throughout its history.
+          3:
+            title: Qualifying One
+            originally_available: 2022-04-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s5/e3.jpg
+            summary: >
+              Qualifying One for Grande Prémio de Portugal takes place at Algarve International Circuit (Portimão,
+              Portugal) on April 24, 2022. Listed start: 11:30:00 (UTC). The Portuguese Grand Prix (Grande Prémio
+              de Portugal) is a motorsports event that was first held in 1951 as a sportscar event, and then
+              intermittently disappearing for many years before being revived again. In 1964 event was held as a
+              sportscar race, and the 1965 and 1966 editions being held for Formula Three entrants. The event took
+              part in the Formula One World Championship in 1958–1960, then again between 1984 and 1996, and after
+              long hiatus, it was revived from 2020 onwards. The event has been held at several circuits
+              throughout its history.
+          4:
+            title: Qualifying Two
+            originally_available: 2022-04-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s5/e4.jpg
+            summary: >
+              Qualifying Two for Grande Prémio de Portugal takes place at Algarve International Circuit (Portimão,
+              Portugal) on April 24, 2022. Listed start: 11:30:00 (UTC). The Portuguese Grand Prix (Grande Prémio
+              de Portugal) is a motorsports event that was first held in 1951 as a sportscar event, and then
+              intermittently disappearing for many years before being revived again. In 1964 event was held as a
+              sportscar race, and the 1965 and 1966 editions being held for Formula Three entrants. The event took
+              part in the Formula One World Championship in 1958–1960, then again between 1984 and 1996, and after
+              long hiatus, it was revived from 2020 onwards. The event has been held at several circuits
+              throughout its history.
+          5:
+            title: Sprint
+            originally_available: 2022-04-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s5/e5.jpg
+            summary: >
+              Sprint for Grande Prémio de Portugal takes place at Algarve International Circuit (Portimão,
+              Portugal) on April 24, 2022. Listed start: 11:30:00 (UTC). The Portuguese Grand Prix (Grande Prémio
+              de Portugal) is a motorsports event that was first held in 1951 as a sportscar event, and then
+              intermittently disappearing for many years before being revived again. In 1964 event was held as a
+              sportscar race, and the 1965 and 1966 editions being held for Formula Three entrants. The event took
+              part in the Formula One World Championship in 1958–1960, then again between 1984 and 1996, and after
+              long hiatus, it was revived from 2020 onwards. The event has been held at several circuits
+              throughout its history.
+          6:
+            title: Race
+            originally_available: 2022-04-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s5/e6.jpg
+            summary: >
+              Race for Grande Prémio de Portugal takes place at Algarve International Circuit (Portimão, Portugal)
+              on April 24, 2022. Listed start: 11:30:00 (UTC). The Portuguese Grand Prix (Grande Prémio de
+              Portugal) is a motorsports event that was first held in 1951 as a sportscar event, and then
+              intermittently disappearing for many years before being revived again. In 1964 event was held as a
+              sportscar race, and the 1965 and 1966 editions being held for Formula Three entrants. The event took
+              part in the Formula One World Championship in 1958–1960, then again between 1984 and 1996, and after
+              long hiatus, it was revived from 2020 onwards. The event has been held at several circuits
+              throughout its history.
+      6:
+        title: Gran Premio de España
+        sort_title: 06_Gran Premio de España
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s6/poster.jpg
+        summary: >
+          Round 6 (Gran Premio de España) spans May 1, 2022 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2022-05-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s6/e1.jpg
+            summary: >
+              Practice One for Gran Premio de España takes place at Circuito de Jerez – Ángel Nieto (Jerez, Spain)
+              on May 01, 2022. Listed start: 00:00:00 (UTC). The Spanish motorcycle Grand Prix is a motorcycling
+              event that is part of the FIM Grand Prix motorcycle racing season that takes place at Circuito de
+              Jerez-Ángel Nieto outside Jerez de la Frontera in Andalucia. In addition to this event, three other
+              World Championship motorcycling events take place in Spain as of the 2019 season: the Catalan
+              motorcycle Grand Prix, the Aragon motorcycle Grand Prix and the Valencian Community motorcycle Grand
+              Prix, in the autonomous communities of Catalonia, Aragon and Valencia respectively.
+          2:
+            title: Practice Two
+            originally_available: 2022-05-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s6/e2.jpg
+            summary: >
+              Practice Two for Gran Premio de España takes place at Circuito de Jerez – Ángel Nieto (Jerez, Spain)
+              on May 01, 2022. Listed start: 00:00:00 (UTC). The Spanish motorcycle Grand Prix is a motorcycling
+              event that is part of the FIM Grand Prix motorcycle racing season that takes place at Circuito de
+              Jerez-Ángel Nieto outside Jerez de la Frontera in Andalucia. In addition to this event, three other
+              World Championship motorcycling events take place in Spain as of the 2019 season: the Catalan
+              motorcycle Grand Prix, the Aragon motorcycle Grand Prix and the Valencian Community motorcycle Grand
+              Prix, in the autonomous communities of Catalonia, Aragon and Valencia respectively.
+          3:
+            title: Qualifying One
+            originally_available: 2022-05-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s6/e3.jpg
+            summary: >
+              Qualifying One for Gran Premio de España takes place at Circuito de Jerez – Ángel Nieto (Jerez,
+              Spain) on May 01, 2022. Listed start: 00:00:00 (UTC). The Spanish motorcycle Grand Prix is a
+              motorcycling event that is part of the FIM Grand Prix motorcycle racing season that takes place at
+              Circuito de Jerez-Ángel Nieto outside Jerez de la Frontera in Andalucia. In addition to this event,
+              three other World Championship motorcycling events take place in Spain as of the 2019 season: the
+              Catalan motorcycle Grand Prix, the Aragon motorcycle Grand Prix and the Valencian Community
+              motorcycle Grand Prix, in the autonomous communities of Catalonia, Aragon and Valencia respectively.
+          4:
+            title: Qualifying Two
+            originally_available: 2022-05-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s6/e4.jpg
+            summary: >
+              Qualifying Two for Gran Premio de España takes place at Circuito de Jerez – Ángel Nieto (Jerez,
+              Spain) on May 01, 2022. Listed start: 00:00:00 (UTC). The Spanish motorcycle Grand Prix is a
+              motorcycling event that is part of the FIM Grand Prix motorcycle racing season that takes place at
+              Circuito de Jerez-Ángel Nieto outside Jerez de la Frontera in Andalucia. In addition to this event,
+              three other World Championship motorcycling events take place in Spain as of the 2019 season: the
+              Catalan motorcycle Grand Prix, the Aragon motorcycle Grand Prix and the Valencian Community
+              motorcycle Grand Prix, in the autonomous communities of Catalonia, Aragon and Valencia respectively.
+          5:
+            title: Sprint
+            originally_available: 2022-05-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s6/e5.jpg
+            summary: >
+              Sprint for Gran Premio de España takes place at Circuito de Jerez – Ángel Nieto (Jerez, Spain) on
+              May 01, 2022. Listed start: 00:00:00 (UTC). The Spanish motorcycle Grand Prix is a motorcycling
+              event that is part of the FIM Grand Prix motorcycle racing season that takes place at Circuito de
+              Jerez-Ángel Nieto outside Jerez de la Frontera in Andalucia. In addition to this event, three other
+              World Championship motorcycling events take place in Spain as of the 2019 season: the Catalan
+              motorcycle Grand Prix, the Aragon motorcycle Grand Prix and the Valencian Community motorcycle Grand
+              Prix, in the autonomous communities of Catalonia, Aragon and Valencia respectively.
+          6:
+            title: Race
+            originally_available: 2022-05-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s6/e6.jpg
+            summary: >
+              Race for Gran Premio de España takes place at Circuito de Jerez – Ángel Nieto (Jerez, Spain) on May
+              01, 2022. Listed start: 00:00:00 (UTC). The Spanish motorcycle Grand Prix is a motorcycling event
+              that is part of the FIM Grand Prix motorcycle racing season that takes place at Circuito de Jerez-
+              Ángel Nieto outside Jerez de la Frontera in Andalucia. In addition to this event, three other World
+              Championship motorcycling events take place in Spain as of the 2019 season: the Catalan motorcycle
+              Grand Prix, the Aragon motorcycle Grand Prix and the Valencian Community motorcycle Grand Prix, in
+              the autonomous communities of Catalonia, Aragon and Valencia respectively.
+      7:
+        title: Grand Prix de France
+        sort_title: 07_Grand Prix de France
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s7/poster.jpg
+        summary: >
+          Round 7 (Grand Prix de France) spans May 15, 2022 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2022-05-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s7/e1.jpg
+            summary: >
+              Practice One for Grand Prix de France takes place at Le Mans (Le Mans, France) on May 15, 2022.
+              Listed start: 00:00:00 (UTC). France's MotoGP is without a doubt one of the season's highlights! Set
+              on the outrageously fast Bugatti Circuit in Le Mans, the venue is a true pilgrimage to all
+              motorsports fans. With just a handful of turns, riders reach amazing speeds throughout the race.
+          2:
+            title: Practice Two
+            originally_available: 2022-05-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s7/e2.jpg
+            summary: >
+              Practice Two for Grand Prix de France takes place at Le Mans (Le Mans, France) on May 15, 2022.
+              Listed start: 00:00:00 (UTC). France's MotoGP is without a doubt one of the season's highlights! Set
+              on the outrageously fast Bugatti Circuit in Le Mans, the venue is a true pilgrimage to all
+              motorsports fans. With just a handful of turns, riders reach amazing speeds throughout the race.
+          3:
+            title: Qualifying One
+            originally_available: 2022-05-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s7/e3.jpg
+            summary: >
+              Qualifying One for Grand Prix de France takes place at Le Mans (Le Mans, France) on May 15, 2022.
+              Listed start: 00:00:00 (UTC). France's MotoGP is without a doubt one of the season's highlights! Set
+              on the outrageously fast Bugatti Circuit in Le Mans, the venue is a true pilgrimage to all
+              motorsports fans. With just a handful of turns, riders reach amazing speeds throughout the race.
+          4:
+            title: Qualifying Two
+            originally_available: 2022-05-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s7/e4.jpg
+            summary: >
+              Qualifying Two for Grand Prix de France takes place at Le Mans (Le Mans, France) on May 15, 2022.
+              Listed start: 00:00:00 (UTC). France's MotoGP is without a doubt one of the season's highlights! Set
+              on the outrageously fast Bugatti Circuit in Le Mans, the venue is a true pilgrimage to all
+              motorsports fans. With just a handful of turns, riders reach amazing speeds throughout the race.
+          5:
+            title: Sprint
+            originally_available: 2022-05-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s7/e5.jpg
+            summary: >
+              Sprint for Grand Prix de France takes place at Le Mans (Le Mans, France) on May 15, 2022. Listed
+              start: 00:00:00 (UTC). France's MotoGP is without a doubt one of the season's highlights! Set on the
+              outrageously fast Bugatti Circuit in Le Mans, the venue is a true pilgrimage to all motorsports
+              fans. With just a handful of turns, riders reach amazing speeds throughout the race.
+          6:
+            title: Race
+            originally_available: 2022-05-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s7/e6.jpg
+            summary: >
+              Race for Grand Prix de France takes place at Le Mans (Le Mans, France) on May 15, 2022. Listed
+              start: 00:00:00 (UTC). France's MotoGP is without a doubt one of the season's highlights! Set on the
+              outrageously fast Bugatti Circuit in Le Mans, the venue is a true pilgrimage to all motorsports
+              fans. With just a handful of turns, riders reach amazing speeds throughout the race.
+      8:
+        title: Gran Premio d’Italia
+        sort_title: 08_Gran Premio d’Italia
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s8/poster.jpg
+        summary: >
+          Round 8 (Gran Premio d’Italia) spans May 29, 2022 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2022-05-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s8/e1.jpg
+            summary: >
+              Practice One for Gran Premio d’Italia takes place at Autodromo Internazionale del Mugello (Scarperia
+              e San Piero, Italy) on May 29, 2022. Listed start: 00:00:00 (UTC). The Italian motorcycle Grand Prix
+              is a motorcycling event that is part of the Grand Prix motorcycle racing season. From 1949 to 1990
+              the event was known by the Italian: Gran Premio Delle Nazioni (Nations Grand Prix). It was one of
+              the original rounds of the Grand Prix motorcycle racing calendar. The race was held exclusively at
+              Monza for the first 23 years of its existence. From 1972 to 1993, the event rotated among several
+              circuits and has been held at the Mugello Circuit since 1994
+          2:
+            title: Practice Two
+            originally_available: 2022-05-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s8/e2.jpg
+            summary: >
+              Practice Two for Gran Premio d’Italia takes place at Autodromo Internazionale del Mugello (Scarperia
+              e San Piero, Italy) on May 29, 2022. Listed start: 00:00:00 (UTC). The Italian motorcycle Grand Prix
+              is a motorcycling event that is part of the Grand Prix motorcycle racing season. From 1949 to 1990
+              the event was known by the Italian: Gran Premio Delle Nazioni (Nations Grand Prix). It was one of
+              the original rounds of the Grand Prix motorcycle racing calendar. The race was held exclusively at
+              Monza for the first 23 years of its existence. From 1972 to 1993, the event rotated among several
+              circuits and has been held at the Mugello Circuit since 1994
+          3:
+            title: Qualifying One
+            originally_available: 2022-05-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s8/e3.jpg
+            summary: >
+              Qualifying One for Gran Premio d’Italia takes place at Autodromo Internazionale del Mugello
+              (Scarperia e San Piero, Italy) on May 29, 2022. Listed start: 00:00:00 (UTC). The Italian motorcycle
+              Grand Prix is a motorcycling event that is part of the Grand Prix motorcycle racing season. From
+              1949 to 1990 the event was known by the Italian: Gran Premio Delle Nazioni (Nations Grand Prix). It
+              was one of the original rounds of the Grand Prix motorcycle racing calendar. The race was held
+              exclusively at Monza for the first 23 years of its existence. From 1972 to 1993, the event rotated
+              among several circuits and has been held at the Mugello Circuit since 1994
+          4:
+            title: Qualifying Two
+            originally_available: 2022-05-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s8/e4.jpg
+            summary: >
+              Qualifying Two for Gran Premio d’Italia takes place at Autodromo Internazionale del Mugello
+              (Scarperia e San Piero, Italy) on May 29, 2022. Listed start: 00:00:00 (UTC). The Italian motorcycle
+              Grand Prix is a motorcycling event that is part of the Grand Prix motorcycle racing season. From
+              1949 to 1990 the event was known by the Italian: Gran Premio Delle Nazioni (Nations Grand Prix). It
+              was one of the original rounds of the Grand Prix motorcycle racing calendar. The race was held
+              exclusively at Monza for the first 23 years of its existence. From 1972 to 1993, the event rotated
+              among several circuits and has been held at the Mugello Circuit since 1994
+          5:
+            title: Sprint
+            originally_available: 2022-05-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s8/e5.jpg
+            summary: >
+              Sprint for Gran Premio d’Italia takes place at Autodromo Internazionale del Mugello (Scarperia e San
+              Piero, Italy) on May 29, 2022. Listed start: 00:00:00 (UTC). The Italian motorcycle Grand Prix is a
+              motorcycling event that is part of the Grand Prix motorcycle racing season. From 1949 to 1990 the
+              event was known by the Italian: Gran Premio Delle Nazioni (Nations Grand Prix). It was one of the
+              original rounds of the Grand Prix motorcycle racing calendar. The race was held exclusively at Monza
+              for the first 23 years of its existence. From 1972 to 1993, the event rotated among several circuits
+              and has been held at the Mugello Circuit since 1994
+          6:
+            title: Race
+            originally_available: 2022-05-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s8/e6.jpg
+            summary: >
+              Race for Gran Premio d’Italia takes place at Autodromo Internazionale del Mugello (Scarperia e San
+              Piero, Italy) on May 29, 2022. Listed start: 00:00:00 (UTC). The Italian motorcycle Grand Prix is a
+              motorcycling event that is part of the Grand Prix motorcycle racing season. From 1949 to 1990 the
+              event was known by the Italian: Gran Premio Delle Nazioni (Nations Grand Prix). It was one of the
+              original rounds of the Grand Prix motorcycle racing calendar. The race was held exclusively at Monza
+              for the first 23 years of its existence. From 1972 to 1993, the event rotated among several circuits
+              and has been held at the Mugello Circuit since 1994
+      9:
+        title: Gran Premi de Catalunya
+        sort_title: 09_Gran Premi de Catalunya
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s9/poster.jpg
+        summary: >
+          Round 9 (Gran Premi de Catalunya) spans June 5, 2022 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2022-06-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s9/e1.jpg
+            summary: >
+              Practice One for Gran Premi de Catalunya takes place at Circuit de Barcelona-Catalunya (Barcelona,
+              Spain) on June 05, 2022. Listed start: 00:00:00 (UTC). The Catalan motorcycle Grand Prix is a
+              motorcycling event held at the Circuit de Barcelona-Catalunya in Barcelona, Catalonia, Spain, as
+              part of the Grand Prix motorcycle racing season.
+          2:
+            title: Practice Two
+            originally_available: 2022-06-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s9/e2.jpg
+            summary: >
+              Practice Two for Gran Premi de Catalunya takes place at Circuit de Barcelona-Catalunya (Barcelona,
+              Spain) on June 05, 2022. Listed start: 00:00:00 (UTC). The Catalan motorcycle Grand Prix is a
+              motorcycling event held at the Circuit de Barcelona-Catalunya in Barcelona, Catalonia, Spain, as
+              part of the Grand Prix motorcycle racing season.
+          3:
+            title: Qualifying One
+            originally_available: 2022-06-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s9/e3.jpg
+            summary: >
+              Qualifying One for Gran Premi de Catalunya takes place at Circuit de Barcelona-Catalunya (Barcelona,
+              Spain) on June 05, 2022. Listed start: 00:00:00 (UTC). The Catalan motorcycle Grand Prix is a
+              motorcycling event held at the Circuit de Barcelona-Catalunya in Barcelona, Catalonia, Spain, as
+              part of the Grand Prix motorcycle racing season.
+          4:
+            title: Qualifying Two
+            originally_available: 2022-06-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s9/e4.jpg
+            summary: >
+              Qualifying Two for Gran Premi de Catalunya takes place at Circuit de Barcelona-Catalunya (Barcelona,
+              Spain) on June 05, 2022. Listed start: 00:00:00 (UTC). The Catalan motorcycle Grand Prix is a
+              motorcycling event held at the Circuit de Barcelona-Catalunya in Barcelona, Catalonia, Spain, as
+              part of the Grand Prix motorcycle racing season.
+          5:
+            title: Sprint
+            originally_available: 2022-06-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s9/e5.jpg
+            summary: >
+              Sprint for Gran Premi de Catalunya takes place at Circuit de Barcelona-Catalunya (Barcelona, Spain)
+              on June 05, 2022. Listed start: 00:00:00 (UTC). The Catalan motorcycle Grand Prix is a motorcycling
+              event held at the Circuit de Barcelona-Catalunya in Barcelona, Catalonia, Spain, as part of the
+              Grand Prix motorcycle racing season.
+          6:
+            title: Race
+            originally_available: 2022-06-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s9/e6.jpg
+            summary: >
+              Race for Gran Premi de Catalunya takes place at Circuit de Barcelona-Catalunya (Barcelona, Spain) on
+              June 05, 2022. Listed start: 00:00:00 (UTC). The Catalan motorcycle Grand Prix is a motorcycling
+              event held at the Circuit de Barcelona-Catalunya in Barcelona, Catalonia, Spain, as part of the
+              Grand Prix motorcycle racing season.
+      10:
+        title: Motorrad Grand Prix Deutschland
+        sort_title: 10_Motorrad Grand Prix Deutschland
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s10/poster.jpg
+        summary: >
+          Round 10 (Motorrad Grand Prix Deutschland) spans June 19, 2022 with 6 events recorded for this
+          MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2022-06-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s10/e1.jpg
+            summary: >
+              Practice One for Motorrad Grand Prix Deutschland takes place at Sachsenring (Hohenstein-Ernstthal,
+              Germany) on June 19, 2022. Listed start: 00:00:00 (UTC). The German motorcycle Grand Prix, first
+              held in 1925, is since 1952 part of the Grand Prix motorcycle racing World Championship.  The first
+              two Großer Preis von Deutschland races were held at Berlin's AVUS before moving to the new the
+              purpose-built Nürburgring which was used in its full 28 km configuration. No GP was held in 1932, in
+              1933 the AVUS was given another try, and since 1934, public roads near and through Hohenstein-
+              Ernstthal in Saxony were in use, initially without the name Sachsenring which had been used
+              elsewhere. It was adopted in 1937.  In 1998, after having become rather unpopular first at
+              Hockenheim and then at Nürburgring due to the style of the promoters, the German motorcycle Grand
+              Prix moved to new promoters, and to the shortened purpose-built Sachsenring where it became a sell-
+              out event since.
+          2:
+            title: Practice Two
+            originally_available: 2022-06-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s10/e2.jpg
+            summary: >
+              Practice Two for Motorrad Grand Prix Deutschland takes place at Sachsenring (Hohenstein-Ernstthal,
+              Germany) on June 19, 2022. Listed start: 00:00:00 (UTC). The German motorcycle Grand Prix, first
+              held in 1925, is since 1952 part of the Grand Prix motorcycle racing World Championship.  The first
+              two Großer Preis von Deutschland races were held at Berlin's AVUS before moving to the new the
+              purpose-built Nürburgring which was used in its full 28 km configuration. No GP was held in 1932, in
+              1933 the AVUS was given another try, and since 1934, public roads near and through Hohenstein-
+              Ernstthal in Saxony were in use, initially without the name Sachsenring which had been used
+              elsewhere. It was adopted in 1937.  In 1998, after having become rather unpopular first at
+              Hockenheim and then at Nürburgring due to the style of the promoters, the German motorcycle Grand
+              Prix moved to new promoters, and to the shortened purpose-built Sachsenring where it became a sell-
+              out event since.
+          3:
+            title: Qualifying One
+            originally_available: 2022-06-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s10/e3.jpg
+            summary: >
+              Qualifying One for Motorrad Grand Prix Deutschland takes place at Sachsenring (Hohenstein-Ernstthal,
+              Germany) on June 19, 2022. Listed start: 00:00:00 (UTC). The German motorcycle Grand Prix, first
+              held in 1925, is since 1952 part of the Grand Prix motorcycle racing World Championship.  The first
+              two Großer Preis von Deutschland races were held at Berlin's AVUS before moving to the new the
+              purpose-built Nürburgring which was used in its full 28 km configuration. No GP was held in 1932, in
+              1933 the AVUS was given another try, and since 1934, public roads near and through Hohenstein-
+              Ernstthal in Saxony were in use, initially without the name Sachsenring which had been used
+              elsewhere. It was adopted in 1937.  In 1998, after having become rather unpopular first at
+              Hockenheim and then at Nürburgring due to the style of the promoters, the German motorcycle Grand
+              Prix moved to new promoters, and to the shortened purpose-built Sachsenring where it became a sell-
+              out event since.
+          4:
+            title: Qualifying Two
+            originally_available: 2022-06-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s10/e4.jpg
+            summary: >
+              Qualifying Two for Motorrad Grand Prix Deutschland takes place at Sachsenring (Hohenstein-Ernstthal,
+              Germany) on June 19, 2022. Listed start: 00:00:00 (UTC). The German motorcycle Grand Prix, first
+              held in 1925, is since 1952 part of the Grand Prix motorcycle racing World Championship.  The first
+              two Großer Preis von Deutschland races were held at Berlin's AVUS before moving to the new the
+              purpose-built Nürburgring which was used in its full 28 km configuration. No GP was held in 1932, in
+              1933 the AVUS was given another try, and since 1934, public roads near and through Hohenstein-
+              Ernstthal in Saxony were in use, initially without the name Sachsenring which had been used
+              elsewhere. It was adopted in 1937.  In 1998, after having become rather unpopular first at
+              Hockenheim and then at Nürburgring due to the style of the promoters, the German motorcycle Grand
+              Prix moved to new promoters, and to the shortened purpose-built Sachsenring where it became a sell-
+              out event since.
+          5:
+            title: Sprint
+            originally_available: 2022-06-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s10/e5.jpg
+            summary: >
+              Sprint for Motorrad Grand Prix Deutschland takes place at Sachsenring (Hohenstein-Ernstthal,
+              Germany) on June 19, 2022. Listed start: 00:00:00 (UTC). The German motorcycle Grand Prix, first
+              held in 1925, is since 1952 part of the Grand Prix motorcycle racing World Championship.  The first
+              two Großer Preis von Deutschland races were held at Berlin's AVUS before moving to the new the
+              purpose-built Nürburgring which was used in its full 28 km configuration. No GP was held in 1932, in
+              1933 the AVUS was given another try, and since 1934, public roads near and through Hohenstein-
+              Ernstthal in Saxony were in use, initially without the name Sachsenring which had been used
+              elsewhere. It was adopted in 1937.  In 1998, after having become rather unpopular first at
+              Hockenheim and then at Nürburgring due to the style of the promoters, the German motorcycle Grand
+              Prix moved to new promoters, and to the shortened purpose-built Sachsenring where it became a sell-
+              out event since.
+          6:
+            title: Race
+            originally_available: 2022-06-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s10/e6.jpg
+            summary: >
+              Race for Motorrad Grand Prix Deutschland takes place at Sachsenring (Hohenstein-Ernstthal, Germany)
+              on June 19, 2022. Listed start: 00:00:00 (UTC). The German motorcycle Grand Prix, first held in
+              1925, is since 1952 part of the Grand Prix motorcycle racing World Championship.  The first two
+              Großer Preis von Deutschland races were held at Berlin's AVUS before moving to the new the purpose-
+              built Nürburgring which was used in its full 28 km configuration. No GP was held in 1932, in 1933
+              the AVUS was given another try, and since 1934, public roads near and through Hohenstein-Ernstthal
+              in Saxony were in use, initially without the name Sachsenring which had been used elsewhere. It was
+              adopted in 1937.  In 1998, after having become rather unpopular first at Hockenheim and then at
+              Nürburgring due to the style of the promoters, the German motorcycle Grand Prix moved to new
+              promoters, and to the shortened purpose-built Sachsenring where it became a sell-out event since.
+      11:
+        title: TT Assen
+        sort_title: 11_TT Assen
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s11/poster.jpg
+        summary: >
+          Round 11 (TT Assen) spans June 26, 2022 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2022-06-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s11/e1.jpg
+            summary: >
+              Practice One for TT Assen takes place at TT Circuit Assen (Assen , The Netherlands) on June 26,
+              2022. Local start: 14:00:00. The Dutch Tourist Trophy, also known as the TT Assen, is a Dutch
+              motorsport event established in 1925 for road racing motorcycles held on the TT Circuit Assen, also
+              known as the ‘Cathedral of Speed'. The event attained world championship status in 1949 when it was
+              sanctioned by the FIM as part of the inaugural Grand Prix motorcycle racing world championship
+              season, making it the oldest event on the MotoGP calendar. The venue holds the record for being the
+              only circuit to have hosted a motorcycle Grand Prix event every year since the series was created in
+              1949. However the 2020 race was cancelled due to the outbreak of COVID-19. The races were
+              traditionally held on the last Saturday of June however, from 2016 onwards it has been held on
+              Sunday of the last weekend of June, bringing it in line with all other MotoGP races.
+          2:
+            title: Practice Two
+            originally_available: 2022-06-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s11/e2.jpg
+            summary: >
+              Practice Two for TT Assen takes place at TT Circuit Assen (Assen , The Netherlands) on June 26,
+              2022. Local start: 14:00:00. The Dutch Tourist Trophy, also known as the TT Assen, is a Dutch
+              motorsport event established in 1925 for road racing motorcycles held on the TT Circuit Assen, also
+              known as the ‘Cathedral of Speed'. The event attained world championship status in 1949 when it was
+              sanctioned by the FIM as part of the inaugural Grand Prix motorcycle racing world championship
+              season, making it the oldest event on the MotoGP calendar. The venue holds the record for being the
+              only circuit to have hosted a motorcycle Grand Prix event every year since the series was created in
+              1949. However the 2020 race was cancelled due to the outbreak of COVID-19. The races were
+              traditionally held on the last Saturday of June however, from 2016 onwards it has been held on
+              Sunday of the last weekend of June, bringing it in line with all other MotoGP races.
+          3:
+            title: Qualifying One
+            originally_available: 2022-06-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s11/e3.jpg
+            summary: >
+              Qualifying One for TT Assen takes place at TT Circuit Assen (Assen , The Netherlands) on June 26,
+              2022. Local start: 14:00:00. The Dutch Tourist Trophy, also known as the TT Assen, is a Dutch
+              motorsport event established in 1925 for road racing motorcycles held on the TT Circuit Assen, also
+              known as the ‘Cathedral of Speed'. The event attained world championship status in 1949 when it was
+              sanctioned by the FIM as part of the inaugural Grand Prix motorcycle racing world championship
+              season, making it the oldest event on the MotoGP calendar. The venue holds the record for being the
+              only circuit to have hosted a motorcycle Grand Prix event every year since the series was created in
+              1949. However the 2020 race was cancelled due to the outbreak of COVID-19. The races were
+              traditionally held on the last Saturday of June however, from 2016 onwards it has been held on
+              Sunday of the last weekend of June, bringing it in line with all other MotoGP races.
+          4:
+            title: Qualifying Two
+            originally_available: 2022-06-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s11/e4.jpg
+            summary: >
+              Qualifying Two for TT Assen takes place at TT Circuit Assen (Assen , The Netherlands) on June 26,
+              2022. Local start: 14:00:00. The Dutch Tourist Trophy, also known as the TT Assen, is a Dutch
+              motorsport event established in 1925 for road racing motorcycles held on the TT Circuit Assen, also
+              known as the ‘Cathedral of Speed'. The event attained world championship status in 1949 when it was
+              sanctioned by the FIM as part of the inaugural Grand Prix motorcycle racing world championship
+              season, making it the oldest event on the MotoGP calendar. The venue holds the record for being the
+              only circuit to have hosted a motorcycle Grand Prix event every year since the series was created in
+              1949. However the 2020 race was cancelled due to the outbreak of COVID-19. The races were
+              traditionally held on the last Saturday of June however, from 2016 onwards it has been held on
+              Sunday of the last weekend of June, bringing it in line with all other MotoGP races.
+          5:
+            title: Sprint
+            originally_available: 2022-06-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s11/e5.jpg
+            summary: >
+              Sprint for TT Assen takes place at TT Circuit Assen (Assen , The Netherlands) on June 26, 2022.
+              Local start: 14:00:00. The Dutch Tourist Trophy, also known as the TT Assen, is a Dutch motorsport
+              event established in 1925 for road racing motorcycles held on the TT Circuit Assen, also known as
+              the ‘Cathedral of Speed'. The event attained world championship status in 1949 when it was
+              sanctioned by the FIM as part of the inaugural Grand Prix motorcycle racing world championship
+              season, making it the oldest event on the MotoGP calendar. The venue holds the record for being the
+              only circuit to have hosted a motorcycle Grand Prix event every year since the series was created in
+              1949. However the 2020 race was cancelled due to the outbreak of COVID-19. The races were
+              traditionally held on the last Saturday of June however, from 2016 onwards it has been held on
+              Sunday of the last weekend of June, bringing it in line with all other MotoGP races.
+          6:
+            title: Race
+            originally_available: 2022-06-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s11/e6.jpg
+            summary: >
+              Race for TT Assen takes place at TT Circuit Assen (Assen , The Netherlands) on June 26, 2022. Local
+              start: 14:00:00. The Dutch Tourist Trophy, also known as the TT Assen, is a Dutch motorsport event
+              established in 1925 for road racing motorcycles held on the TT Circuit Assen, also known as the
+              ‘Cathedral of Speed'. The event attained world championship status in 1949 when it was sanctioned by
+              the FIM as part of the inaugural Grand Prix motorcycle racing world championship season, making it
+              the oldest event on the MotoGP calendar. The venue holds the record for being the only circuit to
+              have hosted a motorcycle Grand Prix event every year since the series was created in 1949. However
+              the 2020 race was cancelled due to the outbreak of COVID-19. The races were traditionally held on
+              the last Saturday of June however, from 2016 onwards it has been held on Sunday of the last weekend
+              of June, bringing it in line with all other MotoGP races.
+      12:
+        title: Grand Prix of Finland
+        sort_title: 12_Grand Prix of Finland
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s12/poster.jpg
+        summary: >
+          Round 12 (Grand Prix of Finland) spans July 10, 2022 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2022-07-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s12/e1.jpg
+            summary: >
+              Practice One for Grand Prix of Finland takes place at KymiRing (Kausala, Finland) on July 10, 2022.
+              Listed start: 12:00:00 (UTC). The Finnish motorcycle Grand Prix is a round of the FIM Grand Prix
+              motorcycle racing championship from 1962 to 1982. It was held at the Tampere Circuit in 1962 and
+              1963 before moving to the Imatra Circuit. Giacomo Agostini won the most Finnish Grands Prix with ten
+              500cc victories and seven 350cc victories.     Homologation works at the KymiRing, together with the
+              risks caused by the ongoing geopolitical situation in the region, have sadly obliged the
+              cancellation of the Finnish Grand Prix in 2022. The current circumstances have created delays and
+              put the ongoing work at the new circuit at risk. All parties have therefore agreed that the track’s
+              debut must be postponed to 2023, when MotoGP™ looks forward to returning to Finland for the first
+              time in four decades.
+          2:
+            title: Practice Two
+            originally_available: 2022-07-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s12/e2.jpg
+            summary: >
+              Practice Two for Grand Prix of Finland takes place at KymiRing (Kausala, Finland) on July 10, 2022.
+              Listed start: 12:00:00 (UTC). The Finnish motorcycle Grand Prix is a round of the FIM Grand Prix
+              motorcycle racing championship from 1962 to 1982. It was held at the Tampere Circuit in 1962 and
+              1963 before moving to the Imatra Circuit. Giacomo Agostini won the most Finnish Grands Prix with ten
+              500cc victories and seven 350cc victories.     Homologation works at the KymiRing, together with the
+              risks caused by the ongoing geopolitical situation in the region, have sadly obliged the
+              cancellation of the Finnish Grand Prix in 2022. The current circumstances have created delays and
+              put the ongoing work at the new circuit at risk. All parties have therefore agreed that the track’s
+              debut must be postponed to 2023, when MotoGP™ looks forward to returning to Finland for the first
+              time in four decades.
+          3:
+            title: Qualifying One
+            originally_available: 2022-07-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s12/e3.jpg
+            summary: >
+              Qualifying One for Grand Prix of Finland takes place at KymiRing (Kausala, Finland) on July 10,
+              2022. Listed start: 12:00:00 (UTC). The Finnish motorcycle Grand Prix is a round of the FIM Grand
+              Prix motorcycle racing championship from 1962 to 1982. It was held at the Tampere Circuit in 1962
+              and 1963 before moving to the Imatra Circuit. Giacomo Agostini won the most Finnish Grands Prix with
+              ten 500cc victories and seven 350cc victories.     Homologation works at the KymiRing, together with
+              the risks caused by the ongoing geopolitical situation in the region, have sadly obliged the
+              cancellation of the Finnish Grand Prix in 2022. The current circumstances have created delays and
+              put the ongoing work at the new circuit at risk. All parties have therefore agreed that the track’s
+              debut must be postponed to 2023, when MotoGP™ looks forward to returning to Finland for the first
+              time in four decades.
+          4:
+            title: Qualifying Two
+            originally_available: 2022-07-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s12/e4.jpg
+            summary: >
+              Qualifying Two for Grand Prix of Finland takes place at KymiRing (Kausala, Finland) on July 10,
+              2022. Listed start: 12:00:00 (UTC). The Finnish motorcycle Grand Prix is a round of the FIM Grand
+              Prix motorcycle racing championship from 1962 to 1982. It was held at the Tampere Circuit in 1962
+              and 1963 before moving to the Imatra Circuit. Giacomo Agostini won the most Finnish Grands Prix with
+              ten 500cc victories and seven 350cc victories.     Homologation works at the KymiRing, together with
+              the risks caused by the ongoing geopolitical situation in the region, have sadly obliged the
+              cancellation of the Finnish Grand Prix in 2022. The current circumstances have created delays and
+              put the ongoing work at the new circuit at risk. All parties have therefore agreed that the track’s
+              debut must be postponed to 2023, when MotoGP™ looks forward to returning to Finland for the first
+              time in four decades.
+          5:
+            title: Sprint
+            originally_available: 2022-07-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s12/e5.jpg
+            summary: >
+              Sprint for Grand Prix of Finland takes place at KymiRing (Kausala, Finland) on July 10, 2022. Listed
+              start: 12:00:00 (UTC). The Finnish motorcycle Grand Prix is a round of the FIM Grand Prix motorcycle
+              racing championship from 1962 to 1982. It was held at the Tampere Circuit in 1962 and 1963 before
+              moving to the Imatra Circuit. Giacomo Agostini won the most Finnish Grands Prix with ten 500cc
+              victories and seven 350cc victories.     Homologation works at the KymiRing, together with the risks
+              caused by the ongoing geopolitical situation in the region, have sadly obliged the cancellation of
+              the Finnish Grand Prix in 2022. The current circumstances have created delays and put the ongoing
+              work at the new circuit at risk. All parties have therefore agreed that the track’s debut must be
+              postponed to 2023, when MotoGP™ looks forward to returning to Finland for the first time in four
+              decades.
+          6:
+            title: Race
+            originally_available: 2022-07-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s12/e6.jpg
+            summary: >
+              Race for Grand Prix of Finland takes place at KymiRing (Kausala, Finland) on July 10, 2022. Listed
+              start: 12:00:00 (UTC). The Finnish motorcycle Grand Prix is a round of the FIM Grand Prix motorcycle
+              racing championship from 1962 to 1982. It was held at the Tampere Circuit in 1962 and 1963 before
+              moving to the Imatra Circuit. Giacomo Agostini won the most Finnish Grands Prix with ten 500cc
+              victories and seven 350cc victories.     Homologation works at the KymiRing, together with the risks
+              caused by the ongoing geopolitical situation in the region, have sadly obliged the cancellation of
+              the Finnish Grand Prix in 2022. The current circumstances have created delays and put the ongoing
+              work at the new circuit at risk. All parties have therefore agreed that the track’s debut must be
+              postponed to 2023, when MotoGP™ looks forward to returning to Finland for the first time in four
+              decades.
+      13:
+        title: British Grand Prix
+        sort_title: 13_British Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s13/poster.jpg
+        summary: >
+          Round 13 (British Grand Prix) spans August 7, 2022 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2022-08-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s13/e1.jpg
+            summary: >
+              Practice One for British Grand Prix takes place at Silverstone Circuit (Silverstone, United Kingdom)
+              on August 07, 2022. Local start: 13:00:00. The British motorcycle Grand Prix is a motorcycling event
+              that is part of the Grand Prix motorcycle racing season.   Before 1977, the only British round was
+              the Isle of Man TT, which was part of the FIM championship from its inauguration in 1949 until 1976.
+              The Isle of Man TT was the most prestigious event on the Grand Prix motorcycling calendar from 1949
+              to 1972. After the 1972 event, multiple world champion Giacomo Agostini dropped a bombshell on the
+              motorsports world by stating he would never race at the Isle of Man TT again, saying the 37-mile (62
+              km) circuit was too dangerous for international competition. His friend Gilberto Parlotti was killed
+              during the event. Many riders followed Agostini's boycotting of the next four events, and after the
+              1976 season, the Isle of Man TT was scratched from the FIM calendar.  The inaugural British
+              motorcycle Grand Prix, the first motorcycle Grand Prix to be held on the British mainland, took
+              place at the Silverstone Circuit. The event was moved to Donington Park in 1987 before returning to
+              Silverstone in 2010.
+          2:
+            title: Practice Two
+            originally_available: 2022-08-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s13/e2.jpg
+            summary: >
+              Practice Two for British Grand Prix takes place at Silverstone Circuit (Silverstone, United Kingdom)
+              on August 07, 2022. Local start: 13:00:00. The British motorcycle Grand Prix is a motorcycling event
+              that is part of the Grand Prix motorcycle racing season.   Before 1977, the only British round was
+              the Isle of Man TT, which was part of the FIM championship from its inauguration in 1949 until 1976.
+              The Isle of Man TT was the most prestigious event on the Grand Prix motorcycling calendar from 1949
+              to 1972. After the 1972 event, multiple world champion Giacomo Agostini dropped a bombshell on the
+              motorsports world by stating he would never race at the Isle of Man TT again, saying the 37-mile (62
+              km) circuit was too dangerous for international competition. His friend Gilberto Parlotti was killed
+              during the event. Many riders followed Agostini's boycotting of the next four events, and after the
+              1976 season, the Isle of Man TT was scratched from the FIM calendar.  The inaugural British
+              motorcycle Grand Prix, the first motorcycle Grand Prix to be held on the British mainland, took
+              place at the Silverstone Circuit. The event was moved to Donington Park in 1987 before returning to
+              Silverstone in 2010.
+          3:
+            title: Qualifying One
+            originally_available: 2022-08-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s13/e3.jpg
+            summary: >
+              Qualifying One for British Grand Prix takes place at Silverstone Circuit (Silverstone, United
+              Kingdom) on August 07, 2022. Local start: 13:00:00. The British motorcycle Grand Prix is a
+              motorcycling event that is part of the Grand Prix motorcycle racing season.   Before 1977, the only
+              British round was the Isle of Man TT, which was part of the FIM championship from its inauguration
+              in 1949 until 1976.  The Isle of Man TT was the most prestigious event on the Grand Prix
+              motorcycling calendar from 1949 to 1972. After the 1972 event, multiple world champion Giacomo
+              Agostini dropped a bombshell on the motorsports world by stating he would never race at the Isle of
+              Man TT again, saying the 37-mile (62 km) circuit was too dangerous for international competition.
+              His friend Gilberto Parlotti was killed during the event. Many riders followed Agostini's boycotting
+              of the next four events, and after the 1976 season, the Isle of Man TT was scratched from the FIM
+              calendar.  The inaugural British motorcycle Grand Prix, the first motorcycle Grand Prix to be held
+              on the British mainland, took place at the Silverstone Circuit. The event was moved to Donington
+              Park in 1987 before returning to Silverstone in 2010.
+          4:
+            title: Qualifying Two
+            originally_available: 2022-08-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s13/e4.jpg
+            summary: >
+              Qualifying Two for British Grand Prix takes place at Silverstone Circuit (Silverstone, United
+              Kingdom) on August 07, 2022. Local start: 13:00:00. The British motorcycle Grand Prix is a
+              motorcycling event that is part of the Grand Prix motorcycle racing season.   Before 1977, the only
+              British round was the Isle of Man TT, which was part of the FIM championship from its inauguration
+              in 1949 until 1976.  The Isle of Man TT was the most prestigious event on the Grand Prix
+              motorcycling calendar from 1949 to 1972. After the 1972 event, multiple world champion Giacomo
+              Agostini dropped a bombshell on the motorsports world by stating he would never race at the Isle of
+              Man TT again, saying the 37-mile (62 km) circuit was too dangerous for international competition.
+              His friend Gilberto Parlotti was killed during the event. Many riders followed Agostini's boycotting
+              of the next four events, and after the 1976 season, the Isle of Man TT was scratched from the FIM
+              calendar.  The inaugural British motorcycle Grand Prix, the first motorcycle Grand Prix to be held
+              on the British mainland, took place at the Silverstone Circuit. The event was moved to Donington
+              Park in 1987 before returning to Silverstone in 2010.
+          5:
+            title: Sprint
+            originally_available: 2022-08-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s13/e5.jpg
+            summary: >
+              Sprint for British Grand Prix takes place at Silverstone Circuit (Silverstone, United Kingdom) on
+              August 07, 2022. Local start: 13:00:00. The British motorcycle Grand Prix is a motorcycling event
+              that is part of the Grand Prix motorcycle racing season.   Before 1977, the only British round was
+              the Isle of Man TT, which was part of the FIM championship from its inauguration in 1949 until 1976.
+              The Isle of Man TT was the most prestigious event on the Grand Prix motorcycling calendar from 1949
+              to 1972. After the 1972 event, multiple world champion Giacomo Agostini dropped a bombshell on the
+              motorsports world by stating he would never race at the Isle of Man TT again, saying the 37-mile (62
+              km) circuit was too dangerous for international competition. His friend Gilberto Parlotti was killed
+              during the event. Many riders followed Agostini's boycotting of the next four events, and after the
+              1976 season, the Isle of Man TT was scratched from the FIM calendar.  The inaugural British
+              motorcycle Grand Prix, the first motorcycle Grand Prix to be held on the British mainland, took
+              place at the Silverstone Circuit. The event was moved to Donington Park in 1987 before returning to
+              Silverstone in 2010.
+          6:
+            title: Race
+            originally_available: 2022-08-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s13/e6.jpg
+            summary: >
+              Race for British Grand Prix takes place at Silverstone Circuit (Silverstone, United Kingdom) on
+              August 07, 2022. Local start: 13:00:00. The British motorcycle Grand Prix is a motorcycling event
+              that is part of the Grand Prix motorcycle racing season.   Before 1977, the only British round was
+              the Isle of Man TT, which was part of the FIM championship from its inauguration in 1949 until 1976.
+              The Isle of Man TT was the most prestigious event on the Grand Prix motorcycling calendar from 1949
+              to 1972. After the 1972 event, multiple world champion Giacomo Agostini dropped a bombshell on the
+              motorsports world by stating he would never race at the Isle of Man TT again, saying the 37-mile (62
+              km) circuit was too dangerous for international competition. His friend Gilberto Parlotti was killed
+              during the event. Many riders followed Agostini's boycotting of the next four events, and after the
+              1976 season, the Isle of Man TT was scratched from the FIM calendar.  The inaugural British
+              motorcycle Grand Prix, the first motorcycle Grand Prix to be held on the British mainland, took
+              place at the Silverstone Circuit. The event was moved to Donington Park in 1987 before returning to
+              Silverstone in 2010.
+      14:
+        title: Motorrad Grand Prix von Österreich
+        sort_title: 14_Motorrad Grand Prix von Österreich
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s14/poster.jpg
+        summary: >
+          Round 14 (Motorrad Grand Prix von Österreich) spans August 21, 2022 with 6 events recorded for this
+          MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2022-08-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s14/e1.jpg
+            summary: >
+              Practice One for Motorrad Grand Prix von Österreich takes place at Red Bull Ring (Spielberg,
+              Austria) on August 21, 2022. Local start: 13:30:00. The Austrian motorcycle Grand Prix (Motorrad
+              Grand Prix von Österreich) is a motorcycling event that was part of the Grand Prix motorcycle racing
+              season from 1971 to 1997, and then again from 2016 onwards.  The inaugural Austrian grand prix was
+              held in 1971 at the Salzburgring, where it stayed until 1994. In 1995, the Austrian GP was taken off
+              the calendar because the Salzburgring was deemed too dangerous for racing., but would return in 1996
+              on the then-called Österreichring. In 1997, the Österreichring became the A1-Ring, named after the
+              Austrian mobile network operator A1.  For the 1998 season, the Austrian round was scrapped, mainly
+              due to the low number of spectators who visited the races.  After a 19-year absence, the Austrian
+              Grand Prix returned in 2016 and currently takes place at the Red Bull Ring in Spielberg.
+          2:
+            title: Practice Two
+            originally_available: 2022-08-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s14/e2.jpg
+            summary: >
+              Practice Two for Motorrad Grand Prix von Österreich takes place at Red Bull Ring (Spielberg,
+              Austria) on August 21, 2022. Local start: 13:30:00. The Austrian motorcycle Grand Prix (Motorrad
+              Grand Prix von Österreich) is a motorcycling event that was part of the Grand Prix motorcycle racing
+              season from 1971 to 1997, and then again from 2016 onwards.  The inaugural Austrian grand prix was
+              held in 1971 at the Salzburgring, where it stayed until 1994. In 1995, the Austrian GP was taken off
+              the calendar because the Salzburgring was deemed too dangerous for racing., but would return in 1996
+              on the then-called Österreichring. In 1997, the Österreichring became the A1-Ring, named after the
+              Austrian mobile network operator A1.  For the 1998 season, the Austrian round was scrapped, mainly
+              due to the low number of spectators who visited the races.  After a 19-year absence, the Austrian
+              Grand Prix returned in 2016 and currently takes place at the Red Bull Ring in Spielberg.
+          3:
+            title: Qualifying One
+            originally_available: 2022-08-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s14/e3.jpg
+            summary: >
+              Qualifying One for Motorrad Grand Prix von Österreich takes place at Red Bull Ring (Spielberg,
+              Austria) on August 21, 2022. Local start: 13:30:00. The Austrian motorcycle Grand Prix (Motorrad
+              Grand Prix von Österreich) is a motorcycling event that was part of the Grand Prix motorcycle racing
+              season from 1971 to 1997, and then again from 2016 onwards.  The inaugural Austrian grand prix was
+              held in 1971 at the Salzburgring, where it stayed until 1994. In 1995, the Austrian GP was taken off
+              the calendar because the Salzburgring was deemed too dangerous for racing., but would return in 1996
+              on the then-called Österreichring. In 1997, the Österreichring became the A1-Ring, named after the
+              Austrian mobile network operator A1.  For the 1998 season, the Austrian round was scrapped, mainly
+              due to the low number of spectators who visited the races.  After a 19-year absence, the Austrian
+              Grand Prix returned in 2016 and currently takes place at the Red Bull Ring in Spielberg.
+          4:
+            title: Qualifying Two
+            originally_available: 2022-08-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s14/e4.jpg
+            summary: >
+              Qualifying Two for Motorrad Grand Prix von Österreich takes place at Red Bull Ring (Spielberg,
+              Austria) on August 21, 2022. Local start: 13:30:00. The Austrian motorcycle Grand Prix (Motorrad
+              Grand Prix von Österreich) is a motorcycling event that was part of the Grand Prix motorcycle racing
+              season from 1971 to 1997, and then again from 2016 onwards.  The inaugural Austrian grand prix was
+              held in 1971 at the Salzburgring, where it stayed until 1994. In 1995, the Austrian GP was taken off
+              the calendar because the Salzburgring was deemed too dangerous for racing., but would return in 1996
+              on the then-called Österreichring. In 1997, the Österreichring became the A1-Ring, named after the
+              Austrian mobile network operator A1.  For the 1998 season, the Austrian round was scrapped, mainly
+              due to the low number of spectators who visited the races.  After a 19-year absence, the Austrian
+              Grand Prix returned in 2016 and currently takes place at the Red Bull Ring in Spielberg.
+          5:
+            title: Sprint
+            originally_available: 2022-08-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s14/e5.jpg
+            summary: >
+              Sprint for Motorrad Grand Prix von Österreich takes place at Red Bull Ring (Spielberg, Austria) on
+              August 21, 2022. Local start: 13:30:00. The Austrian motorcycle Grand Prix (Motorrad Grand Prix von
+              Österreich) is a motorcycling event that was part of the Grand Prix motorcycle racing season from
+              1971 to 1997, and then again from 2016 onwards.  The inaugural Austrian grand prix was held in 1971
+              at the Salzburgring, where it stayed until 1994. In 1995, the Austrian GP was taken off the calendar
+              because the Salzburgring was deemed too dangerous for racing., but would return in 1996 on the then-
+              called Österreichring. In 1997, the Österreichring became the A1-Ring, named after the Austrian
+              mobile network operator A1.  For the 1998 season, the Austrian round was scrapped, mainly due to the
+              low number of spectators who visited the races.  After a 19-year absence, the Austrian Grand Prix
+              returned in 2016 and currently takes place at the Red Bull Ring in Spielberg.
+          6:
+            title: Race
+            originally_available: 2022-08-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s14/e6.jpg
+            summary: >
+              Race for Motorrad Grand Prix von Österreich takes place at Red Bull Ring (Spielberg, Austria) on
+              August 21, 2022. Local start: 13:30:00. The Austrian motorcycle Grand Prix (Motorrad Grand Prix von
+              Österreich) is a motorcycling event that was part of the Grand Prix motorcycle racing season from
+              1971 to 1997, and then again from 2016 onwards.  The inaugural Austrian grand prix was held in 1971
+              at the Salzburgring, where it stayed until 1994. In 1995, the Austrian GP was taken off the calendar
+              because the Salzburgring was deemed too dangerous for racing., but would return in 1996 on the then-
+              called Österreichring. In 1997, the Österreichring became the A1-Ring, named after the Austrian
+              mobile network operator A1.  For the 1998 season, the Austrian round was scrapped, mainly due to the
+              low number of spectators who visited the races.  After a 19-year absence, the Austrian Grand Prix
+              returned in 2016 and currently takes place at the Red Bull Ring in Spielberg.
+      15:
+        title: Gran Premio di San Marino e della Riviera di Rimini
+        sort_title: 15_Gran Premio di San Marino e della Riviera di Rimini
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s15/poster.jpg
+        summary: >
+          Round 15 (Gran Premio di San Marino e della Riviera di Rimini) spans September 4, 2022 with 6 events
+          recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2022-09-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s15/e1.jpg
+            summary: >
+              Practice One for Gran Premio di San Marino e della Riviera di Rimini takes place at Misano World
+              Circuit Marco Simoncelli (Misano Adriatico, Italy) on September 04, 2022. Local start: 14:00:00. The
+              San Marino and Rimini Riviera Grand Prix is a motorcycling event that is part of the World
+              Motorcycle Racing season. The name of the race is a misnomer as the race has always taken place in
+              Italy, but because there is already an Italian motorcycle Grand Prix, it was called the San Marino
+              Grand Prix because of the track location's proximity to San Marino.  The 2021 San Marino and Rimini
+              Riviera motorcycle Grand Prix (officially known as the Gran Premio Octo di San Marino e della
+              Riviera di Rimini) was the fourteenth round of the 2021 Grand Prix motorcycle racing season and the
+              sixth and seventh round of the 2021 MotoE World Cup, which represented the end of the season for the
+              MotoE class. It was held at the Misano World Circuit Marco Simoncelli in Misano Adriatico on 19
+              September 2021.
+          2:
+            title: Practice Two
+            originally_available: 2022-09-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s15/e2.jpg
+            summary: >
+              Practice Two for Gran Premio di San Marino e della Riviera di Rimini takes place at Misano World
+              Circuit Marco Simoncelli (Misano Adriatico, Italy) on September 04, 2022. Local start: 14:00:00. The
+              San Marino and Rimini Riviera Grand Prix is a motorcycling event that is part of the World
+              Motorcycle Racing season. The name of the race is a misnomer as the race has always taken place in
+              Italy, but because there is already an Italian motorcycle Grand Prix, it was called the San Marino
+              Grand Prix because of the track location's proximity to San Marino.  The 2021 San Marino and Rimini
+              Riviera motorcycle Grand Prix (officially known as the Gran Premio Octo di San Marino e della
+              Riviera di Rimini) was the fourteenth round of the 2021 Grand Prix motorcycle racing season and the
+              sixth and seventh round of the 2021 MotoE World Cup, which represented the end of the season for the
+              MotoE class. It was held at the Misano World Circuit Marco Simoncelli in Misano Adriatico on 19
+              September 2021.
+          3:
+            title: Qualifying One
+            originally_available: 2022-09-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s15/e3.jpg
+            summary: >
+              Qualifying One for Gran Premio di San Marino e della Riviera di Rimini takes place at Misano World
+              Circuit Marco Simoncelli (Misano Adriatico, Italy) on September 04, 2022. Local start: 14:00:00. The
+              San Marino and Rimini Riviera Grand Prix is a motorcycling event that is part of the World
+              Motorcycle Racing season. The name of the race is a misnomer as the race has always taken place in
+              Italy, but because there is already an Italian motorcycle Grand Prix, it was called the San Marino
+              Grand Prix because of the track location's proximity to San Marino.  The 2021 San Marino and Rimini
+              Riviera motorcycle Grand Prix (officially known as the Gran Premio Octo di San Marino e della
+              Riviera di Rimini) was the fourteenth round of the 2021 Grand Prix motorcycle racing season and the
+              sixth and seventh round of the 2021 MotoE World Cup, which represented the end of the season for the
+              MotoE class. It was held at the Misano World Circuit Marco Simoncelli in Misano Adriatico on 19
+              September 2021.
+          4:
+            title: Qualifying Two
+            originally_available: 2022-09-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s15/e4.jpg
+            summary: >
+              Qualifying Two for Gran Premio di San Marino e della Riviera di Rimini takes place at Misano World
+              Circuit Marco Simoncelli (Misano Adriatico, Italy) on September 04, 2022. Local start: 14:00:00. The
+              San Marino and Rimini Riviera Grand Prix is a motorcycling event that is part of the World
+              Motorcycle Racing season. The name of the race is a misnomer as the race has always taken place in
+              Italy, but because there is already an Italian motorcycle Grand Prix, it was called the San Marino
+              Grand Prix because of the track location's proximity to San Marino.  The 2021 San Marino and Rimini
+              Riviera motorcycle Grand Prix (officially known as the Gran Premio Octo di San Marino e della
+              Riviera di Rimini) was the fourteenth round of the 2021 Grand Prix motorcycle racing season and the
+              sixth and seventh round of the 2021 MotoE World Cup, which represented the end of the season for the
+              MotoE class. It was held at the Misano World Circuit Marco Simoncelli in Misano Adriatico on 19
+              September 2021.
+          5:
+            title: Sprint
+            originally_available: 2022-09-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s15/e5.jpg
+            summary: >
+              Sprint for Gran Premio di San Marino e della Riviera di Rimini takes place at Misano World Circuit
+              Marco Simoncelli (Misano Adriatico, Italy) on September 04, 2022. Local start: 14:00:00. The San
+              Marino and Rimini Riviera Grand Prix is a motorcycling event that is part of the World Motorcycle
+              Racing season. The name of the race is a misnomer as the race has always taken place in Italy, but
+              because there is already an Italian motorcycle Grand Prix, it was called the San Marino Grand Prix
+              because of the track location's proximity to San Marino.  The 2021 San Marino and Rimini Riviera
+              motorcycle Grand Prix (officially known as the Gran Premio Octo di San Marino e della Riviera di
+              Rimini) was the fourteenth round of the 2021 Grand Prix motorcycle racing season and the sixth and
+              seventh round of the 2021 MotoE World Cup, which represented the end of the season for the MotoE
+              class. It was held at the Misano World Circuit Marco Simoncelli in Misano Adriatico on 19 September
+              2021.
+          6:
+            title: Race
+            originally_available: 2022-09-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s15/e6.jpg
+            summary: >
+              Race for Gran Premio di San Marino e della Riviera di Rimini takes place at Misano World Circuit
+              Marco Simoncelli (Misano Adriatico, Italy) on September 04, 2022. Local start: 14:00:00. The San
+              Marino and Rimini Riviera Grand Prix is a motorcycling event that is part of the World Motorcycle
+              Racing season. The name of the race is a misnomer as the race has always taken place in Italy, but
+              because there is already an Italian motorcycle Grand Prix, it was called the San Marino Grand Prix
+              because of the track location's proximity to San Marino.  The 2021 San Marino and Rimini Riviera
+              motorcycle Grand Prix (officially known as the Gran Premio Octo di San Marino e della Riviera di
+              Rimini) was the fourteenth round of the 2021 Grand Prix motorcycle racing season and the sixth and
+              seventh round of the 2021 MotoE World Cup, which represented the end of the season for the MotoE
+              class. It was held at the Misano World Circuit Marco Simoncelli in Misano Adriatico on 19 September
+              2021.
+      16:
+        title: Gran Premio de Aragón
+        sort_title: 16_Gran Premio de Aragón
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s16/poster.jpg
+        summary: >
+          Round 16 (Gran Premio de Aragón) spans September 18, 2022 with 6 events recorded for this MotoGP
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2022-09-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s16/e1.jpg
+            summary: >
+              Practice One for Gran Premio de Aragón takes place at MotorLand Aragón (Alcañiz, Spain) on September
+              18, 2022. Local start: 14:00:00. The Aragon motorcycle Grand Prix is a motorcycling event that is
+              part of the Grand Prix motorcycle racing calendar. Its first edition was held in 2010 to replace the
+              Hungarian Grand Prix.
+          2:
+            title: Practice Two
+            originally_available: 2022-09-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s16/e2.jpg
+            summary: >
+              Practice Two for Gran Premio de Aragón takes place at MotorLand Aragón (Alcañiz, Spain) on September
+              18, 2022. Local start: 14:00:00. The Aragon motorcycle Grand Prix is a motorcycling event that is
+              part of the Grand Prix motorcycle racing calendar. Its first edition was held in 2010 to replace the
+              Hungarian Grand Prix.
+          3:
+            title: Qualifying One
+            originally_available: 2022-09-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s16/e3.jpg
+            summary: >
+              Qualifying One for Gran Premio de Aragón takes place at MotorLand Aragón (Alcañiz, Spain) on
+              September 18, 2022. Local start: 14:00:00. The Aragon motorcycle Grand Prix is a motorcycling event
+              that is part of the Grand Prix motorcycle racing calendar. Its first edition was held in 2010 to
+              replace the Hungarian Grand Prix.
+          4:
+            title: Qualifying Two
+            originally_available: 2022-09-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s16/e4.jpg
+            summary: >
+              Qualifying Two for Gran Premio de Aragón takes place at MotorLand Aragón (Alcañiz, Spain) on
+              September 18, 2022. Local start: 14:00:00. The Aragon motorcycle Grand Prix is a motorcycling event
+              that is part of the Grand Prix motorcycle racing calendar. Its first edition was held in 2010 to
+              replace the Hungarian Grand Prix.
+          5:
+            title: Sprint
+            originally_available: 2022-09-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s16/e5.jpg
+            summary: >
+              Sprint for Gran Premio de Aragón takes place at MotorLand Aragón (Alcañiz, Spain) on September 18,
+              2022. Local start: 14:00:00. The Aragon motorcycle Grand Prix is a motorcycling event that is part
+              of the Grand Prix motorcycle racing calendar. Its first edition was held in 2010 to replace the
+              Hungarian Grand Prix.
+          6:
+            title: Race
+            originally_available: 2022-09-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s16/e6.jpg
+            summary: >
+              Race for Gran Premio de Aragón takes place at MotorLand Aragón (Alcañiz, Spain) on September 18,
+              2022. Local start: 14:00:00. The Aragon motorcycle Grand Prix is a motorcycling event that is part
+              of the Grand Prix motorcycle racing calendar. Its first edition was held in 2010 to replace the
+              Hungarian Grand Prix.
+      17:
+        title: Grand Prix of Japan
+        sort_title: 17_Grand Prix of Japan
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s17/poster.jpg
+        summary: >
+          Round 17 (Grand Prix of Japan) spans September 25, 2022 with 6 events recorded for this MotoGP
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2022-09-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s17/e1.jpg
+            summary: >
+              Practice One for Grand Prix of Japan takes place at Twin Ring Motegi (Motegi, Japan) on September
+              25, 2022. Listed start: 06:00:00 (UTC). The Japanese Motorcycle Grand Prix is a motorcycling event
+              that is part of the Grand Prix motorcycle racing season.  The main venue who held the races for
+              years was the Suzuka Circuit, until it permanently was replaced by the Twin Ring Motegi from 2004
+              onwards after the circuit faced criticism for its short runoff area's and dangerous trackside
+              barriers, causing the death of Japanese rider Daijiro Kato and the injuries of Marco Melandri and
+              Alex Barros at the 2003 Japanese Grand Prix. As a result, Suzuka was faced with making considerable
+              safety alterations to avoid a possible strike by the riders – many of whom believed the 240 hp
+              motorbikes had outgrown the tight circuit. The FIM stated that the modifications would not be
+              completed before 2005 and that, therefore, the 2004 Japanese Grand Prix would be held at the Twin
+              Ring Motegi, but the circuit has not subsequently appeared on the calendar.  The 2020 and 2021 races
+              were cancelled due to the outbreak of COVID-19.
+          2:
+            title: Practice Two
+            originally_available: 2022-09-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s17/e2.jpg
+            summary: >
+              Practice Two for Grand Prix of Japan takes place at Twin Ring Motegi (Motegi, Japan) on September
+              25, 2022. Listed start: 06:00:00 (UTC). The Japanese Motorcycle Grand Prix is a motorcycling event
+              that is part of the Grand Prix motorcycle racing season.  The main venue who held the races for
+              years was the Suzuka Circuit, until it permanently was replaced by the Twin Ring Motegi from 2004
+              onwards after the circuit faced criticism for its short runoff area's and dangerous trackside
+              barriers, causing the death of Japanese rider Daijiro Kato and the injuries of Marco Melandri and
+              Alex Barros at the 2003 Japanese Grand Prix. As a result, Suzuka was faced with making considerable
+              safety alterations to avoid a possible strike by the riders – many of whom believed the 240 hp
+              motorbikes had outgrown the tight circuit. The FIM stated that the modifications would not be
+              completed before 2005 and that, therefore, the 2004 Japanese Grand Prix would be held at the Twin
+              Ring Motegi, but the circuit has not subsequently appeared on the calendar.  The 2020 and 2021 races
+              were cancelled due to the outbreak of COVID-19.
+          3:
+            title: Qualifying One
+            originally_available: 2022-09-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s17/e3.jpg
+            summary: >
+              Qualifying One for Grand Prix of Japan takes place at Twin Ring Motegi (Motegi, Japan) on September
+              25, 2022. Listed start: 06:00:00 (UTC). The Japanese Motorcycle Grand Prix is a motorcycling event
+              that is part of the Grand Prix motorcycle racing season.  The main venue who held the races for
+              years was the Suzuka Circuit, until it permanently was replaced by the Twin Ring Motegi from 2004
+              onwards after the circuit faced criticism for its short runoff area's and dangerous trackside
+              barriers, causing the death of Japanese rider Daijiro Kato and the injuries of Marco Melandri and
+              Alex Barros at the 2003 Japanese Grand Prix. As a result, Suzuka was faced with making considerable
+              safety alterations to avoid a possible strike by the riders – many of whom believed the 240 hp
+              motorbikes had outgrown the tight circuit. The FIM stated that the modifications would not be
+              completed before 2005 and that, therefore, the 2004 Japanese Grand Prix would be held at the Twin
+              Ring Motegi, but the circuit has not subsequently appeared on the calendar.  The 2020 and 2021 races
+              were cancelled due to the outbreak of COVID-19.
+          4:
+            title: Qualifying Two
+            originally_available: 2022-09-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s17/e4.jpg
+            summary: >
+              Qualifying Two for Grand Prix of Japan takes place at Twin Ring Motegi (Motegi, Japan) on September
+              25, 2022. Listed start: 06:00:00 (UTC). The Japanese Motorcycle Grand Prix is a motorcycling event
+              that is part of the Grand Prix motorcycle racing season.  The main venue who held the races for
+              years was the Suzuka Circuit, until it permanently was replaced by the Twin Ring Motegi from 2004
+              onwards after the circuit faced criticism for its short runoff area's and dangerous trackside
+              barriers, causing the death of Japanese rider Daijiro Kato and the injuries of Marco Melandri and
+              Alex Barros at the 2003 Japanese Grand Prix. As a result, Suzuka was faced with making considerable
+              safety alterations to avoid a possible strike by the riders – many of whom believed the 240 hp
+              motorbikes had outgrown the tight circuit. The FIM stated that the modifications would not be
+              completed before 2005 and that, therefore, the 2004 Japanese Grand Prix would be held at the Twin
+              Ring Motegi, but the circuit has not subsequently appeared on the calendar.  The 2020 and 2021 races
+              were cancelled due to the outbreak of COVID-19.
+          5:
+            title: Sprint
+            originally_available: 2022-09-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s17/e5.jpg
+            summary: >
+              Sprint for Grand Prix of Japan takes place at Twin Ring Motegi (Motegi, Japan) on September 25,
+              2022. Listed start: 06:00:00 (UTC). The Japanese Motorcycle Grand Prix is a motorcycling event that
+              is part of the Grand Prix motorcycle racing season.  The main venue who held the races for years was
+              the Suzuka Circuit, until it permanently was replaced by the Twin Ring Motegi from 2004 onwards
+              after the circuit faced criticism for its short runoff area's and dangerous trackside barriers,
+              causing the death of Japanese rider Daijiro Kato and the injuries of Marco Melandri and Alex Barros
+              at the 2003 Japanese Grand Prix. As a result, Suzuka was faced with making considerable safety
+              alterations to avoid a possible strike by the riders – many of whom believed the 240 hp motorbikes
+              had outgrown the tight circuit. The FIM stated that the modifications would not be completed before
+              2005 and that, therefore, the 2004 Japanese Grand Prix would be held at the Twin Ring Motegi, but
+              the circuit has not subsequently appeared on the calendar.  The 2020 and 2021 races were cancelled
+              due to the outbreak of COVID-19.
+          6:
+            title: Race
+            originally_available: 2022-09-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s17/e6.jpg
+            summary: >
+              Race for Grand Prix of Japan takes place at Twin Ring Motegi (Motegi, Japan) on September 25, 2022.
+              Listed start: 06:00:00 (UTC). The Japanese Motorcycle Grand Prix is a motorcycling event that is
+              part of the Grand Prix motorcycle racing season.  The main venue who held the races for years was
+              the Suzuka Circuit, until it permanently was replaced by the Twin Ring Motegi from 2004 onwards
+              after the circuit faced criticism for its short runoff area's and dangerous trackside barriers,
+              causing the death of Japanese rider Daijiro Kato and the injuries of Marco Melandri and Alex Barros
+              at the 2003 Japanese Grand Prix. As a result, Suzuka was faced with making considerable safety
+              alterations to avoid a possible strike by the riders – many of whom believed the 240 hp motorbikes
+              had outgrown the tight circuit. The FIM stated that the modifications would not be completed before
+              2005 and that, therefore, the 2004 Japanese Grand Prix would be held at the Twin Ring Motegi, but
+              the circuit has not subsequently appeared on the calendar.  The 2020 and 2021 races were cancelled
+              due to the outbreak of COVID-19.
+      18:
+        title: Thailand Grand Prix
+        sort_title: 18_Thailand Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s18/poster.jpg
+        summary: >
+          Round 18 (Thailand Grand Prix) spans October 2, 2022 with 6 events recorded for this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2022-10-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s18/e1.jpg
+            summary: >
+              Practice One for Thailand Grand Prix takes place at Chang International Circuit (Buriram, Thailand)
+              on October 02, 2022. Listed start: 00:00:00 (UTC). The Thailand motorcycle Grand Prix is a MotoGP
+              event that started in 2018. The race is hosted at Buriram International Circuit near the eponymous
+              city in Buriram Province. In 2020 and 2021, the race was cancelled due to the COVID-19 pandemic.
+          2:
+            title: Practice Two
+            originally_available: 2022-10-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s18/e2.jpg
+            summary: >
+              Practice Two for Thailand Grand Prix takes place at Chang International Circuit (Buriram, Thailand)
+              on October 02, 2022. Listed start: 00:00:00 (UTC). The Thailand motorcycle Grand Prix is a MotoGP
+              event that started in 2018. The race is hosted at Buriram International Circuit near the eponymous
+              city in Buriram Province. In 2020 and 2021, the race was cancelled due to the COVID-19 pandemic.
+          3:
+            title: Qualifying One
+            originally_available: 2022-10-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s18/e3.jpg
+            summary: >
+              Qualifying One for Thailand Grand Prix takes place at Chang International Circuit (Buriram,
+              Thailand) on October 02, 2022. Listed start: 00:00:00 (UTC). The Thailand motorcycle Grand Prix is a
+              MotoGP event that started in 2018. The race is hosted at Buriram International Circuit near the
+              eponymous city in Buriram Province. In 2020 and 2021, the race was cancelled due to the COVID-19
+              pandemic.
+          4:
+            title: Qualifying Two
+            originally_available: 2022-10-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s18/e4.jpg
+            summary: >
+              Qualifying Two for Thailand Grand Prix takes place at Chang International Circuit (Buriram,
+              Thailand) on October 02, 2022. Listed start: 00:00:00 (UTC). The Thailand motorcycle Grand Prix is a
+              MotoGP event that started in 2018. The race is hosted at Buriram International Circuit near the
+              eponymous city in Buriram Province. In 2020 and 2021, the race was cancelled due to the COVID-19
+              pandemic.
+          5:
+            title: Sprint
+            originally_available: 2022-10-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s18/e5.jpg
+            summary: >
+              Sprint for Thailand Grand Prix takes place at Chang International Circuit (Buriram, Thailand) on
+              October 02, 2022. Listed start: 00:00:00 (UTC). The Thailand motorcycle Grand Prix is a MotoGP event
+              that started in 2018. The race is hosted at Buriram International Circuit near the eponymous city in
+              Buriram Province. In 2020 and 2021, the race was cancelled due to the COVID-19 pandemic.
+          6:
+            title: Race
+            originally_available: 2022-10-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s18/e6.jpg
+            summary: >
+              Race for Thailand Grand Prix takes place at Chang International Circuit (Buriram, Thailand) on
+              October 02, 2022. Listed start: 00:00:00 (UTC). The Thailand motorcycle Grand Prix is a MotoGP event
+              that started in 2018. The race is hosted at Buriram International Circuit near the eponymous city in
+              Buriram Province. In 2020 and 2021, the race was cancelled due to the COVID-19 pandemic.
+      19:
+        title: Australian Motorcycle Grand Prix
+        sort_title: 19_Australian Motorcycle Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s19/poster.jpg
+        summary: >
+          Round 19 (Australian Motorcycle Grand Prix) spans October 16, 2022 with 6 events recorded for this
+          MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2022-10-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s19/e1.jpg
+            summary: >
+              Practice One for Australian Motorcycle Grand Prix takes place at Phillip Island (Summerland Beach,
+              Australia) on October 16, 2022. Listed start: 00:00:00 (UTC). The Australian motorcycle Grand Prix
+              is a motorcycling event that is part of the Grand Prix motorcycle racing season. From 1997 to the
+              present day, it is run at the scenic Phillip Island Grand Prix Circuit south of Melbourne, Victoria.
+              Prior to 1997 the event was held at a number of different venues, most notably Eastern Creek west of
+              Sydney New South Wales and Bathurst in central western New South Wales. The only rider to win the
+              'premier class' race at multiple venues is five-time World Champion Mick Doohan, Eastern Creek
+              (1992, 1995) and Phillip Island (1998).
+          2:
+            title: Practice Two
+            originally_available: 2022-10-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s19/e2.jpg
+            summary: >
+              Practice Two for Australian Motorcycle Grand Prix takes place at Phillip Island (Summerland Beach,
+              Australia) on October 16, 2022. Listed start: 00:00:00 (UTC). The Australian motorcycle Grand Prix
+              is a motorcycling event that is part of the Grand Prix motorcycle racing season. From 1997 to the
+              present day, it is run at the scenic Phillip Island Grand Prix Circuit south of Melbourne, Victoria.
+              Prior to 1997 the event was held at a number of different venues, most notably Eastern Creek west of
+              Sydney New South Wales and Bathurst in central western New South Wales. The only rider to win the
+              'premier class' race at multiple venues is five-time World Champion Mick Doohan, Eastern Creek
+              (1992, 1995) and Phillip Island (1998).
+          3:
+            title: Qualifying One
+            originally_available: 2022-10-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s19/e3.jpg
+            summary: >
+              Qualifying One for Australian Motorcycle Grand Prix takes place at Phillip Island (Summerland Beach,
+              Australia) on October 16, 2022. Listed start: 00:00:00 (UTC). The Australian motorcycle Grand Prix
+              is a motorcycling event that is part of the Grand Prix motorcycle racing season. From 1997 to the
+              present day, it is run at the scenic Phillip Island Grand Prix Circuit south of Melbourne, Victoria.
+              Prior to 1997 the event was held at a number of different venues, most notably Eastern Creek west of
+              Sydney New South Wales and Bathurst in central western New South Wales. The only rider to win the
+              'premier class' race at multiple venues is five-time World Champion Mick Doohan, Eastern Creek
+              (1992, 1995) and Phillip Island (1998).
+          4:
+            title: Qualifying Two
+            originally_available: 2022-10-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s19/e4.jpg
+            summary: >
+              Qualifying Two for Australian Motorcycle Grand Prix takes place at Phillip Island (Summerland Beach,
+              Australia) on October 16, 2022. Listed start: 00:00:00 (UTC). The Australian motorcycle Grand Prix
+              is a motorcycling event that is part of the Grand Prix motorcycle racing season. From 1997 to the
+              present day, it is run at the scenic Phillip Island Grand Prix Circuit south of Melbourne, Victoria.
+              Prior to 1997 the event was held at a number of different venues, most notably Eastern Creek west of
+              Sydney New South Wales and Bathurst in central western New South Wales. The only rider to win the
+              'premier class' race at multiple venues is five-time World Champion Mick Doohan, Eastern Creek
+              (1992, 1995) and Phillip Island (1998).
+          5:
+            title: Sprint
+            originally_available: 2022-10-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s19/e5.jpg
+            summary: >
+              Sprint for Australian Motorcycle Grand Prix takes place at Phillip Island (Summerland Beach,
+              Australia) on October 16, 2022. Listed start: 00:00:00 (UTC). The Australian motorcycle Grand Prix
+              is a motorcycling event that is part of the Grand Prix motorcycle racing season. From 1997 to the
+              present day, it is run at the scenic Phillip Island Grand Prix Circuit south of Melbourne, Victoria.
+              Prior to 1997 the event was held at a number of different venues, most notably Eastern Creek west of
+              Sydney New South Wales and Bathurst in central western New South Wales. The only rider to win the
+              'premier class' race at multiple venues is five-time World Champion Mick Doohan, Eastern Creek
+              (1992, 1995) and Phillip Island (1998).
+          6:
+            title: Race
+            originally_available: 2022-10-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s19/e6.jpg
+            summary: >
+              Race for Australian Motorcycle Grand Prix takes place at Phillip Island (Summerland Beach,
+              Australia) on October 16, 2022. Listed start: 00:00:00 (UTC). The Australian motorcycle Grand Prix
+              is a motorcycling event that is part of the Grand Prix motorcycle racing season. From 1997 to the
+              present day, it is run at the scenic Phillip Island Grand Prix Circuit south of Melbourne, Victoria.
+              Prior to 1997 the event was held at a number of different venues, most notably Eastern Creek west of
+              Sydney New South Wales and Bathurst in central western New South Wales. The only rider to win the
+              'premier class' race at multiple venues is five-time World Champion Mick Doohan, Eastern Creek
+              (1992, 1995) and Phillip Island (1998).
+      20:
+        title: Malaysia Motorcycle Grand Prix
+        sort_title: 20_Malaysia Motorcycle Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s20/poster.jpg
+        summary: >
+          Round 20 (Malaysia Motorcycle Grand Prix) spans October 23, 2022 with 6 events recorded for this
+          MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2022-10-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s20/e1.jpg
+            summary: >
+              Practice One for Malaysia Motorcycle Grand Prix takes place at Sepang International Circuit (Sepang,
+              Malaysia) on October 23, 2022. Listed start: 00:00:00 (UTC). The Malaysian motorcycle Grand Prix is
+              a round of the FIM Grand Prix motorcycle racing World Championship.   The first Malaysian Grand Prix
+              was held in 1991 at the Shah Alam Circuit as the final race of the season. Because of the long trip
+              and high cost, many riders chose to not participate in this event. The 500cc race was won by John
+              Kocinski. The event was notorious due to the tropical temperatures and a high degree of humidity,
+              something which plagued the riders for four consecutive years – from 1992 to 1995 respectively.  In
+              1999 the Sepang International Circuit, designed by Hermann Tilke, had finished construction. The
+              circuit was not only more modern and purpose-built compared to Johor, it also lay close to Kuala
+              Lumpur International Airport. As a result, the race for that season was moved to Sepang along with
+              Formula One, who held its first race at the country in the same year. Since 1999, the Sepang circuit
+              has hosted the Malaysian GP every year until 2020.  In 2020, the Malaysian round was cancelled due
+              to the COVID-19 pandemic.
+          2:
+            title: Practice Two
+            originally_available: 2022-10-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s20/e2.jpg
+            summary: >
+              Practice Two for Malaysia Motorcycle Grand Prix takes place at Sepang International Circuit (Sepang,
+              Malaysia) on October 23, 2022. Listed start: 00:00:00 (UTC). The Malaysian motorcycle Grand Prix is
+              a round of the FIM Grand Prix motorcycle racing World Championship.   The first Malaysian Grand Prix
+              was held in 1991 at the Shah Alam Circuit as the final race of the season. Because of the long trip
+              and high cost, many riders chose to not participate in this event. The 500cc race was won by John
+              Kocinski. The event was notorious due to the tropical temperatures and a high degree of humidity,
+              something which plagued the riders for four consecutive years – from 1992 to 1995 respectively.  In
+              1999 the Sepang International Circuit, designed by Hermann Tilke, had finished construction. The
+              circuit was not only more modern and purpose-built compared to Johor, it also lay close to Kuala
+              Lumpur International Airport. As a result, the race for that season was moved to Sepang along with
+              Formula One, who held its first race at the country in the same year. Since 1999, the Sepang circuit
+              has hosted the Malaysian GP every year until 2020.  In 2020, the Malaysian round was cancelled due
+              to the COVID-19 pandemic.
+          3:
+            title: Qualifying One
+            originally_available: 2022-10-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s20/e3.jpg
+            summary: >
+              Qualifying One for Malaysia Motorcycle Grand Prix takes place at Sepang International Circuit
+              (Sepang, Malaysia) on October 23, 2022. Listed start: 00:00:00 (UTC). The Malaysian motorcycle Grand
+              Prix is a round of the FIM Grand Prix motorcycle racing World Championship.   The first Malaysian
+              Grand Prix was held in 1991 at the Shah Alam Circuit as the final race of the season. Because of the
+              long trip and high cost, many riders chose to not participate in this event. The 500cc race was won
+              by John Kocinski. The event was notorious due to the tropical temperatures and a high degree of
+              humidity, something which plagued the riders for four consecutive years – from 1992 to 1995
+              respectively.  In 1999 the Sepang International Circuit, designed by Hermann Tilke, had finished
+              construction. The circuit was not only more modern and purpose-built compared to Johor, it also lay
+              close to Kuala Lumpur International Airport. As a result, the race for that season was moved to
+              Sepang along with Formula One, who held its first race at the country in the same year. Since 1999,
+              the Sepang circuit has hosted the Malaysian GP every year until 2020.  In 2020, the Malaysian round
+              was cancelled due to the COVID-19 pandemic.
+          4:
+            title: Qualifying Two
+            originally_available: 2022-10-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s20/e4.jpg
+            summary: >
+              Qualifying Two for Malaysia Motorcycle Grand Prix takes place at Sepang International Circuit
+              (Sepang, Malaysia) on October 23, 2022. Listed start: 00:00:00 (UTC). The Malaysian motorcycle Grand
+              Prix is a round of the FIM Grand Prix motorcycle racing World Championship.   The first Malaysian
+              Grand Prix was held in 1991 at the Shah Alam Circuit as the final race of the season. Because of the
+              long trip and high cost, many riders chose to not participate in this event. The 500cc race was won
+              by John Kocinski. The event was notorious due to the tropical temperatures and a high degree of
+              humidity, something which plagued the riders for four consecutive years – from 1992 to 1995
+              respectively.  In 1999 the Sepang International Circuit, designed by Hermann Tilke, had finished
+              construction. The circuit was not only more modern and purpose-built compared to Johor, it also lay
+              close to Kuala Lumpur International Airport. As a result, the race for that season was moved to
+              Sepang along with Formula One, who held its first race at the country in the same year. Since 1999,
+              the Sepang circuit has hosted the Malaysian GP every year until 2020.  In 2020, the Malaysian round
+              was cancelled due to the COVID-19 pandemic.
+          5:
+            title: Sprint
+            originally_available: 2022-10-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s20/e5.jpg
+            summary: >
+              Sprint for Malaysia Motorcycle Grand Prix takes place at Sepang International Circuit (Sepang,
+              Malaysia) on October 23, 2022. Listed start: 00:00:00 (UTC). The Malaysian motorcycle Grand Prix is
+              a round of the FIM Grand Prix motorcycle racing World Championship.   The first Malaysian Grand Prix
+              was held in 1991 at the Shah Alam Circuit as the final race of the season. Because of the long trip
+              and high cost, many riders chose to not participate in this event. The 500cc race was won by John
+              Kocinski. The event was notorious due to the tropical temperatures and a high degree of humidity,
+              something which plagued the riders for four consecutive years – from 1992 to 1995 respectively.  In
+              1999 the Sepang International Circuit, designed by Hermann Tilke, had finished construction. The
+              circuit was not only more modern and purpose-built compared to Johor, it also lay close to Kuala
+              Lumpur International Airport. As a result, the race for that season was moved to Sepang along with
+              Formula One, who held its first race at the country in the same year. Since 1999, the Sepang circuit
+              has hosted the Malaysian GP every year until 2020.  In 2020, the Malaysian round was cancelled due
+              to the COVID-19 pandemic.
+          6:
+            title: Race
+            originally_available: 2022-10-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s20/e6.jpg
+            summary: >
+              Race for Malaysia Motorcycle Grand Prix takes place at Sepang International Circuit (Sepang,
+              Malaysia) on October 23, 2022. Listed start: 00:00:00 (UTC). The Malaysian motorcycle Grand Prix is
+              a round of the FIM Grand Prix motorcycle racing World Championship.   The first Malaysian Grand Prix
+              was held in 1991 at the Shah Alam Circuit as the final race of the season. Because of the long trip
+              and high cost, many riders chose to not participate in this event. The 500cc race was won by John
+              Kocinski. The event was notorious due to the tropical temperatures and a high degree of humidity,
+              something which plagued the riders for four consecutive years – from 1992 to 1995 respectively.  In
+              1999 the Sepang International Circuit, designed by Hermann Tilke, had finished construction. The
+              circuit was not only more modern and purpose-built compared to Johor, it also lay close to Kuala
+              Lumpur International Airport. As a result, the race for that season was moved to Sepang along with
+              Formula One, who held its first race at the country in the same year. Since 1999, the Sepang circuit
+              has hosted the Malaysian GP every year until 2020.  In 2020, the Malaysian round was cancelled due
+              to the COVID-19 pandemic.
+      21:
+        title: Gran Premio de la Comunitat Valenciana
+        sort_title: 21_Gran Premio de la Comunitat Valenciana
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s21/poster.jpg
+        summary: >
+          Round 21 (Gran Premio de la Comunitat Valenciana) spans November 6, 2022 with 6 events recorded for
+          this MotoGP weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2022-11-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s21/e1.jpg
+            summary: >
+              Practice One for Gran Premio de la Comunitat Valenciana takes place at Circuit Ricardo Tormo
+              (Cheste, Spain) on November 06, 2022. Listed start: 00:00:00 (UTC). The Valencian Community
+              motorcycle Grand Prix is a motorcycling event held in Spain that is part of the Grand Prix
+              motorcycle racing season. The event takes place at the Circuit Ricardo Tormo (also known as Circuit
+              de Valencia).
+          2:
+            title: Practice Two
+            originally_available: 2022-11-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s21/e2.jpg
+            summary: >
+              Practice Two for Gran Premio de la Comunitat Valenciana takes place at Circuit Ricardo Tormo
+              (Cheste, Spain) on November 06, 2022. Listed start: 00:00:00 (UTC). The Valencian Community
+              motorcycle Grand Prix is a motorcycling event held in Spain that is part of the Grand Prix
+              motorcycle racing season. The event takes place at the Circuit Ricardo Tormo (also known as Circuit
+              de Valencia).
+          3:
+            title: Qualifying One
+            originally_available: 2022-11-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s21/e3.jpg
+            summary: >
+              Qualifying One for Gran Premio de la Comunitat Valenciana takes place at Circuit Ricardo Tormo
+              (Cheste, Spain) on November 06, 2022. Listed start: 00:00:00 (UTC). The Valencian Community
+              motorcycle Grand Prix is a motorcycling event held in Spain that is part of the Grand Prix
+              motorcycle racing season. The event takes place at the Circuit Ricardo Tormo (also known as Circuit
+              de Valencia).
+          4:
+            title: Qualifying Two
+            originally_available: 2022-11-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s21/e4.jpg
+            summary: >
+              Qualifying Two for Gran Premio de la Comunitat Valenciana takes place at Circuit Ricardo Tormo
+              (Cheste, Spain) on November 06, 2022. Listed start: 00:00:00 (UTC). The Valencian Community
+              motorcycle Grand Prix is a motorcycling event held in Spain that is part of the Grand Prix
+              motorcycle racing season. The event takes place at the Circuit Ricardo Tormo (also known as Circuit
+              de Valencia).
+          5:
+            title: Sprint
+            originally_available: 2022-11-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s21/e5.jpg
+            summary: >
+              Sprint for Gran Premio de la Comunitat Valenciana takes place at Circuit Ricardo Tormo (Cheste,
+              Spain) on November 06, 2022. Listed start: 00:00:00 (UTC). The Valencian Community motorcycle Grand
+              Prix is a motorcycling event held in Spain that is part of the Grand Prix motorcycle racing season.
+              The event takes place at the Circuit Ricardo Tormo (also known as Circuit de Valencia).
+          6:
+            title: Race
+            originally_available: 2022-11-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/motogp/2022/s21/e6.jpg
+            summary: >
+              Race for Gran Premio de la Comunitat Valenciana takes place at Circuit Ricardo Tormo (Cheste, Spain)
+              on November 06, 2022. Listed start: 00:00:00 (UTC). The Valencian Community motorcycle Grand Prix is
+              a motorcycling event held in Spain that is part of the Grand Prix motorcycle racing season. The
+              event takes place at the Circuit Ricardo Tormo (also known as Circuit de Valencia).
