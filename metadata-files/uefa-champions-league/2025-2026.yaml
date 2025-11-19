@@ -1,0 +1,1077 @@
+metadata:
+  UEFA Champions League 2025-2026:
+    title: UEFA Champions League 2025-2026
+    sort_title: UEFA Champions League 2025-2026
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/background.jpg
+    summary: >
+      The 2025-2026 UEFA Champions League campaign follows the league phase matchdays before knockout
+      rounds. Each SportsDB round is grouped here so matchday recordings can be matched and renamed
+      automatically.
+    seasons:
+      1:
+        title: Matchday 1
+        sort_title: 01_Matchday 1
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s1/poster.jpg
+        summary: >
+          Matchday 1 spans September 16-18, 2025 with 18 fixtures recorded in TheSportsDB feed for the
+          2025-2026 UEFA Champions League campaign.
+        episodes:
+          1:
+            title: Athletic Bilbao vs Arsenal
+            originally_available: 2025-09-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s1/e1.jpg
+            summary: >
+              Matchday 1 fixture at San Mamés Barria (Spain). Scheduled date: September 16, 2025. Local kickoff:
+              18:45:00.
+          2:
+            title: Benfica vs Qarabağ
+            originally_available: 2025-09-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s1/e2.jpg
+            summary: >
+              Matchday 1 fixture at Estádio da Luz (Portugal). Scheduled date: September 16, 2025. Local kickoff:
+              20:00:00.
+          3:
+            title: Juventus vs Borussia Dortmund
+            originally_available: 2025-09-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s1/e3.jpg
+            summary: >
+              Matchday 1 fixture at Allianz Stadium Turin (Italy). Scheduled date: September 16, 2025. Local
+              kickoff: 21:00:00.
+          4:
+            title: PSV Eindhoven vs Union Saint-Gilloise
+            originally_available: 2025-09-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s1/e4.jpg
+            summary: >
+              Matchday 1 fixture at Philips Stadion (The Netherlands). Scheduled date: September 16, 2025. Local
+              kickoff: 18:45:00.
+          5:
+            title: Real Madrid vs Marseille
+            originally_available: 2025-09-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s1/e5.jpg
+            summary: >
+              Matchday 1 fixture at Estadio Santiago Bernabéu (Spain). Scheduled date: September 16, 2025. Local
+              kickoff: 21:00:00.
+          6:
+            title: Tottenham Hotspur vs Villarreal
+            originally_available: 2025-09-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s1/e6.jpg
+            summary: >
+              Matchday 1 fixture at Tottenham Hotspur Stadium (England). Scheduled date: September 16, 2025. Local
+              kickoff: 20:00:00.
+          7:
+            title: Ajax vs Inter Milan
+            originally_available: 2025-09-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s1/e7.jpg
+            summary: >
+              Matchday 1 fixture at Johan Cruijff ArenA (The Netherlands). Scheduled date: September 17, 2025.
+              Local kickoff: 21:00:00.
+          8:
+            title: Bayern Munich vs Chelsea
+            originally_available: 2025-09-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s1/e8.jpg
+            summary: >
+              Matchday 1 fixture at Allianz Arena (Germany). Scheduled date: September 17, 2025. Local kickoff:
+              21:00:00.
+          9:
+            title: Liverpool vs Atlético Madrid
+            originally_available: 2025-09-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s1/e9.jpg
+            summary: >
+              Matchday 1 fixture at Anfield (England). Scheduled date: September 17, 2025. Local kickoff:
+              20:00:00.
+          10:
+            title: Olympiacos vs Pafos
+            originally_available: 2025-09-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s1/e10.jpg
+            summary: >
+              Matchday 1 fixture at Georgios Karaiskakis Stadium (Greece). Scheduled date: September 17, 2025.
+              Local kickoff: 19:45:00.
+          11:
+            title: Paris SG vs Atalanta
+            originally_available: 2025-09-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s1/e11.jpg
+            summary: >
+              Matchday 1 fixture at Parc des Princes (France). Scheduled date: September 17, 2025. Local kickoff:
+              21:00:00.
+          12:
+            title: Slavia Prague vs Bodø/Glimt
+            originally_available: 2025-09-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s1/e12.jpg
+            summary: >
+              Matchday 1 fixture at Fortuna Arena (Czechia). Scheduled date: September 17, 2025. Local kickoff:
+              18:45:00.
+          13:
+            title: Club Brugge vs Monaco
+            originally_available: 2025-09-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s1/e13.jpg
+            summary: >
+              Matchday 1 fixture at Jan Breydel Stadium (Belgium). Scheduled date: September 18, 2025. Local
+              kickoff: 18:45:00.
+          14:
+            title: Eintracht Frankfurt vs Galatasaray
+            originally_available: 2025-09-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s1/e14.jpg
+            summary: >
+              Matchday 1 fixture at Deutsche Bank Park (Germany). Scheduled date: September 18, 2025. Local
+              kickoff: 21:00:00.
+          15:
+            title: FC Copenhagen vs Bayer Leverkusen
+            originally_available: 2025-09-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s1/e15.jpg
+            summary: >
+              Matchday 1 fixture at Parken (Denmark). Scheduled date: September 18, 2025. Local kickoff: 18:45:00.
+          16:
+            title: Manchester City vs Napoli
+            originally_available: 2025-09-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s1/e16.jpg
+            summary: >
+              Matchday 1 fixture at Etihad Stadium (England). Scheduled date: September 18, 2025. Local kickoff:
+              20:00:00.
+          17:
+            title: Newcastle United vs Barcelona
+            originally_available: 2025-09-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s1/e17.jpg
+            summary: >
+              Matchday 1 fixture at St James Park (England). Scheduled date: September 18, 2025. Local kickoff:
+              20:00:00.
+          18:
+            title: Sporting CP vs Kairat Almaty
+            originally_available: 2025-09-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s1/e18.jpg
+            summary: >
+              Matchday 1 fixture at Estádio José Alvalade (Portugal). Scheduled date: September 18, 2025. Local
+              kickoff: 20:00:00.
+      2:
+        title: Matchday 2
+        sort_title: 02_Matchday 2
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s2/poster.jpg
+        summary: >
+          Matchday 2 spans September 30 - October 1, 2025 with 18 fixtures recorded in TheSportsDB feed for
+          the 2025-2026 UEFA Champions League campaign.
+        episodes:
+          1:
+            title: Atalanta vs Club Brugge
+            originally_available: 2025-09-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s2/e1.jpg
+            summary: >
+              Matchday 2 fixture at Gewiss Stadium (Italy). Scheduled date: September 30, 2025. Local kickoff:
+              18:45:00.
+          2:
+            title: Atlético Madrid vs Eintracht Frankfurt
+            originally_available: 2025-09-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s2/e2.jpg
+            summary: >
+              Matchday 2 fixture at Riyadh Air Metropolitano (Spain). Scheduled date: September 30, 2025. Local
+              kickoff: 21:00:00.
+          3:
+            title: Bodø/Glimt vs Tottenham Hotspur
+            originally_available: 2025-09-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s2/e3.jpg
+            summary: >
+              Matchday 2 fixture at Aspmyra Stadion (Norway). Scheduled date: September 30, 2025. Local kickoff:
+              21:00:00.
+          4:
+            title: Chelsea vs Benfica
+            originally_available: 2025-09-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s2/e4.jpg
+            summary: >
+              Matchday 2 fixture at Stamford Bridge (England). Scheduled date: September 30, 2025. Local kickoff:
+              20:00:00.
+          5:
+            title: Galatasaray vs Liverpool
+            originally_available: 2025-09-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s2/e5.jpg
+            summary: >
+              Matchday 2 fixture at Rams Park (Turkey). Scheduled date: September 30, 2025. Local kickoff:
+              22:00:00.
+          6:
+            title: Inter Milan vs Slavia Prague
+            originally_available: 2025-09-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s2/e6.jpg
+            summary: >
+              Matchday 2 fixture at Stadio Giuseppe Meazza (Italy). Scheduled date: September 30, 2025. Local
+              kickoff: 21:00:00.
+          7:
+            title: Kairat Almaty vs Real Madrid
+            originally_available: 2025-09-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s2/e7.jpg
+            summary: >
+              Matchday 2 fixture at Central Stadium (Kazakhstan). Scheduled date: September 30, 2025. Local
+              kickoff: 21:45:00.
+          8:
+            title: Marseille vs Ajax
+            originally_available: 2025-09-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s2/e8.jpg
+            summary: >
+              Matchday 2 fixture at Orange Vélodrome (France). Scheduled date: September 30, 2025. Local kickoff:
+              21:00:00.
+          9:
+            title: Pafos vs Bayern Munich
+            originally_available: 2025-09-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s2/e9.jpg
+            summary: >
+              Matchday 2 fixture at Alphamega Stadium (Limassol, Cyprus). Scheduled date: September 30, 2025.
+              Local kickoff: 22:00:00.
+          10:
+            title: Arsenal vs Olympiacos
+            originally_available: 2025-10-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s2/e10.jpg
+            summary: >
+              Matchday 2 fixture at Emirates Stadium (England). Scheduled date: October 01, 2025. Local kickoff:
+              20:00:00.
+          11:
+            title: Barcelona vs Paris SG
+            originally_available: 2025-10-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s2/e11.jpg
+            summary: >
+              Matchday 2 fixture at Estadi Olímpic Lluís Companys (Barcelona, Spain). Scheduled date: October 01,
+              2025. Local kickoff: 21:00:00.
+          12:
+            title: Bayer Leverkusen vs PSV Eindhoven
+            originally_available: 2025-10-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s2/e12.jpg
+            summary: >
+              Matchday 2 fixture at BayArena (Germany). Scheduled date: October 01, 2025. Local kickoff: 21:00:00.
+          13:
+            title: Borussia Dortmund vs Athletic Bilbao
+            originally_available: 2025-10-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s2/e13.jpg
+            summary: >
+              Matchday 2 fixture at Signal Iduna Park (Germany). Scheduled date: October 01, 2025. Local kickoff:
+              21:00:00.
+          14:
+            title: Monaco vs Manchester City
+            originally_available: 2025-10-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s2/e14.jpg
+            summary: >
+              Matchday 2 fixture at Stade Louis II (Monaco). Scheduled date: October 01, 2025. Local kickoff:
+              21:00:00.
+          15:
+            title: Napoli vs Sporting CP
+            originally_available: 2025-10-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s2/e15.jpg
+            summary: >
+              Matchday 2 fixture at Stadio Diego Armando Maradona (Italy). Scheduled date: October 01, 2025. Local
+              kickoff: 21:00:00.
+          16:
+            title: Qarabağ vs FC Copenhagen
+            originally_available: 2025-10-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s2/e16.jpg
+            summary: >
+              Matchday 2 fixture at Azersun Arena (Azerbaijan). Scheduled date: October 01, 2025. Local kickoff:
+              20:45:00.
+          17:
+            title: Union Saint-Gilloise vs Newcastle United
+            originally_available: 2025-10-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s2/e17.jpg
+            summary: >
+              Matchday 2 fixture at Lotto Park (Brussels, Belgium). Scheduled date: October 01, 2025. Local
+              kickoff: 18:45:00.
+          18:
+            title: Villarreal vs Juventus
+            originally_available: 2025-10-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s2/e18.jpg
+            summary: >
+              Matchday 2 fixture at Estadio de la Cerámica (Spain). Scheduled date: October 01, 2025. Local
+              kickoff: 21:00:00.
+      3:
+        title: Matchday 3
+        sort_title: 03_Matchday 3
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s3/poster.jpg
+        summary: >
+          Matchday 3 spans October 21-22, 2025 with 18 fixtures recorded in TheSportsDB feed for the 2025-2026
+          UEFA Champions League campaign.
+        episodes:
+          1:
+            title: Arsenal vs Atlético Madrid
+            originally_available: 2025-10-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s3/e1.jpg
+            summary: >
+              Matchday 3 fixture at Emirates Stadium (England). Scheduled date: October 21, 2025. Local kickoff:
+              20:00:00.
+          2:
+            title: Barcelona vs Olympiacos
+            originally_available: 2025-10-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s3/e2.jpg
+            summary: >
+              Matchday 3 fixture at Estadi Olímpic Lluís Companys (Barcelona, Spain). Scheduled date: October 21,
+              2025. Local kickoff: 18:45:00.
+          3:
+            title: Bayer Leverkusen vs Paris SG
+            originally_available: 2025-10-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s3/e3.jpg
+            summary: >
+              Matchday 3 fixture at BayArena (Germany). Scheduled date: October 21, 2025. Local kickoff: 21:00:00.
+          4:
+            title: FC Copenhagen vs Borussia Dortmund
+            originally_available: 2025-10-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s3/e4.jpg
+            summary: >
+              Matchday 3 fixture at Parken (Denmark). Scheduled date: October 21, 2025. Local kickoff: 21:00:00.
+          5:
+            title: Kairat Almaty vs Pafos
+            originally_available: 2025-10-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s3/e5.jpg
+            summary: >
+              Matchday 3 fixture at Central Stadium (Kazakhstan). Scheduled date: October 21, 2025. Local kickoff:
+              21:45:00.
+          6:
+            title: Newcastle United vs Benfica
+            originally_available: 2025-10-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s3/e6.jpg
+            summary: >
+              Matchday 3 fixture at St James Park (England). Scheduled date: October 21, 2025. Local kickoff:
+              20:00:00.
+          7:
+            title: PSV Eindhoven vs Napoli
+            originally_available: 2025-10-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s3/e7.jpg
+            summary: >
+              Matchday 3 fixture at Philips Stadion (The Netherlands). Scheduled date: October 21, 2025. Local
+              kickoff: 21:00:00.
+          8:
+            title: Union Saint-Gilloise vs Inter Milan
+            originally_available: 2025-10-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s3/e8.jpg
+            summary: >
+              Matchday 3 fixture at Lotto Park (Brussels, Belgium). Scheduled date: October 21, 2025. Local
+              kickoff: 21:00:00.
+          9:
+            title: Villarreal vs Manchester City
+            originally_available: 2025-10-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s3/e9.jpg
+            summary: >
+              Matchday 3 fixture at Estadio de la Cerámica (Spain). Scheduled date: October 21, 2025. Local
+              kickoff: 21:00:00.
+          10:
+            title: Atalanta vs Slavia Prague
+            originally_available: 2025-10-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s3/e10.jpg
+            summary: >
+              Matchday 3 fixture at Gewiss Stadium (Italy). Scheduled date: October 22, 2025. Local kickoff:
+              21:00:00.
+          11:
+            title: Athletic Bilbao vs Qarabağ
+            originally_available: 2025-10-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s3/e11.jpg
+            summary: >
+              Matchday 3 fixture at San Mamés Barria (Spain). Scheduled date: October 22, 2025. Local kickoff:
+              18:45:00.
+          12:
+            title: Bayern Munich vs Club Brugge
+            originally_available: 2025-10-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s3/e12.jpg
+            summary: >
+              Matchday 3 fixture at Allianz Arena (Germany). Scheduled date: October 22, 2025. Local kickoff:
+              21:00:00.
+          13:
+            title: Chelsea vs Ajax
+            originally_available: 2025-10-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s3/e13.jpg
+            summary: >
+              Matchday 3 fixture at Stamford Bridge (England). Scheduled date: October 22, 2025. Local kickoff:
+              20:00:00.
+          14:
+            title: Eintracht Frankfurt vs Liverpool
+            originally_available: 2025-10-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s3/e14.jpg
+            summary: >
+              Matchday 3 fixture at Deutsche Bank Park (Germany). Scheduled date: October 22, 2025. Local kickoff:
+              21:00:00.
+          15:
+            title: Galatasaray vs Bodø/Glimt
+            originally_available: 2025-10-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s3/e15.jpg
+            summary: >
+              Matchday 3 fixture at Rams Park (Turkey). Scheduled date: October 22, 2025. Local kickoff: 19:45:00.
+          16:
+            title: Monaco vs Tottenham Hotspur
+            originally_available: 2025-10-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s3/e16.jpg
+            summary: >
+              Matchday 3 fixture at Stade Louis II (Monaco). Scheduled date: October 22, 2025. Local kickoff:
+              21:00:00.
+          17:
+            title: Real Madrid vs Juventus
+            originally_available: 2025-10-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s3/e17.jpg
+            summary: >
+              Matchday 3 fixture at Estadio Santiago Bernabéu (Spain). Scheduled date: October 22, 2025. Local
+              kickoff: 21:00:00.
+          18:
+            title: Sporting CP vs Marseille
+            originally_available: 2025-10-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s3/e18.jpg
+            summary: >
+              Matchday 3 fixture at Estádio José Alvalade (Portugal). Scheduled date: October 22, 2025. Local
+              kickoff: 20:00:00.
+      4:
+        title: Matchday 4
+        sort_title: 04_Matchday 4
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s4/poster.jpg
+        summary: >
+          Matchday 4 spans November 4-5, 2025 with 18 fixtures recorded in TheSportsDB feed for the 2025-2026
+          UEFA Champions League campaign.
+        episodes:
+          1:
+            title: Atlético Madrid vs Union Saint-Gilloise
+            originally_available: 2025-11-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s4/e1.jpg
+            summary: >
+              Matchday 4 fixture at Riyadh Air Metropolitano (Spain). Scheduled date: November 04, 2025. Local
+              kickoff: 21:00:00.
+          2:
+            title: Bodø/Glimt vs Monaco
+            originally_available: 2025-11-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s4/e2.jpg
+            summary: >
+              Matchday 4 fixture at Aspmyra Stadion (Norway). Scheduled date: November 04, 2025. Local kickoff:
+              21:00:00.
+          3:
+            title: Juventus vs Sporting CP
+            originally_available: 2025-11-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s4/e3.jpg
+            summary: >
+              Matchday 4 fixture at Allianz Stadium Turin (Italy). Scheduled date: November 04, 2025. Local
+              kickoff: 21:00:00.
+          4:
+            title: Liverpool vs Real Madrid
+            originally_available: 2025-11-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s4/e4.jpg
+            summary: >
+              Matchday 4 fixture at Anfield (England). Scheduled date: November 04, 2025. Local kickoff: 20:00:00.
+          5:
+            title: Napoli vs Eintracht Frankfurt
+            originally_available: 2025-11-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s4/e5.jpg
+            summary: >
+              Matchday 4 fixture at Stadio Diego Armando Maradona (Italy). Scheduled date: November 04, 2025.
+              Local kickoff: 18:45:00.
+          6:
+            title: Olympiacos vs PSV Eindhoven
+            originally_available: 2025-11-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s4/e6.jpg
+            summary: >
+              Matchday 4 fixture at Georgios Karaiskakis Stadium (Greece). Scheduled date: November 04, 2025.
+              Local kickoff: 22:00:00.
+          7:
+            title: Paris SG vs Bayern Munich
+            originally_available: 2025-11-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s4/e7.jpg
+            summary: >
+              Matchday 4 fixture at Parc des Princes (France). Scheduled date: November 04, 2025. Local kickoff:
+              21:00:00.
+          8:
+            title: Slavia Prague vs Arsenal
+            originally_available: 2025-11-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s4/e8.jpg
+            summary: >
+              Matchday 4 fixture at Fortuna Arena (Czechia). Scheduled date: November 04, 2025. Local kickoff:
+              18:45:00.
+          9:
+            title: Tottenham Hotspur vs FC Copenhagen
+            originally_available: 2025-11-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s4/e9.jpg
+            summary: >
+              Matchday 4 fixture at Tottenham Hotspur Stadium (England). Scheduled date: November 04, 2025. Local
+              kickoff: 20:00:00.
+          10:
+            title: Ajax vs Galatasaray
+            originally_available: 2025-11-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s4/e10.jpg
+            summary: >
+              Matchday 4 fixture at Johan Cruijff ArenA (The Netherlands). Scheduled date: November 05, 2025.
+              Local kickoff: 21:00:00.
+          11:
+            title: Benfica vs Bayer Leverkusen
+            originally_available: 2025-11-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s4/e11.jpg
+            summary: >
+              Matchday 4 fixture at Estádio da Luz (Portugal). Scheduled date: November 05, 2025. Local kickoff:
+              20:00:00.
+          12:
+            title: Club Brugge vs Barcelona
+            originally_available: 2025-11-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s4/e12.jpg
+            summary: >
+              Matchday 4 fixture at Jan Breydel Stadium (Belgium). Scheduled date: November 05, 2025. Local
+              kickoff: 21:00:00.
+          13:
+            title: Inter Milan vs Kairat Almaty
+            originally_available: 2025-11-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s4/e13.jpg
+            summary: >
+              Matchday 4 fixture at Stadio Giuseppe Meazza (Italy). Scheduled date: November 05, 2025. Local
+              kickoff: 21:00:00.
+          14:
+            title: Manchester City vs Borussia Dortmund
+            originally_available: 2025-11-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s4/e14.jpg
+            summary: >
+              Matchday 4 fixture at Etihad Stadium (England). Scheduled date: November 05, 2025. Local kickoff:
+              20:00:00.
+          15:
+            title: Marseille vs Atalanta
+            originally_available: 2025-11-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s4/e15.jpg
+            summary: >
+              Matchday 4 fixture at Orange Vélodrome (France). Scheduled date: November 05, 2025. Local kickoff:
+              21:00:00.
+          16:
+            title: Newcastle United vs Athletic Bilbao
+            originally_available: 2025-11-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s4/e16.jpg
+            summary: >
+              Matchday 4 fixture at St James Park (England). Scheduled date: November 05, 2025. Local kickoff:
+              20:00:00.
+          17:
+            title: Pafos vs Villarreal
+            originally_available: 2025-11-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s4/e17.jpg
+            summary: >
+              Matchday 4 fixture at Alphamega Stadium (Limassol, Cyprus). Scheduled date: November 05, 2025. Local
+              kickoff: 19:45:00.
+          18:
+            title: Qarabağ vs Chelsea
+            originally_available: 2025-11-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s4/e18.jpg
+            summary: >
+              Matchday 4 fixture at Azersun Arena (Azerbaijan). Scheduled date: November 05, 2025. Local kickoff:
+              21:45:00.
+      5:
+        title: Matchday 5
+        sort_title: 05_Matchday 5
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s5/poster.jpg
+        summary: >
+          Matchday 5 spans November 25-26, 2025 with 18 fixtures recorded in TheSportsDB feed for the
+          2025-2026 UEFA Champions League campaign.
+        episodes:
+          1:
+            title: Ajax vs Benfica
+            originally_available: 2025-11-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s5/e1.jpg
+            summary: >
+              Matchday 5 fixture at Johan Cruijff ArenA (The Netherlands). Scheduled date: November 25, 2025.
+              Listed kickoff: 17:45:00 (UTC).
+          2:
+            title: Bodø/Glimt vs Juventus
+            originally_available: 2025-11-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s5/e2.jpg
+            summary: >
+              Matchday 5 fixture at Aspmyra Stadion (Norway). Scheduled date: November 25, 2025. Listed kickoff:
+              20:00:00 (UTC).
+          3:
+            title: Borussia Dortmund vs Villarreal
+            originally_available: 2025-11-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s5/e3.jpg
+            summary: >
+              Matchday 5 fixture at Signal Iduna Park (Germany). Scheduled date: November 25, 2025. Listed
+              kickoff: 20:00:00 (UTC).
+          4:
+            title: Chelsea vs Barcelona
+            originally_available: 2025-11-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s5/e4.jpg
+            summary: >
+              Matchday 5 fixture at Stamford Bridge (England). Scheduled date: November 25, 2025. Listed kickoff:
+              20:00:00 (UTC).
+          5:
+            title: Galatasaray vs Union Saint-Gilloise
+            originally_available: 2025-11-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s5/e5.jpg
+            summary: >
+              Matchday 5 fixture at Rams Park (Turkey). Scheduled date: November 25, 2025. Listed kickoff:
+              17:45:00 (UTC).
+          6:
+            title: Manchester City vs Bayer Leverkusen
+            originally_available: 2025-11-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s5/e6.jpg
+            summary: >
+              Matchday 5 fixture at Etihad Stadium (England). Scheduled date: November 25, 2025. Listed kickoff:
+              20:00:00 (UTC).
+          7:
+            title: Marseille vs Newcastle United
+            originally_available: 2025-11-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s5/e7.jpg
+            summary: >
+              Matchday 5 fixture at Orange Vélodrome (France). Scheduled date: November 25, 2025. Listed kickoff:
+              20:00:00 (UTC).
+          8:
+            title: Napoli vs Qarabağ
+            originally_available: 2025-11-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s5/e8.jpg
+            summary: >
+              Matchday 5 fixture at Stadio Diego Armando Maradona (Italy). Scheduled date: November 25, 2025.
+              Listed kickoff: 20:00:00 (UTC).
+          9:
+            title: Slavia Prague vs Athletic Bilbao
+            originally_available: 2025-11-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s5/e9.jpg
+            summary: >
+              Matchday 5 fixture at Fortuna Arena (Czechia). Scheduled date: November 25, 2025. Listed kickoff:
+              20:00:00 (UTC).
+          10:
+            title: Arsenal vs Bayern Munich
+            originally_available: 2025-11-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s5/e10.jpg
+            summary: >
+              Matchday 5 fixture at Emirates Stadium (England). Scheduled date: November 26, 2025. Listed kickoff:
+              20:00:00 (UTC).
+          11:
+            title: Atlético Madrid vs Inter Milan
+            originally_available: 2025-11-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s5/e11.jpg
+            summary: >
+              Matchday 5 fixture at Riyadh Air Metropolitano (Spain). Scheduled date: November 26, 2025. Listed
+              kickoff: 20:00:00 (UTC).
+          12:
+            title: Eintracht Frankfurt vs Atalanta
+            originally_available: 2025-11-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s5/e12.jpg
+            summary: >
+              Matchday 5 fixture at Deutsche Bank Park (Germany). Scheduled date: November 26, 2025. Listed
+              kickoff: 20:00:00 (UTC).
+          13:
+            title: FC Copenhagen vs Kairat Almaty
+            originally_available: 2025-11-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s5/e13.jpg
+            summary: >
+              Matchday 5 fixture at Parken (Denmark). Scheduled date: November 26, 2025. Listed kickoff: 17:45:00
+              (UTC).
+          14:
+            title: Liverpool vs PSV Eindhoven
+            originally_available: 2025-11-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s5/e14.jpg
+            summary: >
+              Matchday 5 fixture at Anfield (England). Scheduled date: November 26, 2025. Listed kickoff: 20:00:00
+              (UTC).
+          15:
+            title: Olympiacos vs Real Madrid
+            originally_available: 2025-11-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s5/e15.jpg
+            summary: >
+              Matchday 5 fixture at Georgios Karaiskakis Stadium (Greece). Scheduled date: November 26, 2025.
+              Listed kickoff: 20:00:00 (UTC).
+          16:
+            title: Pafos vs Monaco
+            originally_available: 2025-11-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s5/e16.jpg
+            summary: >
+              Matchday 5 fixture at Alphamega Stadium (Limassol, Cyprus). Scheduled date: November 26, 2025.
+              Listed kickoff: 17:45:00 (UTC).
+          17:
+            title: Paris SG vs Tottenham Hotspur
+            originally_available: 2025-11-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s5/e17.jpg
+            summary: >
+              Matchday 5 fixture at Parc des Princes (France). Scheduled date: November 26, 2025. Listed kickoff:
+              20:00:00 (UTC).
+          18:
+            title: Sporting CP vs Club Brugge
+            originally_available: 2025-11-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s5/e18.jpg
+            summary: >
+              Matchday 5 fixture at Estádio José Alvalade (Portugal). Scheduled date: November 26, 2025. Listed
+              kickoff: 20:00:00 (UTC).
+      6:
+        title: Matchday 6
+        sort_title: 06_Matchday 6
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s6/poster.jpg
+        summary: >
+          Matchday 6 spans December 9-10, 2025 with 18 fixtures recorded in TheSportsDB feed for the 2025-2026
+          UEFA Champions League campaign.
+        episodes:
+          1:
+            title: Atalanta vs Chelsea
+            originally_available: 2025-12-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s6/e1.jpg
+            summary: >
+              Matchday 6 fixture at Gewiss Stadium (Italy). Scheduled date: December 09, 2025. Listed kickoff:
+              20:00:00 (UTC).
+          2:
+            title: Barcelona vs Eintracht Frankfurt
+            originally_available: 2025-12-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s6/e2.jpg
+            summary: >
+              Matchday 6 fixture at Spotify Camp Nou (Spain). Scheduled date: December 09, 2025. Listed kickoff:
+              20:00:00 (UTC).
+          3:
+            title: Bayern Munich vs Sporting CP
+            originally_available: 2025-12-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s6/e3.jpg
+            summary: >
+              Matchday 6 fixture at Allianz Arena (Germany). Scheduled date: December 09, 2025. Listed kickoff:
+              17:45:00 (UTC).
+          4:
+            title: Inter Milan vs Liverpool
+            originally_available: 2025-12-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s6/e4.jpg
+            summary: >
+              Matchday 6 fixture at Stadio Giuseppe Meazza (Italy). Scheduled date: December 09, 2025. Listed
+              kickoff: 20:00:00 (UTC).
+          5:
+            title: Kairat Almaty vs Olympiacos
+            originally_available: 2025-12-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s6/e5.jpg
+            summary: >
+              Matchday 6 fixture at Central Stadium (Kazakhstan). Scheduled date: December 09, 2025. Listed
+              kickoff: 15:30:00 (UTC).
+          6:
+            title: Monaco vs Galatasaray
+            originally_available: 2025-12-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s6/e6.jpg
+            summary: >
+              Matchday 6 fixture at Stade Louis II (Monaco). Scheduled date: December 09, 2025. Listed kickoff:
+              20:00:00 (UTC).
+          7:
+            title: PSV Eindhoven vs Atlético Madrid
+            originally_available: 2025-12-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s6/e7.jpg
+            summary: >
+              Matchday 6 fixture at Philips Stadion (The Netherlands). Scheduled date: December 09, 2025. Listed
+              kickoff: 20:00:00 (UTC).
+          8:
+            title: Tottenham Hotspur vs Slavia Prague
+            originally_available: 2025-12-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s6/e8.jpg
+            summary: >
+              Matchday 6 fixture at Tottenham Hotspur Stadium (England). Scheduled date: December 09, 2025. Listed
+              kickoff: 20:00:00 (UTC).
+          9:
+            title: Union Saint-Gilloise vs Marseille
+            originally_available: 2025-12-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s6/e9.jpg
+            summary: >
+              Matchday 6 fixture at Lotto Park (Brussels, Belgium). Scheduled date: December 09, 2025. Listed
+              kickoff: 20:00:00 (UTC).
+          10:
+            title: Athletic Bilbao vs Paris SG
+            originally_available: 2025-12-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s6/e10.jpg
+            summary: >
+              Matchday 6 fixture at San Mamés Barria (Spain). Scheduled date: December 10, 2025. Listed kickoff:
+              20:00:00 (UTC).
+          11:
+            title: Bayer Leverkusen vs Newcastle United
+            originally_available: 2025-12-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s6/e11.jpg
+            summary: >
+              Matchday 6 fixture at BayArena (Germany). Scheduled date: December 10, 2025. Listed kickoff:
+              20:00:00 (UTC).
+          12:
+            title: Benfica vs Napoli
+            originally_available: 2025-12-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s6/e12.jpg
+            summary: >
+              Matchday 6 fixture at Estádio da Luz (Portugal). Scheduled date: December 10, 2025. Listed kickoff:
+              20:00:00 (UTC).
+          13:
+            title: Borussia Dortmund vs Bodø/Glimt
+            originally_available: 2025-12-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s6/e13.jpg
+            summary: >
+              Matchday 6 fixture at Signal Iduna Park (Germany). Scheduled date: December 10, 2025. Listed
+              kickoff: 20:00:00 (UTC).
+          14:
+            title: Club Brugge vs Arsenal
+            originally_available: 2025-12-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s6/e14.jpg
+            summary: >
+              Matchday 6 fixture at Jan Breydel Stadium (Belgium). Scheduled date: December 10, 2025. Listed
+              kickoff: 20:00:00 (UTC).
+          15:
+            title: Juventus vs Pafos
+            originally_available: 2025-12-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s6/e15.jpg
+            summary: >
+              Matchday 6 fixture at Allianz Stadium Turin (Italy). Scheduled date: December 10, 2025. Listed
+              kickoff: 20:00:00 (UTC).
+          16:
+            title: Qarabağ vs Ajax
+            originally_available: 2025-12-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s6/e16.jpg
+            summary: >
+              Matchday 6 fixture at Azersun Arena (Azerbaijan). Scheduled date: December 10, 2025. Listed kickoff:
+              17:45:00 (UTC).
+          17:
+            title: Real Madrid vs Manchester City
+            originally_available: 2025-12-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s6/e17.jpg
+            summary: >
+              Matchday 6 fixture at Estadio Santiago Bernabéu (Spain). Scheduled date: December 10, 2025. Listed
+              kickoff: 20:00:00 (UTC).
+          18:
+            title: Villarreal vs FC Copenhagen
+            originally_available: 2025-12-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s6/e18.jpg
+            summary: >
+              Matchday 6 fixture at Estadio de la Cerámica (Spain). Scheduled date: December 10, 2025. Listed
+              kickoff: 17:45:00 (UTC).
+      7:
+        title: Matchday 7
+        sort_title: 07_Matchday 7
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s7/poster.jpg
+        summary: >
+          Matchday 7 spans January 20-21, 2026 with 18 fixtures recorded in TheSportsDB feed for the 2025-2026
+          UEFA Champions League campaign.
+        episodes:
+          1:
+            title: Bodø/Glimt vs Manchester City
+            originally_available: 2026-01-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s7/e1.jpg
+            summary: >
+              Matchday 7 fixture at Aspmyra Stadion (Norway). Scheduled date: January 20, 2026. Listed kickoff:
+              17:45:00 (UTC).
+          2:
+            title: FC Copenhagen vs Napoli
+            originally_available: 2026-01-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s7/e2.jpg
+            summary: >
+              Matchday 7 fixture at Parken (Denmark). Scheduled date: January 20, 2026. Listed kickoff: 20:00:00
+              (UTC).
+          3:
+            title: Inter Milan vs Arsenal
+            originally_available: 2026-01-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s7/e3.jpg
+            summary: >
+              Matchday 7 fixture at Stadio Giuseppe Meazza (Italy). Scheduled date: January 20, 2026. Listed
+              kickoff: 20:00:00 (UTC).
+          4:
+            title: Kairat Almaty vs Club Brugge
+            originally_available: 2026-01-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s7/e4.jpg
+            summary: >
+              Matchday 7 fixture at Central Stadium (Kazakhstan). Scheduled date: January 20, 2026. Listed
+              kickoff: 15:30:00 (UTC).
+          5:
+            title: Olympiacos vs Bayer Leverkusen
+            originally_available: 2026-01-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s7/e5.jpg
+            summary: >
+              Matchday 7 fixture at Georgios Karaiskakis Stadium (Greece). Scheduled date: January 20, 2026.
+              Listed kickoff: 20:00:00 (UTC).
+          6:
+            title: Real Madrid vs Monaco
+            originally_available: 2026-01-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s7/e6.jpg
+            summary: >
+              Matchday 7 fixture at Estadio Santiago Bernabéu (Spain). Scheduled date: January 20, 2026. Listed
+              kickoff: 20:00:00 (UTC).
+          7:
+            title: Sporting CP vs Paris SG
+            originally_available: 2026-01-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s7/e7.jpg
+            summary: >
+              Matchday 7 fixture at Estádio José Alvalade (Portugal). Scheduled date: January 20, 2026. Listed
+              kickoff: 20:00:00 (UTC).
+          8:
+            title: Tottenham Hotspur vs Borussia Dortmund
+            originally_available: 2026-01-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s7/e8.jpg
+            summary: >
+              Matchday 7 fixture at Tottenham Hotspur Stadium (England). Scheduled date: January 20, 2026. Listed
+              kickoff: 20:00:00 (UTC).
+          9:
+            title: Villarreal vs Ajax
+            originally_available: 2026-01-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s7/e9.jpg
+            summary: >
+              Matchday 7 fixture at Estadio de la Cerámica (Spain). Scheduled date: January 20, 2026. Listed
+              kickoff: 20:00:00 (UTC).
+          10:
+            title: Atalanta vs Athletic Bilbao
+            originally_available: 2026-01-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s7/e10.jpg
+            summary: >
+              Matchday 7 fixture at Gewiss Stadium (Italy). Scheduled date: January 21, 2026. Listed kickoff:
+              20:00:00 (UTC).
+          11:
+            title: Bayern Munich vs Union Saint-Gilloise
+            originally_available: 2026-01-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s7/e11.jpg
+            summary: >
+              Matchday 7 fixture at Allianz Arena (Germany). Scheduled date: January 21, 2026. Listed kickoff:
+              20:00:00 (UTC).
+          12:
+            title: Chelsea vs Pafos
+            originally_available: 2026-01-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s7/e12.jpg
+            summary: >
+              Matchday 7 fixture at Stamford Bridge (England). Scheduled date: January 21, 2026. Listed kickoff:
+              20:00:00 (UTC).
+          13:
+            title: Galatasaray vs Atlético Madrid
+            originally_available: 2026-01-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s7/e13.jpg
+            summary: >
+              Matchday 7 fixture at Rams Park (Turkey). Scheduled date: January 21, 2026. Listed kickoff: 17:45:00
+              (UTC).
+          14:
+            title: Juventus vs Benfica
+            originally_available: 2026-01-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s7/e14.jpg
+            summary: >
+              Matchday 7 fixture at Allianz Stadium Turin (Italy). Scheduled date: January 21, 2026. Listed
+              kickoff: 20:00:00 (UTC).
+          15:
+            title: Marseille vs Liverpool
+            originally_available: 2026-01-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s7/e15.jpg
+            summary: >
+              Matchday 7 fixture at Orange Vélodrome (France). Scheduled date: January 21, 2026. Listed kickoff:
+              20:00:00 (UTC).
+          16:
+            title: Newcastle United vs PSV Eindhoven
+            originally_available: 2026-01-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s7/e16.jpg
+            summary: >
+              Matchday 7 fixture at St James Park (England). Scheduled date: January 21, 2026. Listed kickoff:
+              20:00:00 (UTC).
+          17:
+            title: Qarabağ vs Eintracht Frankfurt
+            originally_available: 2026-01-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s7/e17.jpg
+            summary: >
+              Matchday 7 fixture at Azersun Arena (Azerbaijan). Scheduled date: January 21, 2026. Listed kickoff:
+              17:45:00 (UTC).
+          18:
+            title: Slavia Prague vs Barcelona
+            originally_available: 2026-01-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s7/e18.jpg
+            summary: >
+              Matchday 7 fixture at Fortuna Arena (Czechia). Scheduled date: January 21, 2026. Listed kickoff:
+              20:00:00 (UTC).
+      8:
+        title: Matchday 8
+        sort_title: 08_Matchday 8
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s8/poster.jpg
+        summary: >
+          Matchday 8 spans January 28, 2026 with 18 fixtures recorded in TheSportsDB feed for the 2025-2026
+          UEFA Champions League campaign.
+        episodes:
+          1:
+            title: Ajax vs Olympiacos
+            originally_available: 2026-01-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s8/e1.jpg
+            summary: >
+              Matchday 8 fixture at Johan Cruijff ArenA (The Netherlands). Scheduled date: January 28, 2026.
+              Listed kickoff: 20:00:00 (UTC).
+          2:
+            title: Arsenal vs Kairat Almaty
+            originally_available: 2026-01-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s8/e2.jpg
+            summary: >
+              Matchday 8 fixture at Emirates Stadium (England). Scheduled date: January 28, 2026. Listed kickoff:
+              20:00:00 (UTC).
+          3:
+            title: Athletic Bilbao vs Sporting CP
+            originally_available: 2026-01-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s8/e3.jpg
+            summary: >
+              Matchday 8 fixture at San Mamés Barria (Spain). Scheduled date: January 28, 2026. Listed kickoff:
+              20:00:00 (UTC).
+          4:
+            title: Atlético Madrid vs Bodø/Glimt
+            originally_available: 2026-01-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s8/e4.jpg
+            summary: >
+              Matchday 8 fixture at Riyadh Air Metropolitano (Spain). Scheduled date: January 28, 2026. Listed
+              kickoff: 20:00:00 (UTC).
+          5:
+            title: Barcelona vs FC Copenhagen
+            originally_available: 2026-01-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s8/e5.jpg
+            summary: >
+              Matchday 8 fixture at Spotify Camp Nou (Spain). Scheduled date: January 28, 2026. Listed kickoff:
+              20:00:00 (UTC).
+          6:
+            title: Bayer Leverkusen vs Villarreal
+            originally_available: 2026-01-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s8/e6.jpg
+            summary: >
+              Matchday 8 fixture at BayArena (Germany). Scheduled date: January 28, 2026. Listed kickoff: 20:00:00
+              (UTC).
+          7:
+            title: Benfica vs Real Madrid
+            originally_available: 2026-01-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s8/e7.jpg
+            summary: >
+              Matchday 8 fixture at Estádio da Luz (Portugal). Scheduled date: January 28, 2026. Listed kickoff:
+              20:00:00 (UTC).
+          8:
+            title: Borussia Dortmund vs Inter Milan
+            originally_available: 2026-01-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s8/e8.jpg
+            summary: >
+              Matchday 8 fixture at Signal Iduna Park (Germany). Scheduled date: January 28, 2026. Listed kickoff:
+              20:00:00 (UTC).
+          9:
+            title: Club Brugge vs Marseille
+            originally_available: 2026-01-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s8/e9.jpg
+            summary: >
+              Matchday 8 fixture at Jan Breydel Stadium (Belgium). Scheduled date: January 28, 2026. Listed
+              kickoff: 20:00:00 (UTC).
+          10:
+            title: Eintracht Frankfurt vs Tottenham Hotspur
+            originally_available: 2026-01-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s8/e10.jpg
+            summary: >
+              Matchday 8 fixture at Deutsche Bank Park (Germany). Scheduled date: January 28, 2026. Listed
+              kickoff: 20:00:00 (UTC).
+          11:
+            title: Liverpool vs Qarabağ
+            originally_available: 2026-01-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s8/e11.jpg
+            summary: >
+              Matchday 8 fixture at Anfield (England). Scheduled date: January 28, 2026. Listed kickoff: 20:00:00
+              (UTC).
+          12:
+            title: Manchester City vs Galatasaray
+            originally_available: 2026-01-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s8/e12.jpg
+            summary: >
+              Matchday 8 fixture at Etihad Stadium (England). Scheduled date: January 28, 2026. Listed kickoff:
+              20:00:00 (UTC).
+          13:
+            title: Monaco vs Juventus
+            originally_available: 2026-01-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s8/e13.jpg
+            summary: >
+              Matchday 8 fixture at Stade Louis II (Monaco). Scheduled date: January 28, 2026. Listed kickoff:
+              20:00:00 (UTC).
+          14:
+            title: Napoli vs Chelsea
+            originally_available: 2026-01-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s8/e14.jpg
+            summary: >
+              Matchday 8 fixture at Stadio Diego Armando Maradona (Italy). Scheduled date: January 28, 2026.
+              Listed kickoff: 20:00:00 (UTC).
+          15:
+            title: Pafos vs Slavia Prague
+            originally_available: 2026-01-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s8/e15.jpg
+            summary: >
+              Matchday 8 fixture at Alphamega Stadium (Limassol, Cyprus). Scheduled date: January 28, 2026. Listed
+              kickoff: 20:00:00 (UTC).
+          16:
+            title: Paris SG vs Newcastle United
+            originally_available: 2026-01-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s8/e16.jpg
+            summary: >
+              Matchday 8 fixture at Parc des Princes (France). Scheduled date: January 28, 2026. Listed kickoff:
+              20:00:00 (UTC).
+          17:
+            title: PSV Eindhoven vs Bayern Munich
+            originally_available: 2026-01-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s8/e17.jpg
+            summary: >
+              Matchday 8 fixture at Philips Stadion (The Netherlands). Scheduled date: January 28, 2026. Listed
+              kickoff: 20:00:00 (UTC).
+          18:
+            title: Union Saint-Gilloise vs Atalanta
+            originally_available: 2026-01-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/uefa-champions-league/2025-2026/s8/e18.jpg
+            summary: >
+              Matchday 8 fixture at Lotto Park (Brussels, Belgium). Scheduled date: January 28, 2026. Listed
+              kickoff: 20:00:00 (UTC).

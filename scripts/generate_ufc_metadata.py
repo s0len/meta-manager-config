@@ -511,7 +511,7 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
     )
     parser.add_argument(
         "--title",
-        default="UFC 2025",
+        default="UFC {season}",
         help="Show title used in the metadata tree.",
     )
     parser.add_argument(
@@ -521,7 +521,7 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
     )
     parser.add_argument(
         "--show-id",
-        default="UFC 2025",
+        default="UFC {season}",
         help="Metadata key used under the top-level 'metadata:' block.",
     )
     parser.add_argument(

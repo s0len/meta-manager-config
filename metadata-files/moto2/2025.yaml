@@ -1,0 +1,1177 @@
+metadata:
+  Moto2 2025:
+    title: Moto2 2025
+    sort_title: Moto2 2025
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/background.jpg
+    summary: >
+      The 2025 Moto2 World Championship spans every Grand Prix weekend across the global calendar. Each
+      SportsDB round is grouped here so practice, sprint and race recordings can be organised
+      automatically.
+    seasons:
+      1:
+        title: Thailand Grand Prix
+        sort_title: 01_Thailand Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s1/poster.jpg
+        summary: >
+          Round 1 (Thailand Grand Prix) spans March 2, 2025 with 1 SportsDB event recorded for this Moto2
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-03-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s1/e1.jpg
+            summary: >
+              Practice One for Thailand Grand Prix is part of Round 1 at Chang International Circuit (Buriram,
+              Thailand). Weekend focus date: March 02, 2025. Listed local start: 00:00:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          2:
+            title: Practice Two
+            originally_available: 2025-03-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s1/e2.jpg
+            summary: >
+              Practice Two for Thailand Grand Prix is part of Round 1 at Chang International Circuit (Buriram,
+              Thailand). Weekend focus date: March 02, 2025. Listed local start: 00:00:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          3:
+            title: Qualifying One
+            originally_available: 2025-03-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s1/e3.jpg
+            summary: >
+              Qualifying One for Thailand Grand Prix is part of Round 1 at Chang International Circuit (Buriram,
+              Thailand). Weekend focus date: March 02, 2025. Listed local start: 00:00:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-03-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s1/e4.jpg
+            summary: >
+              Qualifying Two for Thailand Grand Prix is part of Round 1 at Chang International Circuit (Buriram,
+              Thailand). Weekend focus date: March 02, 2025. Listed local start: 00:00:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          5:
+            title: Race
+            originally_available: 2025-03-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s1/e5.jpg
+            summary: >
+              Race for Thailand Grand Prix is part of Round 1 at Chang International Circuit (Buriram, Thailand).
+              Weekend focus date: March 02, 2025. Listed local start: 00:00:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+      2:
+        title: Argentina Grand Prix
+        sort_title: 02_Argentina Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s2/poster.jpg
+        summary: >
+          Round 2 (Argentina Grand Prix) spans March 16, 2025 with 1 SportsDB event recorded for this Moto2
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-03-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s2/e1.jpg
+            summary: >
+              Practice One for Argentina Grand Prix is part of Round 2 at Autódromo Termas de Río Hondo (Termas de
+              Río Hondo, Argentina). Weekend focus date: March 16, 2025. Listed start: 00:00:00 (UTC). Moto2
+              enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB
+              omits dedicated session entries so library numbering stays consistent.
+          2:
+            title: Practice Two
+            originally_available: 2025-03-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s2/e2.jpg
+            summary: >
+              Practice Two for Argentina Grand Prix is part of Round 2 at Autódromo Termas de Río Hondo (Termas de
+              Río Hondo, Argentina). Weekend focus date: March 16, 2025. Listed start: 00:00:00 (UTC). Moto2
+              enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB
+              omits dedicated session entries so library numbering stays consistent.
+          3:
+            title: Qualifying One
+            originally_available: 2025-03-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s2/e3.jpg
+            summary: >
+              Qualifying One for Argentina Grand Prix is part of Round 2 at Autódromo Termas de Río Hondo (Termas
+              de Río Hondo, Argentina). Weekend focus date: March 16, 2025. Listed start: 00:00:00 (UTC). Moto2
+              enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB
+              omits dedicated session entries so library numbering stays consistent.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-03-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s2/e4.jpg
+            summary: >
+              Qualifying Two for Argentina Grand Prix is part of Round 2 at Autódromo Termas de Río Hondo (Termas
+              de Río Hondo, Argentina). Weekend focus date: March 16, 2025. Listed start: 00:00:00 (UTC). Moto2
+              enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB
+              omits dedicated session entries so library numbering stays consistent.
+          5:
+            title: Race
+            originally_available: 2025-03-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s2/e5.jpg
+            summary: >
+              Race for Argentina Grand Prix is part of Round 2 at Autódromo Termas de Río Hondo (Termas de Río
+              Hondo, Argentina). Weekend focus date: March 16, 2025. Listed start: 00:00:00 (UTC). Moto2 enforces
+              Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits
+              dedicated session entries so library numbering stays consistent.
+      3:
+        title: United States Grand Prix
+        sort_title: 03_United States Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s3/poster.jpg
+        summary: >
+          Round 3 (United States Grand Prix) spans March 30, 2025 with 1 SportsDB event recorded for this
+          Moto2 weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-03-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s3/e1.jpg
+            summary: >
+              Practice One for United States Grand Prix is part of Round 3 at Circuit of the Americas (Austin,
+              United States). Weekend focus date: March 30, 2025. Listed local start: 00:00:00. Moto2 enforces
+              Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits
+              dedicated session entries so library numbering stays consistent.
+          2:
+            title: Practice Two
+            originally_available: 2025-03-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s3/e2.jpg
+            summary: >
+              Practice Two for United States Grand Prix is part of Round 3 at Circuit of the Americas (Austin,
+              United States). Weekend focus date: March 30, 2025. Listed local start: 00:00:00. Moto2 enforces
+              Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits
+              dedicated session entries so library numbering stays consistent.
+          3:
+            title: Qualifying One
+            originally_available: 2025-03-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s3/e3.jpg
+            summary: >
+              Qualifying One for United States Grand Prix is part of Round 3 at Circuit of the Americas (Austin,
+              United States). Weekend focus date: March 30, 2025. Listed local start: 00:00:00. Moto2 enforces
+              Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits
+              dedicated session entries so library numbering stays consistent.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-03-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s3/e4.jpg
+            summary: >
+              Qualifying Two for United States Grand Prix is part of Round 3 at Circuit of the Americas (Austin,
+              United States). Weekend focus date: March 30, 2025. Listed local start: 00:00:00. Moto2 enforces
+              Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits
+              dedicated session entries so library numbering stays consistent.
+          5:
+            title: Race
+            originally_available: 2025-03-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s3/e5.jpg
+            summary: >
+              Race for United States Grand Prix is part of Round 3 at Circuit of the Americas (Austin, United
+              States). Weekend focus date: March 30, 2025. Listed local start: 00:00:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+      4:
+        title: Grand Prix of Qatar
+        sort_title: 04_Grand Prix of Qatar
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s4/poster.jpg
+        summary: >
+          Round 4 (Grand Prix of Qatar) spans April 13, 2025 with 1 SportsDB event recorded for this Moto2
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-04-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s4/e1.jpg
+            summary: >
+              Practice One for Grand Prix of Qatar is part of Round 4 at Losail International Circuit (Lusail,
+              Qatar). Weekend focus date: April 13, 2025. Listed local start: 00:00:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          2:
+            title: Practice Two
+            originally_available: 2025-04-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s4/e2.jpg
+            summary: >
+              Practice Two for Grand Prix of Qatar is part of Round 4 at Losail International Circuit (Lusail,
+              Qatar). Weekend focus date: April 13, 2025. Listed local start: 00:00:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          3:
+            title: Qualifying One
+            originally_available: 2025-04-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s4/e3.jpg
+            summary: >
+              Qualifying One for Grand Prix of Qatar is part of Round 4 at Losail International Circuit (Lusail,
+              Qatar). Weekend focus date: April 13, 2025. Listed local start: 00:00:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-04-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s4/e4.jpg
+            summary: >
+              Qualifying Two for Grand Prix of Qatar is part of Round 4 at Losail International Circuit (Lusail,
+              Qatar). Weekend focus date: April 13, 2025. Listed local start: 00:00:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          5:
+            title: Race
+            originally_available: 2025-04-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s4/e5.jpg
+            summary: >
+              Race for Grand Prix of Qatar is part of Round 4 at Losail International Circuit (Lusail, Qatar).
+              Weekend focus date: April 13, 2025. Listed local start: 00:00:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+      5:
+        title: Spanish Grand Prix
+        sort_title: 05_Spanish Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s5/poster.jpg
+        summary: >
+          Round 5 (Spanish Grand Prix) spans April 27, 2025 with 1 SportsDB event recorded for this Moto2
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-04-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s5/e1.jpg
+            summary: >
+              Practice One for Spanish Grand Prix is part of Round 5 at Circuito de Jerez – Ángel Nieto (Jerez de
+              la Frontera, Spain). Weekend focus date: April 27, 2025. Listed local start: 00:00:00. Moto2
+              enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB
+              omits dedicated session entries so library numbering stays consistent.
+          2:
+            title: Practice Two
+            originally_available: 2025-04-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s5/e2.jpg
+            summary: >
+              Practice Two for Spanish Grand Prix is part of Round 5 at Circuito de Jerez – Ángel Nieto (Jerez de
+              la Frontera, Spain). Weekend focus date: April 27, 2025. Listed local start: 00:00:00. Moto2
+              enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB
+              omits dedicated session entries so library numbering stays consistent.
+          3:
+            title: Qualifying One
+            originally_available: 2025-04-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s5/e3.jpg
+            summary: >
+              Qualifying One for Spanish Grand Prix is part of Round 5 at Circuito de Jerez – Ángel Nieto (Jerez
+              de la Frontera, Spain). Weekend focus date: April 27, 2025. Listed local start: 00:00:00. Moto2
+              enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB
+              omits dedicated session entries so library numbering stays consistent.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-04-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s5/e4.jpg
+            summary: >
+              Qualifying Two for Spanish Grand Prix is part of Round 5 at Circuito de Jerez – Ángel Nieto (Jerez
+              de la Frontera, Spain). Weekend focus date: April 27, 2025. Listed local start: 00:00:00. Moto2
+              enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB
+              omits dedicated session entries so library numbering stays consistent.
+          5:
+            title: Race
+            originally_available: 2025-04-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s5/e5.jpg
+            summary: >
+              Race for Spanish Grand Prix is part of Round 5 at Circuito de Jerez – Ángel Nieto (Jerez de la
+              Frontera, Spain). Weekend focus date: April 27, 2025. Listed local start: 00:00:00. Moto2 enforces
+              Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits
+              dedicated session entries so library numbering stays consistent.
+      6:
+        title: French Grand Prix
+        sort_title: 06_French Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s6/poster.jpg
+        summary: >
+          Round 6 (French Grand Prix) spans May 11, 2025 with 1 SportsDB event recorded for this Moto2
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-05-11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s6/e1.jpg
+            summary: >
+              Practice One for French Grand Prix is part of Round 6 at Circuit Bugatti (Le Mans, France). Weekend
+              focus date: May 11, 2025. Listed local start: 00:00:00. Moto2 enforces Practice One/Practice
+              Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated session entries
+              so library numbering stays consistent.
+          2:
+            title: Practice Two
+            originally_available: 2025-05-11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s6/e2.jpg
+            summary: >
+              Practice Two for French Grand Prix is part of Round 6 at Circuit Bugatti (Le Mans, France). Weekend
+              focus date: May 11, 2025. Listed local start: 00:00:00. Moto2 enforces Practice One/Practice
+              Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated session entries
+              so library numbering stays consistent.
+          3:
+            title: Qualifying One
+            originally_available: 2025-05-11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s6/e3.jpg
+            summary: >
+              Qualifying One for French Grand Prix is part of Round 6 at Circuit Bugatti (Le Mans, France).
+              Weekend focus date: May 11, 2025. Listed local start: 00:00:00. Moto2 enforces Practice One/Practice
+              Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated session entries
+              so library numbering stays consistent.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-05-11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s6/e4.jpg
+            summary: >
+              Qualifying Two for French Grand Prix is part of Round 6 at Circuit Bugatti (Le Mans, France).
+              Weekend focus date: May 11, 2025. Listed local start: 00:00:00. Moto2 enforces Practice One/Practice
+              Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated session entries
+              so library numbering stays consistent.
+          5:
+            title: Race
+            originally_available: 2025-05-11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s6/e5.jpg
+            summary: >
+              Race for French Grand Prix is part of Round 6 at Circuit Bugatti (Le Mans, France). Weekend focus
+              date: May 11, 2025. Listed local start: 00:00:00. Moto2 enforces Practice One/Practice
+              Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated session entries
+              so library numbering stays consistent.
+      7:
+        title: British Grand Prix
+        sort_title: 07_British Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s7/poster.jpg
+        summary: >
+          Round 7 (British Grand Prix) spans May 25, 2025 with 1 SportsDB event recorded for this Moto2
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-05-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s7/e1.jpg
+            summary: >
+              Practice One for British Grand Prix is part of Round 7 at Silverstone Circuit (Silverstone, United
+              Kingdom). Weekend focus date: May 25, 2025. Listed local start: 00:00:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          2:
+            title: Practice Two
+            originally_available: 2025-05-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s7/e2.jpg
+            summary: >
+              Practice Two for British Grand Prix is part of Round 7 at Silverstone Circuit (Silverstone, United
+              Kingdom). Weekend focus date: May 25, 2025. Listed local start: 00:00:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          3:
+            title: Qualifying One
+            originally_available: 2025-05-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s7/e3.jpg
+            summary: >
+              Qualifying One for British Grand Prix is part of Round 7 at Silverstone Circuit (Silverstone, United
+              Kingdom). Weekend focus date: May 25, 2025. Listed local start: 00:00:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-05-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s7/e4.jpg
+            summary: >
+              Qualifying Two for British Grand Prix is part of Round 7 at Silverstone Circuit (Silverstone, United
+              Kingdom). Weekend focus date: May 25, 2025. Listed local start: 00:00:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          5:
+            title: Race
+            originally_available: 2025-05-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s7/e5.jpg
+            summary: >
+              Race for British Grand Prix is part of Round 7 at Silverstone Circuit (Silverstone, United Kingdom).
+              Weekend focus date: May 25, 2025. Listed local start: 00:00:00. Moto2 enforces Practice One/Practice
+              Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated session entries
+              so library numbering stays consistent.
+      8:
+        title: Aragón Grand Prix
+        sort_title: 08_Aragón Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s8/poster.jpg
+        summary: >
+          Round 8 (Aragón Grand Prix) spans June 8, 2025 with 1 SportsDB event recorded for this Moto2
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-06-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s8/e1.jpg
+            summary: >
+              Practice One for Aragón Grand Prix is part of Round 8 at MotorLand Aragón (Alcañiz, Spain). Weekend
+              focus date: June 08, 2025. Listed local start: 12:15:00. Moto2 enforces Practice One/Practice
+              Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated session entries
+              so library numbering stays consistent.
+          2:
+            title: Practice Two
+            originally_available: 2025-06-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s8/e2.jpg
+            summary: >
+              Practice Two for Aragón Grand Prix is part of Round 8 at MotorLand Aragón (Alcañiz, Spain). Weekend
+              focus date: June 08, 2025. Listed local start: 12:15:00. Moto2 enforces Practice One/Practice
+              Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated session entries
+              so library numbering stays consistent.
+          3:
+            title: Qualifying One
+            originally_available: 2025-06-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s8/e3.jpg
+            summary: >
+              Qualifying One for Aragón Grand Prix is part of Round 8 at MotorLand Aragón (Alcañiz, Spain).
+              Weekend focus date: June 08, 2025. Listed local start: 12:15:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-06-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s8/e4.jpg
+            summary: >
+              Qualifying Two for Aragón Grand Prix is part of Round 8 at MotorLand Aragón (Alcañiz, Spain).
+              Weekend focus date: June 08, 2025. Listed local start: 12:15:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          5:
+            title: Race
+            originally_available: 2025-06-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s8/e5.jpg
+            summary: >
+              Race for Aragón Grand Prix is part of Round 8 at MotorLand Aragón (Alcañiz, Spain). Weekend focus
+              date: June 08, 2025. Listed local start: 12:15:00. Moto2 enforces Practice One/Practice
+              Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated session entries
+              so library numbering stays consistent.
+      9:
+        title: Italian Grand Prix
+        sort_title: 09_Italian Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s9/poster.jpg
+        summary: >
+          Round 9 (Italian Grand Prix) spans June 22, 2025 with 1 SportsDB event recorded for this Moto2
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-06-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s9/e1.jpg
+            summary: >
+              Practice One for Italian Grand Prix is part of Round 9 at Autodromo Internazionale del Mugello
+              (Scarperia e San Piero, Italy). Weekend focus date: June 22, 2025. Listed local start: 00:00:00.
+              Moto2 enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when
+              TheSportsDB omits dedicated session entries so library numbering stays consistent.
+          2:
+            title: Practice Two
+            originally_available: 2025-06-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s9/e2.jpg
+            summary: >
+              Practice Two for Italian Grand Prix is part of Round 9 at Autodromo Internazionale del Mugello
+              (Scarperia e San Piero, Italy). Weekend focus date: June 22, 2025. Listed local start: 00:00:00.
+              Moto2 enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when
+              TheSportsDB omits dedicated session entries so library numbering stays consistent.
+          3:
+            title: Qualifying One
+            originally_available: 2025-06-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s9/e3.jpg
+            summary: >
+              Qualifying One for Italian Grand Prix is part of Round 9 at Autodromo Internazionale del Mugello
+              (Scarperia e San Piero, Italy). Weekend focus date: June 22, 2025. Listed local start: 00:00:00.
+              Moto2 enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when
+              TheSportsDB omits dedicated session entries so library numbering stays consistent.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-06-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s9/e4.jpg
+            summary: >
+              Qualifying Two for Italian Grand Prix is part of Round 9 at Autodromo Internazionale del Mugello
+              (Scarperia e San Piero, Italy). Weekend focus date: June 22, 2025. Listed local start: 00:00:00.
+              Moto2 enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when
+              TheSportsDB omits dedicated session entries so library numbering stays consistent.
+          5:
+            title: Race
+            originally_available: 2025-06-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s9/e5.jpg
+            summary: >
+              Race for Italian Grand Prix is part of Round 9 at Autodromo Internazionale del Mugello (Scarperia e
+              San Piero, Italy). Weekend focus date: June 22, 2025. Listed local start: 00:00:00. Moto2 enforces
+              Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits
+              dedicated session entries so library numbering stays consistent.
+      10:
+        title: Netherlands Grand Prix
+        sort_title: 10_Netherlands Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s10/poster.jpg
+        summary: >
+          Round 10 (Netherlands Grand Prix) spans June 29, 2025 with 1 SportsDB event recorded for this Moto2
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-06-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s10/e1.jpg
+            summary: >
+              Practice One for Netherlands Grand Prix is part of Round 10 at TT Circuit Assen (Assen, The
+              Netherlands). Weekend focus date: June 29, 2025. Listed local start: 00:00:00. Moto2 enforces
+              Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits
+              dedicated session entries so library numbering stays consistent.
+          2:
+            title: Practice Two
+            originally_available: 2025-06-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s10/e2.jpg
+            summary: >
+              Practice Two for Netherlands Grand Prix is part of Round 10 at TT Circuit Assen (Assen, The
+              Netherlands). Weekend focus date: June 29, 2025. Listed local start: 00:00:00. Moto2 enforces
+              Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits
+              dedicated session entries so library numbering stays consistent.
+          3:
+            title: Qualifying One
+            originally_available: 2025-06-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s10/e3.jpg
+            summary: >
+              Qualifying One for Netherlands Grand Prix is part of Round 10 at TT Circuit Assen (Assen, The
+              Netherlands). Weekend focus date: June 29, 2025. Listed local start: 00:00:00. Moto2 enforces
+              Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits
+              dedicated session entries so library numbering stays consistent.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-06-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s10/e4.jpg
+            summary: >
+              Qualifying Two for Netherlands Grand Prix is part of Round 10 at TT Circuit Assen (Assen, The
+              Netherlands). Weekend focus date: June 29, 2025. Listed local start: 00:00:00. Moto2 enforces
+              Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits
+              dedicated session entries so library numbering stays consistent.
+          5:
+            title: Race
+            originally_available: 2025-06-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s10/e5.jpg
+            summary: >
+              Race for Netherlands Grand Prix is part of Round 10 at TT Circuit Assen (Assen, The Netherlands).
+              Weekend focus date: June 29, 2025. Listed local start: 00:00:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+      11:
+        title: German Grand Prix
+        sort_title: 11_German Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s11/poster.jpg
+        summary: >
+          Round 11 (German Grand Prix) spans July 13, 2025 with 1 SportsDB event recorded for this Moto2
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-07-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s11/e1.jpg
+            summary: >
+              Practice One for German Grand Prix is part of Round 11 at Sachsenring (Hohenstein-Ernstthal,
+              Germany). Weekend focus date: July 13, 2025. Listed local start: 00:00:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          2:
+            title: Practice Two
+            originally_available: 2025-07-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s11/e2.jpg
+            summary: >
+              Practice Two for German Grand Prix is part of Round 11 at Sachsenring (Hohenstein-Ernstthal,
+              Germany). Weekend focus date: July 13, 2025. Listed local start: 00:00:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          3:
+            title: Qualifying One
+            originally_available: 2025-07-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s11/e3.jpg
+            summary: >
+              Qualifying One for German Grand Prix is part of Round 11 at Sachsenring (Hohenstein-Ernstthal,
+              Germany). Weekend focus date: July 13, 2025. Listed local start: 00:00:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-07-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s11/e4.jpg
+            summary: >
+              Qualifying Two for German Grand Prix is part of Round 11 at Sachsenring (Hohenstein-Ernstthal,
+              Germany). Weekend focus date: July 13, 2025. Listed local start: 00:00:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          5:
+            title: Race
+            originally_available: 2025-07-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s11/e5.jpg
+            summary: >
+              Race for German Grand Prix is part of Round 11 at Sachsenring (Hohenstein-Ernstthal, Germany).
+              Weekend focus date: July 13, 2025. Listed local start: 00:00:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+      12:
+        title: Czechia Grand Prix
+        sort_title: 12_Czechia Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s12/poster.jpg
+        summary: >
+          Round 12 (Czechia Grand Prix) spans July 20, 2025 with 1 SportsDB event recorded for this Moto2
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-07-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s12/e1.jpg
+            summary: >
+              Practice One for Czechia Grand Prix is part of Round 12 at Automotodrom Brno (Brno, Czechia).
+              Weekend focus date: July 20, 2025. Listed start: 00:00:00 (UTC). Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          2:
+            title: Practice Two
+            originally_available: 2025-07-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s12/e2.jpg
+            summary: >
+              Practice Two for Czechia Grand Prix is part of Round 12 at Automotodrom Brno (Brno, Czechia).
+              Weekend focus date: July 20, 2025. Listed start: 00:00:00 (UTC). Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          3:
+            title: Qualifying One
+            originally_available: 2025-07-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s12/e3.jpg
+            summary: >
+              Qualifying One for Czechia Grand Prix is part of Round 12 at Automotodrom Brno (Brno, Czechia).
+              Weekend focus date: July 20, 2025. Listed start: 00:00:00 (UTC). Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-07-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s12/e4.jpg
+            summary: >
+              Qualifying Two for Czechia Grand Prix is part of Round 12 at Automotodrom Brno (Brno, Czechia).
+              Weekend focus date: July 20, 2025. Listed start: 00:00:00 (UTC). Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          5:
+            title: Race
+            originally_available: 2025-07-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s12/e5.jpg
+            summary: >
+              Race for Czechia Grand Prix is part of Round 12 at Automotodrom Brno (Brno, Czechia). Weekend focus
+              date: July 20, 2025. Listed start: 00:00:00 (UTC). Moto2 enforces Practice One/Practice
+              Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated session entries
+              so library numbering stays consistent.
+      13:
+        title: Austrian Grand Prix
+        sort_title: 13_Austrian Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s13/poster.jpg
+        summary: >
+          Round 13 (Austrian Grand Prix) spans August 17, 2025 with 1 SportsDB event recorded for this Moto2
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-08-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s13/e1.jpg
+            summary: >
+              Practice One for Austrian Grand Prix is part of Round 13 at Red Bull Ring (Spielberg, Austria).
+              Weekend focus date: August 17, 2025. Listed local start: 00:00:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          2:
+            title: Practice Two
+            originally_available: 2025-08-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s13/e2.jpg
+            summary: >
+              Practice Two for Austrian Grand Prix is part of Round 13 at Red Bull Ring (Spielberg, Austria).
+              Weekend focus date: August 17, 2025. Listed local start: 00:00:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          3:
+            title: Qualifying One
+            originally_available: 2025-08-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s13/e3.jpg
+            summary: >
+              Qualifying One for Austrian Grand Prix is part of Round 13 at Red Bull Ring (Spielberg, Austria).
+              Weekend focus date: August 17, 2025. Listed local start: 00:00:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-08-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s13/e4.jpg
+            summary: >
+              Qualifying Two for Austrian Grand Prix is part of Round 13 at Red Bull Ring (Spielberg, Austria).
+              Weekend focus date: August 17, 2025. Listed local start: 00:00:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          5:
+            title: Race
+            originally_available: 2025-08-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s13/e5.jpg
+            summary: >
+              Race for Austrian Grand Prix is part of Round 13 at Red Bull Ring (Spielberg, Austria). Weekend
+              focus date: August 17, 2025. Listed local start: 00:00:00. Moto2 enforces Practice One/Practice
+              Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated session entries
+              so library numbering stays consistent.
+      14:
+        title: Hungarian Grand Prix
+        sort_title: 14_Hungarian Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s14/poster.jpg
+        summary: >
+          Round 14 (Hungarian Grand Prix) spans August 24, 2025 with 1 SportsDB event recorded for this Moto2
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-08-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s14/e1.jpg
+            summary: >
+              Practice One for Hungarian Grand Prix is part of Round 14 at TBD Circuit (Balatonfőkajár, Hungary).
+              Weekend focus date: August 24, 2025. Listed start: 00:00:00 (UTC). Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          2:
+            title: Practice Two
+            originally_available: 2025-08-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s14/e2.jpg
+            summary: >
+              Practice Two for Hungarian Grand Prix is part of Round 14 at TBD Circuit (Balatonfőkajár, Hungary).
+              Weekend focus date: August 24, 2025. Listed start: 00:00:00 (UTC). Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          3:
+            title: Qualifying One
+            originally_available: 2025-08-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s14/e3.jpg
+            summary: >
+              Qualifying One for Hungarian Grand Prix is part of Round 14 at TBD Circuit (Balatonfőkajár,
+              Hungary). Weekend focus date: August 24, 2025. Listed start: 00:00:00 (UTC). Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-08-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s14/e4.jpg
+            summary: >
+              Qualifying Two for Hungarian Grand Prix is part of Round 14 at TBD Circuit (Balatonfőkajár,
+              Hungary). Weekend focus date: August 24, 2025. Listed start: 00:00:00 (UTC). Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          5:
+            title: Race
+            originally_available: 2025-08-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s14/e5.jpg
+            summary: >
+              Race for Hungarian Grand Prix is part of Round 14 at TBD Circuit (Balatonfőkajár, Hungary). Weekend
+              focus date: August 24, 2025. Listed start: 00:00:00 (UTC). Moto2 enforces Practice One/Practice
+              Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated session entries
+              so library numbering stays consistent.
+      15:
+        title: Catalunya Grand Prix
+        sort_title: 15_Catalunya Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s15/poster.jpg
+        summary: >
+          Round 15 (Catalunya Grand Prix) spans September 7, 2025 with 1 SportsDB event recorded for this
+          Moto2 weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-09-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s15/e1.jpg
+            summary: >
+              Practice One for Catalunya Grand Prix is part of Round 15 at Circuit de Barcelona-Catalunya
+              (Montmeló, Spain). Weekend focus date: September 07, 2025. Listed local start: 12:15:00. Moto2
+              enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB
+              omits dedicated session entries so library numbering stays consistent.
+          2:
+            title: Practice Two
+            originally_available: 2025-09-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s15/e2.jpg
+            summary: >
+              Practice Two for Catalunya Grand Prix is part of Round 15 at Circuit de Barcelona-Catalunya
+              (Montmeló, Spain). Weekend focus date: September 07, 2025. Listed local start: 12:15:00. Moto2
+              enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB
+              omits dedicated session entries so library numbering stays consistent.
+          3:
+            title: Qualifying One
+            originally_available: 2025-09-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s15/e3.jpg
+            summary: >
+              Qualifying One for Catalunya Grand Prix is part of Round 15 at Circuit de Barcelona-Catalunya
+              (Montmeló, Spain). Weekend focus date: September 07, 2025. Listed local start: 12:15:00. Moto2
+              enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB
+              omits dedicated session entries so library numbering stays consistent.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-09-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s15/e4.jpg
+            summary: >
+              Qualifying Two for Catalunya Grand Prix is part of Round 15 at Circuit de Barcelona-Catalunya
+              (Montmeló, Spain). Weekend focus date: September 07, 2025. Listed local start: 12:15:00. Moto2
+              enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB
+              omits dedicated session entries so library numbering stays consistent.
+          5:
+            title: Race
+            originally_available: 2025-09-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s15/e5.jpg
+            summary: >
+              Race for Catalunya Grand Prix is part of Round 15 at Circuit de Barcelona-Catalunya (Montmeló,
+              Spain). Weekend focus date: September 07, 2025. Listed local start: 12:15:00. Moto2 enforces
+              Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits
+              dedicated session entries so library numbering stays consistent.
+      16:
+        title: San Marino Grand Prix
+        sort_title: 16_San Marino Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s16/poster.jpg
+        summary: >
+          Round 16 (San Marino Grand Prix) spans September 14, 2025 with 1 SportsDB event recorded for this
+          Moto2 weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-09-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s16/e1.jpg
+            summary: >
+              Practice One for San Marino Grand Prix is part of Round 16 at Misano World Circuit Marco Simoncelli
+              (Misano Adriatico, San Marino). Weekend focus date: September 14, 2025. Listed local start:
+              00:00:00. Moto2 enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even
+              when TheSportsDB omits dedicated session entries so library numbering stays consistent.
+          2:
+            title: Practice Two
+            originally_available: 2025-09-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s16/e2.jpg
+            summary: >
+              Practice Two for San Marino Grand Prix is part of Round 16 at Misano World Circuit Marco Simoncelli
+              (Misano Adriatico, San Marino). Weekend focus date: September 14, 2025. Listed local start:
+              00:00:00. Moto2 enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even
+              when TheSportsDB omits dedicated session entries so library numbering stays consistent.
+          3:
+            title: Qualifying One
+            originally_available: 2025-09-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s16/e3.jpg
+            summary: >
+              Qualifying One for San Marino Grand Prix is part of Round 16 at Misano World Circuit Marco
+              Simoncelli (Misano Adriatico, San Marino). Weekend focus date: September 14, 2025. Listed local
+              start: 00:00:00. Moto2 enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots
+              even when TheSportsDB omits dedicated session entries so library numbering stays consistent.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-09-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s16/e4.jpg
+            summary: >
+              Qualifying Two for San Marino Grand Prix is part of Round 16 at Misano World Circuit Marco
+              Simoncelli (Misano Adriatico, San Marino). Weekend focus date: September 14, 2025. Listed local
+              start: 00:00:00. Moto2 enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots
+              even when TheSportsDB omits dedicated session entries so library numbering stays consistent.
+          5:
+            title: Race
+            originally_available: 2025-09-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s16/e5.jpg
+            summary: >
+              Race for San Marino Grand Prix is part of Round 16 at Misano World Circuit Marco Simoncelli (Misano
+              Adriatico, San Marino). Weekend focus date: September 14, 2025. Listed local start: 00:00:00. Moto2
+              enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB
+              omits dedicated session entries so library numbering stays consistent.
+      17:
+        title: Japanese Grand Prix
+        sort_title: 17_Japanese Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s17/poster.jpg
+        summary: >
+          Round 17 (Japanese Grand Prix) spans September 28, 2025 with 1 SportsDB event recorded for this
+          Moto2 weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-09-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s17/e1.jpg
+            summary: >
+              Practice One for Japanese Grand Prix is part of Round 17 at Mobility Resort Motegi (Motegi, Japan).
+              Weekend focus date: September 28, 2025. Listed local start: 12:15:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          2:
+            title: Practice Two
+            originally_available: 2025-09-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s17/e2.jpg
+            summary: >
+              Practice Two for Japanese Grand Prix is part of Round 17 at Mobility Resort Motegi (Motegi, Japan).
+              Weekend focus date: September 28, 2025. Listed local start: 12:15:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          3:
+            title: Qualifying One
+            originally_available: 2025-09-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s17/e3.jpg
+            summary: >
+              Qualifying One for Japanese Grand Prix is part of Round 17 at Mobility Resort Motegi (Motegi,
+              Japan). Weekend focus date: September 28, 2025. Listed local start: 12:15:00. Moto2 enforces
+              Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits
+              dedicated session entries so library numbering stays consistent.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-09-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s17/e4.jpg
+            summary: >
+              Qualifying Two for Japanese Grand Prix is part of Round 17 at Mobility Resort Motegi (Motegi,
+              Japan). Weekend focus date: September 28, 2025. Listed local start: 12:15:00. Moto2 enforces
+              Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits
+              dedicated session entries so library numbering stays consistent.
+          5:
+            title: Race
+            originally_available: 2025-09-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s17/e5.jpg
+            summary: >
+              Race for Japanese Grand Prix is part of Round 17 at Mobility Resort Motegi (Motegi, Japan). Weekend
+              focus date: September 28, 2025. Listed local start: 12:15:00. Moto2 enforces Practice One/Practice
+              Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated session entries
+              so library numbering stays consistent.
+      18:
+        title: Grand Prix of Indonesia
+        sort_title: 18_Grand Prix of Indonesia
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s18/poster.jpg
+        summary: >
+          Round 18 (Grand Prix of Indonesia) spans October 5, 2025 with 1 SportsDB event recorded for this
+          Moto2 weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-10-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s18/e1.jpg
+            summary: >
+              Practice One for Grand Prix of Indonesia is part of Round 18 at Pertamina Mandalika International
+              Street Circuit (Central Lombok, Indonesia). Weekend focus date: October 05, 2025. Listed local
+              start: 13:15:00. Moto2 enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots
+              even when TheSportsDB omits dedicated session entries so library numbering stays consistent.
+          2:
+            title: Practice Two
+            originally_available: 2025-10-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s18/e2.jpg
+            summary: >
+              Practice Two for Grand Prix of Indonesia is part of Round 18 at Pertamina Mandalika International
+              Street Circuit (Central Lombok, Indonesia). Weekend focus date: October 05, 2025. Listed local
+              start: 13:15:00. Moto2 enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots
+              even when TheSportsDB omits dedicated session entries so library numbering stays consistent.
+          3:
+            title: Qualifying One
+            originally_available: 2025-10-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s18/e3.jpg
+            summary: >
+              Qualifying One for Grand Prix of Indonesia is part of Round 18 at Pertamina Mandalika International
+              Street Circuit (Central Lombok, Indonesia). Weekend focus date: October 05, 2025. Listed local
+              start: 13:15:00. Moto2 enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots
+              even when TheSportsDB omits dedicated session entries so library numbering stays consistent.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-10-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s18/e4.jpg
+            summary: >
+              Qualifying Two for Grand Prix of Indonesia is part of Round 18 at Pertamina Mandalika International
+              Street Circuit (Central Lombok, Indonesia). Weekend focus date: October 05, 2025. Listed local
+              start: 13:15:00. Moto2 enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots
+              even when TheSportsDB omits dedicated session entries so library numbering stays consistent.
+          5:
+            title: Race
+            originally_available: 2025-10-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s18/e5.jpg
+            summary: >
+              Race for Grand Prix of Indonesia is part of Round 18 at Pertamina Mandalika International Street
+              Circuit (Central Lombok, Indonesia). Weekend focus date: October 05, 2025. Listed local start:
+              13:15:00. Moto2 enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even
+              when TheSportsDB omits dedicated session entries so library numbering stays consistent.
+      19:
+        title: Australian Grand Prix
+        sort_title: 19_Australian Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s19/poster.jpg
+        summary: >
+          Round 19 (Australian Grand Prix) spans October 19, 2025 with 1 SportsDB event recorded for this
+          Moto2 weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-10-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s19/e1.jpg
+            summary: >
+              Practice One for Australian Grand Prix is part of Round 19 at Phillip Island Grand Prix Circuit
+              (Phillip Island, Australia). Weekend focus date: October 19, 2025. Listed local start: 00:00:00.
+              Moto2 enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when
+              TheSportsDB omits dedicated session entries so library numbering stays consistent.
+          2:
+            title: Practice Two
+            originally_available: 2025-10-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s19/e2.jpg
+            summary: >
+              Practice Two for Australian Grand Prix is part of Round 19 at Phillip Island Grand Prix Circuit
+              (Phillip Island, Australia). Weekend focus date: October 19, 2025. Listed local start: 00:00:00.
+              Moto2 enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when
+              TheSportsDB omits dedicated session entries so library numbering stays consistent.
+          3:
+            title: Qualifying One
+            originally_available: 2025-10-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s19/e3.jpg
+            summary: >
+              Qualifying One for Australian Grand Prix is part of Round 19 at Phillip Island Grand Prix Circuit
+              (Phillip Island, Australia). Weekend focus date: October 19, 2025. Listed local start: 00:00:00.
+              Moto2 enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when
+              TheSportsDB omits dedicated session entries so library numbering stays consistent.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-10-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s19/e4.jpg
+            summary: >
+              Qualifying Two for Australian Grand Prix is part of Round 19 at Phillip Island Grand Prix Circuit
+              (Phillip Island, Australia). Weekend focus date: October 19, 2025. Listed local start: 00:00:00.
+              Moto2 enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when
+              TheSportsDB omits dedicated session entries so library numbering stays consistent.
+          5:
+            title: Race
+            originally_available: 2025-10-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s19/e5.jpg
+            summary: >
+              Race for Australian Grand Prix is part of Round 19 at Phillip Island Grand Prix Circuit (Phillip
+              Island, Australia). Weekend focus date: October 19, 2025. Listed local start: 00:00:00. Moto2
+              enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB
+              omits dedicated session entries so library numbering stays consistent.
+      20:
+        title: Malaysian Grand Prix
+        sort_title: 20_Malaysian Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s20/poster.jpg
+        summary: >
+          Round 20 (Malaysian Grand Prix) spans October 26, 2025 with 1 SportsDB event recorded for this Moto2
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-10-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s20/e1.jpg
+            summary: >
+              Practice One for Malaysian Grand Prix is part of Round 20 at Petronas Sepang International Circuit
+              (Sepang, Malaysia). Weekend focus date: October 26, 2025. Listed local start: 13:15:00. Moto2
+              enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB
+              omits dedicated session entries so library numbering stays consistent.
+          2:
+            title: Practice Two
+            originally_available: 2025-10-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s20/e2.jpg
+            summary: >
+              Practice Two for Malaysian Grand Prix is part of Round 20 at Petronas Sepang International Circuit
+              (Sepang, Malaysia). Weekend focus date: October 26, 2025. Listed local start: 13:15:00. Moto2
+              enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB
+              omits dedicated session entries so library numbering stays consistent.
+          3:
+            title: Qualifying One
+            originally_available: 2025-10-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s20/e3.jpg
+            summary: >
+              Qualifying One for Malaysian Grand Prix is part of Round 20 at Petronas Sepang International Circuit
+              (Sepang, Malaysia). Weekend focus date: October 26, 2025. Listed local start: 13:15:00. Moto2
+              enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB
+              omits dedicated session entries so library numbering stays consistent.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-10-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s20/e4.jpg
+            summary: >
+              Qualifying Two for Malaysian Grand Prix is part of Round 20 at Petronas Sepang International Circuit
+              (Sepang, Malaysia). Weekend focus date: October 26, 2025. Listed local start: 13:15:00. Moto2
+              enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB
+              omits dedicated session entries so library numbering stays consistent.
+          5:
+            title: Race
+            originally_available: 2025-10-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s20/e5.jpg
+            summary: >
+              Race for Malaysian Grand Prix is part of Round 20 at Petronas Sepang International Circuit (Sepang,
+              Malaysia). Weekend focus date: October 26, 2025. Listed local start: 13:15:00. Moto2 enforces
+              Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits
+              dedicated session entries so library numbering stays consistent.
+      21:
+        title: Portugese Grand Prix
+        sort_title: 21_Portugese Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s21/poster.jpg
+        summary: >
+          Round 21 (Portugese Grand Prix) spans November 9, 2025 with 1 SportsDB event recorded for this Moto2
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-11-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s21/e1.jpg
+            summary: >
+              Practice One for Portugese Grand Prix is part of Round 21 at Algarve International Circuit
+              (Portimão, Portugal). Weekend focus date: November 09, 2025. Listed local start: 11:15:00. Moto2
+              enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB
+              omits dedicated session entries so library numbering stays consistent.
+          2:
+            title: Practice Two
+            originally_available: 2025-11-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s21/e2.jpg
+            summary: >
+              Practice Two for Portugese Grand Prix is part of Round 21 at Algarve International Circuit
+              (Portimão, Portugal). Weekend focus date: November 09, 2025. Listed local start: 11:15:00. Moto2
+              enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB
+              omits dedicated session entries so library numbering stays consistent.
+          3:
+            title: Qualifying One
+            originally_available: 2025-11-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s21/e3.jpg
+            summary: >
+              Qualifying One for Portugese Grand Prix is part of Round 21 at Algarve International Circuit
+              (Portimão, Portugal). Weekend focus date: November 09, 2025. Listed local start: 11:15:00. Moto2
+              enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB
+              omits dedicated session entries so library numbering stays consistent.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-11-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s21/e4.jpg
+            summary: >
+              Qualifying Two for Portugese Grand Prix is part of Round 21 at Algarve International Circuit
+              (Portimão, Portugal). Weekend focus date: November 09, 2025. Listed local start: 11:15:00. Moto2
+              enforces Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB
+              omits dedicated session entries so library numbering stays consistent.
+          5:
+            title: Race
+            originally_available: 2025-11-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s21/e5.jpg
+            summary: >
+              Race for Portugese Grand Prix is part of Round 21 at Algarve International Circuit (Portimão,
+              Portugal). Weekend focus date: November 09, 2025. Listed local start: 11:15:00. Moto2 enforces
+              Practice One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits
+              dedicated session entries so library numbering stays consistent.
+      22:
+        title: Valencia Grand Prix
+        sort_title: 22_Valencia Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s22/poster.jpg
+        summary: >
+          Round 22 (Valencia Grand Prix) spans November 16, 2025 with 1 SportsDB event recorded for this Moto2
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-11-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s22/e1.jpg
+            summary: >
+              Practice One for Valencia Grand Prix is part of Round 22 at Circuit Ricardo Tormo (Cheste, Spain).
+              Weekend focus date: November 16, 2025. Listed local start: 11:15:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          2:
+            title: Practice Two
+            originally_available: 2025-11-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s22/e2.jpg
+            summary: >
+              Practice Two for Valencia Grand Prix is part of Round 22 at Circuit Ricardo Tormo (Cheste, Spain).
+              Weekend focus date: November 16, 2025. Listed local start: 11:15:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          3:
+            title: Qualifying One
+            originally_available: 2025-11-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s22/e3.jpg
+            summary: >
+              Qualifying One for Valencia Grand Prix is part of Round 22 at Circuit Ricardo Tormo (Cheste, Spain).
+              Weekend focus date: November 16, 2025. Listed local start: 11:15:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-11-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s22/e4.jpg
+            summary: >
+              Qualifying Two for Valencia Grand Prix is part of Round 22 at Circuit Ricardo Tormo (Cheste, Spain).
+              Weekend focus date: November 16, 2025. Listed local start: 11:15:00. Moto2 enforces Practice
+              One/Practice Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated
+              session entries so library numbering stays consistent.
+          5:
+            title: Race
+            originally_available: 2025-11-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto2/2025/s22/e5.jpg
+            summary: >
+              Race for Valencia Grand Prix is part of Round 22 at Circuit Ricardo Tormo (Cheste, Spain). Weekend
+              focus date: November 16, 2025. Listed local start: 11:15:00. Moto2 enforces Practice One/Practice
+              Two/Qualifying One/Qualifying Two/Race slots even when TheSportsDB omits dedicated session entries
+              so library numbering stays consistent.

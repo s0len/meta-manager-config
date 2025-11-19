@@ -1,0 +1,945 @@
+metadata:
+  Moto3 2025:
+    title: Moto3 2025
+    sort_title: Moto3 2025
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/background.jpg
+    summary: >
+      The 2025 Moto3 World Championship follows every Grand Prix weekend across the global calendar. Each
+      SportsDB round is grouped here so practice, sprint and race recordings can be organised
+      automatically.
+    seasons:
+      1:
+        title: Thailand
+        sort_title: 01_Thailand
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s1/poster.jpg
+        summary: >
+          Round 1 (Thailand) spans March 2, 2025 with 1 SportsDB event recorded for this Moto3 weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-03-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s1/e1.jpg
+            summary: >
+              Practice One for Thailand takes place at Chang International Circuit (Buriram, Thailand) on March
+              02, 2025. Local start: 00:00:00. Additional session details will be filled once TheSportsDB updates
+              the Moto3 round feed.
+          2:
+            title: Practice Two
+            originally_available: 2025-03-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s1/e2.jpg
+            summary: >
+              Practice Two for Round 1 will be updated once TheSportsDB posts timing, venue and broadcast details.
+          3:
+            title: Qualifying One
+            originally_available: 2025-03-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s1/e3.jpg
+            summary: >
+              Qualifying One for Round 1 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-03-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s1/e4.jpg
+            summary: >
+              Qualifying Two for Round 1 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          5:
+            title: Race
+            originally_available: 2025-03-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s1/e5.jpg
+            summary: >
+              Race for Round 1 will be updated once TheSportsDB posts timing, venue and broadcast details.
+      2:
+        title: Argentina
+        sort_title: 02_Argentina
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s2/poster.jpg
+        summary: >
+          Round 2 (Argentina) spans March 16, 2025 with 1 SportsDB event recorded for this Moto3 weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-03-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s2/e1.jpg
+            summary: >
+              Practice One for Argentina takes place at Autódromo Termas de Río Hondo (Termas de Río Hondo,
+              Argentina) on March 16, 2025. Listed start: 00:00:00 (UTC). Additional session details will be
+              filled once TheSportsDB updates the Moto3 round feed.
+          2:
+            title: Practice Two
+            originally_available: 2025-03-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s2/e2.jpg
+            summary: >
+              Practice Two for Round 2 will be updated once TheSportsDB posts timing, venue and broadcast details.
+          3:
+            title: Qualifying One
+            originally_available: 2025-03-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s2/e3.jpg
+            summary: >
+              Qualifying One for Round 2 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-03-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s2/e4.jpg
+            summary: >
+              Qualifying Two for Round 2 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          5:
+            title: Race
+            originally_available: 2025-03-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s2/e5.jpg
+            summary: >
+              Race for Round 2 will be updated once TheSportsDB posts timing, venue and broadcast details.
+      3:
+        title: Grand Prix of the Americas
+        sort_title: 03_Grand Prix of the Americas
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s3/poster.jpg
+        summary: >
+          Round 3 (Grand Prix of the Americas) spans March 30, 2025 with 1 SportsDB event recorded for this
+          Moto3 weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-03-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s3/e1.jpg
+            summary: >
+              Practice One for Grand Prix of the Americas takes place at Circuit of the Americas (Austin, United
+              States) on March 30, 2025. Local start: 00:00:00. Additional session details will be filled once
+              TheSportsDB updates the Moto3 round feed.
+          2:
+            title: Practice Two
+            originally_available: 2025-03-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s3/e2.jpg
+            summary: >
+              Practice Two for Round 3 will be updated once TheSportsDB posts timing, venue and broadcast details.
+          3:
+            title: Qualifying One
+            originally_available: 2025-03-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s3/e3.jpg
+            summary: >
+              Qualifying One for Round 3 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-03-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s3/e4.jpg
+            summary: >
+              Qualifying Two for Round 3 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          5:
+            title: Race
+            originally_available: 2025-03-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s3/e5.jpg
+            summary: >
+              Race for Round 3 will be updated once TheSportsDB posts timing, venue and broadcast details.
+      4:
+        title: Grand Prix of Qatar
+        sort_title: 04_Grand Prix of Qatar
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s4/poster.jpg
+        summary: >
+          Round 4 (Grand Prix of Qatar) spans April 13, 2025 with 1 SportsDB event recorded for this Moto3
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-04-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s4/e1.jpg
+            summary: >
+              Practice One for Grand Prix of Qatar takes place at Losail International Circuit (Lusail, Qatar) on
+              April 13, 2025. Local start: 00:00:00. Additional session details will be filled once TheSportsDB
+              updates the Moto3 round feed.
+          2:
+            title: Practice Two
+            originally_available: 2025-04-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s4/e2.jpg
+            summary: >
+              Practice Two for Round 4 will be updated once TheSportsDB posts timing, venue and broadcast details.
+          3:
+            title: Qualifying One
+            originally_available: 2025-04-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s4/e3.jpg
+            summary: >
+              Qualifying One for Round 4 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-04-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s4/e4.jpg
+            summary: >
+              Qualifying Two for Round 4 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          5:
+            title: Race
+            originally_available: 2025-04-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s4/e5.jpg
+            summary: >
+              Race for Round 4 will be updated once TheSportsDB posts timing, venue and broadcast details.
+      5:
+        title: Gran Premio de España
+        sort_title: 05_Gran Premio de España
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s5/poster.jpg
+        summary: >
+          Round 5 (Gran Premio de España) spans April 27, 2025 with 1 SportsDB event recorded for this Moto3
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-04-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s5/e1.jpg
+            summary: >
+              Practice One for Gran Premio de España takes place at Circuito de Jerez – Ángel Nieto (Jerez de la
+              Frontera, Spain) on April 27, 2025. Local start: 00:00:00. Additional session details will be filled
+              once TheSportsDB updates the Moto3 round feed.
+          2:
+            title: Practice Two
+            originally_available: 2025-04-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s5/e2.jpg
+            summary: >
+              Practice Two for Round 5 will be updated once TheSportsDB posts timing, venue and broadcast details.
+          3:
+            title: Qualifying One
+            originally_available: 2025-04-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s5/e3.jpg
+            summary: >
+              Qualifying One for Round 5 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-04-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s5/e4.jpg
+            summary: >
+              Qualifying Two for Round 5 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          5:
+            title: Race
+            originally_available: 2025-04-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s5/e5.jpg
+            summary: >
+              Race for Round 5 will be updated once TheSportsDB posts timing, venue and broadcast details.
+      6:
+        title: Grand Prix de France
+        sort_title: 06_Grand Prix de France
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s6/poster.jpg
+        summary: >
+          Round 6 (Grand Prix de France) spans May 11, 2025 with 1 SportsDB event recorded for this Moto3
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-05-11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s6/e1.jpg
+            summary: >
+              Practice One for Grand Prix de France takes place at Circuit Bugatti (Le Mans, France) on May 11,
+              2025. Local start: 00:00:00. Additional session details will be filled once TheSportsDB updates the
+              Moto3 round feed.
+          2:
+            title: Practice Two
+            originally_available: 2025-05-11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s6/e2.jpg
+            summary: >
+              Practice Two for Round 6 will be updated once TheSportsDB posts timing, venue and broadcast details.
+          3:
+            title: Qualifying One
+            originally_available: 2025-05-11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s6/e3.jpg
+            summary: >
+              Qualifying One for Round 6 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-05-11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s6/e4.jpg
+            summary: >
+              Qualifying Two for Round 6 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          5:
+            title: Race
+            originally_available: 2025-05-11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s6/e5.jpg
+            summary: >
+              Race for Round 6 will be updated once TheSportsDB posts timing, venue and broadcast details.
+      7:
+        title: British
+        sort_title: 07_British
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s7/poster.jpg
+        summary: >
+          Round 7 (British) spans May 25, 2025 with 1 SportsDB event recorded for this Moto3 weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-05-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s7/e1.jpg
+            summary: >
+              Practice One for British takes place at Silverstone Circuit (Silverstone, United Kingdom) on May 25,
+              2025. Local start: 00:00:00. Additional session details will be filled once TheSportsDB updates the
+              Moto3 round feed.
+          2:
+            title: Practice Two
+            originally_available: 2025-05-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s7/e2.jpg
+            summary: >
+              Practice Two for Round 7 will be updated once TheSportsDB posts timing, venue and broadcast details.
+          3:
+            title: Qualifying One
+            originally_available: 2025-05-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s7/e3.jpg
+            summary: >
+              Qualifying One for Round 7 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-05-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s7/e4.jpg
+            summary: >
+              Qualifying Two for Round 7 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          5:
+            title: Race
+            originally_available: 2025-05-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s7/e5.jpg
+            summary: >
+              Race for Round 7 will be updated once TheSportsDB posts timing, venue and broadcast details.
+      8:
+        title: Gran Premio de Aragón
+        sort_title: 08_Gran Premio de Aragón
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s8/poster.jpg
+        summary: >
+          Round 8 (Gran Premio de Aragón) spans June 8, 2025 with 1 SportsDB event recorded for this Moto3
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-06-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s8/e1.jpg
+            summary: >
+              Practice One for Gran Premio de Aragón takes place at MotorLand Aragón (Alcañiz, Spain) on June 08,
+              2025. Local start: 11:00:00. Additional session details will be filled once TheSportsDB updates the
+              Moto3 round feed.
+          2:
+            title: Practice Two
+            originally_available: 2025-06-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s8/e2.jpg
+            summary: >
+              Practice Two for Round 8 will be updated once TheSportsDB posts timing, venue and broadcast details.
+          3:
+            title: Qualifying One
+            originally_available: 2025-06-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s8/e3.jpg
+            summary: >
+              Qualifying One for Round 8 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-06-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s8/e4.jpg
+            summary: >
+              Qualifying Two for Round 8 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          5:
+            title: Race
+            originally_available: 2025-06-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s8/e5.jpg
+            summary: >
+              Race for Round 8 will be updated once TheSportsDB posts timing, venue and broadcast details.
+      9:
+        title: Gran Premio dItalia
+        sort_title: 09_Gran Premio dItalia
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s9/poster.jpg
+        summary: >
+          Round 9 (Gran Premio dItalia) spans June 22, 2025 with 1 SportsDB event recorded for this Moto3
+          weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-06-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s9/e1.jpg
+            summary: >
+              Practice One for Gran Premio dItalia takes place at Autodromo Internazionale del Mugello (Scarperia
+              e San Piero, Italy) on June 22, 2025. Local start: 00:00:00. Additional session details will be
+              filled once TheSportsDB updates the Moto3 round feed.
+          2:
+            title: Practice Two
+            originally_available: 2025-06-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s9/e2.jpg
+            summary: >
+              Practice Two for Round 9 will be updated once TheSportsDB posts timing, venue and broadcast details.
+          3:
+            title: Qualifying One
+            originally_available: 2025-06-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s9/e3.jpg
+            summary: >
+              Qualifying One for Round 9 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-06-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s9/e4.jpg
+            summary: >
+              Qualifying Two for Round 9 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          5:
+            title: Race
+            originally_available: 2025-06-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s9/e5.jpg
+            summary: >
+              Race for Round 9 will be updated once TheSportsDB posts timing, venue and broadcast details.
+      10:
+        title: TT Assen
+        sort_title: 10_TT Assen
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s10/poster.jpg
+        summary: >
+          Round 10 (TT Assen) spans June 29, 2025 with 1 SportsDB event recorded for this Moto3 weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-06-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s10/e1.jpg
+            summary: >
+              Practice One for TT Assen takes place at TT Circuit Assen (Assen, The Netherlands) on June 29, 2025.
+              Local start: 00:00:00. Additional session details will be filled once TheSportsDB updates the Moto3
+              round feed.
+          2:
+            title: Practice Two
+            originally_available: 2025-06-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s10/e2.jpg
+            summary: >
+              Practice Two for Round 10 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          3:
+            title: Qualifying One
+            originally_available: 2025-06-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s10/e3.jpg
+            summary: >
+              Qualifying One for Round 10 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-06-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s10/e4.jpg
+            summary: >
+              Qualifying Two for Round 10 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          5:
+            title: Race
+            originally_available: 2025-06-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s10/e5.jpg
+            summary: >
+              Race for Round 10 will be updated once TheSportsDB posts timing, venue and broadcast details.
+      11:
+        title: Motorrad Grand Prix Deutschland
+        sort_title: 11_Motorrad Grand Prix Deutschland
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s11/poster.jpg
+        summary: >
+          Round 11 (Motorrad Grand Prix Deutschland) spans July 13, 2025 with 1 SportsDB event recorded for
+          this Moto3 weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-07-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s11/e1.jpg
+            summary: >
+              Practice One for Motorrad Grand Prix Deutschland takes place at Sachsenring (Hohenstein-Ernstthal,
+              Germany) on July 13, 2025. Local start: 00:00:00. Additional session details will be filled once
+              TheSportsDB updates the Moto3 round feed.
+          2:
+            title: Practice Two
+            originally_available: 2025-07-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s11/e2.jpg
+            summary: >
+              Practice Two for Round 11 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          3:
+            title: Qualifying One
+            originally_available: 2025-07-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s11/e3.jpg
+            summary: >
+              Qualifying One for Round 11 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-07-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s11/e4.jpg
+            summary: >
+              Qualifying Two for Round 11 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          5:
+            title: Race
+            originally_available: 2025-07-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s11/e5.jpg
+            summary: >
+              Race for Round 11 will be updated once TheSportsDB posts timing, venue and broadcast details.
+      12:
+        title: Czechia
+        sort_title: 12_Czechia
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s12/poster.jpg
+        summary: >
+          Round 12 (Czechia) spans July 20, 2025 with 1 SportsDB event recorded for this Moto3 weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-07-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s12/e1.jpg
+            summary: >
+              Practice One for Czechia takes place at Automotodrom Brno (Brno, Czechia) on July 20, 2025. Listed
+              start: 00:00:00 (UTC). Additional session details will be filled once TheSportsDB updates the Moto3
+              round feed.
+          2:
+            title: Practice Two
+            originally_available: 2025-07-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s12/e2.jpg
+            summary: >
+              Practice Two for Round 12 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          3:
+            title: Qualifying One
+            originally_available: 2025-07-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s12/e3.jpg
+            summary: >
+              Qualifying One for Round 12 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-07-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s12/e4.jpg
+            summary: >
+              Qualifying Two for Round 12 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          5:
+            title: Race
+            originally_available: 2025-07-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s12/e5.jpg
+            summary: >
+              Race for Round 12 will be updated once TheSportsDB posts timing, venue and broadcast details.
+      13:
+        title: Motorrad Grand Prix von Österreich
+        sort_title: 13_Motorrad Grand Prix von Österreich
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s13/poster.jpg
+        summary: >
+          Round 13 (Motorrad Grand Prix von Österreich) spans August 17, 2025 with 1 SportsDB event recorded
+          for this Moto3 weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-08-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s13/e1.jpg
+            summary: >
+              Practice One for Motorrad Grand Prix von Österreich takes place at Red Bull Ring (Spielberg,
+              Austria) on August 17, 2025. Local start: 00:00:00. Additional session details will be filled once
+              TheSportsDB updates the Moto3 round feed.
+          2:
+            title: Practice Two
+            originally_available: 2025-08-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s13/e2.jpg
+            summary: >
+              Practice Two for Round 13 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          3:
+            title: Qualifying One
+            originally_available: 2025-08-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s13/e3.jpg
+            summary: >
+              Qualifying One for Round 13 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-08-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s13/e4.jpg
+            summary: >
+              Qualifying Two for Round 13 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          5:
+            title: Race
+            originally_available: 2025-08-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s13/e5.jpg
+            summary: >
+              Race for Round 13 will be updated once TheSportsDB posts timing, venue and broadcast details.
+      14:
+        title: Hungarian
+        sort_title: 14_Hungarian
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s14/poster.jpg
+        summary: >
+          Round 14 (Hungarian) spans August 24, 2025 with 1 SportsDB event recorded for this Moto3 weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-08-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s14/e1.jpg
+            summary: >
+              Practice One for Hungarian takes place at Balaton Park Circuit (Balatonfőkajár, Hungary) on August
+              24, 2025. Listed start: 00:00:00 (UTC). Additional session details will be filled once TheSportsDB
+              updates the Moto3 round feed.
+          2:
+            title: Practice Two
+            originally_available: 2025-08-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s14/e2.jpg
+            summary: >
+              Practice Two for Round 14 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          3:
+            title: Qualifying One
+            originally_available: 2025-08-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s14/e3.jpg
+            summary: >
+              Qualifying One for Round 14 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-08-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s14/e4.jpg
+            summary: >
+              Qualifying Two for Round 14 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          5:
+            title: Race
+            originally_available: 2025-08-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s14/e5.jpg
+            summary: >
+              Race for Round 14 will be updated once TheSportsDB posts timing, venue and broadcast details.
+      15:
+        title: Gran Premi de Catalunya
+        sort_title: 15_Gran Premi de Catalunya
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s15/poster.jpg
+        summary: >
+          Round 15 (Gran Premi de Catalunya) spans September 7, 2025 with 1 SportsDB event recorded for this
+          Moto3 weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-09-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s15/e1.jpg
+            summary: >
+              Practice One for Gran Premi de Catalunya takes place at Circuit de Barcelona-Catalunya (Montmeló,
+              Spain) on September 07, 2025. Local start: 11:00:00. Additional session details will be filled once
+              TheSportsDB updates the Moto3 round feed.
+          2:
+            title: Practice Two
+            originally_available: 2025-09-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s15/e2.jpg
+            summary: >
+              Practice Two for Round 15 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          3:
+            title: Qualifying One
+            originally_available: 2025-09-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s15/e3.jpg
+            summary: >
+              Qualifying One for Round 15 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-09-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s15/e4.jpg
+            summary: >
+              Qualifying Two for Round 15 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          5:
+            title: Race
+            originally_available: 2025-09-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s15/e5.jpg
+            summary: >
+              Race for Round 15 will be updated once TheSportsDB posts timing, venue and broadcast details.
+      16:
+        title: Gran Premio di San Marino e della Riviera di Rimini
+        sort_title: 16_Gran Premio di San Marino e della Riviera di Rimini
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s16/poster.jpg
+        summary: >
+          Round 16 (Gran Premio di San Marino e della Riviera di Rimini) spans September 14, 2025 with 1
+          SportsDB event recorded for this Moto3 weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-09-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s16/e1.jpg
+            summary: >
+              Practice One for Gran Premio di San Marino e della Riviera di Rimini takes place at Misano World
+              Circuit Marco Simoncelli (Misano Adriatico, San Marino) on September 14, 2025. Local start:
+              00:00:00. Additional session details will be filled once TheSportsDB updates the Moto3 round feed.
+          2:
+            title: Practice Two
+            originally_available: 2025-09-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s16/e2.jpg
+            summary: >
+              Practice Two for Round 16 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          3:
+            title: Qualifying One
+            originally_available: 2025-09-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s16/e3.jpg
+            summary: >
+              Qualifying One for Round 16 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-09-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s16/e4.jpg
+            summary: >
+              Qualifying Two for Round 16 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          5:
+            title: Race
+            originally_available: 2025-09-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s16/e5.jpg
+            summary: >
+              Race for Round 16 will be updated once TheSportsDB posts timing, venue and broadcast details.
+      17:
+        title: Grand Prix of Japan
+        sort_title: 17_Grand Prix of Japan
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s17/poster.jpg
+        summary: >
+          Round 17 (Grand Prix of Japan) spans September 28, 2025 with 1 SportsDB event recorded for this
+          Moto3 weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-09-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s17/e1.jpg
+            summary: >
+              Practice One for Grand Prix of Japan takes place at Mobility Resort Motegi (Motegi, Japan) on
+              September 28, 2025. Local start: 11:00:00. David Alonso (CFMOTO Gaviota Aspar Team) made history at
+              the Motul Grand Prix of Japan, earning his moment in the sun as the #80 was crowned the first-ever
+              Colombian World Champion. It was an unforgettable day for the entire Aspar Team after an incredible
+              season for Alonso, who took his 10th Grand Prix win of the season so far - taking glory by 0.524s.
+              Alonso took victory from Collin Veijer (Liqui Moly Husqvarna Intact GP), with the Dutchman beating
+              Adrian Fernandez (Leopard Racing), who completed a talented podium rostrum.
+          2:
+            title: Practice Two
+            originally_available: 2025-09-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s17/e2.jpg
+            summary: >
+              Practice Two for Round 17 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          3:
+            title: Qualifying One
+            originally_available: 2025-09-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s17/e3.jpg
+            summary: >
+              Qualifying One for Round 17 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-09-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s17/e4.jpg
+            summary: >
+              Qualifying Two for Round 17 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          5:
+            title: Race
+            originally_available: 2025-09-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s17/e5.jpg
+            summary: >
+              Race for Round 17 will be updated once TheSportsDB posts timing, venue and broadcast details.
+      18:
+        title: Pertamina Grand Prix of Indonesia
+        sort_title: 18_Pertamina Grand Prix of Indonesia
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s18/poster.jpg
+        summary: >
+          Round 18 (Pertamina Grand Prix of Indonesia) spans October 5, 2025 with 1 SportsDB event recorded
+          for this Moto3 weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-10-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s18/e1.jpg
+            summary: >
+              Practice One for Pertamina Grand Prix of Indonesia takes place at Pertamina Mandalika International
+              Street Circuit (Central Lombok, Indonesia) on October 05, 2025. Local start: 12:00:00. Additional
+              session details will be filled once TheSportsDB updates the Moto3 round feed.
+          2:
+            title: Practice Two
+            originally_available: 2025-10-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s18/e2.jpg
+            summary: >
+              Practice Two for Round 18 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          3:
+            title: Qualifying One
+            originally_available: 2025-10-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s18/e3.jpg
+            summary: >
+              Qualifying One for Round 18 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-10-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s18/e4.jpg
+            summary: >
+              Qualifying Two for Round 18 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          5:
+            title: Race
+            originally_available: 2025-10-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s18/e5.jpg
+            summary: >
+              Race for Round 18 will be updated once TheSportsDB posts timing, venue and broadcast details.
+      19:
+        title: Australian Motorcycle
+        sort_title: 19_Australian Motorcycle
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s19/poster.jpg
+        summary: >
+          Round 19 (Australian Motorcycle) spans October 19, 2025 with 1 SportsDB event recorded for this
+          Moto3 weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-10-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s19/e1.jpg
+            summary: >
+              Practice One for Australian Motorcycle takes place at Phillip Island Grand Prix Circuit (Phillip
+              Island, Australia) on October 19, 2025. Local start: 00:00:00. Additional session details will be
+              filled once TheSportsDB updates the Moto3 round feed.
+          2:
+            title: Practice Two
+            originally_available: 2025-10-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s19/e2.jpg
+            summary: >
+              Practice Two for Round 19 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          3:
+            title: Qualifying One
+            originally_available: 2025-10-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s19/e3.jpg
+            summary: >
+              Qualifying One for Round 19 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-10-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s19/e4.jpg
+            summary: >
+              Qualifying Two for Round 19 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          5:
+            title: Race
+            originally_available: 2025-10-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s19/e5.jpg
+            summary: >
+              Race for Round 19 will be updated once TheSportsDB posts timing, venue and broadcast details.
+      20:
+        title: Petronas Grand Prix of Malaysia
+        sort_title: 20_Petronas Grand Prix of Malaysia
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s20/poster.jpg
+        summary: >
+          Round 20 (Petronas Grand Prix of Malaysia) spans October 26, 2025 with 1 SportsDB event recorded for
+          this Moto3 weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-10-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s20/e1.jpg
+            summary: >
+              Practice One for Petronas Grand Prix of Malaysia takes place at Petronas Sepang International
+              Circuit (Sepang, Malaysia) on October 26, 2025. Local start: 12:00:00. Additional session details
+              will be filled once TheSportsDB updates the Moto3 round feed.
+          2:
+            title: Practice Two
+            originally_available: 2025-10-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s20/e2.jpg
+            summary: >
+              Practice Two for Round 20 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          3:
+            title: Qualifying One
+            originally_available: 2025-10-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s20/e3.jpg
+            summary: >
+              Qualifying One for Round 20 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-10-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s20/e4.jpg
+            summary: >
+              Qualifying Two for Round 20 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          5:
+            title: Race
+            originally_available: 2025-10-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s20/e5.jpg
+            summary: >
+              Race for Round 20 will be updated once TheSportsDB posts timing, venue and broadcast details.
+      21:
+        title: Grande Prémio de Portugal
+        sort_title: 21_Grande Prémio de Portugal
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s21/poster.jpg
+        summary: >
+          Round 21 (Grande Prémio de Portugal) spans November 9, 2025 with 1 SportsDB event recorded for this
+          Moto3 weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-11-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s21/e1.jpg
+            summary: >
+              Practice One for Grande Prémio de Portugal takes place at Algarve International Circuit (Portimão,
+              Portugal) on November 09, 2025. Local start: 14:30:00. Additional session details will be filled
+              once TheSportsDB updates the Moto3 round feed.
+          2:
+            title: Practice Two
+            originally_available: 2025-11-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s21/e2.jpg
+            summary: >
+              Practice Two for Round 21 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          3:
+            title: Qualifying One
+            originally_available: 2025-11-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s21/e3.jpg
+            summary: >
+              Qualifying One for Round 21 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-11-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s21/e4.jpg
+            summary: >
+              Qualifying Two for Round 21 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          5:
+            title: Race
+            originally_available: 2025-11-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s21/e5.jpg
+            summary: >
+              Race for Round 21 will be updated once TheSportsDB posts timing, venue and broadcast details.
+      22:
+        title: Valencia
+        sort_title: 22_Valencia
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s22/poster.jpg
+        summary: >
+          Round 22 (Valencia) spans November 16, 2025 with 1 SportsDB event recorded for this Moto3 weekend.
+        episodes:
+          1:
+            title: Practice One
+            originally_available: 2025-11-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s22/e1.jpg
+            summary: >
+              Practice One for Valencia takes place at Circuit Ricardo Tormo (Cheste, Spain) on November 16, 2025.
+              Local start: 10:00:00. Additional session details will be filled once TheSportsDB updates the Moto3
+              round feed.
+          2:
+            title: Practice Two
+            originally_available: 2025-11-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s22/e2.jpg
+            summary: >
+              Practice Two for Round 22 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          3:
+            title: Qualifying One
+            originally_available: 2025-11-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s22/e3.jpg
+            summary: >
+              Qualifying One for Round 22 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          4:
+            title: Qualifying Two
+            originally_available: 2025-11-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s22/e4.jpg
+            summary: >
+              Qualifying Two for Round 22 will be updated once TheSportsDB posts timing, venue and broadcast
+              details.
+          5:
+            title: Race
+            originally_available: 2025-11-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/moto3/2025/s22/e5.jpg
+            summary: >
+              Race for Round 22 will be updated once TheSportsDB posts timing, venue and broadcast details.

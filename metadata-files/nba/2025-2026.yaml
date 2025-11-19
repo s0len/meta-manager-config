@@ -1,0 +1,10 @@
+metadata:
+  NBA 2025-2026:
+    title: NBA 2025-2026
+    sort_title: NBA 2025-2026
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nba/2025-2026/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nba/2025-2026/background.jpg
+    summary: >
+      The 2025-2026 NBA season features weekly national and international matchups across the Association.
+      Each SportsDB round is grouped here so NBA week recordings can be matched and renamed automatically.
+    seasons:
