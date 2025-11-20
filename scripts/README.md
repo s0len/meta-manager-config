@@ -283,6 +283,37 @@ Artwork downloads reuse the shared throttled downloader, pulling round posters f
 SportsDB poster/fanart fields and episode art from the thumb endpoints. The output
 path defaults to `metadata/formula-e/<season>.yaml`.
 
+## `generate_indycar_metadata_sportsdb.py`
+
+Builds IndyCar Series metadata directly from TheSportsDB (`league_id 4373`) so each
+SportsDB round becomes a season entry and every listed race/weekend event is emitted
+as an episode with venue, city and timing context.
+
+```shell
+python3 scripts/generate_indycar_metadata_sportsdb.py --season 2025 --api-key "$TSD_KEY"
+```
+
+Key flags mirror the UFC-style CLI:
+
+- `--season` / `--league-id` / `--api-key` select the SportsDB IndyCar feed, while
+  `--round-label` lets you rename rounds to “Race”, “Event”, etc.
+- `--matchweek-start`, `--matchweek-stop`, `--matchweek-delay`,
+  `--skip-matchweek-fill`, `--request-interval`, `--max-retries`,
+  `--retry-backoff`, `--insecure` preserve the shared 2.1 s rate limiter,
+  exponential backoff for 429/5xx responses and the optional SSL bypass path.
+- `--poster-url`, `--background-url`, `--asset-url-base`, `--assets-root`,
+  `--matchweek-poster-template`, `--matchweek-poster-fallback`,
+  `--fixture-poster-template`, `--skip-asset-download` drive the artwork workflow.
+  Defaults save round art to `posters/indycar-series/<season>/sX/poster.jpg` and
+  episodes to `posters/indycar-series/<season>/sX/eY.jpg`; the YAML always emits
+  `url_poster` entries even when downloads fail.
+- `--summary`, `--title`, `--sort-title`, `--show-id`, `--output` mirror the UFC
+  overrides so you can tailor the library metadata and destination path.
+
+Artwork downloads reuse the shared throttled downloader, pulling season art from the
+SportsDB poster/fanart endpoints and episode art from the thumbs feed. By default the
+YAML is written to `metadata/indycar-series/<season>.yaml`.
+
 ## `generate_moto2_metadata_sportsdb.py`
 
 Targets TheSportsDB Moto2 feed (`league_id 4436`) so each SportsDB `intRound` becomes
