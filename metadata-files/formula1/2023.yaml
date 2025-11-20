@@ -1,0 +1,2369 @@
+metadata:
+  Formula 1 2023:
+    title: Formula 1 2023
+    sort_title: Formula 1 2023
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/background.jpg
+    summary: >
+      The 2023 FIA Formula One World Championship spans every Grand Prix weekend across the calendar. Each
+      SportsDB round is grouped here so press conferences, practice, sprint, qualifying and race
+      recordings can be organised automatically.
+    seasons:
+      1:
+        title: Bahrain Grand Prix
+        sort_title: 01_Bahrain Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s1/poster.jpg
+        summary: >
+          Round 1 (Bahrain Grand Prix) spans March 3-5, 2023 with 11 curated broadcast sessions mapped from
+          TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2023-03-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s1/e1.jpg
+            summary: >
+              Drivers Press Conference for Bahrain Grand Prix takes place at Bahrain International Circuit
+              (Sakhir, Bahrain) on March 03, 2023. Local start: 14:30:00. Selected drivers brief the media on car
+              updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2023-03-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s1/e2.jpg
+            summary: >
+              Weekend Warm Up for Bahrain Grand Prix takes place at Bahrain International Circuit (Sakhir,
+              Bahrain) on March 03, 2023. Local start: 14:30:00. Preview show covering track walks, tyre choices
+              and evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2023-03-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s1/e3.jpg
+            summary: >
+              Free Practice 1 for Bahrain Grand Prix takes place at Bahrain International Circuit (Sakhir,
+              Bahrain) on March 03, 2023. Local start: 14:30:00. Opening practice hour focused on systems checks
+              and baseline setup work.
+          4:
+            title: Free Practice 2
+            originally_available: 2023-03-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s1/e4.jpg
+            summary: >
+              Free Practice 2 for Bahrain Grand Prix takes place at Bahrain International Circuit (Sakhir,
+              Bahrain) on March 03, 2023. Local start: 18:00:00. Second practice mirrors race conditions for long-
+              run and tyre evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2023-03-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s1/e5.jpg
+            summary: >
+              Free Practice 3 for Bahrain Grand Prix takes place at Bahrain International Circuit (Sakhir,
+              Bahrain) on March 04, 2023. Local start: 14:30:00. Final tune-up where teams chase qualifying
+              simulations and outright pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2023-03-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s1/e6.jpg
+            summary: >
+              Pre Qualifying Show for Bahrain Grand Prix takes place at Bahrain International Circuit (Sakhir,
+              Bahrain) on March 04, 2023. Local start: 18:00:00. At the beginning of Q1, a piece of the front
+              wheel brow of Charles Leclerc's car fell off during a lock-up at turn one, causing the session to be
+              red flagged. At the end of Q1 Lando Norris and Logan Sargeant set the same exact time to place
+              fifteenth and sixteenth, but Norris was moved through to Q2, having completed his lap before
+              Sargeant. During Q2, Alexander Albon went off track at the turn 5/6/7 esses, preventing him from
+              setting a time. After the first runs of Q3, Charles Leclerc was seen getting out of his Ferrari,
+              sparking reliability concerns for the Monagasque's car, but he later revealed that the team made the
+              decision to save a set of tires for the race. Ultimately, Max Verstappen took pole position by
+              nearly two tenths of a second, with a time of 1:29.708.
+          7:
+            title: Qualifying
+            originally_available: 2023-03-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s1/e7.jpg
+            summary: >
+              Qualifying for Bahrain Grand Prix takes place at Bahrain International Circuit (Sakhir, Bahrain) on
+              March 04, 2023. Local start: 18:00:00. At the beginning of Q1, a piece of the front wheel brow of
+              Charles Leclerc's car fell off during a lock-up at turn one, causing the session to be red flagged.
+              At the end of Q1 Lando Norris and Logan Sargeant set the same exact time to place fifteenth and
+              sixteenth, but Norris was moved through to Q2, having completed his lap before Sargeant. During Q2,
+              Alexander Albon went off track at the turn 5/6/7 esses, preventing him from setting a time. After
+              the first runs of Q3, Charles Leclerc was seen getting out of his Ferrari, sparking reliability
+              concerns for the Monagasque's car, but he later revealed that the team made the decision to save a
+              set of tires for the race. Ultimately, Max Verstappen took pole position by nearly two tenths of a
+              second, with a time of 1:29.708.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2023-03-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s1/e8.jpg
+            summary: >
+              Post Qualifying Show for Bahrain Grand Prix takes place at Bahrain International Circuit (Sakhir,
+              Bahrain) on March 04, 2023. Local start: 18:00:00. At the beginning of Q1, a piece of the front
+              wheel brow of Charles Leclerc's car fell off during a lock-up at turn one, causing the session to be
+              red flagged. At the end of Q1 Lando Norris and Logan Sargeant set the same exact time to place
+              fifteenth and sixteenth, but Norris was moved through to Q2, having completed his lap before
+              Sargeant. During Q2, Alexander Albon went off track at the turn 5/6/7 esses, preventing him from
+              setting a time. After the first runs of Q3, Charles Leclerc was seen getting out of his Ferrari,
+              sparking reliability concerns for the Monagasque's car, but he later revealed that the team made the
+              decision to save a set of tires for the race. Ultimately, Max Verstappen took pole position by
+              nearly two tenths of a second, with a time of 1:29.708.
+          9:
+            title: Pre Race Show
+            originally_available: 2023-03-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s1/e9.jpg
+            summary: >
+              Pre Race Show for Bahrain Grand Prix takes place at Bahrain International Circuit (Sakhir, Bahrain)
+              on March 03, 2023. Local start: 14:30:00. Grid walk coverage with final strategy talk before lights
+              out.
+          10:
+            title: Race
+            originally_available: 2023-03-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s1/e10.jpg
+            summary: >
+              Race for Bahrain Grand Prix takes place at Bahrain International Circuit (Sakhir, Bahrain) on March
+              03, 2023. Local start: 14:30:00. Full Grand Prix distance deciding the championship points haul.
+          11:
+            title: Post Race Show
+            originally_available: 2023-03-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s1/e11.jpg
+            summary: >
+              Post Race Show for Bahrain Grand Prix takes place at Bahrain International Circuit (Sakhir, Bahrain)
+              on March 03, 2023. Local start: 14:30:00. Podium ceremonies, driver interviews and parc fermé
+              debriefs.
+      2:
+        title: Saudi Arabian Grand Prix
+        sort_title: 02_Saudi Arabian Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s2/poster.jpg
+        summary: >
+          Round 2 (Saudi Arabian Grand Prix) spans March 17-19, 2023 with 11 curated broadcast sessions mapped
+          from TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2023-03-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s2/e1.jpg
+            summary: >
+              Drivers Press Conference for Saudi Arabian Grand Prix takes place at Jeddah Corniche Circuit
+              (Jeddah, Saudi Arabia) on March 17, 2023. Local start: 16:30:00. Selected drivers brief the media on
+              car updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2023-03-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s2/e2.jpg
+            summary: >
+              Weekend Warm Up for Saudi Arabian Grand Prix takes place at Jeddah Corniche Circuit (Jeddah, Saudi
+              Arabia) on March 17, 2023. Local start: 16:30:00. Preview show covering track walks, tyre choices
+              and evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2023-03-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s2/e3.jpg
+            summary: >
+              Free Practice 1 for Saudi Arabian Grand Prix takes place at Jeddah Corniche Circuit (Jeddah, Saudi
+              Arabia) on March 17, 2023. Local start: 16:30:00. Opening practice hour focused on systems checks
+              and baseline setup work.
+          4:
+            title: Free Practice 2
+            originally_available: 2023-03-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s2/e4.jpg
+            summary: >
+              Free Practice 2 for Saudi Arabian Grand Prix takes place at Jeddah Corniche Circuit (Jeddah, Saudi
+              Arabia) on March 17, 2023. Local start: 20:00:00. Second practice mirrors race conditions for long-
+              run and tyre evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2023-03-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s2/e5.jpg
+            summary: >
+              Free Practice 3 for Saudi Arabian Grand Prix takes place at Jeddah Corniche Circuit (Jeddah, Saudi
+              Arabia) on March 18, 2023. Local start: 16:30:00. Final tune-up where teams chase qualifying
+              simulations and outright pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2023-03-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s2/e6.jpg
+            summary: >
+              Pre Qualifying Show for Saudi Arabian Grand Prix takes place at Jeddah Corniche Circuit (Jeddah,
+              Saudi Arabia) on March 18, 2023. Local start: 20:00:00. Build-up show that recaps practice data
+              before knockout qualifying begins.
+          7:
+            title: Qualifying
+            originally_available: 2023-03-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s2/e7.jpg
+            summary: >
+              Qualifying for Saudi Arabian Grand Prix takes place at Jeddah Corniche Circuit (Jeddah, Saudi
+              Arabia) on March 18, 2023. Local start: 20:00:00. Three-stage knockout session that sets Sunday's
+              grid for the Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2023-03-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s2/e8.jpg
+            summary: >
+              Post Qualifying Show for Saudi Arabian Grand Prix takes place at Jeddah Corniche Circuit (Jeddah,
+              Saudi Arabia) on March 18, 2023. Local start: 20:00:00. Immediate reaction, interviews and technical
+              analysis after qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2023-03-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s2/e9.jpg
+            summary: >
+              Pre Race Show for Saudi Arabian Grand Prix takes place at Jeddah Corniche Circuit (Jeddah, Saudi
+              Arabia) on March 17, 2023. Local start: 16:30:00. Grid walk coverage with final strategy talk before
+              lights out.
+          10:
+            title: Race
+            originally_available: 2023-03-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s2/e10.jpg
+            summary: >
+              Race for Saudi Arabian Grand Prix takes place at Jeddah Corniche Circuit (Jeddah, Saudi Arabia) on
+              March 17, 2023. Local start: 16:30:00. Full Grand Prix distance deciding the championship points
+              haul.
+          11:
+            title: Post Race Show
+            originally_available: 2023-03-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s2/e11.jpg
+            summary: >
+              Post Race Show for Saudi Arabian Grand Prix takes place at Jeddah Corniche Circuit (Jeddah, Saudi
+              Arabia) on March 17, 2023. Local start: 16:30:00. Podium ceremonies, driver interviews and parc
+              fermé debriefs.
+      3:
+        title: Australian Grand Prix
+        sort_title: 03_Australian Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s3/poster.jpg
+        summary: >
+          Round 3 (Australian Grand Prix) spans March 31 - April 2, 2023 with 11 curated broadcast sessions
+          mapped from TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2023-03-31
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s3/e1.jpg
+            summary: >
+              Drivers Press Conference for Australian Grand Prix takes place at Albert Park Circuit (Melbourne,
+              Australia) on March 31, 2023. Local start: 12:30:00. Selected drivers brief the media on car updates
+              and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2023-03-31
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s3/e2.jpg
+            summary: >
+              Weekend Warm Up for Australian Grand Prix takes place at Albert Park Circuit (Melbourne, Australia)
+              on March 31, 2023. Local start: 12:30:00. Preview show covering track walks, tyre choices and
+              evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2023-03-31
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s3/e3.jpg
+            summary: >
+              Free Practice 1 for Australian Grand Prix takes place at Albert Park Circuit (Melbourne, Australia)
+              on March 31, 2023. Local start: 12:30:00. Opening practice hour focused on systems checks and
+              baseline setup work.
+          4:
+            title: Free Practice 2
+            originally_available: 2023-03-31
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s3/e4.jpg
+            summary: >
+              Free Practice 2 for Australian Grand Prix takes place at Albert Park Circuit (Melbourne, Australia)
+              on March 31, 2023. Local start: 16:00:00. Second practice mirrors race conditions for long-run and
+              tyre evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2023-04-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s3/e5.jpg
+            summary: >
+              Free Practice 3 for Australian Grand Prix takes place at Albert Park Circuit (Melbourne, Australia)
+              on April 01, 2023. Local start: 12:30:00. Final tune-up where teams chase qualifying simulations and
+              outright pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2023-04-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s3/e6.jpg
+            summary: >
+              Pre Qualifying Show for Australian Grand Prix takes place at Albert Park Circuit (Melbourne,
+              Australia) on April 01, 2023. Local start: 16:00:00. Build-up show that recaps practice data before
+              knockout qualifying begins.
+          7:
+            title: Qualifying
+            originally_available: 2023-04-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s3/e7.jpg
+            summary: >
+              Qualifying for Australian Grand Prix takes place at Albert Park Circuit (Melbourne, Australia) on
+              April 01, 2023. Local start: 16:00:00. Three-stage knockout session that sets Sunday's grid for the
+              Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2023-04-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s3/e8.jpg
+            summary: >
+              Post Qualifying Show for Australian Grand Prix takes place at Albert Park Circuit (Melbourne,
+              Australia) on April 01, 2023. Local start: 16:00:00. Immediate reaction, interviews and technical
+              analysis after qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2023-04-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s3/e9.jpg
+            summary: >
+              Pre Race Show for Australian Grand Prix takes place at Albert Park Circuit (Melbourne, Australia) on
+              March 31, 2023. Local start: 12:30:00. Grid walk coverage with final strategy talk before lights
+              out.
+          10:
+            title: Race
+            originally_available: 2023-04-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s3/e10.jpg
+            summary: >
+              Race for Australian Grand Prix takes place at Albert Park Circuit (Melbourne, Australia) on March
+              31, 2023. Local start: 12:30:00. Full Grand Prix distance deciding the championship points haul.
+          11:
+            title: Post Race Show
+            originally_available: 2023-04-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s3/e11.jpg
+            summary: >
+              Post Race Show for Australian Grand Prix takes place at Albert Park Circuit (Melbourne, Australia)
+              on March 31, 2023. Local start: 12:30:00. Podium ceremonies, driver interviews and parc fermé
+              debriefs.
+      4:
+        title: Azerbaijan Grand Prix
+        sort_title: 04_Azerbaijan Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s4/poster.jpg
+        summary: >
+          Round 4 (Azerbaijan Grand Prix) spans April 28-30, 2023 with 13 curated broadcast sessions mapped
+          from TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2023-04-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s4/e1.jpg
+            summary: >
+              Drivers Press Conference for Azerbaijan Grand Prix takes place at Baku City Circuit (Baku,
+              Azerbaijan) on April 28, 2023. Local start: 13:30:00. Selected drivers brief the media on car
+              updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2023-04-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s4/e2.jpg
+            summary: >
+              Weekend Warm Up for Azerbaijan Grand Prix takes place at Baku City Circuit (Baku, Azerbaijan) on
+              April 28, 2023. Local start: 13:30:00. Preview show covering track walks, tyre choices and evolving
+              weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2023-04-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s4/e3.jpg
+            summary: >
+              Free Practice 1 for Azerbaijan Grand Prix takes place at Baku City Circuit (Baku, Azerbaijan) on
+              April 28, 2023. Local start: 13:30:00. Only practice session before the sprint shootout, vital for
+              rapid setup work.
+          4:
+            title: Sprint Qualifying
+            originally_available: 2023-04-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s4/e4.jpg
+            summary: >
+              Sprint Qualifying for Azerbaijan Grand Prix takes place at Baku City Circuit (Baku, Azerbaijan) on
+              April 28, 2023. Local start: 13:30:00. Short sprint shootout that sets the grid for Saturday's
+              sprint race.
+          5:
+            title: Pre Sprint Show
+            originally_available: 2023-04-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s4/e5.jpg
+            summary: >
+              Pre Sprint Show for Azerbaijan Grand Prix takes place at Baku City Circuit (Baku, Azerbaijan) on
+              April 29, 2023. Local start: 17:30:00. Studio build-up covering sprint strategies, tyre allocations
+              and weather.
+          6:
+            title: Sprint
+            originally_available: 2023-04-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s4/e6.jpg
+            summary: >
+              Sprint for Azerbaijan Grand Prix takes place at Baku City Circuit (Baku, Azerbaijan) on April 29,
+              2023. Local start: 17:30:00. 100km dash awarding points to the top eight and shaping the weekend
+              narrative.
+          7:
+            title: Post Sprint Show
+            originally_available: 2023-04-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s4/e7.jpg
+            summary: >
+              Post Sprint Show for Azerbaijan Grand Prix takes place at Baku City Circuit (Baku, Azerbaijan) on
+              April 29, 2023. Local start: 17:30:00. Analysis and driver interviews immediately after the sprint
+              finish.
+          8:
+            title: Pre Qualifying Show
+            originally_available: 2023-04-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s4/e8.jpg
+            summary: >
+              Pre Qualifying Show for Azerbaijan Grand Prix takes place at Baku City Circuit (Baku, Azerbaijan) on
+              April 28, 2023. Local start: 17:00:00. Reset before traditional qualifying that locks in the Grand
+              Prix grid.
+          9:
+            title: Qualifying
+            originally_available: 2023-04-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s4/e9.jpg
+            summary: >
+              Qualifying for Azerbaijan Grand Prix takes place at Baku City Circuit (Baku, Azerbaijan) on April
+              28, 2023. Local start: 17:00:00. Knockout qualifying held after the sprint to define Sunday's start
+              order.
+          10:
+            title: Post Qualifying Show
+            originally_available: 2023-04-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s4/e10.jpg
+            summary: >
+              Post Qualifying Show for Azerbaijan Grand Prix takes place at Baku City Circuit (Baku, Azerbaijan)
+              on April 28, 2023. Local start: 17:00:00. Reactions and technical analysis once the Grand Prix grid
+              is finalised.
+          11:
+            title: Pre Race Show
+            originally_available: 2023-04-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s4/e11.jpg
+            summary: >
+              Pre Race Show for Azerbaijan Grand Prix takes place at Baku City Circuit (Baku, Azerbaijan) on April
+              28, 2023. Local start: 13:30:00. Grid walk coverage with final strategy talk before lights out.
+          12:
+            title: Race
+            originally_available: 2023-04-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s4/e12.jpg
+            summary: >
+              Race for Azerbaijan Grand Prix takes place at Baku City Circuit (Baku, Azerbaijan) on April 28,
+              2023. Local start: 13:30:00. Full Grand Prix distance deciding the championship points haul.
+          13:
+            title: Post Race Show
+            originally_available: 2023-04-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s4/e13.jpg
+            summary: >
+              Post Race Show for Azerbaijan Grand Prix takes place at Baku City Circuit (Baku, Azerbaijan) on
+              April 28, 2023. Local start: 13:30:00. Podium ceremonies, driver interviews and parc fermé debriefs.
+      5:
+        title: Miami Grand Prix
+        sort_title: 05_Miami Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s5/poster.jpg
+        summary: >
+          Round 5 (Miami Grand Prix) spans May 5-7, 2023 with 11 curated broadcast sessions mapped from
+          TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2023-05-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s5/e1.jpg
+            summary: >
+              Drivers Press Conference for Miami Grand Prix takes place at Miami International Autodrome (Miami
+              Gardens, Florida, United States) on May 05, 2023. Local start: 13:30:00. Selected drivers brief the
+              media on car updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2023-05-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s5/e2.jpg
+            summary: >
+              Weekend Warm Up for Miami Grand Prix takes place at Miami International Autodrome (Miami Gardens,
+              Florida, United States) on May 05, 2023. Local start: 13:30:00. Preview show covering track walks,
+              tyre choices and evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2023-05-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s5/e3.jpg
+            summary: >
+              Free Practice 1 for Miami Grand Prix takes place at Miami International Autodrome (Miami Gardens,
+              Florida, United States) on May 05, 2023. Local start: 13:30:00. Opening practice hour focused on
+              systems checks and baseline setup work.
+          4:
+            title: Free Practice 2
+            originally_available: 2023-05-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s5/e4.jpg
+            summary: >
+              Free Practice 2 for Miami Grand Prix takes place at Miami International Autodrome (Miami Gardens,
+              Florida, United States) on May 05, 2023. Local start: 17:00:00. Second practice mirrors race
+              conditions for long-run and tyre evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2023-05-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s5/e5.jpg
+            summary: >
+              Free Practice 3 for Miami Grand Prix takes place at Miami International Autodrome (Miami Gardens,
+              Florida, United States) on May 06, 2023. Local start: 12:30:00. Final tune-up where teams chase
+              qualifying simulations and outright pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2023-05-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s5/e6.jpg
+            summary: >
+              Pre Qualifying Show for Miami Grand Prix takes place at Miami International Autodrome (Miami
+              Gardens, Florida, United States) on May 06, 2023. Local start: 16:00:00. Build-up show that recaps
+              practice data before knockout qualifying begins.
+          7:
+            title: Qualifying
+            originally_available: 2023-05-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s5/e7.jpg
+            summary: >
+              Qualifying for Miami Grand Prix takes place at Miami International Autodrome (Miami Gardens,
+              Florida, United States) on May 06, 2023. Local start: 16:00:00. Three-stage knockout session that
+              sets Sunday's grid for the Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2023-05-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s5/e8.jpg
+            summary: >
+              Post Qualifying Show for Miami Grand Prix takes place at Miami International Autodrome (Miami
+              Gardens, Florida, United States) on May 06, 2023. Local start: 16:00:00. Immediate reaction,
+              interviews and technical analysis after qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2023-05-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s5/e9.jpg
+            summary: >
+              Pre Race Show for Miami Grand Prix takes place at Miami International Autodrome (Miami Gardens,
+              Florida, United States) on May 05, 2023. Local start: 13:30:00. Grid walk coverage with final
+              strategy talk before lights out.
+          10:
+            title: Race
+            originally_available: 2023-05-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s5/e10.jpg
+            summary: >
+              Race for Miami Grand Prix takes place at Miami International Autodrome (Miami Gardens, Florida,
+              United States) on May 05, 2023. Local start: 13:30:00. Full Grand Prix distance deciding the
+              championship points haul.
+          11:
+            title: Post Race Show
+            originally_available: 2023-05-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s5/e11.jpg
+            summary: >
+              Post Race Show for Miami Grand Prix takes place at Miami International Autodrome (Miami Gardens,
+              Florida, United States) on May 05, 2023. Local start: 13:30:00. Podium ceremonies, driver interviews
+              and parc fermé debriefs.
+      7:
+        title: Monaco Grand Prix
+        sort_title: 07_Monaco Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s7/poster.jpg
+        summary: >
+          Round 7 (Monaco Grand Prix) spans May 26-28, 2023 with 11 curated broadcast sessions mapped from
+          TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2023-05-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s7/e1.jpg
+            summary: >
+              Drivers Press Conference for Monaco Grand Prix takes place at Circuit de Monaco (Monaco, Monaco) on
+              May 26, 2023. Local start: 13:30:00. Selected drivers brief the media on car updates and
+              expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2023-05-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s7/e2.jpg
+            summary: >
+              Weekend Warm Up for Monaco Grand Prix takes place at Circuit de Monaco (Monaco, Monaco) on May 26,
+              2023. Local start: 13:30:00. Preview show covering track walks, tyre choices and evolving weather
+              conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2023-05-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s7/e3.jpg
+            summary: >
+              Free Practice 1 for Monaco Grand Prix takes place at Circuit de Monaco (Monaco, Monaco) on May 26,
+              2023. Local start: 13:30:00. Opening practice hour focused on systems checks and baseline setup
+              work.
+          4:
+            title: Free Practice 2
+            originally_available: 2023-05-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s7/e4.jpg
+            summary: >
+              Free Practice 2 for Monaco Grand Prix takes place at Circuit de Monaco (Monaco, Monaco) on May 26,
+              2023. Local start: 17:00:00. Second practice mirrors race conditions for long-run and tyre
+              evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2023-05-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s7/e5.jpg
+            summary: >
+              Free Practice 3 for Monaco Grand Prix takes place at Circuit de Monaco (Monaco, Monaco) on May 27,
+              2023. Local start: 12:30:00. Final tune-up where teams chase qualifying simulations and outright
+              pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2023-05-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s7/e6.jpg
+            summary: >
+              Pre Qualifying Show for Monaco Grand Prix takes place at Circuit de Monaco (Monaco, Monaco) on May
+              27, 2023. Local start: 16:00:00. Build-up show that recaps practice data before knockout qualifying
+              begins.
+          7:
+            title: Qualifying
+            originally_available: 2023-05-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s7/e7.jpg
+            summary: >
+              Qualifying for Monaco Grand Prix takes place at Circuit de Monaco (Monaco, Monaco) on May 27, 2023.
+              Local start: 16:00:00. Three-stage knockout session that sets Sunday's grid for the Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2023-05-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s7/e8.jpg
+            summary: >
+              Post Qualifying Show for Monaco Grand Prix takes place at Circuit de Monaco (Monaco, Monaco) on May
+              27, 2023. Local start: 16:00:00. Immediate reaction, interviews and technical analysis after
+              qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2023-05-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s7/e9.jpg
+            summary: >
+              Pre Race Show for Monaco Grand Prix takes place at Circuit de Monaco (Monaco, Monaco) on May 26,
+              2023. Local start: 13:30:00. Grid walk coverage with final strategy talk before lights out.
+          10:
+            title: Race
+            originally_available: 2023-05-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s7/e10.jpg
+            summary: >
+              Race for Monaco Grand Prix takes place at Circuit de Monaco (Monaco, Monaco) on May 26, 2023. Local
+              start: 13:30:00. Full Grand Prix distance deciding the championship points haul.
+          11:
+            title: Post Race Show
+            originally_available: 2023-05-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s7/e11.jpg
+            summary: >
+              Post Race Show for Monaco Grand Prix takes place at Circuit de Monaco (Monaco, Monaco) on May 26,
+              2023. Local start: 13:30:00. Podium ceremonies, driver interviews and parc fermé debriefs.
+      8:
+        title: Spanish Grand Prix
+        sort_title: 08_Spanish Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s8/poster.jpg
+        summary: >
+          Round 8 (Spanish Grand Prix) spans June 2-4, 2023 with 11 curated broadcast sessions mapped from
+          TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2023-06-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s8/e1.jpg
+            summary: >
+              Drivers Press Conference for Spanish Grand Prix takes place at Circuit de Barcelona-Catalunya
+              (Montmeló, Spain) on June 02, 2023. Local start: 13:30:00. Selected drivers brief the media on car
+              updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2023-06-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s8/e2.jpg
+            summary: >
+              Weekend Warm Up for Spanish Grand Prix takes place at Circuit de Barcelona-Catalunya (Montmeló,
+              Spain) on June 02, 2023. Local start: 13:30:00. Preview show covering track walks, tyre choices and
+              evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2023-06-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s8/e3.jpg
+            summary: >
+              Free Practice 1 for Spanish Grand Prix takes place at Circuit de Barcelona-Catalunya (Montmeló,
+              Spain) on June 02, 2023. Local start: 13:30:00. Opening practice hour focused on systems checks and
+              baseline setup work.
+          4:
+            title: Free Practice 2
+            originally_available: 2023-06-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s8/e4.jpg
+            summary: >
+              Free Practice 2 for Spanish Grand Prix takes place at Circuit de Barcelona-Catalunya (Montmeló,
+              Spain) on June 02, 2023. Local start: 17:00:00. Second practice mirrors race conditions for long-run
+              and tyre evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2023-06-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s8/e5.jpg
+            summary: >
+              Free Practice 3 for Spanish Grand Prix takes place at Circuit de Barcelona-Catalunya (Montmeló,
+              Spain) on June 03, 2023. Local start: 12:30:00. Final tune-up where teams chase qualifying
+              simulations and outright pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2023-06-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s8/e6.jpg
+            summary: >
+              Pre Qualifying Show for Spanish Grand Prix takes place at Circuit de Barcelona-Catalunya (Montmeló,
+              Spain) on June 03, 2023. Local start: 16:00:00. Build-up show that recaps practice data before
+              knockout qualifying begins.
+          7:
+            title: Qualifying
+            originally_available: 2023-06-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s8/e7.jpg
+            summary: >
+              Qualifying for Spanish Grand Prix takes place at Circuit de Barcelona-Catalunya (Montmeló, Spain) on
+              June 03, 2023. Local start: 16:00:00. Three-stage knockout session that sets Sunday's grid for the
+              Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2023-06-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s8/e8.jpg
+            summary: >
+              Post Qualifying Show for Spanish Grand Prix takes place at Circuit de Barcelona-Catalunya (Montmeló,
+              Spain) on June 03, 2023. Local start: 16:00:00. Immediate reaction, interviews and technical
+              analysis after qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2023-06-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s8/e9.jpg
+            summary: >
+              Pre Race Show for Spanish Grand Prix takes place at Circuit de Barcelona-Catalunya (Montmeló, Spain)
+              on June 02, 2023. Local start: 13:30:00. Grid walk coverage with final strategy talk before lights
+              out.
+          10:
+            title: Race
+            originally_available: 2023-06-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s8/e10.jpg
+            summary: >
+              Race for Spanish Grand Prix takes place at Circuit de Barcelona-Catalunya (Montmeló, Spain) on June
+              02, 2023. Local start: 13:30:00. Full Grand Prix distance deciding the championship points haul.
+          11:
+            title: Post Race Show
+            originally_available: 2023-06-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s8/e11.jpg
+            summary: >
+              Post Race Show for Spanish Grand Prix takes place at Circuit de Barcelona-Catalunya (Montmeló,
+              Spain) on June 02, 2023. Local start: 13:30:00. Podium ceremonies, driver interviews and parc fermé
+              debriefs.
+      9:
+        title: Canadian Grand Prix
+        sort_title: 09_Canadian Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s9/poster.jpg
+        summary: >
+          Round 9 (Canadian Grand Prix) spans June 16-18, 2023 with 11 curated broadcast sessions mapped from
+          TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2023-06-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s9/e1.jpg
+            summary: >
+              Drivers Press Conference for Canadian Grand Prix takes place at Circuit Gilles Villeneuve (Montréal,
+              Canada) on June 16, 2023. Local start: 13:30:00. Selected drivers brief the media on car updates and
+              expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2023-06-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s9/e2.jpg
+            summary: >
+              Weekend Warm Up for Canadian Grand Prix takes place at Circuit Gilles Villeneuve (Montréal, Canada)
+              on June 16, 2023. Local start: 13:30:00. Preview show covering track walks, tyre choices and
+              evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2023-06-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s9/e3.jpg
+            summary: >
+              Free Practice 1 for Canadian Grand Prix takes place at Circuit Gilles Villeneuve (Montréal, Canada)
+              on June 16, 2023. Local start: 13:30:00. Opening practice hour focused on systems checks and
+              baseline setup work.
+          4:
+            title: Free Practice 2
+            originally_available: 2023-06-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s9/e4.jpg
+            summary: >
+              Free Practice 2 for Canadian Grand Prix takes place at Circuit Gilles Villeneuve (Montréal, Canada)
+              on June 16, 2023. Local start: 17:00:00. Second practice mirrors race conditions for long-run and
+              tyre evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2023-06-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s9/e5.jpg
+            summary: >
+              Free Practice 3 for Canadian Grand Prix takes place at Circuit Gilles Villeneuve (Montréal, Canada)
+              on June 17, 2023. Local start: 12:30:00. Final tune-up where teams chase qualifying simulations and
+              outright pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2023-06-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s9/e6.jpg
+            summary: >
+              Pre Qualifying Show for Canadian Grand Prix takes place at Circuit Gilles Villeneuve (Montréal,
+              Canada) on June 17, 2023. Local start: 16:00:00. Build-up show that recaps practice data before
+              knockout qualifying begins.
+          7:
+            title: Qualifying
+            originally_available: 2023-06-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s9/e7.jpg
+            summary: >
+              Qualifying for Canadian Grand Prix takes place at Circuit Gilles Villeneuve (Montréal, Canada) on
+              June 17, 2023. Local start: 16:00:00. Three-stage knockout session that sets Sunday's grid for the
+              Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2023-06-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s9/e8.jpg
+            summary: >
+              Post Qualifying Show for Canadian Grand Prix takes place at Circuit Gilles Villeneuve (Montréal,
+              Canada) on June 17, 2023. Local start: 16:00:00. Immediate reaction, interviews and technical
+              analysis after qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2023-06-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s9/e9.jpg
+            summary: >
+              Pre Race Show for Canadian Grand Prix takes place at Circuit Gilles Villeneuve (Montréal, Canada) on
+              June 16, 2023. Local start: 13:30:00. Grid walk coverage with final strategy talk before lights out.
+          10:
+            title: Race
+            originally_available: 2023-06-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s9/e10.jpg
+            summary: >
+              Race for Canadian Grand Prix takes place at Circuit Gilles Villeneuve (Montréal, Canada) on June 16,
+              2023. Local start: 13:30:00. Full Grand Prix distance deciding the championship points haul.
+          11:
+            title: Post Race Show
+            originally_available: 2023-06-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s9/e11.jpg
+            summary: >
+              Post Race Show for Canadian Grand Prix takes place at Circuit Gilles Villeneuve (Montréal, Canada)
+              on June 16, 2023. Local start: 13:30:00. Podium ceremonies, driver interviews and parc fermé
+              debriefs.
+      10:
+        title: Austrian Grand Prix
+        sort_title: 10_Austrian Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s10/poster.jpg
+        summary: >
+          Round 10 (Austrian Grand Prix) spans June 30 - July 2, 2023 with 13 curated broadcast sessions
+          mapped from TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2023-06-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s10/e1.jpg
+            summary: >
+              Drivers Press Conference for Austrian Grand Prix takes place at Red Bull Ring (Spielberg, Austria)
+              on June 30, 2023. Local start: 13:30:00. Selected drivers brief the media on car updates and
+              expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2023-06-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s10/e2.jpg
+            summary: >
+              Weekend Warm Up for Austrian Grand Prix takes place at Red Bull Ring (Spielberg, Austria) on June
+              30, 2023. Local start: 13:30:00. Preview show covering track walks, tyre choices and evolving
+              weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2023-06-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s10/e3.jpg
+            summary: >
+              Free Practice 1 for Austrian Grand Prix takes place at Red Bull Ring (Spielberg, Austria) on June
+              30, 2023. Local start: 13:30:00. Only practice session before the sprint shootout, vital for rapid
+              setup work.
+          4:
+            title: Sprint Qualifying
+            originally_available: 2023-07-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s10/e4.jpg
+            summary: >
+              Sprint Qualifying for Austrian Grand Prix takes place at Red Bull Ring (Spielberg, Austria) on July
+              01, 2023. Listed start: 00:00:00 (UTC). Short sprint shootout that sets the grid for Saturday's
+              sprint race.
+          5:
+            title: Pre Sprint Show
+            originally_available: 2023-07-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s10/e5.jpg
+            summary: >
+              Pre Sprint Show for Austrian Grand Prix takes place at Red Bull Ring (Spielberg, Austria) on July
+              01, 2023. Local start: 16:30:00. Studio build-up covering sprint strategies, tyre allocations and
+              weather.
+          6:
+            title: Sprint
+            originally_available: 2023-07-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s10/e6.jpg
+            summary: >
+              Sprint for Austrian Grand Prix takes place at Red Bull Ring (Spielberg, Austria) on July 01, 2023.
+              Local start: 16:30:00. 100km dash awarding points to the top eight and shaping the weekend
+              narrative.
+          7:
+            title: Post Sprint Show
+            originally_available: 2023-07-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s10/e7.jpg
+            summary: >
+              Post Sprint Show for Austrian Grand Prix takes place at Red Bull Ring (Spielberg, Austria) on July
+              01, 2023. Local start: 16:30:00. Analysis and driver interviews immediately after the sprint finish.
+          8:
+            title: Pre Qualifying Show
+            originally_available: 2023-06-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s10/e8.jpg
+            summary: >
+              Pre Qualifying Show for Austrian Grand Prix takes place at Red Bull Ring (Spielberg, Austria) on
+              June 30, 2023. Local start: 17:00:00. Reset before traditional qualifying that locks in the Grand
+              Prix grid.
+          9:
+            title: Qualifying
+            originally_available: 2023-06-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s10/e9.jpg
+            summary: >
+              Qualifying for Austrian Grand Prix takes place at Red Bull Ring (Spielberg, Austria) on June 30,
+              2023. Local start: 17:00:00. Knockout qualifying held after the sprint to define Sunday's start
+              order.
+          10:
+            title: Post Qualifying Show
+            originally_available: 2023-06-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s10/e10.jpg
+            summary: >
+              Post Qualifying Show for Austrian Grand Prix takes place at Red Bull Ring (Spielberg, Austria) on
+              June 30, 2023. Local start: 17:00:00. Reactions and technical analysis once the Grand Prix grid is
+              finalised.
+          11:
+            title: Pre Race Show
+            originally_available: 2023-07-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s10/e11.jpg
+            summary: >
+              Pre Race Show for Austrian Grand Prix takes place at Red Bull Ring (Spielberg, Austria) on June 30,
+              2023. Local start: 13:30:00. Grid walk coverage with final strategy talk before lights out.
+          12:
+            title: Race
+            originally_available: 2023-07-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s10/e12.jpg
+            summary: >
+              Race for Austrian Grand Prix takes place at Red Bull Ring (Spielberg, Austria) on June 30, 2023.
+              Local start: 13:30:00. Full Grand Prix distance deciding the championship points haul.
+          13:
+            title: Post Race Show
+            originally_available: 2023-07-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s10/e13.jpg
+            summary: >
+              Post Race Show for Austrian Grand Prix takes place at Red Bull Ring (Spielberg, Austria) on June 30,
+              2023. Local start: 13:30:00. Podium ceremonies, driver interviews and parc fermé debriefs.
+      11:
+        title: British Grand Prix
+        sort_title: 11_British Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s11/poster.jpg
+        summary: >
+          Round 11 (British Grand Prix) spans July 7-9, 2023 with 11 curated broadcast sessions mapped from
+          TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2023-07-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s11/e1.jpg
+            summary: >
+              Drivers Press Conference for British Grand Prix takes place at Silverstone Circuit (Silverstone,
+              United Kingdom) on July 07, 2023. Local start: 12:30:00. Selected drivers brief the media on car
+              updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2023-07-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s11/e2.jpg
+            summary: >
+              Weekend Warm Up for British Grand Prix takes place at Silverstone Circuit (Silverstone, United
+              Kingdom) on July 07, 2023. Local start: 12:30:00. Preview show covering track walks, tyre choices
+              and evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2023-07-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s11/e3.jpg
+            summary: >
+              Free Practice 1 for British Grand Prix takes place at Silverstone Circuit (Silverstone, United
+              Kingdom) on July 07, 2023. Local start: 12:30:00. Opening practice hour focused on systems checks
+              and baseline setup work.
+          4:
+            title: Free Practice 2
+            originally_available: 2023-07-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s11/e4.jpg
+            summary: >
+              Free Practice 2 for British Grand Prix takes place at Silverstone Circuit (Silverstone, United
+              Kingdom) on July 07, 2023. Local start: 16:00:00. Second practice mirrors race conditions for long-
+              run and tyre evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2023-07-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s11/e5.jpg
+            summary: >
+              Free Practice 3 for British Grand Prix takes place at Silverstone Circuit (Silverstone, United
+              Kingdom) on July 08, 2023. Local start: 11:30:00. Final tune-up where teams chase qualifying
+              simulations and outright pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2023-07-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s11/e6.jpg
+            summary: >
+              Pre Qualifying Show for British Grand Prix takes place at Silverstone Circuit (Silverstone, United
+              Kingdom) on July 08, 2023. Local start: 15:00:00. Build-up show that recaps practice data before
+              knockout qualifying begins.
+          7:
+            title: Qualifying
+            originally_available: 2023-07-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s11/e7.jpg
+            summary: >
+              Qualifying for British Grand Prix takes place at Silverstone Circuit (Silverstone, United Kingdom)
+              on July 08, 2023. Local start: 15:00:00. Three-stage knockout session that sets Sunday's grid for
+              the Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2023-07-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s11/e8.jpg
+            summary: >
+              Post Qualifying Show for British Grand Prix takes place at Silverstone Circuit (Silverstone, United
+              Kingdom) on July 08, 2023. Local start: 15:00:00. Immediate reaction, interviews and technical
+              analysis after qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2023-07-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s11/e9.jpg
+            summary: >
+              Pre Race Show for British Grand Prix takes place at Silverstone Circuit (Silverstone, United
+              Kingdom) on July 07, 2023. Local start: 12:30:00. Grid walk coverage with final strategy talk before
+              lights out.
+          10:
+            title: Race
+            originally_available: 2023-07-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s11/e10.jpg
+            summary: >
+              Race for British Grand Prix takes place at Silverstone Circuit (Silverstone, United Kingdom) on July
+              07, 2023. Local start: 12:30:00. Full Grand Prix distance deciding the championship points haul.
+          11:
+            title: Post Race Show
+            originally_available: 2023-07-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s11/e11.jpg
+            summary: >
+              Post Race Show for British Grand Prix takes place at Silverstone Circuit (Silverstone, United
+              Kingdom) on July 07, 2023. Local start: 12:30:00. Podium ceremonies, driver interviews and parc
+              fermé debriefs.
+      12:
+        title: Hungarian Grand Prix
+        sort_title: 12_Hungarian Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s12/poster.jpg
+        summary: >
+          Round 12 (Hungarian Grand Prix) spans July 21-23, 2023 with 11 curated broadcast sessions mapped
+          from TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2023-07-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s12/e1.jpg
+            summary: >
+              Drivers Press Conference for Hungarian Grand Prix takes place at Hungaroring (Mogyoród, Hungary) on
+              July 21, 2023. Local start: 13:30:00. Selected drivers brief the media on car updates and
+              expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2023-07-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s12/e2.jpg
+            summary: >
+              Weekend Warm Up for Hungarian Grand Prix takes place at Hungaroring (Mogyoród, Hungary) on July 21,
+              2023. Local start: 13:30:00. Preview show covering track walks, tyre choices and evolving weather
+              conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2023-07-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s12/e3.jpg
+            summary: >
+              Free Practice 1 for Hungarian Grand Prix takes place at Hungaroring (Mogyoród, Hungary) on July 21,
+              2023. Local start: 13:30:00. Opening practice hour focused on systems checks and baseline setup
+              work.
+          4:
+            title: Free Practice 2
+            originally_available: 2023-07-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s12/e4.jpg
+            summary: >
+              Free Practice 2 for Hungarian Grand Prix takes place at Hungaroring (Mogyoród, Hungary) on July 21,
+              2023. Local start: 17:00:00. Second practice mirrors race conditions for long-run and tyre
+              evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2023-07-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s12/e5.jpg
+            summary: >
+              Free Practice 3 for Hungarian Grand Prix takes place at Hungaroring (Mogyoród, Hungary) on July 22,
+              2023. Local start: 12:30:00. Final tune-up where teams chase qualifying simulations and outright
+              pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2023-07-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s12/e6.jpg
+            summary: >
+              Pre Qualifying Show for Hungarian Grand Prix takes place at Hungaroring (Mogyoród, Hungary) on July
+              22, 2023. Local start: 16:00:00. Build-up show that recaps practice data before knockout qualifying
+              begins.
+          7:
+            title: Qualifying
+            originally_available: 2023-07-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s12/e7.jpg
+            summary: >
+              Qualifying for Hungarian Grand Prix takes place at Hungaroring (Mogyoród, Hungary) on July 22, 2023.
+              Local start: 16:00:00. Three-stage knockout session that sets Sunday's grid for the Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2023-07-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s12/e8.jpg
+            summary: >
+              Post Qualifying Show for Hungarian Grand Prix takes place at Hungaroring (Mogyoród, Hungary) on July
+              22, 2023. Local start: 16:00:00. Immediate reaction, interviews and technical analysis after
+              qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2023-07-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s12/e9.jpg
+            summary: >
+              Pre Race Show for Hungarian Grand Prix takes place at Hungaroring (Mogyoród, Hungary) on July 21,
+              2023. Local start: 13:30:00. Grid walk coverage with final strategy talk before lights out.
+          10:
+            title: Race
+            originally_available: 2023-07-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s12/e10.jpg
+            summary: >
+              Race for Hungarian Grand Prix takes place at Hungaroring (Mogyoród, Hungary) on July 21, 2023. Local
+              start: 13:30:00. Full Grand Prix distance deciding the championship points haul.
+          11:
+            title: Post Race Show
+            originally_available: 2023-07-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s12/e11.jpg
+            summary: >
+              Post Race Show for Hungarian Grand Prix takes place at Hungaroring (Mogyoród, Hungary) on July 21,
+              2023. Local start: 13:30:00. Podium ceremonies, driver interviews and parc fermé debriefs.
+      13:
+        title: Belgian Grand Prix
+        sort_title: 13_Belgian Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s13/poster.jpg
+        summary: >
+          Round 13 (Belgian Grand Prix) spans July 28-30, 2023 with 13 curated broadcast sessions mapped from
+          TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2023-07-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s13/e1.jpg
+            summary: >
+              Drivers Press Conference for Belgian Grand Prix takes place at Circuit de Spa-Francorchamps
+              (Stavelot, Belgium) on July 28, 2023. Local start: 13:30:00. Selected drivers brief the media on car
+              updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2023-07-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s13/e2.jpg
+            summary: >
+              Weekend Warm Up for Belgian Grand Prix takes place at Circuit de Spa-Francorchamps (Stavelot,
+              Belgium) on July 28, 2023. Local start: 13:30:00. Preview show covering track walks, tyre choices
+              and evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2023-07-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s13/e3.jpg
+            summary: >
+              Free Practice 1 for Belgian Grand Prix takes place at Circuit de Spa-Francorchamps (Stavelot,
+              Belgium) on July 28, 2023. Local start: 13:30:00. Only practice session before the sprint shootout,
+              vital for rapid setup work.
+          4:
+            title: Sprint Qualifying
+            originally_available: 2023-07-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s13/e4.jpg
+            summary: >
+              Sprint Qualifying for Belgian Grand Prix takes place at Circuit de Spa-Francorchamps (Stavelot,
+              Belgium) on July 29, 2023. Local start: 12:00:00. The sprint shootout was held on 29 July 2023, and
+              was scheduled at 12:00 local time (UTC+2), but was delayed by 35 minutes due to rain.    Sprint
+              shootout report  The first segment, SQ1, would go underway with all cars on the intermediate
+              compound. The wet track offered wildly differing fortunes for the teams. The fledging Aston Martin
+              team, which had shown previous success in the season, were in much poorer form with Fernando Alonso
+              only becoming the second-fastest car by session's end. Lance Stroll looked to be at threat to be
+              knocked out, but would scrape past. The McLarens of Lando Norris and Oscar Piastri also found
+              themselves lacking the newfound pace, with Norris only making it past being the thirteenth fastest.
+              Yuki Tsunoda, Valtteri Bottas, Kevin Magnussen, Zhou Guanyu and Nico Hülkenberg – the latter failing
+              to take advantage of the changing conditions and being inconvenienced due to an issue with the Haas
+              pit crew's front jack – were all out of the session. Meanwhile, Max Verstappen topped the session.
+              The second segment, SQ2, was red-flagged due to Stroll's journey into the barriers and subsequent
+              crash. He was unable to set a time. He had switched to medium tyres on a wet track and was suffering
+              from a lack of grip. While Daniel Ricciardo was able to set a lap, the red flag greatly
+              inconvenienced Stroll's teammate Alonso, Alexander Albon and Logan Sargeant, who were all knocked
+              out – this in particular being Alonso's first time this season he could not progress to the third
+              segment of a qualification. Meanwhile, George Russell barely made it out of the session once again.
+              Confusion arose after the FIA was revealed to have not declared the track to have been wet during
+              SQ2, which led to Stroll switching to mediums despite the wet track and subsequently crashing and
+              destroying the front section of his car during his outlap. As per sprint shootout regulations, teams
+              must use a specific tyre compound during each segment; mediums in SQ1 and SQ2, and softs in SQ3. The
+              track was wet during the session and as such the regulation did not apply. Fifteen minutes before
+              the session began, FIA sporting director Steve Nielsen announced that the track would not be
+              declared wet. A previous instance of such changing conditions was displayed in the Austrian Grand
+              Prix earlier in the year.    The third segment, SQ3, saw everyone put on the softs as the track
+              dried out. Verstappen was only second behind Lewis Hamilton, but improved his time and achieved the
+              pole position for the sprint, with his teammate Sergio Pérez in eighth. Piastri saw himself
+              bettering his British Grand Prix qualifying result by qualifying second, 0.011 seconds off of
+              polesitter Verstappen.
+          5:
+            title: Pre Sprint Show
+            originally_available: 2023-07-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s13/e5.jpg
+            summary: >
+              Pre Sprint Show for Belgian Grand Prix takes place at Circuit de Spa-Francorchamps (Stavelot,
+              Belgium) on July 29, 2023. Local start: 17:05:00. The sprint was held on 29 July 2023, and was
+              scheduled at 16:30 local time (UTC+2), but was delayed by one hour and five minutes due to the delay
+              of the sprint shootout and rain.    Sprint report  The sprint began with all cars under full wets
+              after four formation laps behind the safety car. When it went into the pits, with the race now
+              running to 11 laps, Oscar Piastri, Carlos Sainz Jr., Pierre Gasly, Lewis Hamilton, Sergio Pérez,
+              Daniel Ricciardo, Alexander Albon, Lance Stroll, Valtteri Bottas, and Nico Hülkenberg pitted to
+              switch to intermediate tires. Max Verstappen then led until the second lap, when he and everyone
+              else who chose not to pit after the formation lap switched to intermediates. This meant Piastri led
+              a race for the first time in his Formula One career.    On lap 3, Fernando Alonso lost control of
+              his car on the curb of turn 12 and spun into the gravel. He could not recover the car, prompting his
+              first retirement of the season and a safety car period to recover Alonso's car. It went in just
+              before lap 6 started, and Verstappen finally passed Piastri down the Kemmel Straight after turn 4.
+              Verstappen would keep the lead, which he extended to six seconds as he crossed the line.    Hamilton
+              and Pérez banged wheels through turn 17 while fighting for the fourth position, leaving Hamilton
+              ahead after Pérez suffered damage to his sidepod. After Pérez was overtaken by Sainz and Charles
+              Leclerc, he ran into the gravel on the next lap at turn 15 and tumbled down the order before
+              eventually retiring.    Max Verstappen, Oscar Piastri, and Pierre Gasly rounded out the top three.
+              This is Gasly's first top-three finish since the 2021 Azerbaijan Grand Prix, and Piastri's first
+              top-three finish in his Formula One career. Lewis Hamilton crossed the line in fourth but was
+              dropped to seventh after a five-second time penalty for causing a collision with Pérez. This
+              promoted Sainz to fourth, Leclerc to fifth, and Norris to sixth. Russell grabbed the final points-
+              scoring position.
+          6:
+            title: Sprint
+            originally_available: 2023-07-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s13/e6.jpg
+            summary: >
+              Sprint for Belgian Grand Prix takes place at Circuit de Spa-Francorchamps (Stavelot, Belgium) on
+              July 29, 2023. Local start: 17:05:00. The sprint was held on 29 July 2023, and was scheduled at
+              16:30 local time (UTC+2), but was delayed by one hour and five minutes due to the delay of the
+              sprint shootout and rain.    Sprint report  The sprint began with all cars under full wets after
+              four formation laps behind the safety car. When it went into the pits, with the race now running to
+              11 laps, Oscar Piastri, Carlos Sainz Jr., Pierre Gasly, Lewis Hamilton, Sergio Pérez, Daniel
+              Ricciardo, Alexander Albon, Lance Stroll, Valtteri Bottas, and Nico Hülkenberg pitted to switch to
+              intermediate tires. Max Verstappen then led until the second lap, when he and everyone else who
+              chose not to pit after the formation lap switched to intermediates. This meant Piastri led a race
+              for the first time in his Formula One career.    On lap 3, Fernando Alonso lost control of his car
+              on the curb of turn 12 and spun into the gravel. He could not recover the car, prompting his first
+              retirement of the season and a safety car period to recover Alonso's car. It went in just before lap
+              6 started, and Verstappen finally passed Piastri down the Kemmel Straight after turn 4. Verstappen
+              would keep the lead, which he extended to six seconds as he crossed the line.    Hamilton and Pérez
+              banged wheels through turn 17 while fighting for the fourth position, leaving Hamilton ahead after
+              Pérez suffered damage to his sidepod. After Pérez was overtaken by Sainz and Charles Leclerc, he ran
+              into the gravel on the next lap at turn 15 and tumbled down the order before eventually retiring.
+              Max Verstappen, Oscar Piastri, and Pierre Gasly rounded out the top three. This is Gasly's first
+              top-three finish since the 2021 Azerbaijan Grand Prix, and Piastri's first top-three finish in his
+              Formula One career. Lewis Hamilton crossed the line in fourth but was dropped to seventh after a
+              five-second time penalty for causing a collision with Pérez. This promoted Sainz to fourth, Leclerc
+              to fifth, and Norris to sixth. Russell grabbed the final points-scoring position.
+          7:
+            title: Post Sprint Show
+            originally_available: 2023-07-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s13/e7.jpg
+            summary: >
+              Post Sprint Show for Belgian Grand Prix takes place at Circuit de Spa-Francorchamps (Stavelot,
+              Belgium) on July 29, 2023. Local start: 17:05:00. The sprint was held on 29 July 2023, and was
+              scheduled at 16:30 local time (UTC+2), but was delayed by one hour and five minutes due to the delay
+              of the sprint shootout and rain.    Sprint report  The sprint began with all cars under full wets
+              after four formation laps behind the safety car. When it went into the pits, with the race now
+              running to 11 laps, Oscar Piastri, Carlos Sainz Jr., Pierre Gasly, Lewis Hamilton, Sergio Pérez,
+              Daniel Ricciardo, Alexander Albon, Lance Stroll, Valtteri Bottas, and Nico Hülkenberg pitted to
+              switch to intermediate tires. Max Verstappen then led until the second lap, when he and everyone
+              else who chose not to pit after the formation lap switched to intermediates. This meant Piastri led
+              a race for the first time in his Formula One career.    On lap 3, Fernando Alonso lost control of
+              his car on the curb of turn 12 and spun into the gravel. He could not recover the car, prompting his
+              first retirement of the season and a safety car period to recover Alonso's car. It went in just
+              before lap 6 started, and Verstappen finally passed Piastri down the Kemmel Straight after turn 4.
+              Verstappen would keep the lead, which he extended to six seconds as he crossed the line.    Hamilton
+              and Pérez banged wheels through turn 17 while fighting for the fourth position, leaving Hamilton
+              ahead after Pérez suffered damage to his sidepod. After Pérez was overtaken by Sainz and Charles
+              Leclerc, he ran into the gravel on the next lap at turn 15 and tumbled down the order before
+              eventually retiring.    Max Verstappen, Oscar Piastri, and Pierre Gasly rounded out the top three.
+              This is Gasly's first top-three finish since the 2021 Azerbaijan Grand Prix, and Piastri's first
+              top-three finish in his Formula One career. Lewis Hamilton crossed the line in fourth but was
+              dropped to seventh after a five-second time penalty for causing a collision with Pérez. This
+              promoted Sainz to fourth, Leclerc to fifth, and Norris to sixth. Russell grabbed the final points-
+              scoring position.
+          8:
+            title: Pre Qualifying Show
+            originally_available: 2023-07-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s13/e8.jpg
+            summary: >
+              Pre Qualifying Show for Belgian Grand Prix takes place at Circuit de Spa-Francorchamps (Stavelot,
+              Belgium) on July 28, 2023. Local start: 17:00:00. Qualifying was held on 28 July 2023, and was
+              scheduled at 17:00 local time (UTC+2), but was delayed by ten minutes due to rain.    Qualifying
+              report  For the first segment (Q1), Lando Norris broke his floor as his car snapped and was on track
+              to hit the wall, but he saved the car and went into the gravel instead. Meanwhile, teammate Oscar
+              Piastri saw better fortunes by setting the fastest lap momentarily. Max Verstappen allegedly impeded
+              Alexander Albon but no further action was taken, going on to take Piastri's spot being the fastest
+              car on track. Albon, Zhou Guanyu, Logan Sargeant, Daniel Ricciardo, on his second qualifying for the
+              AlphaTauri team, and Nico Hülkenberg were all knocked out. Hülkenberg's retirement was caused by his
+              own car, which suffered hydraulic leaks during the session. Repairs meant he could not set another
+              lap.    Intermediates continued to be the chosen rubber of the second session (Q2) before Norris
+              substituted them for soft tyres. Meanwhile, Esteban Ocon ripped the right side of his front wing and
+              ended up joining Yuki Tsunoda, teammate Pierre Gasly, Kevin Magnussen, who would also achieve a grid
+              penalty for impeding Charles Leclerc, and the other Alfa Romeo of Valtteri Bottas all out of the
+              session, which Piastri momentarily topped with Verstappen barely scraping by.    The drag reduction
+              system (DRS) was made available to all drivers for the final session (Q3). Verstappen achieved pole
+              position but would be impeded by a five-place grid penalty, which meant Charles Leclerc achieved the
+              second pole position in 2023 for Ferrari ahead of Sergio Pérez and Lewis Hamilton.
+          9:
+            title: Qualifying
+            originally_available: 2023-07-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s13/e9.jpg
+            summary: >
+              Qualifying for Belgian Grand Prix takes place at Circuit de Spa-Francorchamps (Stavelot, Belgium) on
+              July 28, 2023. Local start: 17:00:00. Qualifying was held on 28 July 2023, and was scheduled at
+              17:00 local time (UTC+2), but was delayed by ten minutes due to rain.    Qualifying report  For the
+              first segment (Q1), Lando Norris broke his floor as his car snapped and was on track to hit the
+              wall, but he saved the car and went into the gravel instead. Meanwhile, teammate Oscar Piastri saw
+              better fortunes by setting the fastest lap momentarily. Max Verstappen allegedly impeded Alexander
+              Albon but no further action was taken, going on to take Piastri's spot being the fastest car on
+              track. Albon, Zhou Guanyu, Logan Sargeant, Daniel Ricciardo, on his second qualifying for the
+              AlphaTauri team, and Nico Hülkenberg were all knocked out. Hülkenberg's retirement was caused by his
+              own car, which suffered hydraulic leaks during the session. Repairs meant he could not set another
+              lap.    Intermediates continued to be the chosen rubber of the second session (Q2) before Norris
+              substituted them for soft tyres. Meanwhile, Esteban Ocon ripped the right side of his front wing and
+              ended up joining Yuki Tsunoda, teammate Pierre Gasly, Kevin Magnussen, who would also achieve a grid
+              penalty for impeding Charles Leclerc, and the other Alfa Romeo of Valtteri Bottas all out of the
+              session, which Piastri momentarily topped with Verstappen barely scraping by.    The drag reduction
+              system (DRS) was made available to all drivers for the final session (Q3). Verstappen achieved pole
+              position but would be impeded by a five-place grid penalty, which meant Charles Leclerc achieved the
+              second pole position in 2023 for Ferrari ahead of Sergio Pérez and Lewis Hamilton.
+          10:
+            title: Post Qualifying Show
+            originally_available: 2023-07-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s13/e10.jpg
+            summary: >
+              Post Qualifying Show for Belgian Grand Prix takes place at Circuit de Spa-Francorchamps (Stavelot,
+              Belgium) on July 28, 2023. Local start: 17:00:00. Qualifying was held on 28 July 2023, and was
+              scheduled at 17:00 local time (UTC+2), but was delayed by ten minutes due to rain.    Qualifying
+              report  For the first segment (Q1), Lando Norris broke his floor as his car snapped and was on track
+              to hit the wall, but he saved the car and went into the gravel instead. Meanwhile, teammate Oscar
+              Piastri saw better fortunes by setting the fastest lap momentarily. Max Verstappen allegedly impeded
+              Alexander Albon but no further action was taken, going on to take Piastri's spot being the fastest
+              car on track. Albon, Zhou Guanyu, Logan Sargeant, Daniel Ricciardo, on his second qualifying for the
+              AlphaTauri team, and Nico Hülkenberg were all knocked out. Hülkenberg's retirement was caused by his
+              own car, which suffered hydraulic leaks during the session. Repairs meant he could not set another
+              lap.    Intermediates continued to be the chosen rubber of the second session (Q2) before Norris
+              substituted them for soft tyres. Meanwhile, Esteban Ocon ripped the right side of his front wing and
+              ended up joining Yuki Tsunoda, teammate Pierre Gasly, Kevin Magnussen, who would also achieve a grid
+              penalty for impeding Charles Leclerc, and the other Alfa Romeo of Valtteri Bottas all out of the
+              session, which Piastri momentarily topped with Verstappen barely scraping by.    The drag reduction
+              system (DRS) was made available to all drivers for the final session (Q3). Verstappen achieved pole
+              position but would be impeded by a five-place grid penalty, which meant Charles Leclerc achieved the
+              second pole position in 2023 for Ferrari ahead of Sergio Pérez and Lewis Hamilton.
+          11:
+            title: Pre Race Show
+            originally_available: 2023-07-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s13/e11.jpg
+            summary: >
+              Pre Race Show for Belgian Grand Prix takes place at Circuit de Spa-Francorchamps (Stavelot, Belgium)
+              on July 28, 2023. Local start: 13:30:00. Grid walk coverage with final strategy talk before lights
+              out.
+          12:
+            title: Race
+            originally_available: 2023-07-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s13/e12.jpg
+            summary: >
+              Race for Belgian Grand Prix takes place at Circuit de Spa-Francorchamps (Stavelot, Belgium) on July
+              28, 2023. Local start: 13:30:00. Full Grand Prix distance deciding the championship points haul.
+          13:
+            title: Post Race Show
+            originally_available: 2023-07-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s13/e13.jpg
+            summary: >
+              Post Race Show for Belgian Grand Prix takes place at Circuit de Spa-Francorchamps (Stavelot,
+              Belgium) on July 28, 2023. Local start: 13:30:00. Podium ceremonies, driver interviews and parc
+              fermé debriefs.
+      14:
+        title: Dutch Grand Prix
+        sort_title: 14_Dutch Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s14/poster.jpg
+        summary: >
+          Round 14 (Dutch Grand Prix) spans August 25-27, 2023 with 11 curated broadcast sessions mapped from
+          TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2023-08-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s14/e1.jpg
+            summary: >
+              Drivers Press Conference for Dutch Grand Prix takes place at Circuit Zandvoort (Zandvoort,
+              Netherlands) on August 25, 2023. Local start: 12:30:00. Selected drivers brief the media on car
+              updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2023-08-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s14/e2.jpg
+            summary: >
+              Weekend Warm Up for Dutch Grand Prix takes place at Circuit Zandvoort (Zandvoort, Netherlands) on
+              August 25, 2023. Local start: 12:30:00. Preview show covering track walks, tyre choices and evolving
+              weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2023-08-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s14/e3.jpg
+            summary: >
+              Free Practice 1 for Dutch Grand Prix takes place at Circuit Zandvoort (Zandvoort, Netherlands) on
+              August 25, 2023. Local start: 12:30:00. Opening practice hour focused on systems checks and baseline
+              setup work.
+          4:
+            title: Free Practice 2
+            originally_available: 2023-08-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s14/e4.jpg
+            summary: >
+              Free Practice 2 for Dutch Grand Prix takes place at Circuit Zandvoort (Zandvoort, Netherlands) on
+              August 25, 2023. Local start: 16:00:00. Second practice mirrors race conditions for long-run and
+              tyre evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2023-08-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s14/e5.jpg
+            summary: >
+              Free Practice 3 for Dutch Grand Prix takes place at Circuit Zandvoort (Zandvoort, Netherlands) on
+              August 26, 2023. Local start: 11:30:00. Final tune-up where teams chase qualifying simulations and
+              outright pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2023-08-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s14/e6.jpg
+            summary: >
+              Pre Qualifying Show for Dutch Grand Prix takes place at Circuit Zandvoort (Zandvoort, The
+              Netherlands) on August 26, 2023. Local start: 15:00:00. Build-up show that recaps practice data
+              before knockout qualifying begins.
+          7:
+            title: Qualifying
+            originally_available: 2023-08-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s14/e7.jpg
+            summary: >
+              Qualifying for Dutch Grand Prix takes place at Circuit Zandvoort (Zandvoort, The Netherlands) on
+              August 26, 2023. Local start: 15:00:00. Three-stage knockout session that sets Sunday's grid for the
+              Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2023-08-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s14/e8.jpg
+            summary: >
+              Post Qualifying Show for Dutch Grand Prix takes place at Circuit Zandvoort (Zandvoort, The
+              Netherlands) on August 26, 2023. Local start: 15:00:00. Immediate reaction, interviews and technical
+              analysis after qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2023-08-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s14/e9.jpg
+            summary: >
+              Pre Race Show for Dutch Grand Prix takes place at Circuit Zandvoort (Zandvoort, Netherlands) on
+              August 25, 2023. Local start: 12:30:00. Grid walk coverage with final strategy talk before lights
+              out.
+          10:
+            title: Race
+            originally_available: 2023-08-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s14/e10.jpg
+            summary: >
+              Race for Dutch Grand Prix takes place at Circuit Zandvoort (Zandvoort, Netherlands) on August 25,
+              2023. Local start: 12:30:00. Full Grand Prix distance deciding the championship points haul.
+          11:
+            title: Post Race Show
+            originally_available: 2023-08-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s14/e11.jpg
+            summary: >
+              Post Race Show for Dutch Grand Prix takes place at Circuit Zandvoort (Zandvoort, Netherlands) on
+              August 25, 2023. Local start: 12:30:00. Podium ceremonies, driver interviews and parc fermé
+              debriefs.
+      15:
+        title: Italian Grand Prix
+        sort_title: 15_Italian Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s15/poster.jpg
+        summary: >
+          Round 15 (Italian Grand Prix) spans September 1-3, 2023 with 11 curated broadcast sessions mapped
+          from TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2023-09-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s15/e1.jpg
+            summary: >
+              Drivers Press Conference for Italian Grand Prix takes place at Monza Circuit (Monza, Italy) on
+              September 01, 2023. Local start: 13:30:00. Selected drivers brief the media on car updates and
+              expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2023-09-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s15/e2.jpg
+            summary: >
+              Weekend Warm Up for Italian Grand Prix takes place at Monza Circuit (Monza, Italy) on September 01,
+              2023. Local start: 13:30:00. Preview show covering track walks, tyre choices and evolving weather
+              conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2023-09-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s15/e3.jpg
+            summary: >
+              Free Practice 1 for Italian Grand Prix takes place at Monza Circuit (Monza, Italy) on September 01,
+              2023. Local start: 13:30:00. Opening practice hour focused on systems checks and baseline setup
+              work.
+          4:
+            title: Free Practice 2
+            originally_available: 2023-09-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s15/e4.jpg
+            summary: >
+              Free Practice 2 for Italian Grand Prix takes place at Monza Circuit (Monza, Italy) on September 01,
+              2023. Local start: 17:00:00. Second practice mirrors race conditions for long-run and tyre
+              evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2023-09-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s15/e5.jpg
+            summary: >
+              Free Practice 3 for Italian Grand Prix takes place at Monza Circuit (Monza, Italy) on September 02,
+              2023. Local start: 12:30:00. Final tune-up where teams chase qualifying simulations and outright
+              pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2023-09-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s15/e6.jpg
+            summary: >
+              Pre Qualifying Show for Italian Grand Prix takes place at Monza Circuit (Monza, Italy) on September
+              02, 2023. Local start: 16:00:00. Build-up show that recaps practice data before knockout qualifying
+              begins.
+          7:
+            title: Qualifying
+            originally_available: 2023-09-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s15/e7.jpg
+            summary: >
+              Qualifying for Italian Grand Prix takes place at Monza Circuit (Monza, Italy) on September 02, 2023.
+              Local start: 16:00:00. Three-stage knockout session that sets Sunday's grid for the Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2023-09-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s15/e8.jpg
+            summary: >
+              Post Qualifying Show for Italian Grand Prix takes place at Monza Circuit (Monza, Italy) on September
+              02, 2023. Local start: 16:00:00. Immediate reaction, interviews and technical analysis after
+              qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2023-09-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s15/e9.jpg
+            summary: >
+              Pre Race Show for Italian Grand Prix takes place at Monza Circuit (Monza, Italy) on September 01,
+              2023. Local start: 13:30:00. Grid walk coverage with final strategy talk before lights out.
+          10:
+            title: Race
+            originally_available: 2023-09-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s15/e10.jpg
+            summary: >
+              Race for Italian Grand Prix takes place at Monza Circuit (Monza, Italy) on September 01, 2023. Local
+              start: 13:30:00. Full Grand Prix distance deciding the championship points haul.
+          11:
+            title: Post Race Show
+            originally_available: 2023-09-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s15/e11.jpg
+            summary: >
+              Post Race Show for Italian Grand Prix takes place at Monza Circuit (Monza, Italy) on September 01,
+              2023. Local start: 13:30:00. Podium ceremonies, driver interviews and parc fermé debriefs.
+      16:
+        title: Singapore Grand Prix
+        sort_title: 16_Singapore Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s16/poster.jpg
+        summary: >
+          Round 16 (Singapore Grand Prix) spans September 15-17, 2023 with 11 curated broadcast sessions
+          mapped from TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2023-09-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s16/e1.jpg
+            summary: >
+              Drivers Press Conference for Singapore Grand Prix takes place at Marina Bay Street Circuit
+              (Singapore, Singapore) on September 15, 2023. Local start: 17:30:00. Selected drivers brief the
+              media on car updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2023-09-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s16/e2.jpg
+            summary: >
+              Weekend Warm Up for Singapore Grand Prix takes place at Marina Bay Street Circuit (Singapore,
+              Singapore) on September 15, 2023. Local start: 17:30:00. Preview show covering track walks, tyre
+              choices and evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2023-09-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s16/e3.jpg
+            summary: >
+              Free Practice 1 for Singapore Grand Prix takes place at Marina Bay Street Circuit (Singapore,
+              Singapore) on September 15, 2023. Local start: 17:30:00. Opening practice hour focused on systems
+              checks and baseline setup work.
+          4:
+            title: Free Practice 2
+            originally_available: 2023-09-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s16/e4.jpg
+            summary: >
+              Free Practice 2 for Singapore Grand Prix takes place at Marina Bay Street Circuit (Singapore,
+              Singapore) on September 15, 2023. Local start: 21:00:00. Second practice mirrors race conditions for
+              long-run and tyre evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2023-09-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s16/e5.jpg
+            summary: >
+              Free Practice 3 for Singapore Grand Prix takes place at Marina Bay Street Circuit (Singapore,
+              Singapore) on September 16, 2023. Local start: 17:30:00. Final tune-up where teams chase qualifying
+              simulations and outright pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2023-09-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s16/e6.jpg
+            summary: >
+              Pre Qualifying Show for Singapore Grand Prix takes place at Marina Bay Street Circuit (Singapore,
+              Singapore) on September 16, 2023. Local start: 21:00:00. Build-up show that recaps practice data
+              before knockout qualifying begins.
+          7:
+            title: Qualifying
+            originally_available: 2023-09-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s16/e7.jpg
+            summary: >
+              Qualifying for Singapore Grand Prix takes place at Marina Bay Street Circuit (Singapore, Singapore)
+              on September 16, 2023. Local start: 21:00:00. Three-stage knockout session that sets Sunday's grid
+              for the Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2023-09-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s16/e8.jpg
+            summary: >
+              Post Qualifying Show for Singapore Grand Prix takes place at Marina Bay Street Circuit (Singapore,
+              Singapore) on September 16, 2023. Local start: 21:00:00. Immediate reaction, interviews and
+              technical analysis after qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2023-09-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s16/e9.jpg
+            summary: >
+              Pre Race Show for Singapore Grand Prix takes place at Marina Bay Street Circuit (Singapore,
+              Singapore) on September 15, 2023. Local start: 17:30:00. Grid walk coverage with final strategy talk
+              before lights out.
+          10:
+            title: Race
+            originally_available: 2023-09-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s16/e10.jpg
+            summary: >
+              Race for Singapore Grand Prix takes place at Marina Bay Street Circuit (Singapore, Singapore) on
+              September 15, 2023. Local start: 17:30:00. Full Grand Prix distance deciding the championship points
+              haul.
+          11:
+            title: Post Race Show
+            originally_available: 2023-09-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s16/e11.jpg
+            summary: >
+              Post Race Show for Singapore Grand Prix takes place at Marina Bay Street Circuit (Singapore,
+              Singapore) on September 15, 2023. Local start: 17:30:00. Podium ceremonies, driver interviews and
+              parc fermé debriefs.
+      17:
+        title: Japanese Grand Prix
+        sort_title: 17_Japanese Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s17/poster.jpg
+        summary: >
+          Round 17 (Japanese Grand Prix) spans September 22-24, 2023 with 13 curated broadcast sessions mapped
+          from TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2023-09-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s17/e1.jpg
+            summary: >
+              Drivers Press Conference for Japanese Grand Prix takes place at Suzuka International Racing Course
+              (Suzuka, Japan) on September 22, 2023. Local start: 11:30:00. Selected drivers brief the media on
+              car updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2023-09-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s17/e2.jpg
+            summary: >
+              Weekend Warm Up for Japanese Grand Prix takes place at Suzuka International Racing Course (Suzuka,
+              Japan) on September 22, 2023. Local start: 11:30:00. Preview show covering track walks, tyre choices
+              and evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2023-09-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s17/e3.jpg
+            summary: >
+              Free Practice 1 for Japanese Grand Prix takes place at Suzuka International Racing Course (Suzuka,
+              Japan) on September 22, 2023. Local start: 11:30:00. Only practice session before the sprint
+              shootout, vital for rapid setup work.
+          4:
+            title: Sprint Qualifying
+            originally_available: 2023-09-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s17/e4.jpg
+            summary: >
+              Sprint Qualifying for Japanese Grand Prix takes place at Suzuka International Racing Course (Suzuka,
+              Japan) on September 22, 2023. Local start: 11:30:00. Short sprint shootout that sets the grid for
+              Saturday's sprint race.
+          5:
+            title: Pre Sprint Show
+            originally_available: 2023-09-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s17/e5.jpg
+            summary: >
+              Pre Sprint Show for Japanese Grand Prix takes place at Suzuka International Racing Course (Suzuka,
+              Japan) on September 24, 2023. Local start: 14:00:00. The 2023 Japanese Grand Prix (officially known
+              as the Formula 1 Lenovo Japanese Grand Prix 2023) was a Formula One motor race held on 24 September
+              2023 at the Suzuka International Racing Course in Suzuka, Japan. It was the sixteenth round of the
+              2023 Formula One World Championship.    Max Verstappen started from pole position, set the fastest
+              lap and won the race for Red Bull Racing, allowing the Austrian constructor to win their sixth
+              Constructors' Championship, their second consecutive win after 2022. Mathematically, the team also
+              effectively secured the Drivers' Championship, with Verstappen securing the championship at the
+              Qatar Grand Prix sprint event. At that point, Sergio Pérez remained in the title contest behind
+              Verstappen. Additionally, Lando Norris and Oscar Piastri both finished on the podium for McLaren,
+              marking the team's first double podium since the 2021 Italian Grand Prix and Piastri's first career
+              podium.    Background  The event was held across the weekend of 22–24 September. It was the
+              sixteenth round of the 2023 Formula One World Championship and the 48th running of the Japanese
+              Grand Prix.
+          6:
+            title: Sprint
+            originally_available: 2023-09-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s17/e6.jpg
+            summary: >
+              Sprint for Japanese Grand Prix takes place at Suzuka International Racing Course (Suzuka, Japan) on
+              September 23, 2023. Local start: 15:00:00. 100km dash awarding points to the top eight and shaping
+              the weekend narrative.
+          7:
+            title: Post Sprint Show
+            originally_available: 2023-09-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s17/e7.jpg
+            summary: >
+              Post Sprint Show for Japanese Grand Prix takes place at Suzuka International Racing Course (Suzuka,
+              Japan) on September 23, 2023. Local start: 15:00:00. Analysis and driver interviews immediately
+              after the sprint finish.
+          8:
+            title: Pre Qualifying Show
+            originally_available: 2023-09-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s17/e8.jpg
+            summary: >
+              Pre Qualifying Show for Japanese Grand Prix takes place at Suzuka International Racing Course
+              (Suzuka, Japan) on September 23, 2023. Local start: 15:00:00. Reset before traditional qualifying
+              that locks in the Grand Prix grid.
+          9:
+            title: Qualifying
+            originally_available: 2023-09-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s17/e9.jpg
+            summary: >
+              Qualifying for Japanese Grand Prix takes place at Suzuka International Racing Course (Suzuka, Japan)
+              on September 23, 2023. Local start: 15:00:00. Knockout qualifying held after the sprint to define
+              Sunday's start order.
+          10:
+            title: Post Qualifying Show
+            originally_available: 2023-09-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s17/e10.jpg
+            summary: >
+              Post Qualifying Show for Japanese Grand Prix takes place at Suzuka International Racing Course
+              (Suzuka, Japan) on September 23, 2023. Local start: 15:00:00. Reactions and technical analysis once
+              the Grand Prix grid is finalised.
+          11:
+            title: Pre Race Show
+            originally_available: 2023-09-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s17/e11.jpg
+            summary: >
+              Pre Race Show for Japanese Grand Prix takes place at Suzuka International Racing Course (Suzuka,
+              Japan) on September 22, 2023. Local start: 11:30:00. Grid walk coverage with final strategy talk
+              before lights out.
+          12:
+            title: Race
+            originally_available: 2023-09-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s17/e12.jpg
+            summary: >
+              Race for Japanese Grand Prix takes place at Suzuka International Racing Course (Suzuka, Japan) on
+              September 22, 2023. Local start: 11:30:00. Full Grand Prix distance deciding the championship points
+              haul.
+          13:
+            title: Post Race Show
+            originally_available: 2023-09-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s17/e13.jpg
+            summary: >
+              Post Race Show for Japanese Grand Prix takes place at Suzuka International Racing Course (Suzuka,
+              Japan) on September 22, 2023. Local start: 11:30:00. Podium ceremonies, driver interviews and parc
+              fermé debriefs.
+      18:
+        title: Qatar Grand Prix
+        sort_title: 18_Qatar Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s18/poster.jpg
+        summary: >
+          Round 18 (Qatar Grand Prix) spans October 6-8, 2023 with 13 curated broadcast sessions mapped from
+          TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2023-10-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s18/e1.jpg
+            summary: >
+              Drivers Press Conference for Qatar Grand Prix takes place at Lusail International Circuit (Lusail,
+              Qatar) on October 06, 2023. Local start: 13:30:00. Selected drivers brief the media on car updates
+              and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2023-10-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s18/e2.jpg
+            summary: >
+              Weekend Warm Up for Qatar Grand Prix takes place at Lusail International Circuit (Lusail, Qatar) on
+              October 06, 2023. Local start: 13:30:00. Preview show covering track walks, tyre choices and
+              evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2023-10-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s18/e3.jpg
+            summary: >
+              Free Practice 1 for Qatar Grand Prix takes place at Lusail International Circuit (Lusail, Qatar) on
+              October 06, 2023. Local start: 13:30:00. Only practice session before the sprint shootout, vital for
+              rapid setup work.
+          4:
+            title: Sprint Qualifying
+            originally_available: 2023-10-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s18/e4.jpg
+            summary: >
+              Sprint Qualifying for Qatar Grand Prix takes place at Lusail International Circuit (Lusail, Qatar)
+              on October 07, 2023. Local start: 16:20:00. Short sprint shootout that sets the grid for Saturday's
+              sprint race.
+          5:
+            title: Pre Sprint Show
+            originally_available: 2023-10-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s18/e5.jpg
+            summary: >
+              Pre Sprint Show for Qatar Grand Prix takes place at Lusail International Circuit (Lusail, Qatar) on
+              October 07, 2023. Local start: 20:30:00. Studio build-up covering sprint strategies, tyre
+              allocations and weather.
+          6:
+            title: Sprint
+            originally_available: 2023-10-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s18/e6.jpg
+            summary: >
+              Sprint for Qatar Grand Prix takes place at Lusail International Circuit (Lusail, Qatar) on October
+              07, 2023. Local start: 20:30:00. 100km dash awarding points to the top eight and shaping the weekend
+              narrative.
+          7:
+            title: Post Sprint Show
+            originally_available: 2023-10-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s18/e7.jpg
+            summary: >
+              Post Sprint Show for Qatar Grand Prix takes place at Lusail International Circuit (Lusail, Qatar) on
+              October 07, 2023. Local start: 20:30:00. Analysis and driver interviews immediately after the sprint
+              finish.
+          8:
+            title: Pre Qualifying Show
+            originally_available: 2023-10-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s18/e8.jpg
+            summary: >
+              Pre Qualifying Show for Qatar Grand Prix takes place at Lusail International Circuit (Lusail, Qatar)
+              on October 06, 2023. Local start: 17:00:00. Reset before traditional qualifying that locks in the
+              Grand Prix grid.
+          9:
+            title: Qualifying
+            originally_available: 2023-10-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s18/e9.jpg
+            summary: >
+              Qualifying for Qatar Grand Prix takes place at Lusail International Circuit (Lusail, Qatar) on
+              October 06, 2023. Local start: 17:00:00. Knockout qualifying held after the sprint to define
+              Sunday's start order.
+          10:
+            title: Post Qualifying Show
+            originally_available: 2023-10-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s18/e10.jpg
+            summary: >
+              Post Qualifying Show for Qatar Grand Prix takes place at Lusail International Circuit (Lusail,
+              Qatar) on October 06, 2023. Local start: 17:00:00. Reactions and technical analysis once the Grand
+              Prix grid is finalised.
+          11:
+            title: Pre Race Show
+            originally_available: 2023-10-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s18/e11.jpg
+            summary: >
+              Pre Race Show for Qatar Grand Prix takes place at Lusail International Circuit (Lusail, Qatar) on
+              October 06, 2023. Local start: 13:30:00. Grid walk coverage with final strategy talk before lights
+              out.
+          12:
+            title: Race
+            originally_available: 2023-10-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s18/e12.jpg
+            summary: >
+              Race for Qatar Grand Prix takes place at Lusail International Circuit (Lusail, Qatar) on October 06,
+              2023. Local start: 13:30:00. Full Grand Prix distance deciding the championship points haul.
+          13:
+            title: Post Race Show
+            originally_available: 2023-10-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s18/e13.jpg
+            summary: >
+              Post Race Show for Qatar Grand Prix takes place at Lusail International Circuit (Lusail, Qatar) on
+              October 06, 2023. Local start: 13:30:00. Podium ceremonies, driver interviews and parc fermé
+              debriefs.
+      19:
+        title: United States Grand Prix
+        sort_title: 19_United States Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s19/poster.jpg
+        summary: >
+          Round 19 (United States Grand Prix) spans October 20-22, 2023 with 13 curated broadcast sessions
+          mapped from TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2023-10-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s19/e1.jpg
+            summary: >
+              Drivers Press Conference for United States Grand Prix takes place at Circuit of the Americas
+              (Austin, Texas, United States) on October 20, 2023. Local start: 12:30:00. Selected drivers brief
+              the media on car updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2023-10-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s19/e2.jpg
+            summary: >
+              Weekend Warm Up for United States Grand Prix takes place at Circuit of the Americas (Austin, Texas,
+              United States) on October 20, 2023. Local start: 12:30:00. Preview show covering track walks, tyre
+              choices and evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2023-10-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s19/e3.jpg
+            summary: >
+              Free Practice 1 for United States Grand Prix takes place at Circuit of the Americas (Austin, Texas,
+              United States) on October 20, 2023. Local start: 12:30:00. Only practice session before the sprint
+              shootout, vital for rapid setup work.
+          4:
+            title: Sprint Qualifying
+            originally_available: 2023-10-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s19/e4.jpg
+            summary: >
+              Sprint Qualifying for United States Grand Prix takes place at Circuit of the Americas (Austin,
+              Texas, United States) on October 21, 2023. Local start: 12:30:00. Short sprint shootout that sets
+              the grid for Saturday's sprint race.
+          5:
+            title: Pre Sprint Show
+            originally_available: 2023-10-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s19/e5.jpg
+            summary: >
+              Pre Sprint Show for United States Grand Prix takes place at Circuit of the Americas (Austin, Texas,
+              United States) on October 21, 2023. Local start: 17:00:00. Studio build-up covering sprint
+              strategies, tyre allocations and weather.
+          6:
+            title: Sprint
+            originally_available: 2023-10-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s19/e6.jpg
+            summary: >
+              Sprint for United States Grand Prix takes place at Circuit of the Americas (Austin, Texas, United
+              States) on October 21, 2023. Local start: 17:00:00. 100km dash awarding points to the top eight and
+              shaping the weekend narrative.
+          7:
+            title: Post Sprint Show
+            originally_available: 2023-10-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s19/e7.jpg
+            summary: >
+              Post Sprint Show for United States Grand Prix takes place at Circuit of the Americas (Austin, Texas,
+              United States) on October 21, 2023. Local start: 17:00:00. Analysis and driver interviews
+              immediately after the sprint finish.
+          8:
+            title: Pre Qualifying Show
+            originally_available: 2023-10-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s19/e8.jpg
+            summary: >
+              Pre Qualifying Show for United States Grand Prix takes place at Circuit of the Americas (Austin,
+              Texas, United States) on October 20, 2023. Local start: 16:00:00. Reset before traditional
+              qualifying that locks in the Grand Prix grid.
+          9:
+            title: Qualifying
+            originally_available: 2023-10-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s19/e9.jpg
+            summary: >
+              Qualifying for United States Grand Prix takes place at Circuit of the Americas (Austin, Texas,
+              United States) on October 20, 2023. Local start: 16:00:00. Knockout qualifying held after the sprint
+              to define Sunday's start order.
+          10:
+            title: Post Qualifying Show
+            originally_available: 2023-10-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s19/e10.jpg
+            summary: >
+              Post Qualifying Show for United States Grand Prix takes place at Circuit of the Americas (Austin,
+              Texas, United States) on October 20, 2023. Local start: 16:00:00. Reactions and technical analysis
+              once the Grand Prix grid is finalised.
+          11:
+            title: Pre Race Show
+            originally_available: 2023-10-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s19/e11.jpg
+            summary: >
+              Pre Race Show for United States Grand Prix takes place at Circuit of the Americas (Austin, Texas,
+              United States) on October 20, 2023. Local start: 12:30:00. Grid walk coverage with final strategy
+              talk before lights out.
+          12:
+            title: Race
+            originally_available: 2023-10-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s19/e12.jpg
+            summary: >
+              Race for United States Grand Prix takes place at Circuit of the Americas (Austin, Texas, United
+              States) on October 20, 2023. Local start: 12:30:00. Full Grand Prix distance deciding the
+              championship points haul.
+          13:
+            title: Post Race Show
+            originally_available: 2023-10-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s19/e13.jpg
+            summary: >
+              Post Race Show for United States Grand Prix takes place at Circuit of the Americas (Austin, Texas,
+              United States) on October 20, 2023. Local start: 12:30:00. Podium ceremonies, driver interviews and
+              parc fermé debriefs.
+      20:
+        title: Mexico City Grand Prix
+        sort_title: 20_Mexico City Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s20/poster.jpg
+        summary: >
+          Round 20 (Mexico City Grand Prix) spans October 27-29, 2023 with 11 curated broadcast sessions
+          mapped from TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2023-10-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s20/e1.jpg
+            summary: >
+              Drivers Press Conference for Mexico City Grand Prix takes place at Autódromo Hermanos Rodríguez
+              (Mexico City, Mexico) on October 27, 2023. Local start: 12:30:00. Selected drivers brief the media
+              on car updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2023-10-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s20/e2.jpg
+            summary: >
+              Weekend Warm Up for Mexico City Grand Prix takes place at Autódromo Hermanos Rodríguez (Mexico City,
+              Mexico) on October 27, 2023. Local start: 12:30:00. Preview show covering track walks, tyre choices
+              and evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2023-10-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s20/e3.jpg
+            summary: >
+              Free Practice 1 for Mexico City Grand Prix takes place at Autódromo Hermanos Rodríguez (Mexico City,
+              Mexico) on October 27, 2023. Local start: 12:30:00. Opening practice hour focused on systems checks
+              and baseline setup work.
+          4:
+            title: Free Practice 2
+            originally_available: 2023-10-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s20/e4.jpg
+            summary: >
+              Free Practice 2 for Mexico City Grand Prix takes place at Autódromo Hermanos Rodríguez (Mexico City,
+              Mexico) on October 27, 2023. Local start: 16:00:00. Second practice mirrors race conditions for
+              long-run and tyre evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2023-10-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s20/e5.jpg
+            summary: >
+              Free Practice 3 for Mexico City Grand Prix takes place at Autódromo Hermanos Rodríguez (Mexico City,
+              Mexico) on October 28, 2023. Local start: 11:30:00. Final tune-up where teams chase qualifying
+              simulations and outright pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2023-10-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s20/e6.jpg
+            summary: >
+              Pre Qualifying Show for Mexico City Grand Prix takes place at Autódromo Hermanos Rodríguez (Mexico
+              City, Mexico) on October 28, 2023. Local start: 15:00:00. Build-up show that recaps practice data
+              before knockout qualifying begins.
+          7:
+            title: Qualifying
+            originally_available: 2023-10-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s20/e7.jpg
+            summary: >
+              Qualifying for Mexico City Grand Prix takes place at Autódromo Hermanos Rodríguez (Mexico City,
+              Mexico) on October 28, 2023. Local start: 15:00:00. Three-stage knockout session that sets Sunday's
+              grid for the Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2023-10-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s20/e8.jpg
+            summary: >
+              Post Qualifying Show for Mexico City Grand Prix takes place at Autódromo Hermanos Rodríguez (Mexico
+              City, Mexico) on October 28, 2023. Local start: 15:00:00. Immediate reaction, interviews and
+              technical analysis after qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2023-10-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s20/e9.jpg
+            summary: >
+              Pre Race Show for Mexico City Grand Prix takes place at Autódromo Hermanos Rodríguez (Mexico City,
+              Mexico) on October 27, 2023. Local start: 12:30:00. Grid walk coverage with final strategy talk
+              before lights out.
+          10:
+            title: Race
+            originally_available: 2023-10-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s20/e10.jpg
+            summary: >
+              Race for Mexico City Grand Prix takes place at Autódromo Hermanos Rodríguez (Mexico City, Mexico) on
+              October 27, 2023. Local start: 12:30:00. Full Grand Prix distance deciding the championship points
+              haul.
+          11:
+            title: Post Race Show
+            originally_available: 2023-10-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s20/e11.jpg
+            summary: >
+              Post Race Show for Mexico City Grand Prix takes place at Autódromo Hermanos Rodríguez (Mexico City,
+              Mexico) on October 27, 2023. Local start: 12:30:00. Podium ceremonies, driver interviews and parc
+              fermé debriefs.
+      21:
+        title: São Paulo Grand Prix
+        sort_title: 21_São Paulo Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s21/poster.jpg
+        summary: >
+          Round 21 (São Paulo Grand Prix) spans November 3-5, 2023 with 13 curated broadcast sessions mapped
+          from TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2023-11-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s21/e1.jpg
+            summary: >
+              Drivers Press Conference for São Paulo Grand Prix takes place at Interlagos Circuit (São Paulo,
+              Brazil) on November 03, 2023. Local start: 11:30:00. Selected drivers brief the media on car updates
+              and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2023-11-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s21/e2.jpg
+            summary: >
+              Weekend Warm Up for São Paulo Grand Prix takes place at Interlagos Circuit (São Paulo, Brazil) on
+              November 03, 2023. Local start: 11:30:00. Preview show covering track walks, tyre choices and
+              evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2023-11-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s21/e3.jpg
+            summary: >
+              Free Practice 1 for São Paulo Grand Prix takes place at Interlagos Circuit (São Paulo, Brazil) on
+              November 03, 2023. Local start: 11:30:00. Only practice session before the sprint shootout, vital
+              for rapid setup work.
+          4:
+            title: Sprint Qualifying
+            originally_available: 2023-11-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s21/e4.jpg
+            summary: >
+              Sprint Qualifying for São Paulo Grand Prix takes place at Interlagos Circuit (São Paulo, Brazil) on
+              November 04, 2023. Local start: 11:00:00. Short sprint shootout that sets the grid for Saturday's
+              sprint race.
+          5:
+            title: Pre Sprint Show
+            originally_available: 2023-11-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s21/e5.jpg
+            summary: >
+              Pre Sprint Show for São Paulo Grand Prix takes place at Interlagos Circuit (São Paulo, Brazil) on
+              November 04, 2023. Local start: 15:30:00. Studio build-up covering sprint strategies, tyre
+              allocations and weather.
+          6:
+            title: Sprint
+            originally_available: 2023-11-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s21/e6.jpg
+            summary: >
+              Sprint for São Paulo Grand Prix takes place at Interlagos Circuit (São Paulo, Brazil) on November
+              04, 2023. Local start: 15:30:00. 100km dash awarding points to the top eight and shaping the weekend
+              narrative.
+          7:
+            title: Post Sprint Show
+            originally_available: 2023-11-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s21/e7.jpg
+            summary: >
+              Post Sprint Show for São Paulo Grand Prix takes place at Interlagos Circuit (São Paulo, Brazil) on
+              November 04, 2023. Local start: 15:30:00. Analysis and driver interviews immediately after the
+              sprint finish.
+          8:
+            title: Pre Qualifying Show
+            originally_available: 2023-11-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s21/e8.jpg
+            summary: >
+              Pre Qualifying Show for São Paulo Grand Prix takes place at Interlagos Circuit (São Paulo, Brazil)
+              on November 03, 2023. Local start: 15:00:00. Reset before traditional qualifying that locks in the
+              Grand Prix grid.
+          9:
+            title: Qualifying
+            originally_available: 2023-11-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s21/e9.jpg
+            summary: >
+              Qualifying for São Paulo Grand Prix takes place at Interlagos Circuit (São Paulo, Brazil) on
+              November 03, 2023. Local start: 15:00:00. Knockout qualifying held after the sprint to define
+              Sunday's start order.
+          10:
+            title: Post Qualifying Show
+            originally_available: 2023-11-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s21/e10.jpg
+            summary: >
+              Post Qualifying Show for São Paulo Grand Prix takes place at Interlagos Circuit (São Paulo, Brazil)
+              on November 03, 2023. Local start: 15:00:00. Reactions and technical analysis once the Grand Prix
+              grid is finalised.
+          11:
+            title: Pre Race Show
+            originally_available: 2023-11-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s21/e11.jpg
+            summary: >
+              Pre Race Show for São Paulo Grand Prix takes place at Interlagos Circuit (São Paulo, Brazil) on
+              November 03, 2023. Local start: 11:30:00. Grid walk coverage with final strategy talk before lights
+              out.
+          12:
+            title: Race
+            originally_available: 2023-11-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s21/e12.jpg
+            summary: >
+              Race for São Paulo Grand Prix takes place at Interlagos Circuit (São Paulo, Brazil) on November 03,
+              2023. Local start: 11:30:00. Full Grand Prix distance deciding the championship points haul.
+          13:
+            title: Post Race Show
+            originally_available: 2023-11-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s21/e13.jpg
+            summary: >
+              Post Race Show for São Paulo Grand Prix takes place at Interlagos Circuit (São Paulo, Brazil) on
+              November 03, 2023. Local start: 11:30:00. Podium ceremonies, driver interviews and parc fermé
+              debriefs.
+      22:
+        title: Las Vegas Grand Prix
+        sort_title: 22_Las Vegas Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s22/poster.jpg
+        summary: >
+          Round 22 (Las Vegas Grand Prix) spans November 17-26, 2023 with 11 curated broadcast sessions mapped
+          from TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2023-11-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s22/e1.jpg
+            summary: >
+              Drivers Press Conference for Las Vegas Grand Prix takes place at Las Vegas Street Circuit (Las
+              Vegas, Nevada, United States) on November 17, 2023. Local start: 20:30:00. Selected drivers brief
+              the media on car updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2023-11-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s22/e2.jpg
+            summary: >
+              Weekend Warm Up for Las Vegas Grand Prix takes place at Las Vegas Street Circuit (Las Vegas, Nevada,
+              United States) on November 17, 2023. Local start: 20:30:00. Preview show covering track walks, tyre
+              choices and evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2023-11-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s22/e3.jpg
+            summary: >
+              Free Practice 1 for Las Vegas Grand Prix takes place at Las Vegas Street Circuit (Las Vegas, Nevada,
+              United States) on November 17, 2023. Local start: 20:30:00. Opening practice hour focused on systems
+              checks and baseline setup work.
+          4:
+            title: Free Practice 2
+            originally_available: 2023-11-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s22/e4.jpg
+            summary: >
+              Free Practice 2 for Las Vegas Grand Prix takes place at Las Vegas Street Circuit (Las Vegas, Nevada,
+              United States) on November 17, 2023. Local start: 00:00:00. Second practice mirrors race conditions
+              for long-run and tyre evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2023-11-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s22/e5.jpg
+            summary: >
+              Free Practice 3 for Las Vegas Grand Prix takes place at Las Vegas Street Circuit (Las Vegas, Nevada,
+              United States) on November 18, 2023. Local start: 20:30:00. Final tune-up where teams chase
+              qualifying simulations and outright pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2023-11-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s22/e6.jpg
+            summary: >
+              Pre Qualifying Show for Las Vegas Grand Prix takes place at Las Vegas Street Circuit (Las Vegas,
+              Nevada, United States) on November 18, 2023. Local start: 00:00:00. Build-up show that recaps
+              practice data before knockout qualifying begins.
+          7:
+            title: Qualifying
+            originally_available: 2023-11-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s22/e7.jpg
+            summary: >
+              Qualifying for Las Vegas Grand Prix takes place at Las Vegas Street Circuit (Las Vegas, Nevada,
+              United States) on November 18, 2023. Local start: 00:00:00. Three-stage knockout session that sets
+              Sunday's grid for the Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2023-11-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s22/e8.jpg
+            summary: >
+              Post Qualifying Show for Las Vegas Grand Prix takes place at Las Vegas Street Circuit (Las Vegas,
+              Nevada, United States) on November 18, 2023. Local start: 00:00:00. Immediate reaction, interviews
+              and technical analysis after qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2023-11-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s22/e9.jpg
+            summary: >
+              Pre Race Show for Las Vegas Grand Prix takes place at Las Vegas Street Circuit (Las Vegas, Nevada,
+              United States) on November 17, 2023. Local start: 20:30:00. Grid walk coverage with final strategy
+              talk before lights out.
+          10:
+            title: Race
+            originally_available: 2023-11-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s22/e10.jpg
+            summary: >
+              Race for Las Vegas Grand Prix takes place at Las Vegas Street Circuit (Las Vegas, Nevada, United
+              States) on November 17, 2023. Local start: 20:30:00. Full Grand Prix distance deciding the
+              championship points haul.
+          11:
+            title: Post Race Show
+            originally_available: 2023-11-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s22/e11.jpg
+            summary: >
+              Post Race Show for Las Vegas Grand Prix takes place at Las Vegas Street Circuit (Las Vegas, Nevada,
+              United States) on November 17, 2023. Local start: 20:30:00. Podium ceremonies, driver interviews and
+              parc fermé debriefs.
+      23:
+        title: Abu Dhabi Grand Prix
+        sort_title: 23_Abu Dhabi Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s23/poster.jpg
+        summary: >
+          Round 23 (Abu Dhabi Grand Prix) spans November 24-25, 2023 with 11 curated broadcast sessions mapped
+          from TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2023-11-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s23/e1.jpg
+            summary: >
+              Drivers Press Conference for Abu Dhabi Grand Prix takes place at Yas Marina Circuit (Abu Dhabi,
+              United Arab Emirates) on November 24, 2023. Local start: 13:30:00. Selected drivers brief the media
+              on car updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2023-11-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s23/e2.jpg
+            summary: >
+              Weekend Warm Up for Abu Dhabi Grand Prix takes place at Yas Marina Circuit (Abu Dhabi, United Arab
+              Emirates) on November 24, 2023. Local start: 13:30:00. Preview show covering track walks, tyre
+              choices and evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2023-11-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s23/e3.jpg
+            summary: >
+              Free Practice 1 for Abu Dhabi Grand Prix takes place at Yas Marina Circuit (Abu Dhabi, United Arab
+              Emirates) on November 24, 2023. Local start: 13:30:00. Opening practice hour focused on systems
+              checks and baseline setup work.
+          4:
+            title: Free Practice 2
+            originally_available: 2023-11-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s23/e4.jpg
+            summary: >
+              Free Practice 2 for Abu Dhabi Grand Prix takes place at Yas Marina Circuit (Abu Dhabi, United Arab
+              Emirates) on November 24, 2023. Local start: 17:00:00. Second practice mirrors race conditions for
+              long-run and tyre evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2023-11-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s23/e5.jpg
+            summary: >
+              Free Practice 3 for Abu Dhabi Grand Prix takes place at Yas Marina Circuit (Abu Dhabi, United Arab
+              Emirates) on November 25, 2023. Local start: 14:30:00. Final tune-up where teams chase qualifying
+              simulations and outright pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2023-11-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s23/e6.jpg
+            summary: >
+              Pre Qualifying Show for Abu Dhabi Grand Prix takes place at Yas Marina Circuit (Abu Dhabi, United
+              Arab Emirates) on November 25, 2023. Local start: 18:00:00. Build-up show that recaps practice data
+              before knockout qualifying begins.
+          7:
+            title: Qualifying
+            originally_available: 2023-11-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s23/e7.jpg
+            summary: >
+              Qualifying for Abu Dhabi Grand Prix takes place at Yas Marina Circuit (Abu Dhabi, United Arab
+              Emirates) on November 25, 2023. Local start: 18:00:00. Three-stage knockout session that sets
+              Sunday's grid for the Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2023-11-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s23/e8.jpg
+            summary: >
+              Post Qualifying Show for Abu Dhabi Grand Prix takes place at Yas Marina Circuit (Abu Dhabi, United
+              Arab Emirates) on November 25, 2023. Local start: 18:00:00. Immediate reaction, interviews and
+              technical analysis after qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2023-11-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s23/e9.jpg
+            summary: >
+              Pre Race Show for Abu Dhabi Grand Prix takes place at Yas Marina Circuit (Abu Dhabi, United Arab
+              Emirates) on November 24, 2023. Local start: 13:30:00. Grid walk coverage with final strategy talk
+              before lights out.
+          10:
+            title: Race
+            originally_available: 2023-11-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s23/e10.jpg
+            summary: >
+              Race for Abu Dhabi Grand Prix takes place at Yas Marina Circuit (Abu Dhabi, United Arab Emirates) on
+              November 24, 2023. Local start: 13:30:00. Full Grand Prix distance deciding the championship points
+              haul.
+          11:
+            title: Post Race Show
+            originally_available: 2023-11-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2023/s23/e11.jpg
+            summary: >
+              Post Race Show for Abu Dhabi Grand Prix takes place at Yas Marina Circuit (Abu Dhabi, United Arab
+              Emirates) on November 24, 2023. Local start: 13:30:00. Podium ceremonies, driver interviews and parc
+              fermé debriefs.

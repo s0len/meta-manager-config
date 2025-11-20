@@ -148,6 +148,41 @@ SportsDB poster/fanart fields and episodes from the thumb feed. The script still
 `--asset-url-base`. By default the YAML is written to
 `metadata-files/motogp/<season>.yaml`.
 
+## `generate_formula1_metadata_sportsdb.py`
+
+Targets TheSportsDB Formula 1 feed (`league_id 4370`) so every SportsDB round is
+rendered as a Grand Prix weekend. The generator mirrors the UFC-style CLI and
+adds the missing broadcast blocks for each event: standard weekends output eleven
+episodes (Drivers Press Conference through Post Race Show) while sprint weekends
+expand to thirteen entries that include sprint qualifying, the sprint race and
+their respective studio shows.
+
+```shell
+python3 scripts/generate_formula1_metadata_sportsdb.py --season 2025 --api-key "$TSD_KEY"
+```
+
+Key flags:
+
+- `--season` / `--league-id` / `--api-key` select the SportsDB Formula 1 payload
+- `--matchweek-start`, `--matchweek-stop`, `--matchweek-delay`,
+  `--skip-matchweek-fill`, `--request-interval`, `--max-retries`,
+  `--retry-backoff`, `--insecure` preserve the shared 2.1 s throttle,
+  exponential backoff for 429/5xx and the optional SSL bypass path
+- `--poster-url`, `--background-url`, `--asset-url-base`, `--assets-root`,
+  `--matchweek-poster-template`, `--matchweek-poster-fallback`,
+  `--fixture-poster-template`, `--skip-asset-download` power the artwork workflow
+  (season posters default to `posters/formula1/<season>/sX/poster.jpg`, episodes
+  to `posters/formula1/<season>/sX/eY.jpg`; fixture templates can also use
+  `{event_slug}`/`{session_slug}`)
+- `--round-label`, `--title`, `--summary`, `--sort-title`, `--show-id`, `--output`
+  mirror the UFC-style overrides so you can tailor the metadata tree and target path
+
+Artwork downloads reuse the shared throttled downloader, pulling season art from
+poster/fanart endpoints and episode art from the thumb fields. `url_poster`
+entries are still emitted even when downloads fail so Plex/Jellyfin can read
+assets via `--asset-url-base`. By default the YAML is written to
+`metadata-files/formula1/<season>.yaml`.
+
 ## `generate_moto2_metadata_sportsdb.py`
 
 Targets TheSportsDB Moto2 feed (`league_id 4436`) so each SportsDB `intRound` becomes

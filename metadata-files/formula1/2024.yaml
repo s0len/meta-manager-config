@@ -1,0 +1,2381 @@
+metadata:
+  Formula 1 2024:
+    title: Formula 1 2024
+    sort_title: Formula 1 2024
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/background.jpg
+    summary: >
+      The 2024 FIA Formula One World Championship spans every Grand Prix weekend across the calendar. Each
+      SportsDB round is grouped here so press conferences, practice, sprint, qualifying and race
+      recordings can be organised automatically.
+    seasons:
+      1:
+        title: Bahrain Grand Prix
+        sort_title: 01_Bahrain Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s1/poster.jpg
+        summary: >
+          Round 1 (Bahrain Grand Prix) spans February 29 - March 2, 2024 with 11 curated broadcast sessions
+          mapped from TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2024-02-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s1/e1.jpg
+            summary: >
+              Drivers Press Conference for Bahrain Grand Prix takes place at Bahrain International Circuit
+              (Sakhir, Bahrain) on February 29, 2024. Local start: 14:30:00. Selected drivers brief the media on
+              car updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2024-02-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s1/e2.jpg
+            summary: >
+              Weekend Warm Up for Bahrain Grand Prix takes place at Bahrain International Circuit (Sakhir,
+              Bahrain) on February 29, 2024. Local start: 14:30:00. Preview show covering track walks, tyre
+              choices and evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2024-02-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s1/e3.jpg
+            summary: >
+              Free Practice 1 for Bahrain Grand Prix takes place at Bahrain International Circuit (Sakhir,
+              Bahrain) on February 29, 2024. Local start: 14:30:00. Opening practice hour focused on systems
+              checks and baseline setup work.
+          4:
+            title: Free Practice 2
+            originally_available: 2024-02-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s1/e4.jpg
+            summary: >
+              Free Practice 2 for Bahrain Grand Prix takes place at Bahrain International Circuit (Sakhir,
+              Bahrain) on February 29, 2024. Local start: 18:00:00. Second practice mirrors race conditions for
+              long-run and tyre evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2024-03-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s1/e5.jpg
+            summary: >
+              Free Practice 3 for Bahrain Grand Prix takes place at Bahrain International Circuit (Sakhir,
+              Bahrain) on March 01, 2024. Local start: 15:30:00. Final tune-up where teams chase qualifying
+              simulations and outright pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2024-03-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s1/e6.jpg
+            summary: >
+              Pre Qualifying Show for Bahrain Grand Prix takes place at Bahrain International Circuit (Sakhir,
+              Bahrain) on March 01, 2024. Local start: 19:00:00. Build-up show that recaps practice data before
+              knockout qualifying begins.
+          7:
+            title: Qualifying
+            originally_available: 2024-03-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s1/e7.jpg
+            summary: >
+              Qualifying for Bahrain Grand Prix takes place at Bahrain International Circuit (Sakhir, Bahrain) on
+              March 01, 2024. Local start: 19:00:00. Three-stage knockout session that sets Sunday's grid for the
+              Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2024-03-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s1/e8.jpg
+            summary: >
+              Post Qualifying Show for Bahrain Grand Prix takes place at Bahrain International Circuit (Sakhir,
+              Bahrain) on March 01, 2024. Local start: 19:00:00. Immediate reaction, interviews and technical
+              analysis after qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2024-03-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s1/e9.jpg
+            summary: >
+              Pre Race Show for Bahrain Grand Prix takes place at Bahrain International Circuit (Sakhir, Bahrain)
+              on February 29, 2024. Local start: 14:30:00. Grid walk coverage with final strategy talk before
+              lights out.
+          10:
+            title: Race
+            originally_available: 2024-03-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s1/e10.jpg
+            summary: >
+              Race for Bahrain Grand Prix takes place at Bahrain International Circuit (Sakhir, Bahrain) on
+              February 29, 2024. Local start: 14:30:00. Full Grand Prix distance deciding the championship points
+              haul.
+          11:
+            title: Post Race Show
+            originally_available: 2024-03-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s1/e11.jpg
+            summary: >
+              Post Race Show for Bahrain Grand Prix takes place at Bahrain International Circuit (Sakhir, Bahrain)
+              on February 29, 2024. Local start: 14:30:00. Podium ceremonies, driver interviews and parc fermé
+              debriefs.
+      2:
+        title: Saudi Arabian Grand Prix
+        sort_title: 02_Saudi Arabian Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s2/poster.jpg
+        summary: >
+          Round 2 (Saudi Arabian Grand Prix) spans March 7-9, 2024 with 11 curated broadcast sessions mapped
+          from TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2024-03-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s2/e1.jpg
+            summary: >
+              Drivers Press Conference for Saudi Arabian Grand Prix takes place at Jeddah Corniche Circuit
+              (Jeddah, Saudi Arabia) on March 07, 2024. Local start: 16:30:00. Selected drivers brief the media on
+              car updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2024-03-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s2/e2.jpg
+            summary: >
+              Weekend Warm Up for Saudi Arabian Grand Prix takes place at Jeddah Corniche Circuit (Jeddah, Saudi
+              Arabia) on March 07, 2024. Local start: 16:30:00. Preview show covering track walks, tyre choices
+              and evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2024-03-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s2/e3.jpg
+            summary: >
+              Free Practice 1 for Saudi Arabian Grand Prix takes place at Jeddah Corniche Circuit (Jeddah, Saudi
+              Arabia) on March 07, 2024. Local start: 16:30:00. Opening practice hour focused on systems checks
+              and baseline setup work.
+          4:
+            title: Free Practice 2
+            originally_available: 2024-03-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s2/e4.jpg
+            summary: >
+              Free Practice 2 for Saudi Arabian Grand Prix takes place at Jeddah Corniche Circuit (Jeddah, Saudi
+              Arabia) on March 07, 2024. Local start: 20:00:00. Second practice mirrors race conditions for long-
+              run and tyre evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2024-03-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s2/e5.jpg
+            summary: >
+              Free Practice 3 for Saudi Arabian Grand Prix takes place at Jeddah Corniche Circuit (Jeddah, Saudi
+              Arabia) on March 08, 2024. Local start: 16:30:00. Final tune-up where teams chase qualifying
+              simulations and outright pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2024-03-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s2/e6.jpg
+            summary: >
+              Pre Qualifying Show for Saudi Arabian Grand Prix takes place at Jeddah Corniche Circuit (Jeddah,
+              Saudi Arabia) on March 08, 2024. Local start: 20:00:00. Build-up show that recaps practice data
+              before knockout qualifying begins.
+          7:
+            title: Qualifying
+            originally_available: 2024-03-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s2/e7.jpg
+            summary: >
+              Qualifying for Saudi Arabian Grand Prix takes place at Jeddah Corniche Circuit (Jeddah, Saudi
+              Arabia) on March 08, 2024. Local start: 20:00:00. Three-stage knockout session that sets Sunday's
+              grid for the Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2024-03-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s2/e8.jpg
+            summary: >
+              Post Qualifying Show for Saudi Arabian Grand Prix takes place at Jeddah Corniche Circuit (Jeddah,
+              Saudi Arabia) on March 08, 2024. Local start: 20:00:00. Immediate reaction, interviews and technical
+              analysis after qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2024-03-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s2/e9.jpg
+            summary: >
+              Pre Race Show for Saudi Arabian Grand Prix takes place at Jeddah Corniche Circuit (Jeddah, Saudi
+              Arabia) on March 07, 2024. Local start: 16:30:00. Grid walk coverage with final strategy talk before
+              lights out.
+          10:
+            title: Race
+            originally_available: 2024-03-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s2/e10.jpg
+            summary: >
+              Race for Saudi Arabian Grand Prix takes place at Jeddah Corniche Circuit (Jeddah, Saudi Arabia) on
+              March 07, 2024. Local start: 16:30:00. Full Grand Prix distance deciding the championship points
+              haul.
+          11:
+            title: Post Race Show
+            originally_available: 2024-03-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s2/e11.jpg
+            summary: >
+              Post Race Show for Saudi Arabian Grand Prix takes place at Jeddah Corniche Circuit (Jeddah, Saudi
+              Arabia) on March 07, 2024. Local start: 16:30:00. Podium ceremonies, driver interviews and parc
+              fermé debriefs.
+      3:
+        title: Australian Grand Prix
+        sort_title: 03_Australian Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s3/poster.jpg
+        summary: >
+          Round 3 (Australian Grand Prix) spans March 22, 2024 with 11 curated broadcast sessions mapped from
+          TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2024-03-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s3/e1.jpg
+            summary: >
+              Drivers Press Conference for Australian Grand Prix takes place at Albert Park Circuit (Melbourne,
+              Australia) on March 22, 2024. Local start: 12:30:00. Selected drivers brief the media on car updates
+              and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2024-03-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s3/e2.jpg
+            summary: >
+              Weekend Warm Up for Australian Grand Prix takes place at Albert Park Circuit (Melbourne, Australia)
+              on March 22, 2024. Local start: 12:30:00. Preview show covering track walks, tyre choices and
+              evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2024-03-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s3/e3.jpg
+            summary: >
+              Free Practice 1 for Australian Grand Prix takes place at Albert Park Circuit (Melbourne, Australia)
+              on March 22, 2024. Local start: 12:30:00. Opening practice hour focused on systems checks and
+              baseline setup work.
+          4:
+            title: Free Practice 2
+            originally_available: 2024-03-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s3/e4.jpg
+            summary: >
+              Free Practice 2 for Australian Grand Prix takes place at Albert Park Circuit (Melbourne, Australia)
+              on March 22, 2024. Local start: 16:00:00. Second practice mirrors race conditions for long-run and
+              tyre evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2024-03-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s3/e5.jpg
+            summary: >
+              Free Practice 3 for Australian Grand Prix takes place at Albert Park Circuit (Melbourne, Australia)
+              on March 22, 2024. Local start: 16:00:00. Final tune-up where teams chase qualifying simulations and
+              outright pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2024-03-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s3/e6.jpg
+            summary: >
+              Pre Qualifying Show for Australian Grand Prix takes place at Albert Park Circuit (Melbourne,
+              Australia) on March 22, 2024. Local start: 12:30:00. Build-up show that recaps practice data before
+              knockout qualifying begins.
+          7:
+            title: Qualifying
+            originally_available: 2024-03-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s3/e7.jpg
+            summary: >
+              Qualifying for Australian Grand Prix takes place at Albert Park Circuit (Melbourne, Australia) on
+              March 22, 2024. Local start: 12:30:00. Three-stage knockout session that sets Sunday's grid for the
+              Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2024-03-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s3/e8.jpg
+            summary: >
+              Post Qualifying Show for Australian Grand Prix takes place at Albert Park Circuit (Melbourne,
+              Australia) on March 22, 2024. Local start: 12:30:00. Immediate reaction, interviews and technical
+              analysis after qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2024-03-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s3/e9.jpg
+            summary: >
+              Pre Race Show for Australian Grand Prix takes place at Albert Park Circuit (Melbourne, Australia) on
+              March 22, 2024. Local start: 12:30:00. Grid walk coverage with final strategy talk before lights
+              out.
+          10:
+            title: Race
+            originally_available: 2024-03-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s3/e10.jpg
+            summary: >
+              Race for Australian Grand Prix takes place at Albert Park Circuit (Melbourne, Australia) on March
+              22, 2024. Local start: 12:30:00. Full Grand Prix distance deciding the championship points haul.
+          11:
+            title: Post Race Show
+            originally_available: 2024-03-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s3/e11.jpg
+            summary: >
+              Post Race Show for Australian Grand Prix takes place at Albert Park Circuit (Melbourne, Australia)
+              on March 22, 2024. Local start: 12:30:00. Podium ceremonies, driver interviews and parc fermé
+              debriefs.
+      4:
+        title: Japanese Grand Prix
+        sort_title: 04_Japanese Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s4/poster.jpg
+        summary: >
+          Round 4 (Japanese Grand Prix) spans April 5-7, 2024 with 11 curated broadcast sessions mapped from
+          TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2024-04-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s4/e1.jpg
+            summary: >
+              Drivers Press Conference for Japanese Grand Prix takes place at Suzuka International Racing Course
+              (Suzuka, Japan) on April 05, 2024. Local start: 11:30:00. Selected drivers brief the media on car
+              updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2024-04-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s4/e2.jpg
+            summary: >
+              Weekend Warm Up for Japanese Grand Prix takes place at Suzuka International Racing Course (Suzuka,
+              Japan) on April 05, 2024. Local start: 11:30:00. Preview show covering track walks, tyre choices and
+              evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2024-04-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s4/e3.jpg
+            summary: >
+              Free Practice 1 for Japanese Grand Prix takes place at Suzuka International Racing Course (Suzuka,
+              Japan) on April 05, 2024. Local start: 11:30:00. Opening practice hour focused on systems checks and
+              baseline setup work.
+          4:
+            title: Free Practice 2
+            originally_available: 2024-04-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s4/e4.jpg
+            summary: >
+              Free Practice 2 for Japanese Grand Prix takes place at Suzuka International Racing Course (Suzuka,
+              Japan) on April 05, 2024. Local start: 15:00:00. Second practice mirrors race conditions for long-
+              run and tyre evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2024-04-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s4/e5.jpg
+            summary: >
+              Free Practice 3 for Japanese Grand Prix takes place at Suzuka International Racing Course (Suzuka,
+              Japan) on April 06, 2024. Local start: 11:30:00. Final tune-up where teams chase qualifying
+              simulations and outright pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2024-04-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s4/e6.jpg
+            summary: >
+              Pre Qualifying Show for Japanese Grand Prix takes place at Suzuka International Racing Course
+              (Suzuka, Japan) on April 06, 2024. Local start: 15:00:00. Build-up show that recaps practice data
+              before knockout qualifying begins.
+          7:
+            title: Qualifying
+            originally_available: 2024-04-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s4/e7.jpg
+            summary: >
+              Qualifying for Japanese Grand Prix takes place at Suzuka International Racing Course (Suzuka, Japan)
+              on April 06, 2024. Local start: 15:00:00. Three-stage knockout session that sets Sunday's grid for
+              the Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2024-04-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s4/e8.jpg
+            summary: >
+              Post Qualifying Show for Japanese Grand Prix takes place at Suzuka International Racing Course
+              (Suzuka, Japan) on April 06, 2024. Local start: 15:00:00. Immediate reaction, interviews and
+              technical analysis after qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2024-04-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s4/e9.jpg
+            summary: >
+              Pre Race Show for Japanese Grand Prix takes place at Suzuka International Racing Course (Suzuka,
+              Japan) on April 05, 2024. Local start: 11:30:00. Grid walk coverage with final strategy talk before
+              lights out.
+          10:
+            title: Race
+            originally_available: 2024-04-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s4/e10.jpg
+            summary: >
+              Race for Japanese Grand Prix takes place at Suzuka International Racing Course (Suzuka, Japan) on
+              April 05, 2024. Local start: 11:30:00. Full Grand Prix distance deciding the championship points
+              haul.
+          11:
+            title: Post Race Show
+            originally_available: 2024-04-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s4/e11.jpg
+            summary: >
+              Post Race Show for Japanese Grand Prix takes place at Suzuka International Racing Course (Suzuka,
+              Japan) on April 05, 2024. Local start: 11:30:00. Podium ceremonies, driver interviews and parc fermé
+              debriefs.
+      5:
+        title: Chinese Grand Prix
+        sort_title: 05_Chinese Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s5/poster.jpg
+        summary: >
+          Round 5 (Chinese Grand Prix) spans April 19-21, 2024 with 13 curated broadcast sessions mapped from
+          TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2024-04-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s5/e1.jpg
+            summary: >
+              Drivers Press Conference for Chinese Grand Prix takes place at Shanghai International Circuit
+              (Shanghai, China) on April 19, 2024. Local start: 11:30:00. Selected drivers brief the media on car
+              updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2024-04-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s5/e2.jpg
+            summary: >
+              Weekend Warm Up for Chinese Grand Prix takes place at Shanghai International Circuit (Shanghai,
+              China) on April 19, 2024. Local start: 11:30:00. Preview show covering track walks, tyre choices and
+              evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2024-04-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s5/e3.jpg
+            summary: >
+              Free Practice 1 for Chinese Grand Prix takes place at Shanghai International Circuit (Shanghai,
+              China) on April 19, 2024. Local start: 11:30:00. Only practice session before the sprint shootout,
+              vital for rapid setup work.
+          4:
+            title: Sprint Qualifying
+            originally_available: 2024-04-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s5/e4.jpg
+            summary: >
+              Sprint Qualifying for Chinese Grand Prix takes place at Shanghai International Circuit (Shanghai,
+              China) on April 19, 2024. Local start: 15:30:00. Short sprint shootout that sets the grid for
+              Saturday's sprint race.
+          5:
+            title: Pre Sprint Show
+            originally_available: 2024-04-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s5/e5.jpg
+            summary: >
+              Pre Sprint Show for Chinese Grand Prix takes place at Shanghai International Circuit (Shanghai,
+              China) on April 19, 2024. Local start: 15:30:00. Studio build-up covering sprint strategies, tyre
+              allocations and weather.
+          6:
+            title: Sprint
+            originally_available: 2024-04-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s5/e6.jpg
+            summary: >
+              Sprint for Chinese Grand Prix takes place at Shanghai International Circuit (Shanghai, China) on
+              April 19, 2024. Local start: 15:30:00. 100km dash awarding points to the top eight and shaping the
+              weekend narrative.
+          7:
+            title: Post Sprint Show
+            originally_available: 2024-04-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s5/e7.jpg
+            summary: >
+              Post Sprint Show for Chinese Grand Prix takes place at Shanghai International Circuit (Shanghai,
+              China) on April 19, 2024. Local start: 15:30:00. Analysis and driver interviews immediately after
+              the sprint finish.
+          8:
+            title: Pre Qualifying Show
+            originally_available: 2024-04-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s5/e8.jpg
+            summary: >
+              Pre Qualifying Show for Chinese Grand Prix takes place at Shanghai International Circuit (Shanghai,
+              China) on April 20, 2024. Local start: 15:00:00. Reset before traditional qualifying that locks in
+              the Grand Prix grid.
+          9:
+            title: Qualifying
+            originally_available: 2024-04-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s5/e9.jpg
+            summary: >
+              Qualifying for Chinese Grand Prix takes place at Shanghai International Circuit (Shanghai, China) on
+              April 20, 2024. Local start: 15:00:00. Knockout qualifying held after the sprint to define Sunday's
+              start order.
+          10:
+            title: Post Qualifying Show
+            originally_available: 2024-04-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s5/e10.jpg
+            summary: >
+              Post Qualifying Show for Chinese Grand Prix takes place at Shanghai International Circuit (Shanghai,
+              China) on April 20, 2024. Local start: 15:00:00. Reactions and technical analysis once the Grand
+              Prix grid is finalised.
+          11:
+            title: Pre Race Show
+            originally_available: 2024-04-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s5/e11.jpg
+            summary: >
+              Pre Race Show for Chinese Grand Prix takes place at Shanghai International Circuit (Shanghai, China)
+              on April 19, 2024. Local start: 11:30:00. Grid walk coverage with final strategy talk before lights
+              out.
+          12:
+            title: Race
+            originally_available: 2024-04-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s5/e12.jpg
+            summary: >
+              Race for Chinese Grand Prix takes place at Shanghai International Circuit (Shanghai, China) on April
+              19, 2024. Local start: 11:30:00. Full Grand Prix distance deciding the championship points haul.
+          13:
+            title: Post Race Show
+            originally_available: 2024-04-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s5/e13.jpg
+            summary: >
+              Post Race Show for Chinese Grand Prix takes place at Shanghai International Circuit (Shanghai,
+              China) on April 19, 2024. Local start: 11:30:00. Podium ceremonies, driver interviews and parc fermé
+              debriefs.
+      6:
+        title: Miami Grand Prix
+        sort_title: 06_Miami Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s6/poster.jpg
+        summary: >
+          Round 6 (Miami Grand Prix) spans May 3-5, 2024 with 13 curated broadcast sessions mapped from
+          TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2024-05-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s6/e1.jpg
+            summary: >
+              Drivers Press Conference for Miami Grand Prix takes place at Miami International Autodrome (Miami
+              Gardens, FL, United States) on May 03, 2024. Local start: 12:30:00. Selected drivers brief the media
+              on car updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2024-05-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s6/e2.jpg
+            summary: >
+              Weekend Warm Up for Miami Grand Prix takes place at Miami International Autodrome (Miami Gardens,
+              FL, United States) on May 03, 2024. Local start: 12:30:00. Preview show covering track walks, tyre
+              choices and evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2024-05-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s6/e3.jpg
+            summary: >
+              Free Practice 1 for Miami Grand Prix takes place at Miami International Autodrome (Miami Gardens,
+              FL, United States) on May 03, 2024. Local start: 12:30:00. Only practice session before the sprint
+              shootout, vital for rapid setup work.
+          4:
+            title: Sprint Qualifying
+            originally_available: 2024-05-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s6/e4.jpg
+            summary: >
+              Sprint Qualifying for Miami Grand Prix takes place at Miami International Autodrome (Miami Gardens,
+              FL, United States) on May 03, 2024. Local start: 16:30:00. Short sprint shootout that sets the grid
+              for Saturday's sprint race.
+          5:
+            title: Pre Sprint Show
+            originally_available: 2024-05-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s6/e5.jpg
+            summary: >
+              Pre Sprint Show for Miami Grand Prix takes place at Miami International Autodrome (Miami Gardens,
+              FL, United States) on May 03, 2024. Local start: 16:30:00. Studio build-up covering sprint
+              strategies, tyre allocations and weather.
+          6:
+            title: Sprint
+            originally_available: 2024-05-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s6/e6.jpg
+            summary: >
+              Sprint for Miami Grand Prix takes place at Miami International Autodrome (Miami Gardens, FL, United
+              States) on May 03, 2024. Local start: 16:30:00. 100km dash awarding points to the top eight and
+              shaping the weekend narrative.
+          7:
+            title: Post Sprint Show
+            originally_available: 2024-05-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s6/e7.jpg
+            summary: >
+              Post Sprint Show for Miami Grand Prix takes place at Miami International Autodrome (Miami Gardens,
+              FL, United States) on May 03, 2024. Local start: 16:30:00. Analysis and driver interviews
+              immediately after the sprint finish.
+          8:
+            title: Pre Qualifying Show
+            originally_available: 2024-05-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s6/e8.jpg
+            summary: >
+              Pre Qualifying Show for Miami Grand Prix takes place at Miami International Autodrome (Miami
+              Gardens, FL, United States) on May 04, 2024. Local start: 16:00:00. Reset before traditional
+              qualifying that locks in the Grand Prix grid.
+          9:
+            title: Qualifying
+            originally_available: 2024-05-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s6/e9.jpg
+            summary: >
+              Qualifying for Miami Grand Prix takes place at Miami International Autodrome (Miami Gardens, FL,
+              United States) on May 04, 2024. Local start: 16:00:00. Knockout qualifying held after the sprint to
+              define Sunday's start order.
+          10:
+            title: Post Qualifying Show
+            originally_available: 2024-05-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s6/e10.jpg
+            summary: >
+              Post Qualifying Show for Miami Grand Prix takes place at Miami International Autodrome (Miami
+              Gardens, FL, United States) on May 04, 2024. Local start: 16:00:00. Reactions and technical analysis
+              once the Grand Prix grid is finalised.
+          11:
+            title: Pre Race Show
+            originally_available: 2024-05-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s6/e11.jpg
+            summary: >
+              Pre Race Show for Miami Grand Prix takes place at Miami International Autodrome (Miami Gardens, FL,
+              United States) on May 03, 2024. Local start: 12:30:00. Grid walk coverage with final strategy talk
+              before lights out.
+          12:
+            title: Race
+            originally_available: 2024-05-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s6/e12.jpg
+            summary: >
+              Race for Miami Grand Prix takes place at Miami International Autodrome (Miami Gardens, FL, United
+              States) on May 03, 2024. Local start: 12:30:00. Full Grand Prix distance deciding the championship
+              points haul.
+          13:
+            title: Post Race Show
+            originally_available: 2024-05-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s6/e13.jpg
+            summary: >
+              Post Race Show for Miami Grand Prix takes place at Miami International Autodrome (Miami Gardens, FL,
+              United States) on May 03, 2024. Local start: 12:30:00. Podium ceremonies, driver interviews and parc
+              fermé debriefs.
+      7:
+        title: Emilia Romagna Grand Prix
+        sort_title: 07_Emilia Romagna Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s7/poster.jpg
+        summary: >
+          Round 7 (Emilia Romagna Grand Prix) spans May 17-19, 2024 with 11 curated broadcast sessions mapped
+          from TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2024-05-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s7/e1.jpg
+            summary: >
+              Drivers Press Conference for Emilia Romagna Grand Prix takes place at Imola Circuit (Imola, Italy)
+              on May 17, 2024. Local start: 13:30:00. Selected drivers brief the media on car updates and
+              expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2024-05-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s7/e2.jpg
+            summary: >
+              Weekend Warm Up for Emilia Romagna Grand Prix takes place at Imola Circuit (Imola, Italy) on May 17,
+              2024. Local start: 13:30:00. Preview show covering track walks, tyre choices and evolving weather
+              conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2024-05-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s7/e3.jpg
+            summary: >
+              Free Practice 1 for Emilia Romagna Grand Prix takes place at Imola Circuit (Imola, Italy) on May 17,
+              2024. Local start: 13:30:00. Opening practice hour focused on systems checks and baseline setup
+              work.
+          4:
+            title: Free Practice 2
+            originally_available: 2024-05-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s7/e4.jpg
+            summary: >
+              Free Practice 2 for Emilia Romagna Grand Prix takes place at Imola Circuit (Imola, Italy) on May 17,
+              2024. Local start: 17:00:00. Second practice mirrors race conditions for long-run and tyre
+              evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2024-05-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s7/e5.jpg
+            summary: >
+              Free Practice 3 for Emilia Romagna Grand Prix takes place at Imola Circuit (Imola, Italy) on May 18,
+              2024. Local start: 12:30:00. Final tune-up where teams chase qualifying simulations and outright
+              pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2024-05-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s7/e6.jpg
+            summary: >
+              Pre Qualifying Show for Emilia Romagna Grand Prix takes place at Imola Circuit (Imola, Italy) on May
+              18, 2024. Local start: 16:00:00. Build-up show that recaps practice data before knockout qualifying
+              begins.
+          7:
+            title: Qualifying
+            originally_available: 2024-05-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s7/e7.jpg
+            summary: >
+              Qualifying for Emilia Romagna Grand Prix takes place at Imola Circuit (Imola, Italy) on May 18,
+              2024. Local start: 16:00:00. Three-stage knockout session that sets Sunday's grid for the Grand
+              Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2024-05-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s7/e8.jpg
+            summary: >
+              Post Qualifying Show for Emilia Romagna Grand Prix takes place at Imola Circuit (Imola, Italy) on
+              May 18, 2024. Local start: 16:00:00. Immediate reaction, interviews and technical analysis after
+              qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2024-05-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s7/e9.jpg
+            summary: >
+              Pre Race Show for Emilia Romagna Grand Prix takes place at Imola Circuit (Imola, Italy) on May 17,
+              2024. Local start: 13:30:00. Grid walk coverage with final strategy talk before lights out.
+          10:
+            title: Race
+            originally_available: 2024-05-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s7/e10.jpg
+            summary: >
+              Race for Emilia Romagna Grand Prix takes place at Imola Circuit (Imola, Italy) on May 17, 2024.
+              Local start: 13:30:00. Full Grand Prix distance deciding the championship points haul.
+          11:
+            title: Post Race Show
+            originally_available: 2024-05-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s7/e11.jpg
+            summary: >
+              Post Race Show for Emilia Romagna Grand Prix takes place at Imola Circuit (Imola, Italy) on May 17,
+              2024. Local start: 13:30:00. Podium ceremonies, driver interviews and parc fermé debriefs.
+      8:
+        title: Monaco Grand Prix
+        sort_title: 08_Monaco Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s8/poster.jpg
+        summary: >
+          Round 8 (Monaco Grand Prix) spans May 24-26, 2024 with 11 curated broadcast sessions mapped from
+          TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2024-05-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s8/e1.jpg
+            summary: >
+              Drivers Press Conference for Monaco Grand Prix takes place at Circuit de Monaco (Monaco, Monaco) on
+              May 24, 2024. Local start: 13:30:00. Selected drivers brief the media on car updates and
+              expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2024-05-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s8/e2.jpg
+            summary: >
+              Weekend Warm Up for Monaco Grand Prix takes place at Circuit de Monaco (Monaco, Monaco) on May 24,
+              2024. Local start: 13:30:00. Preview show covering track walks, tyre choices and evolving weather
+              conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2024-05-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s8/e3.jpg
+            summary: >
+              Free Practice 1 for Monaco Grand Prix takes place at Circuit de Monaco (Monaco, Monaco) on May 24,
+              2024. Local start: 13:30:00. Opening practice hour focused on systems checks and baseline setup
+              work.
+          4:
+            title: Free Practice 2
+            originally_available: 2024-05-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s8/e4.jpg
+            summary: >
+              Free Practice 2 for Monaco Grand Prix takes place at Circuit de Monaco (Monaco, Monaco) on May 24,
+              2024. Local start: 17:00:00. Second practice mirrors race conditions for long-run and tyre
+              evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2024-05-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s8/e5.jpg
+            summary: >
+              Free Practice 3 for Monaco Grand Prix takes place at Circuit de Monaco (Monaco, Monaco) on May 25,
+              2024. Local start: 12:30:00. Final tune-up where teams chase qualifying simulations and outright
+              pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2024-05-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s8/e6.jpg
+            summary: >
+              Pre Qualifying Show for Monaco Grand Prix takes place at Circuit de Monaco (Monaco, Monaco) on May
+              25, 2024. Local start: 16:00:00. Build-up show that recaps practice data before knockout qualifying
+              begins.
+          7:
+            title: Qualifying
+            originally_available: 2024-05-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s8/e7.jpg
+            summary: >
+              Qualifying for Monaco Grand Prix takes place at Circuit de Monaco (Monaco, Monaco) on May 25, 2024.
+              Local start: 16:00:00. Three-stage knockout session that sets Sunday's grid for the Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2024-05-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s8/e8.jpg
+            summary: >
+              Post Qualifying Show for Monaco Grand Prix takes place at Circuit de Monaco (Monaco, Monaco) on May
+              25, 2024. Local start: 16:00:00. Immediate reaction, interviews and technical analysis after
+              qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2024-05-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s8/e9.jpg
+            summary: >
+              Pre Race Show for Monaco Grand Prix takes place at Circuit de Monaco (Monaco, Monaco) on May 24,
+              2024. Local start: 13:30:00. Grid walk coverage with final strategy talk before lights out.
+          10:
+            title: Race
+            originally_available: 2024-05-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s8/e10.jpg
+            summary: >
+              Race for Monaco Grand Prix takes place at Circuit de Monaco (Monaco, Monaco) on May 24, 2024. Local
+              start: 13:30:00. Full Grand Prix distance deciding the championship points haul.
+          11:
+            title: Post Race Show
+            originally_available: 2024-05-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s8/e11.jpg
+            summary: >
+              Post Race Show for Monaco Grand Prix takes place at Circuit de Monaco (Monaco, Monaco) on May 24,
+              2024. Local start: 13:30:00. Podium ceremonies, driver interviews and parc fermé debriefs.
+      9:
+        title: Canadian Grand Prix
+        sort_title: 09_Canadian Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s9/poster.jpg
+        summary: >
+          Round 9 (Canadian Grand Prix) spans June 7-9, 2024 with 11 curated broadcast sessions mapped from
+          TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2024-06-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s9/e1.jpg
+            summary: >
+              Drivers Press Conference for Canadian Grand Prix takes place at Circuit Gilles Villeneuve (Montreal,
+              Canada) on June 07, 2024. Local start: 13:30:00. Selected drivers brief the media on car updates and
+              expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2024-06-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s9/e2.jpg
+            summary: >
+              Weekend Warm Up for Canadian Grand Prix takes place at Circuit Gilles Villeneuve (Montreal, Canada)
+              on June 07, 2024. Local start: 13:30:00. Preview show covering track walks, tyre choices and
+              evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2024-06-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s9/e3.jpg
+            summary: >
+              Free Practice 1 for Canadian Grand Prix takes place at Circuit Gilles Villeneuve (Montreal, Canada)
+              on June 07, 2024. Local start: 13:30:00. Opening practice hour focused on systems checks and
+              baseline setup work.
+          4:
+            title: Free Practice 2
+            originally_available: 2024-06-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s9/e4.jpg
+            summary: >
+              Free Practice 2 for Canadian Grand Prix takes place at Circuit Gilles Villeneuve (Montreal, Canada)
+              on June 07, 2024. Local start: 17:00:00. Second practice mirrors race conditions for long-run and
+              tyre evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2024-06-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s9/e5.jpg
+            summary: >
+              Free Practice 3 for Canadian Grand Prix takes place at Circuit Gilles Villeneuve (Montreal, Canada)
+              on June 08, 2024. Local start: 12:30:00. Final tune-up where teams chase qualifying simulations and
+              outright pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2024-06-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s9/e6.jpg
+            summary: >
+              Pre Qualifying Show for Canadian Grand Prix takes place at Circuit Gilles Villeneuve (Montreal,
+              Canada) on June 08, 2024. Local start: 16:00:00. Build-up show that recaps practice data before
+              knockout qualifying begins.
+          7:
+            title: Qualifying
+            originally_available: 2024-06-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s9/e7.jpg
+            summary: >
+              Qualifying for Canadian Grand Prix takes place at Circuit Gilles Villeneuve (Montreal, Canada) on
+              June 08, 2024. Local start: 16:00:00. Three-stage knockout session that sets Sunday's grid for the
+              Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2024-06-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s9/e8.jpg
+            summary: >
+              Post Qualifying Show for Canadian Grand Prix takes place at Circuit Gilles Villeneuve (Montreal,
+              Canada) on June 08, 2024. Local start: 16:00:00. Immediate reaction, interviews and technical
+              analysis after qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2024-06-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s9/e9.jpg
+            summary: >
+              Pre Race Show for Canadian Grand Prix takes place at Circuit Gilles Villeneuve (Montreal, Canada) on
+              June 07, 2024. Local start: 13:30:00. Grid walk coverage with final strategy talk before lights out.
+          10:
+            title: Race
+            originally_available: 2024-06-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s9/e10.jpg
+            summary: >
+              Race for Canadian Grand Prix takes place at Circuit Gilles Villeneuve (Montreal, Canada) on June 07,
+              2024. Local start: 13:30:00. Full Grand Prix distance deciding the championship points haul.
+          11:
+            title: Post Race Show
+            originally_available: 2024-06-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s9/e11.jpg
+            summary: >
+              Post Race Show for Canadian Grand Prix takes place at Circuit Gilles Villeneuve (Montreal, Canada)
+              on June 07, 2024. Local start: 13:30:00. Podium ceremonies, driver interviews and parc fermé
+              debriefs.
+      10:
+        title: Spanish Grand Prix
+        sort_title: 10_Spanish Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s10/poster.jpg
+        summary: >
+          Round 10 (Spanish Grand Prix) spans June 21-23, 2024 with 11 curated broadcast sessions mapped from
+          TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2024-06-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s10/e1.jpg
+            summary: >
+              Drivers Press Conference for Spanish Grand Prix takes place at Circuit de Barcelona-Catalunya
+              (Montmeló, Spain) on June 21, 2024. Local start: 13:30:00. Selected drivers brief the media on car
+              updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2024-06-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s10/e2.jpg
+            summary: >
+              Weekend Warm Up for Spanish Grand Prix takes place at Circuit de Barcelona-Catalunya (Montmeló,
+              Spain) on June 21, 2024. Local start: 13:30:00. Preview show covering track walks, tyre choices and
+              evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2024-06-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s10/e3.jpg
+            summary: >
+              Free Practice 1 for Spanish Grand Prix takes place at Circuit de Barcelona-Catalunya (Montmeló,
+              Spain) on June 21, 2024. Local start: 13:30:00. Opening practice hour focused on systems checks and
+              baseline setup work.
+          4:
+            title: Free Practice 2
+            originally_available: 2024-06-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s10/e4.jpg
+            summary: >
+              Free Practice 2 for Spanish Grand Prix takes place at Circuit de Barcelona-Catalunya (Montmeló,
+              Spain) on June 21, 2024. Local start: 17:00:00. Second practice mirrors race conditions for long-run
+              and tyre evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2024-06-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s10/e5.jpg
+            summary: >
+              Free Practice 3 for Spanish Grand Prix takes place at Circuit de Barcelona-Catalunya (Montmeló,
+              Spain) on June 22, 2024. Local start: 12:30:00. Final tune-up where teams chase qualifying
+              simulations and outright pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2024-06-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s10/e6.jpg
+            summary: >
+              Pre Qualifying Show for Spanish Grand Prix takes place at Circuit de Barcelona-Catalunya (Montmeló,
+              Spain) on June 22, 2024. Local start: 16:00:00. Build-up show that recaps practice data before
+              knockout qualifying begins.
+          7:
+            title: Qualifying
+            originally_available: 2024-06-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s10/e7.jpg
+            summary: >
+              Qualifying for Spanish Grand Prix takes place at Circuit de Barcelona-Catalunya (Montmeló, Spain) on
+              June 22, 2024. Local start: 16:00:00. Three-stage knockout session that sets Sunday's grid for the
+              Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2024-06-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s10/e8.jpg
+            summary: >
+              Post Qualifying Show for Spanish Grand Prix takes place at Circuit de Barcelona-Catalunya (Montmeló,
+              Spain) on June 22, 2024. Local start: 16:00:00. Immediate reaction, interviews and technical
+              analysis after qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2024-06-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s10/e9.jpg
+            summary: >
+              Pre Race Show for Spanish Grand Prix takes place at Circuit de Barcelona-Catalunya (Montmeló, Spain)
+              on June 21, 2024. Local start: 13:30:00. Grid walk coverage with final strategy talk before lights
+              out.
+          10:
+            title: Race
+            originally_available: 2024-06-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s10/e10.jpg
+            summary: >
+              Race for Spanish Grand Prix takes place at Circuit de Barcelona-Catalunya (Montmeló, Spain) on June
+              21, 2024. Local start: 13:30:00. Full Grand Prix distance deciding the championship points haul.
+          11:
+            title: Post Race Show
+            originally_available: 2024-06-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s10/e11.jpg
+            summary: >
+              Post Race Show for Spanish Grand Prix takes place at Circuit de Barcelona-Catalunya (Montmeló,
+              Spain) on June 21, 2024. Local start: 13:30:00. Podium ceremonies, driver interviews and parc fermé
+              debriefs.
+      11:
+        title: Austrian Grand Prix
+        sort_title: 11_Austrian Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s11/poster.jpg
+        summary: >
+          Round 11 (Austrian Grand Prix) spans June 28-30, 2024 with 13 curated broadcast sessions mapped from
+          TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2024-06-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s11/e1.jpg
+            summary: >
+              Drivers Press Conference for Austrian Grand Prix takes place at Red Bull Ring (Spielberg, Austria)
+              on June 28, 2024. Local start: 12:30:00. Selected drivers brief the media on car updates and
+              expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2024-06-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s11/e2.jpg
+            summary: >
+              Weekend Warm Up for Austrian Grand Prix takes place at Red Bull Ring (Spielberg, Austria) on June
+              28, 2024. Local start: 12:30:00. Preview show covering track walks, tyre choices and evolving
+              weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2024-06-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s11/e3.jpg
+            summary: >
+              Free Practice 1 for Austrian Grand Prix takes place at Red Bull Ring (Spielberg, Austria) on June
+              28, 2024. Local start: 12:30:00. Only practice session before the sprint shootout, vital for rapid
+              setup work.
+          4:
+            title: Sprint Qualifying
+            originally_available: 2024-06-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s11/e4.jpg
+            summary: >
+              Sprint Qualifying for Austrian Grand Prix takes place at Red Bull Ring (Spielberg, Austria) on June
+              28, 2024. Local start: 16:30:00. Short sprint shootout that sets the grid for Saturday's sprint
+              race.
+          5:
+            title: Pre Sprint Show
+            originally_available: 2024-06-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s11/e5.jpg
+            summary: >
+              Pre Sprint Show for Austrian Grand Prix takes place at Red Bull Ring (Spielberg, Austria) on June
+              28, 2024. Local start: 16:30:00. Studio build-up covering sprint strategies, tyre allocations and
+              weather.
+          6:
+            title: Sprint
+            originally_available: 2024-06-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s11/e6.jpg
+            summary: >
+              Sprint for Austrian Grand Prix takes place at Red Bull Ring (Spielberg, Austria) on June 28, 2024.
+              Local start: 16:30:00. 100km dash awarding points to the top eight and shaping the weekend
+              narrative.
+          7:
+            title: Post Sprint Show
+            originally_available: 2024-06-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s11/e7.jpg
+            summary: >
+              Post Sprint Show for Austrian Grand Prix takes place at Red Bull Ring (Spielberg, Austria) on June
+              28, 2024. Local start: 16:30:00. Analysis and driver interviews immediately after the sprint finish.
+          8:
+            title: Pre Qualifying Show
+            originally_available: 2024-06-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s11/e8.jpg
+            summary: >
+              Pre Qualifying Show for Austrian Grand Prix takes place at Red Bull Ring (Spielberg, Austria) on
+              June 29, 2024. Local start: 16:00:00. Reset before traditional qualifying that locks in the Grand
+              Prix grid.
+          9:
+            title: Qualifying
+            originally_available: 2024-06-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s11/e9.jpg
+            summary: >
+              Qualifying for Austrian Grand Prix takes place at Red Bull Ring (Spielberg, Austria) on June 29,
+              2024. Local start: 16:00:00. Knockout qualifying held after the sprint to define Sunday's start
+              order.
+          10:
+            title: Post Qualifying Show
+            originally_available: 2024-06-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s11/e10.jpg
+            summary: >
+              Post Qualifying Show for Austrian Grand Prix takes place at Red Bull Ring (Spielberg, Austria) on
+              June 29, 2024. Local start: 16:00:00. Reactions and technical analysis once the Grand Prix grid is
+              finalised.
+          11:
+            title: Pre Race Show
+            originally_available: 2024-06-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s11/e11.jpg
+            summary: >
+              Pre Race Show for Austrian Grand Prix takes place at Red Bull Ring (Spielberg, Austria) on June 28,
+              2024. Local start: 12:30:00. Grid walk coverage with final strategy talk before lights out.
+          12:
+            title: Race
+            originally_available: 2024-06-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s11/e12.jpg
+            summary: >
+              Race for Austrian Grand Prix takes place at Red Bull Ring (Spielberg, Austria) on June 28, 2024.
+              Local start: 12:30:00. Full Grand Prix distance deciding the championship points haul.
+          13:
+            title: Post Race Show
+            originally_available: 2024-06-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s11/e13.jpg
+            summary: >
+              Post Race Show for Austrian Grand Prix takes place at Red Bull Ring (Spielberg, Austria) on June 28,
+              2024. Local start: 12:30:00. Podium ceremonies, driver interviews and parc fermé debriefs.
+      12:
+        title: British Grand Prix
+        sort_title: 12_British Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s12/poster.jpg
+        summary: >
+          Round 12 (British Grand Prix) spans July 5-7, 2024 with 11 curated broadcast sessions mapped from
+          TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2024-07-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s12/e1.jpg
+            summary: >
+              Drivers Press Conference for British Grand Prix takes place at Silverstone Circuit (Silverstone,
+              United Kingdom) on July 05, 2024. Local start: 12:30:00. Selected drivers brief the media on car
+              updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2024-07-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s12/e2.jpg
+            summary: >
+              Weekend Warm Up for British Grand Prix takes place at Silverstone Circuit (Silverstone, United
+              Kingdom) on July 05, 2024. Local start: 12:30:00. Preview show covering track walks, tyre choices
+              and evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2024-07-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s12/e3.jpg
+            summary: >
+              Free Practice 1 for British Grand Prix takes place at Silverstone Circuit (Silverstone, United
+              Kingdom) on July 05, 2024. Local start: 12:30:00. Opening practice hour focused on systems checks
+              and baseline setup work.
+          4:
+            title: Free Practice 2
+            originally_available: 2024-07-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s12/e4.jpg
+            summary: >
+              Free Practice 2 for British Grand Prix takes place at Silverstone Circuit (Silverstone, United
+              Kingdom) on July 05, 2024. Local start: 16:00:00. Second practice mirrors race conditions for long-
+              run and tyre evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2024-07-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s12/e5.jpg
+            summary: >
+              Free Practice 3 for British Grand Prix takes place at Silverstone Circuit (Silverstone, United
+              Kingdom) on July 06, 2024. Local start: 11:30:00. Final tune-up where teams chase qualifying
+              simulations and outright pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2024-07-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s12/e6.jpg
+            summary: >
+              Pre Qualifying Show for British Grand Prix takes place at Silverstone Circuit (Silverstone, United
+              Kingdom) on July 06, 2024. Local start: 15:00:00. Build-up show that recaps practice data before
+              knockout qualifying begins.
+          7:
+            title: Qualifying
+            originally_available: 2024-07-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s12/e7.jpg
+            summary: >
+              Qualifying for British Grand Prix takes place at Silverstone Circuit (Silverstone, United Kingdom)
+              on July 06, 2024. Local start: 15:00:00. Three-stage knockout session that sets Sunday's grid for
+              the Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2024-07-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s12/e8.jpg
+            summary: >
+              Post Qualifying Show for British Grand Prix takes place at Silverstone Circuit (Silverstone, United
+              Kingdom) on July 06, 2024. Local start: 15:00:00. Immediate reaction, interviews and technical
+              analysis after qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2024-07-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s12/e9.jpg
+            summary: >
+              Pre Race Show for British Grand Prix takes place at Silverstone Circuit (Silverstone, United
+              Kingdom) on July 05, 2024. Local start: 12:30:00. Grid walk coverage with final strategy talk before
+              lights out.
+          10:
+            title: Race
+            originally_available: 2024-07-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s12/e10.jpg
+            summary: >
+              Race for British Grand Prix takes place at Silverstone Circuit (Silverstone, United Kingdom) on July
+              05, 2024. Local start: 12:30:00. Full Grand Prix distance deciding the championship points haul.
+          11:
+            title: Post Race Show
+            originally_available: 2024-07-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s12/e11.jpg
+            summary: >
+              Post Race Show for British Grand Prix takes place at Silverstone Circuit (Silverstone, United
+              Kingdom) on July 05, 2024. Local start: 12:30:00. Podium ceremonies, driver interviews and parc
+              fermé debriefs.
+      13:
+        title: Hungarian Grand Prix
+        sort_title: 13_Hungarian Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s13/poster.jpg
+        summary: >
+          Round 13 (Hungarian Grand Prix) spans July 19-21, 2024 with 11 curated broadcast sessions mapped
+          from TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2024-07-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s13/e1.jpg
+            summary: >
+              Drivers Press Conference for Hungarian Grand Prix takes place at Hungaroring (Mogyoród, Hungary) on
+              July 19, 2024. Local start: 13:30:00. Selected drivers brief the media on car updates and
+              expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2024-07-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s13/e2.jpg
+            summary: >
+              Weekend Warm Up for Hungarian Grand Prix takes place at Hungaroring (Mogyoród, Hungary) on July 19,
+              2024. Local start: 13:30:00. Preview show covering track walks, tyre choices and evolving weather
+              conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2024-07-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s13/e3.jpg
+            summary: >
+              Free Practice 1 for Hungarian Grand Prix takes place at Hungaroring (Mogyoród, Hungary) on July 19,
+              2024. Local start: 13:30:00. Opening practice hour focused on systems checks and baseline setup
+              work.
+          4:
+            title: Free Practice 2
+            originally_available: 2024-07-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s13/e4.jpg
+            summary: >
+              Free Practice 2 for Hungarian Grand Prix takes place at Hungaroring (Mogyoród, Hungary) on July 19,
+              2024. Local start: 17:00:00. Second practice mirrors race conditions for long-run and tyre
+              evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2024-07-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s13/e5.jpg
+            summary: >
+              Free Practice 3 for Hungarian Grand Prix takes place at Hungaroring (Mogyoród, Hungary) on July 20,
+              2024. Local start: 12:30:00. Final tune-up where teams chase qualifying simulations and outright
+              pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2024-07-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s13/e6.jpg
+            summary: >
+              Pre Qualifying Show for Hungarian Grand Prix takes place at Hungaroring (Mogyoród, Hungary) on July
+              20, 2024. Local start: 16:00:00. Build-up show that recaps practice data before knockout qualifying
+              begins.
+          7:
+            title: Qualifying
+            originally_available: 2024-07-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s13/e7.jpg
+            summary: >
+              Qualifying for Hungarian Grand Prix takes place at Hungaroring (Mogyoród, Hungary) on July 20, 2024.
+              Local start: 16:00:00. Three-stage knockout session that sets Sunday's grid for the Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2024-07-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s13/e8.jpg
+            summary: >
+              Post Qualifying Show for Hungarian Grand Prix takes place at Hungaroring (Mogyoród, Hungary) on July
+              20, 2024. Local start: 16:00:00. Immediate reaction, interviews and technical analysis after
+              qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2024-07-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s13/e9.jpg
+            summary: >
+              Pre Race Show for Hungarian Grand Prix takes place at Hungaroring (Mogyoród, Hungary) on July 19,
+              2024. Local start: 13:30:00. Grid walk coverage with final strategy talk before lights out.
+          10:
+            title: Race
+            originally_available: 2024-07-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s13/e10.jpg
+            summary: >
+              Race for Hungarian Grand Prix takes place at Hungaroring (Mogyoród, Hungary) on July 19, 2024. Local
+              start: 13:30:00. Full Grand Prix distance deciding the championship points haul.
+          11:
+            title: Post Race Show
+            originally_available: 2024-07-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s13/e11.jpg
+            summary: >
+              Post Race Show for Hungarian Grand Prix takes place at Hungaroring (Mogyoród, Hungary) on July 19,
+              2024. Local start: 13:30:00. Podium ceremonies, driver interviews and parc fermé debriefs.
+      14:
+        title: Belgian Grand Prix
+        sort_title: 14_Belgian Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s14/poster.jpg
+        summary: >
+          Round 14 (Belgian Grand Prix) spans July 26-28, 2024 with 11 curated broadcast sessions mapped from
+          TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2024-07-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s14/e1.jpg
+            summary: >
+              Drivers Press Conference for Belgian Grand Prix takes place at Circuit de Spa-Francorchamps
+              (Stavelot, Belgium) on July 26, 2024. Local start: 13:30:00. Selected drivers brief the media on car
+              updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2024-07-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s14/e2.jpg
+            summary: >
+              Weekend Warm Up for Belgian Grand Prix takes place at Circuit de Spa-Francorchamps (Stavelot,
+              Belgium) on July 26, 2024. Local start: 13:30:00. Preview show covering track walks, tyre choices
+              and evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2024-07-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s14/e3.jpg
+            summary: >
+              Free Practice 1 for Belgian Grand Prix takes place at Circuit de Spa-Francorchamps (Stavelot,
+              Belgium) on July 26, 2024. Local start: 13:30:00. Opening practice hour focused on systems checks
+              and baseline setup work.
+          4:
+            title: Free Practice 2
+            originally_available: 2024-07-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s14/e4.jpg
+            summary: >
+              Free Practice 2 for Belgian Grand Prix takes place at Circuit de Spa-Francorchamps (Stavelot,
+              Belgium) on July 26, 2024. Local start: 17:00:00. Second practice mirrors race conditions for long-
+              run and tyre evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2024-07-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s14/e5.jpg
+            summary: >
+              Free Practice 3 for Belgian Grand Prix takes place at Circuit de Spa-Francorchamps (Stavelot,
+              Belgium) on July 27, 2024. Local start: 12:30:00. Final tune-up where teams chase qualifying
+              simulations and outright pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2024-07-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s14/e6.jpg
+            summary: >
+              Pre Qualifying Show for Belgian Grand Prix takes place at Circuit de Spa-Francorchamps (Stavelot,
+              Belgium) on July 27, 2024. Local start: 16:00:00. Build-up show that recaps practice data before
+              knockout qualifying begins.
+          7:
+            title: Qualifying
+            originally_available: 2024-07-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s14/e7.jpg
+            summary: >
+              Qualifying for Belgian Grand Prix takes place at Circuit de Spa-Francorchamps (Stavelot, Belgium) on
+              July 27, 2024. Local start: 16:00:00. Three-stage knockout session that sets Sunday's grid for the
+              Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2024-07-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s14/e8.jpg
+            summary: >
+              Post Qualifying Show for Belgian Grand Prix takes place at Circuit de Spa-Francorchamps (Stavelot,
+              Belgium) on July 27, 2024. Local start: 16:00:00. Immediate reaction, interviews and technical
+              analysis after qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2024-07-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s14/e9.jpg
+            summary: >
+              Pre Race Show for Belgian Grand Prix takes place at Circuit de Spa-Francorchamps (Stavelot, Belgium)
+              on July 26, 2024. Local start: 13:30:00. Grid walk coverage with final strategy talk before lights
+              out.
+          10:
+            title: Race
+            originally_available: 2024-07-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s14/e10.jpg
+            summary: >
+              Race for Belgian Grand Prix takes place at Circuit de Spa-Francorchamps (Stavelot, Belgium) on July
+              26, 2024. Local start: 13:30:00. Full Grand Prix distance deciding the championship points haul.
+          11:
+            title: Post Race Show
+            originally_available: 2024-07-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s14/e11.jpg
+            summary: >
+              Post Race Show for Belgian Grand Prix takes place at Circuit de Spa-Francorchamps (Stavelot,
+              Belgium) on July 26, 2024. Local start: 13:30:00. Podium ceremonies, driver interviews and parc
+              fermé debriefs.
+      15:
+        title: Dutch Grand Prix
+        sort_title: 15_Dutch Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s15/poster.jpg
+        summary: >
+          Round 15 (Dutch Grand Prix) spans August 23-25, 2024 with 11 curated broadcast sessions mapped from
+          TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2024-08-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s15/e1.jpg
+            summary: >
+              Drivers Press Conference for Dutch Grand Prix takes place at Circuit Zandvoort (Zandvoort, The
+              Netherlands) on August 23, 2024. Local start: 12:30:00. Selected drivers brief the media on car
+              updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2024-08-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s15/e2.jpg
+            summary: >
+              Weekend Warm Up for Dutch Grand Prix takes place at Circuit Zandvoort (Zandvoort, The Netherlands)
+              on August 23, 2024. Local start: 12:30:00. Preview show covering track walks, tyre choices and
+              evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2024-08-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s15/e3.jpg
+            summary: >
+              Free Practice 1 for Dutch Grand Prix takes place at Circuit Zandvoort (Zandvoort, The Netherlands)
+              on August 23, 2024. Local start: 12:30:00. Opening practice hour focused on systems checks and
+              baseline setup work.
+          4:
+            title: Free Practice 2
+            originally_available: 2024-08-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s15/e4.jpg
+            summary: >
+              Free Practice 2 for Dutch Grand Prix takes place at Circuit Zandvoort (Zandvoort, The Netherlands)
+              on August 23, 2024. Local start: 16:00:00. Second practice mirrors race conditions for long-run and
+              tyre evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2024-08-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s15/e5.jpg
+            summary: >
+              Free Practice 3 for Dutch Grand Prix takes place at Circuit Zandvoort (Zandvoort, The Netherlands)
+              on August 24, 2024. Local start: 11:30:00. Final tune-up where teams chase qualifying simulations
+              and outright pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2024-08-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s15/e6.jpg
+            summary: >
+              Pre Qualifying Show for Dutch Grand Prix takes place at Circuit Zandvoort (Zandvoort, The
+              Netherlands) on August 24, 2024. Local start: 15:00:00. Build-up show that recaps practice data
+              before knockout qualifying begins.
+          7:
+            title: Qualifying
+            originally_available: 2024-08-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s15/e7.jpg
+            summary: >
+              Qualifying for Dutch Grand Prix takes place at Circuit Zandvoort (Zandvoort, The Netherlands) on
+              August 24, 2024. Local start: 15:00:00. Three-stage knockout session that sets Sunday's grid for the
+              Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2024-08-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s15/e8.jpg
+            summary: >
+              Post Qualifying Show for Dutch Grand Prix takes place at Circuit Zandvoort (Zandvoort, The
+              Netherlands) on August 24, 2024. Local start: 15:00:00. Immediate reaction, interviews and technical
+              analysis after qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2024-08-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s15/e9.jpg
+            summary: >
+              Pre Race Show for Dutch Grand Prix takes place at Circuit Zandvoort (Zandvoort, The Netherlands) on
+              August 23, 2024. Local start: 12:30:00. Grid walk coverage with final strategy talk before lights
+              out.
+          10:
+            title: Race
+            originally_available: 2024-08-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s15/e10.jpg
+            summary: >
+              Race for Dutch Grand Prix takes place at Circuit Zandvoort (Zandvoort, The Netherlands) on August
+              23, 2024. Local start: 12:30:00. Full Grand Prix distance deciding the championship points haul.
+          11:
+            title: Post Race Show
+            originally_available: 2024-08-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s15/e11.jpg
+            summary: >
+              Post Race Show for Dutch Grand Prix takes place at Circuit Zandvoort (Zandvoort, The Netherlands) on
+              August 23, 2024. Local start: 12:30:00. Podium ceremonies, driver interviews and parc fermé
+              debriefs.
+      16:
+        title: Italian Grand Prix
+        sort_title: 16_Italian Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s16/poster.jpg
+        summary: >
+          Round 16 (Italian Grand Prix) spans August 30 - September 1, 2024 with 11 curated broadcast sessions
+          mapped from TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2024-08-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s16/e1.jpg
+            summary: >
+              Drivers Press Conference for Italian Grand Prix takes place at Monza Circuit (Monza, Italy) on
+              August 30, 2024. Local start: 13:30:00. Selected drivers brief the media on car updates and
+              expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2024-08-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s16/e2.jpg
+            summary: >
+              Weekend Warm Up for Italian Grand Prix takes place at Monza Circuit (Monza, Italy) on August 30,
+              2024. Local start: 13:30:00. Preview show covering track walks, tyre choices and evolving weather
+              conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2024-08-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s16/e3.jpg
+            summary: >
+              Free Practice 1 for Italian Grand Prix takes place at Monza Circuit (Monza, Italy) on August 30,
+              2024. Local start: 13:30:00. Opening practice hour focused on systems checks and baseline setup
+              work.
+          4:
+            title: Free Practice 2
+            originally_available: 2024-08-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s16/e4.jpg
+            summary: >
+              Free Practice 2 for Italian Grand Prix takes place at Monza Circuit (Monza, Italy) on August 30,
+              2024. Local start: 17:00:00. Second practice mirrors race conditions for long-run and tyre
+              evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2024-08-31
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s16/e5.jpg
+            summary: >
+              Free Practice 3 for Italian Grand Prix takes place at Monza Circuit (Monza, Italy) on August 31,
+              2024. Local start: 12:30:00. Final tune-up where teams chase qualifying simulations and outright
+              pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2024-08-31
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s16/e6.jpg
+            summary: >
+              Pre Qualifying Show for Italian Grand Prix takes place at Monza Circuit (Monza, Italy) on August 31,
+              2024. Local start: 16:00:00. Build-up show that recaps practice data before knockout qualifying
+              begins.
+          7:
+            title: Qualifying
+            originally_available: 2024-08-31
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s16/e7.jpg
+            summary: >
+              Qualifying for Italian Grand Prix takes place at Monza Circuit (Monza, Italy) on August 31, 2024.
+              Local start: 16:00:00. Three-stage knockout session that sets Sunday's grid for the Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2024-08-31
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s16/e8.jpg
+            summary: >
+              Post Qualifying Show for Italian Grand Prix takes place at Monza Circuit (Monza, Italy) on August
+              31, 2024. Local start: 16:00:00. Immediate reaction, interviews and technical analysis after
+              qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2024-09-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s16/e9.jpg
+            summary: >
+              Pre Race Show for Italian Grand Prix takes place at Monza Circuit (Monza, Italy) on August 30, 2024.
+              Local start: 13:30:00. Grid walk coverage with final strategy talk before lights out.
+          10:
+            title: Race
+            originally_available: 2024-09-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s16/e10.jpg
+            summary: >
+              Race for Italian Grand Prix takes place at Monza Circuit (Monza, Italy) on August 30, 2024. Local
+              start: 13:30:00. Full Grand Prix distance deciding the championship points haul.
+          11:
+            title: Post Race Show
+            originally_available: 2024-09-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s16/e11.jpg
+            summary: >
+              Post Race Show for Italian Grand Prix takes place at Monza Circuit (Monza, Italy) on August 30,
+              2024. Local start: 13:30:00. Podium ceremonies, driver interviews and parc fermé debriefs.
+      17:
+        title: Azerbaijan Grand Prix
+        sort_title: 17_Azerbaijan Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s17/poster.jpg
+        summary: >
+          Round 17 (Azerbaijan Grand Prix) spans September 13-15, 2024 with 11 curated broadcast sessions
+          mapped from TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2024-09-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s17/e1.jpg
+            summary: >
+              Drivers Press Conference for Azerbaijan Grand Prix takes place at Baku City Circuit (Baku,
+              Azerbaijan) on September 13, 2024. Local start: 13:30:00. Selected drivers brief the media on car
+              updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2024-09-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s17/e2.jpg
+            summary: >
+              Weekend Warm Up for Azerbaijan Grand Prix takes place at Baku City Circuit (Baku, Azerbaijan) on
+              September 13, 2024. Local start: 13:30:00. Preview show covering track walks, tyre choices and
+              evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2024-09-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s17/e3.jpg
+            summary: >
+              Free Practice 1 for Azerbaijan Grand Prix takes place at Baku City Circuit (Baku, Azerbaijan) on
+              September 13, 2024. Local start: 13:30:00. Opening practice hour focused on systems checks and
+              baseline setup work.
+          4:
+            title: Free Practice 2
+            originally_available: 2024-09-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s17/e4.jpg
+            summary: >
+              Free Practice 2 for Azerbaijan Grand Prix takes place at Baku City Circuit (Baku, Azerbaijan) on
+              September 13, 2024. Local start: 17:00:00. Second practice mirrors race conditions for long-run and
+              tyre evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2024-09-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s17/e5.jpg
+            summary: >
+              Free Practice 3 for Azerbaijan Grand Prix takes place at Baku City Circuit (Baku, Azerbaijan) on
+              September 14, 2024. Local start: 12:30:00. Final tune-up where teams chase qualifying simulations
+              and outright pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2024-09-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s17/e6.jpg
+            summary: >
+              Pre Qualifying Show for Azerbaijan Grand Prix takes place at Baku City Circuit (Baku, Azerbaijan) on
+              September 14, 2024. Local start: 16:00:00. Build-up show that recaps practice data before knockout
+              qualifying begins.
+          7:
+            title: Qualifying
+            originally_available: 2024-09-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s17/e7.jpg
+            summary: >
+              Qualifying for Azerbaijan Grand Prix takes place at Baku City Circuit (Baku, Azerbaijan) on
+              September 14, 2024. Local start: 16:00:00. Three-stage knockout session that sets Sunday's grid for
+              the Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2024-09-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s17/e8.jpg
+            summary: >
+              Post Qualifying Show for Azerbaijan Grand Prix takes place at Baku City Circuit (Baku, Azerbaijan)
+              on September 14, 2024. Local start: 16:00:00. Immediate reaction, interviews and technical analysis
+              after qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2024-09-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s17/e9.jpg
+            summary: >
+              Pre Race Show for Azerbaijan Grand Prix takes place at Baku City Circuit (Baku, Azerbaijan) on
+              September 13, 2024. Local start: 13:30:00. Grid walk coverage with final strategy talk before lights
+              out.
+          10:
+            title: Race
+            originally_available: 2024-09-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s17/e10.jpg
+            summary: >
+              Race for Azerbaijan Grand Prix takes place at Baku City Circuit (Baku, Azerbaijan) on September 13,
+              2024. Local start: 13:30:00. Full Grand Prix distance deciding the championship points haul.
+          11:
+            title: Post Race Show
+            originally_available: 2024-09-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s17/e11.jpg
+            summary: >
+              Post Race Show for Azerbaijan Grand Prix takes place at Baku City Circuit (Baku, Azerbaijan) on
+              September 13, 2024. Local start: 13:30:00. Podium ceremonies, driver interviews and parc fermé
+              debriefs.
+      18:
+        title: Singapore Grand Prix
+        sort_title: 18_Singapore Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s18/poster.jpg
+        summary: >
+          Round 18 (Singapore Grand Prix) spans September 20-22, 2024 with 11 curated broadcast sessions
+          mapped from TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2024-09-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s18/e1.jpg
+            summary: >
+              Drivers Press Conference for Singapore Grand Prix takes place at Marina Bay Street Circuit
+              (Singapore, Singapore) on September 20, 2024. Local start: 17:30:00. Selected drivers brief the
+              media on car updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2024-09-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s18/e2.jpg
+            summary: >
+              Weekend Warm Up for Singapore Grand Prix takes place at Marina Bay Street Circuit (Singapore,
+              Singapore) on September 20, 2024. Local start: 17:30:00. Preview show covering track walks, tyre
+              choices and evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2024-09-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s18/e3.jpg
+            summary: >
+              Free Practice 1 for Singapore Grand Prix takes place at Marina Bay Street Circuit (Singapore,
+              Singapore) on September 20, 2024. Local start: 17:30:00. Opening practice hour focused on systems
+              checks and baseline setup work.
+          4:
+            title: Free Practice 2
+            originally_available: 2024-09-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s18/e4.jpg
+            summary: >
+              Free Practice 2 for Singapore Grand Prix takes place at Marina Bay Street Circuit (Singapore,
+              Singapore) on September 20, 2024. Local start: 21:00:00. Second practice mirrors race conditions for
+              long-run and tyre evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2024-09-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s18/e5.jpg
+            summary: >
+              Free Practice 3 for Singapore Grand Prix takes place at Marina Bay Street Circuit (Singapore,
+              Singapore) on September 21, 2024. Local start: 17:30:00. Final tune-up where teams chase qualifying
+              simulations and outright pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2024-09-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s18/e6.jpg
+            summary: >
+              Pre Qualifying Show for Singapore Grand Prix takes place at Marina Bay Street Circuit (Singapore,
+              Singapore) on September 21, 2024. Local start: 21:00:00. Build-up show that recaps practice data
+              before knockout qualifying begins.
+          7:
+            title: Qualifying
+            originally_available: 2024-09-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s18/e7.jpg
+            summary: >
+              Qualifying for Singapore Grand Prix takes place at Marina Bay Street Circuit (Singapore, Singapore)
+              on September 21, 2024. Local start: 21:00:00. Three-stage knockout session that sets Sunday's grid
+              for the Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2024-09-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s18/e8.jpg
+            summary: >
+              Post Qualifying Show for Singapore Grand Prix takes place at Marina Bay Street Circuit (Singapore,
+              Singapore) on September 21, 2024. Local start: 21:00:00. Immediate reaction, interviews and
+              technical analysis after qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2024-09-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s18/e9.jpg
+            summary: >
+              Pre Race Show for Singapore Grand Prix takes place at Marina Bay Street Circuit (Singapore,
+              Singapore) on September 20, 2024. Local start: 17:30:00. Grid walk coverage with final strategy talk
+              before lights out.
+          10:
+            title: Race
+            originally_available: 2024-09-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s18/e10.jpg
+            summary: >
+              Race for Singapore Grand Prix takes place at Marina Bay Street Circuit (Singapore, Singapore) on
+              September 20, 2024. Local start: 17:30:00. Full Grand Prix distance deciding the championship points
+              haul.
+          11:
+            title: Post Race Show
+            originally_available: 2024-09-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s18/e11.jpg
+            summary: >
+              Post Race Show for Singapore Grand Prix takes place at Marina Bay Street Circuit (Singapore,
+              Singapore) on September 20, 2024. Local start: 17:30:00. Podium ceremonies, driver interviews and
+              parc fermé debriefs.
+      19:
+        title: United States Grand Prix
+        sort_title: 19_United States Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s19/poster.jpg
+        summary: >
+          Round 19 (United States Grand Prix) spans October 18-20, 2024 with 13 curated broadcast sessions
+          mapped from TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2024-10-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s19/e1.jpg
+            summary: >
+              Drivers Press Conference for United States Grand Prix takes place at Circuit of the Americas
+              (Austin, TX, United States) on October 18, 2024. Local start: 12:30:00. Selected drivers brief the
+              media on car updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2024-10-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s19/e2.jpg
+            summary: >
+              Weekend Warm Up for United States Grand Prix takes place at Circuit of the Americas (Austin, TX,
+              United States) on October 18, 2024. Local start: 12:30:00. Preview show covering track walks, tyre
+              choices and evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2024-10-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s19/e3.jpg
+            summary: >
+              Free Practice 1 for United States Grand Prix takes place at Circuit of the Americas (Austin, TX,
+              United States) on October 18, 2024. Local start: 12:30:00. Only practice session before the sprint
+              shootout, vital for rapid setup work.
+          4:
+            title: Sprint Qualifying
+            originally_available: 2024-10-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s19/e4.jpg
+            summary: >
+              Sprint Qualifying for United States Grand Prix takes place at Circuit of the Americas (Austin, TX,
+              United States) on October 18, 2024. Local start: 16:30:00. Short sprint shootout that sets the grid
+              for Saturday's sprint race.
+          5:
+            title: Pre Sprint Show
+            originally_available: 2024-10-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s19/e5.jpg
+            summary: >
+              Pre Sprint Show for United States Grand Prix takes place at Circuit of the Americas (Austin, TX,
+              United States) on October 18, 2024. Local start: 16:30:00. Studio build-up covering sprint
+              strategies, tyre allocations and weather.
+          6:
+            title: Sprint
+            originally_available: 2024-10-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s19/e6.jpg
+            summary: >
+              Sprint for United States Grand Prix takes place at Circuit of the Americas (Austin, TX, United
+              States) on October 18, 2024. Local start: 16:30:00. 100km dash awarding points to the top eight and
+              shaping the weekend narrative.
+          7:
+            title: Post Sprint Show
+            originally_available: 2024-10-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s19/e7.jpg
+            summary: >
+              Post Sprint Show for United States Grand Prix takes place at Circuit of the Americas (Austin, TX,
+              United States) on October 18, 2024. Local start: 16:30:00. Analysis and driver interviews
+              immediately after the sprint finish.
+          8:
+            title: Pre Qualifying Show
+            originally_available: 2024-10-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s19/e8.jpg
+            summary: >
+              Pre Qualifying Show for United States Grand Prix takes place at Circuit of the Americas (Austin, TX,
+              United States) on October 19, 2024. Local start: 17:00:00. Reset before traditional qualifying that
+              locks in the Grand Prix grid.
+          9:
+            title: Qualifying
+            originally_available: 2024-10-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s19/e9.jpg
+            summary: >
+              Qualifying for United States Grand Prix takes place at Circuit of the Americas (Austin, TX, United
+              States) on October 19, 2024. Local start: 17:00:00. Knockout qualifying held after the sprint to
+              define Sunday's start order.
+          10:
+            title: Post Qualifying Show
+            originally_available: 2024-10-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s19/e10.jpg
+            summary: >
+              Post Qualifying Show for United States Grand Prix takes place at Circuit of the Americas (Austin,
+              TX, United States) on October 19, 2024. Local start: 17:00:00. Reactions and technical analysis once
+              the Grand Prix grid is finalised.
+          11:
+            title: Pre Race Show
+            originally_available: 2024-10-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s19/e11.jpg
+            summary: >
+              Pre Race Show for United States Grand Prix takes place at Circuit of the Americas (Austin, TX,
+              United States) on October 18, 2024. Local start: 12:30:00. Grid walk coverage with final strategy
+              talk before lights out.
+          12:
+            title: Race
+            originally_available: 2024-10-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s19/e12.jpg
+            summary: >
+              Race for United States Grand Prix takes place at Circuit of the Americas (Austin, TX, United States)
+              on October 18, 2024. Local start: 12:30:00. Full Grand Prix distance deciding the championship
+              points haul.
+          13:
+            title: Post Race Show
+            originally_available: 2024-10-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s19/e13.jpg
+            summary: >
+              Post Race Show for United States Grand Prix takes place at Circuit of the Americas (Austin, TX,
+              United States) on October 18, 2024. Local start: 12:30:00. Podium ceremonies, driver interviews and
+              parc fermé debriefs.
+      20:
+        title: Mexico City Grand Prix
+        sort_title: 20_Mexico City Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s20/poster.jpg
+        summary: >
+          Round 20 (Mexico City Grand Prix) spans October 25-27, 2024 with 11 curated broadcast sessions
+          mapped from TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2024-10-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s20/e1.jpg
+            summary: >
+              Drivers Press Conference for Mexico City Grand Prix takes place at Autódromo Hermanos Rodríguez
+              (Mexico City, Mexico) on October 25, 2024. Local start: 12:30:00. Selected drivers brief the media
+              on car updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2024-10-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s20/e2.jpg
+            summary: >
+              Weekend Warm Up for Mexico City Grand Prix takes place at Autódromo Hermanos Rodríguez (Mexico City,
+              Mexico) on October 25, 2024. Local start: 12:30:00. Preview show covering track walks, tyre choices
+              and evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2024-10-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s20/e3.jpg
+            summary: >
+              Free Practice 1 for Mexico City Grand Prix takes place at Autódromo Hermanos Rodríguez (Mexico City,
+              Mexico) on October 25, 2024. Local start: 12:30:00. Opening practice hour focused on systems checks
+              and baseline setup work.
+          4:
+            title: Free Practice 2
+            originally_available: 2024-10-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s20/e4.jpg
+            summary: >
+              Free Practice 2 for Mexico City Grand Prix takes place at Autódromo Hermanos Rodríguez (Mexico City,
+              Mexico) on October 25, 2024. Local start: 16:00:00. Second practice mirrors race conditions for
+              long-run and tyre evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2024-10-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s20/e5.jpg
+            summary: >
+              Free Practice 3 for Mexico City Grand Prix takes place at Autódromo Hermanos Rodríguez (Mexico City,
+              Mexico) on October 26, 2024. Local start: 11:30:00. Final tune-up where teams chase qualifying
+              simulations and outright pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2024-10-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s20/e6.jpg
+            summary: >
+              Pre Qualifying Show for Mexico City Grand Prix takes place at Autódromo Hermanos Rodríguez (Mexico
+              City, Mexico) on October 26, 2024. Local start: 15:00:00. Build-up show that recaps practice data
+              before knockout qualifying begins.
+          7:
+            title: Qualifying
+            originally_available: 2024-10-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s20/e7.jpg
+            summary: >
+              Qualifying for Mexico City Grand Prix takes place at Autódromo Hermanos Rodríguez (Mexico City,
+              Mexico) on October 26, 2024. Local start: 15:00:00. Three-stage knockout session that sets Sunday's
+              grid for the Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2024-10-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s20/e8.jpg
+            summary: >
+              Post Qualifying Show for Mexico City Grand Prix takes place at Autódromo Hermanos Rodríguez (Mexico
+              City, Mexico) on October 26, 2024. Local start: 15:00:00. Immediate reaction, interviews and
+              technical analysis after qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2024-10-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s20/e9.jpg
+            summary: >
+              Pre Race Show for Mexico City Grand Prix takes place at Autódromo Hermanos Rodríguez (Mexico City,
+              Mexico) on October 25, 2024. Local start: 12:30:00. Grid walk coverage with final strategy talk
+              before lights out.
+          10:
+            title: Race
+            originally_available: 2024-10-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s20/e10.jpg
+            summary: >
+              Race for Mexico City Grand Prix takes place at Autódromo Hermanos Rodríguez (Mexico City, Mexico) on
+              October 25, 2024. Local start: 12:30:00. Full Grand Prix distance deciding the championship points
+              haul.
+          11:
+            title: Post Race Show
+            originally_available: 2024-10-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s20/e11.jpg
+            summary: >
+              Post Race Show for Mexico City Grand Prix takes place at Autódromo Hermanos Rodríguez (Mexico City,
+              Mexico) on October 25, 2024. Local start: 12:30:00. Podium ceremonies, driver interviews and parc
+              fermé debriefs.
+      21:
+        title: São Paulo Grand Prix
+        sort_title: 21_São Paulo Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s21/poster.jpg
+        summary: >
+          Round 21 (São Paulo Grand Prix) spans November 1-3, 2024 with 13 curated broadcast sessions mapped
+          from TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2024-11-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s21/e1.jpg
+            summary: >
+              Drivers Press Conference for São Paulo Grand Prix takes place at Interlagos Circuit (São Paulo,
+              Brazil) on November 01, 2024. Local start: 11:30:00. Selected drivers brief the media on car updates
+              and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2024-11-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s21/e2.jpg
+            summary: >
+              Weekend Warm Up for São Paulo Grand Prix takes place at Interlagos Circuit (São Paulo, Brazil) on
+              November 01, 2024. Local start: 11:30:00. Preview show covering track walks, tyre choices and
+              evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2024-11-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s21/e3.jpg
+            summary: >
+              Free Practice 1 for São Paulo Grand Prix takes place at Interlagos Circuit (São Paulo, Brazil) on
+              November 01, 2024. Local start: 11:30:00. Only practice session before the sprint shootout, vital
+              for rapid setup work.
+          4:
+            title: Sprint Qualifying
+            originally_available: 2024-11-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s21/e4.jpg
+            summary: >
+              Sprint Qualifying for São Paulo Grand Prix takes place at Interlagos Circuit (São Paulo, Brazil) on
+              November 01, 2024. Local start: 15:30:00. Short sprint shootout that sets the grid for Saturday's
+              sprint race.
+          5:
+            title: Pre Sprint Show
+            originally_available: 2024-11-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s21/e5.jpg
+            summary: >
+              Pre Sprint Show for São Paulo Grand Prix takes place at Interlagos Circuit (São Paulo, Brazil) on
+              November 01, 2024. Local start: 15:30:00. Studio build-up covering sprint strategies, tyre
+              allocations and weather.
+          6:
+            title: Sprint
+            originally_available: 2024-11-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s21/e6.jpg
+            summary: >
+              Sprint for São Paulo Grand Prix takes place at Interlagos Circuit (São Paulo, Brazil) on November
+              01, 2024. Local start: 15:30:00. 100km dash awarding points to the top eight and shaping the weekend
+              narrative.
+          7:
+            title: Post Sprint Show
+            originally_available: 2024-11-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s21/e7.jpg
+            summary: >
+              Post Sprint Show for São Paulo Grand Prix takes place at Interlagos Circuit (São Paulo, Brazil) on
+              November 01, 2024. Local start: 15:30:00. Analysis and driver interviews immediately after the
+              sprint finish.
+          8:
+            title: Pre Qualifying Show
+            originally_available: 2024-11-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s21/e8.jpg
+            summary: >
+              Pre Qualifying Show for São Paulo Grand Prix takes place at Interlagos Circuit (São Paulo, Brazil)
+              on November 03, 2024. Local start: 07:30:00. Reset before traditional qualifying that locks in the
+              Grand Prix grid.
+          9:
+            title: Qualifying
+            originally_available: 2024-11-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s21/e9.jpg
+            summary: >
+              Qualifying for São Paulo Grand Prix takes place at Interlagos Circuit (São Paulo, Brazil) on
+              November 03, 2024. Local start: 07:30:00. Knockout qualifying held after the sprint to define
+              Sunday's start order.
+          10:
+            title: Post Qualifying Show
+            originally_available: 2024-11-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s21/e10.jpg
+            summary: >
+              Post Qualifying Show for São Paulo Grand Prix takes place at Interlagos Circuit (São Paulo, Brazil)
+              on November 03, 2024. Local start: 07:30:00. Reactions and technical analysis once the Grand Prix
+              grid is finalised.
+          11:
+            title: Pre Race Show
+            originally_available: 2024-11-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s21/e11.jpg
+            summary: >
+              Pre Race Show for São Paulo Grand Prix takes place at Interlagos Circuit (São Paulo, Brazil) on
+              November 01, 2024. Local start: 11:30:00. Grid walk coverage with final strategy talk before lights
+              out.
+          12:
+            title: Race
+            originally_available: 2024-11-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s21/e12.jpg
+            summary: >
+              Race for São Paulo Grand Prix takes place at Interlagos Circuit (São Paulo, Brazil) on November 01,
+              2024. Local start: 11:30:00. Full Grand Prix distance deciding the championship points haul.
+          13:
+            title: Post Race Show
+            originally_available: 2024-11-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s21/e13.jpg
+            summary: >
+              Post Race Show for São Paulo Grand Prix takes place at Interlagos Circuit (São Paulo, Brazil) on
+              November 01, 2024. Local start: 11:30:00. Podium ceremonies, driver interviews and parc fermé
+              debriefs.
+      22:
+        title: Las Vegas Grand Prix
+        sort_title: 22_Las Vegas Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s22/poster.jpg
+        summary: >
+          Round 22 (Las Vegas Grand Prix) spans November 22-24, 2024 with 11 curated broadcast sessions mapped
+          from TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2024-11-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s22/e1.jpg
+            summary: >
+              Drivers Press Conference for Las Vegas Grand Prix takes place at Las Vegas Strip Circuit (Paradise,
+              NV, United States) on November 22, 2024. Local start: 18:30:00. Selected drivers brief the media on
+              car updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2024-11-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s22/e2.jpg
+            summary: >
+              Weekend Warm Up for Las Vegas Grand Prix takes place at Las Vegas Strip Circuit (Paradise, NV,
+              United States) on November 22, 2024. Local start: 18:30:00. Preview show covering track walks, tyre
+              choices and evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2024-11-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s22/e3.jpg
+            summary: >
+              Free Practice 1 for Las Vegas Grand Prix takes place at Las Vegas Strip Circuit (Paradise, NV,
+              United States) on November 22, 2024. Local start: 18:30:00. Opening practice hour focused on systems
+              checks and baseline setup work.
+          4:
+            title: Free Practice 2
+            originally_available: 2024-11-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s22/e4.jpg
+            summary: >
+              Free Practice 2 for Las Vegas Grand Prix takes place at Las Vegas Strip Circuit (Paradise, NV,
+              United States) on November 22, 2024. Local start: 22:00:00. Second practice mirrors race conditions
+              for long-run and tyre evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2024-11-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s22/e5.jpg
+            summary: >
+              Free Practice 3 for Las Vegas Grand Prix takes place at Las Vegas Strip Circuit (Paradise, NV,
+              United States) on November 23, 2024. Local start: 18:30:00. Final tune-up where teams chase
+              qualifying simulations and outright pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2024-11-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s22/e6.jpg
+            summary: >
+              Pre Qualifying Show for Las Vegas Grand Prix takes place at Las Vegas Strip Circuit (Paradise, NV,
+              United States) on November 23, 2024. Local start: 22:00:00. Build-up show that recaps practice data
+              before knockout qualifying begins.
+          7:
+            title: Qualifying
+            originally_available: 2024-11-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s22/e7.jpg
+            summary: >
+              Qualifying for Las Vegas Grand Prix takes place at Las Vegas Strip Circuit (Paradise, NV, United
+              States) on November 23, 2024. Local start: 22:00:00. Three-stage knockout session that sets Sunday's
+              grid for the Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2024-11-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s22/e8.jpg
+            summary: >
+              Post Qualifying Show for Las Vegas Grand Prix takes place at Las Vegas Strip Circuit (Paradise, NV,
+              United States) on November 23, 2024. Local start: 22:00:00. Immediate reaction, interviews and
+              technical analysis after qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2024-11-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s22/e9.jpg
+            summary: >
+              Pre Race Show for Las Vegas Grand Prix takes place at Las Vegas Strip Circuit (Paradise, NV, United
+              States) on November 22, 2024. Local start: 18:30:00. Grid walk coverage with final strategy talk
+              before lights out.
+          10:
+            title: Race
+            originally_available: 2024-11-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s22/e10.jpg
+            summary: >
+              Race for Las Vegas Grand Prix takes place at Las Vegas Strip Circuit (Paradise, NV, United States)
+              on November 22, 2024. Local start: 18:30:00. Full Grand Prix distance deciding the championship
+              points haul.
+          11:
+            title: Post Race Show
+            originally_available: 2024-11-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s22/e11.jpg
+            summary: >
+              Post Race Show for Las Vegas Grand Prix takes place at Las Vegas Strip Circuit (Paradise, NV, United
+              States) on November 22, 2024. Local start: 18:30:00. Podium ceremonies, driver interviews and parc
+              fermé debriefs.
+      23:
+        title: Qatar Grand Prix
+        sort_title: 23_Qatar Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s23/poster.jpg
+        summary: >
+          Round 23 (Qatar Grand Prix) spans November 29 - December 1, 2024 with 13 curated broadcast sessions
+          mapped from TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2024-11-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s23/e1.jpg
+            summary: >
+              Drivers Press Conference for Qatar Grand Prix takes place at Lusail International Circuit (Lusail,
+              Qatar) on November 29, 2024. Local start: 16:30:00. Selected drivers brief the media on car updates
+              and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2024-11-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s23/e2.jpg
+            summary: >
+              Weekend Warm Up for Qatar Grand Prix takes place at Lusail International Circuit (Lusail, Qatar) on
+              November 29, 2024. Local start: 16:30:00. Preview show covering track walks, tyre choices and
+              evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2024-11-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s23/e3.jpg
+            summary: >
+              Free Practice 1 for Qatar Grand Prix takes place at Lusail International Circuit (Lusail, Qatar) on
+              November 29, 2024. Local start: 16:30:00. Only practice session before the sprint shootout, vital
+              for rapid setup work.
+          4:
+            title: Sprint Qualifying
+            originally_available: 2024-11-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s23/e4.jpg
+            summary: >
+              Sprint Qualifying for Qatar Grand Prix takes place at Lusail International Circuit (Lusail, Qatar)
+              on November 29, 2024. Local start: 20:30:00. Short sprint shootout that sets the grid for Saturday's
+              sprint race.
+          5:
+            title: Pre Sprint Show
+            originally_available: 2024-11-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s23/e5.jpg
+            summary: >
+              Pre Sprint Show for Qatar Grand Prix takes place at Lusail International Circuit (Lusail, Qatar) on
+              November 29, 2024. Local start: 20:30:00. Studio build-up covering sprint strategies, tyre
+              allocations and weather.
+          6:
+            title: Sprint
+            originally_available: 2024-11-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s23/e6.jpg
+            summary: >
+              Sprint for Qatar Grand Prix takes place at Lusail International Circuit (Lusail, Qatar) on November
+              29, 2024. Local start: 20:30:00. 100km dash awarding points to the top eight and shaping the weekend
+              narrative.
+          7:
+            title: Post Sprint Show
+            originally_available: 2024-11-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s23/e7.jpg
+            summary: >
+              Post Sprint Show for Qatar Grand Prix takes place at Lusail International Circuit (Lusail, Qatar) on
+              November 29, 2024. Local start: 20:30:00. Analysis and driver interviews immediately after the
+              sprint finish.
+          8:
+            title: Pre Qualifying Show
+            originally_available: 2024-11-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s23/e8.jpg
+            summary: >
+              Pre Qualifying Show for Qatar Grand Prix takes place at Lusail International Circuit (Lusail, Qatar)
+              on November 30, 2024. Local start: 20:00:00. Reset before traditional qualifying that locks in the
+              Grand Prix grid.
+          9:
+            title: Qualifying
+            originally_available: 2024-11-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s23/e9.jpg
+            summary: >
+              Qualifying for Qatar Grand Prix takes place at Lusail International Circuit (Lusail, Qatar) on
+              November 30, 2024. Local start: 20:00:00. Knockout qualifying held after the sprint to define
+              Sunday's start order.
+          10:
+            title: Post Qualifying Show
+            originally_available: 2024-11-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s23/e10.jpg
+            summary: >
+              Post Qualifying Show for Qatar Grand Prix takes place at Lusail International Circuit (Lusail,
+              Qatar) on November 30, 2024. Local start: 20:00:00. Reactions and technical analysis once the Grand
+              Prix grid is finalised.
+          11:
+            title: Pre Race Show
+            originally_available: 2024-12-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s23/e11.jpg
+            summary: >
+              Pre Race Show for Qatar Grand Prix takes place at Lusail International Circuit (Lusail, Qatar) on
+              November 29, 2024. Local start: 16:30:00. Grid walk coverage with final strategy talk before lights
+              out.
+          12:
+            title: Race
+            originally_available: 2024-12-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s23/e12.jpg
+            summary: >
+              Race for Qatar Grand Prix takes place at Lusail International Circuit (Lusail, Qatar) on November
+              29, 2024. Local start: 16:30:00. Full Grand Prix distance deciding the championship points haul.
+          13:
+            title: Post Race Show
+            originally_available: 2024-12-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s23/e13.jpg
+            summary: >
+              Post Race Show for Qatar Grand Prix takes place at Lusail International Circuit (Lusail, Qatar) on
+              November 29, 2024. Local start: 16:30:00. Podium ceremonies, driver interviews and parc fermé
+              debriefs.
+      24:
+        title: Abu Dhabi Grand Prix
+        sort_title: 24_Abu Dhabi Grand Prix
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s24/poster.jpg
+        summary: >
+          Round 24 (Abu Dhabi Grand Prix) spans December 6-8, 2024 with 11 curated broadcast sessions mapped
+          from TheSportsDB for this Formula 1 weekend.
+        episodes:
+          1:
+            title: Drivers Press Conference
+            originally_available: 2024-12-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s24/e1.jpg
+            summary: >
+              Drivers Press Conference for Abu Dhabi Grand Prix takes place at Yas Marina Circuit (Abu Dhabi,
+              United Arab Emirates) on December 06, 2024. Local start: 13:30:00. Selected drivers brief the media
+              on car updates and expectations for the weekend.
+          2:
+            title: Weekend Warm Up
+            originally_available: 2024-12-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s24/e2.jpg
+            summary: >
+              Weekend Warm Up for Abu Dhabi Grand Prix takes place at Yas Marina Circuit (Abu Dhabi, United Arab
+              Emirates) on December 06, 2024. Local start: 13:30:00. Preview show covering track walks, tyre
+              choices and evolving weather conditions.
+          3:
+            title: Free Practice 1
+            originally_available: 2024-12-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s24/e3.jpg
+            summary: >
+              Free Practice 1 for Abu Dhabi Grand Prix takes place at Yas Marina Circuit (Abu Dhabi, United Arab
+              Emirates) on December 06, 2024. Local start: 13:30:00. Opening practice hour focused on systems
+              checks and baseline setup work.
+          4:
+            title: Free Practice 2
+            originally_available: 2024-12-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s24/e4.jpg
+            summary: >
+              Free Practice 2 for Abu Dhabi Grand Prix takes place at Yas Marina Circuit (Abu Dhabi, United Arab
+              Emirates) on December 06, 2024. Local start: 17:00:00. Second practice mirrors race conditions for
+              long-run and tyre evaluation.
+          5:
+            title: Free Practice 3
+            originally_available: 2024-12-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s24/e5.jpg
+            summary: >
+              Free Practice 3 for Abu Dhabi Grand Prix takes place at Yas Marina Circuit (Abu Dhabi, United Arab
+              Emirates) on December 07, 2024. Local start: 14:30:00. Final tune-up where teams chase qualifying
+              simulations and outright pace.
+          6:
+            title: Pre Qualifying Show
+            originally_available: 2024-12-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s24/e6.jpg
+            summary: >
+              Pre Qualifying Show for Abu Dhabi Grand Prix takes place at Yas Marina Circuit (Abu Dhabi, United
+              Arab Emirates) on December 07, 2024. Local start: 18:00:00. Build-up show that recaps practice data
+              before knockout qualifying begins.
+          7:
+            title: Qualifying
+            originally_available: 2024-12-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s24/e7.jpg
+            summary: >
+              Qualifying for Abu Dhabi Grand Prix takes place at Yas Marina Circuit (Abu Dhabi, United Arab
+              Emirates) on December 07, 2024. Local start: 18:00:00. Three-stage knockout session that sets
+              Sunday's grid for the Grand Prix.
+          8:
+            title: Post Qualifying Show
+            originally_available: 2024-12-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s24/e8.jpg
+            summary: >
+              Post Qualifying Show for Abu Dhabi Grand Prix takes place at Yas Marina Circuit (Abu Dhabi, United
+              Arab Emirates) on December 07, 2024. Local start: 18:00:00. Immediate reaction, interviews and
+              technical analysis after qualifying.
+          9:
+            title: Pre Race Show
+            originally_available: 2024-12-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s24/e9.jpg
+            summary: >
+              Pre Race Show for Abu Dhabi Grand Prix takes place at Yas Marina Circuit (Abu Dhabi, United Arab
+              Emirates) on December 06, 2024. Local start: 13:30:00. Grid walk coverage with final strategy talk
+              before lights out.
+          10:
+            title: Race
+            originally_available: 2024-12-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s24/e10.jpg
+            summary: >
+              Race for Abu Dhabi Grand Prix takes place at Yas Marina Circuit (Abu Dhabi, United Arab Emirates) on
+              December 06, 2024. Local start: 13:30:00. Full Grand Prix distance deciding the championship points
+              haul.
+          11:
+            title: Post Race Show
+            originally_available: 2024-12-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula1/2024/s24/e11.jpg
+            summary: >
+              Post Race Show for Abu Dhabi Grand Prix takes place at Yas Marina Circuit (Abu Dhabi, United Arab
+              Emirates) on December 06, 2024. Local start: 13:30:00. Podium ceremonies, driver interviews and parc
+              fermé debriefs.
