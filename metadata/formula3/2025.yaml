@@ -1,0 +1,211 @@
+metadata:
+  Formula 3 2025:
+    title: Formula 3 2025
+    sort_title: Formula 3 2025
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula3/2025/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula3/2025/background.jpg
+    summary: >
+      The 2025 FIA Formula 3 Championship shares the Formula 1 calendar, delivering sprint and feature
+      races at every Grand Prix weekend. Each SportsDB round is grouped here so race-weekend recordings
+      can be renamed and matched automatically.
+    seasons:
+      1:
+        title: Australian
+        sort_title: 01_Australian
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula3/2025/s01/poster.jpg
+        summary: >
+          Australian (Round 1) spans March 15-16, 2025 with 2 SportsDB events recorded for this Formula 3
+          weekend.
+        episodes:
+          1:
+            title: Australian Sprint Race
+            originally_available: 2025-03-15
+            summary: >
+              Australian Sprint Race is part of Australian (Round 1) at Albert Park Circuit (Melbourne,
+              Australia). Scheduled date: March 15, 2025. Local start: 00:00:00.
+          2:
+            title: Australian Feature Race
+            originally_available: 2025-03-16
+            summary: >
+              Australian Feature Race is part of Australian (Round 1) at Albert Park Circuit (Melbourne,
+              Australia). Scheduled date: March 16, 2025. Local start: 00:00:00.
+      2:
+        title: Bahrain
+        sort_title: 02_Bahrain
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula3/2025/s02/poster.jpg
+        summary: >
+          Bahrain (Round 2) spans April 12-13, 2025 with 2 SportsDB events recorded for this Formula 3
+          weekend.
+        episodes:
+          1:
+            title: Bahrain Sprint Race
+            originally_available: 2025-04-12
+            summary: >
+              Bahrain Sprint Race is part of Bahrain (Round 2) at Bahrain International Circuit (Sakhir, Bahrain).
+              Scheduled date: April 12, 2025. Local start: 00:00:00.
+          2:
+            title: Bahrain Feature Race
+            originally_available: 2025-04-13
+            summary: >
+              Bahrain Feature Race is part of Bahrain (Round 2) at Bahrain International Circuit (Sakhir,
+              Bahrain). Scheduled date: April 13, 2025. Local start: 00:00:00.
+      3:
+        title: Emilia Romagna
+        sort_title: 03_Emilia Romagna
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula3/2025/s03/poster.jpg
+        summary: >
+          Emilia Romagna (Round 3) spans May 17-18, 2025 with 2 SportsDB events recorded for this Formula 3
+          weekend.
+        episodes:
+          1:
+            title: Emilia Romagna Sprint Race
+            originally_available: 2025-05-17
+            summary: >
+              Emilia Romagna Sprint Race is part of Emilia Romagna (Round 3) at Imola Circuit (Imola, Italy).
+              Scheduled date: May 17, 2025. Local start: 00:00:00.
+          2:
+            title: Emilia Romagna Feature Race
+            originally_available: 2025-05-18
+            summary: >
+              Emilia Romagna Feature Race is part of Emilia Romagna (Round 3) at Imola Circuit (Imola, Italy).
+              Scheduled date: May 18, 2025. Local start: 00:00:00.
+      4:
+        title: Monaco
+        sort_title: 04_Monaco
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula3/2025/s04/poster.jpg
+        summary: >
+          Monaco (Round 4) spans May 24-25, 2025 with 2 SportsDB events recorded for this Formula 3 weekend.
+        episodes:
+          1:
+            title: Monaco Sprint Race
+            originally_available: 2025-05-24
+            summary: >
+              Monaco Sprint Race is part of Monaco (Round 4) at Circuit de Monaco (Monaco, Monaco). Scheduled
+              date: May 24, 2025. Local start: 10:30:00.
+          2:
+            title: Monaco Feature Race
+            originally_available: 2025-05-25
+            summary: >
+              Monaco Feature Race is part of Monaco (Round 4) at Circuit de Monaco (Monaco, Monaco). Scheduled
+              date: May 25, 2025. Local start: 07:45:00.
+      5:
+        title: Spanish
+        sort_title: 05_Spanish
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula3/2025/s05/poster.jpg
+        summary: >
+          Spanish (Round 5) spans May 31 - June 1, 2025 with 2 SportsDB events recorded for this Formula 3
+          weekend.
+        episodes:
+          1:
+            title: Spanish Sprint Race
+            originally_available: 2025-05-31
+            summary: >
+              Spanish Sprint Race is part of Spanish (Round 5) at Circuit de Barcelona-Catalunya (Montmeló,
+              Spain). Scheduled date: May 31, 2025. Local start: 10:05:00.
+          2:
+            title: Spanish Feature Race
+            originally_available: 2025-06-01
+            summary: >
+              Spanish Feature Race is part of Spanish (Round 5) at Circuit de Barcelona-Catalunya (Montmeló,
+              Spain). Scheduled date: June 01, 2025. Local start: 08:30:00.
+      6:
+        title: Austrian
+        sort_title: 06_Austrian
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula3/2025/s06/poster.jpg
+        summary: >
+          Austrian (Round 6) spans June 28-29, 2025 with 2 SportsDB events recorded for this Formula 3
+          weekend.
+        episodes:
+          1:
+            title: Austrian Sprint Race
+            originally_available: 2025-06-28
+            summary: >
+              Austrian Sprint Race is part of Austrian (Round 6) at Red Bull Ring (Spielberg, Austria). Scheduled
+              date: June 28, 2025. Local start: 10:05:00.
+          2:
+            title: Austrian Feature Race
+            originally_available: 2025-06-29
+            summary: >
+              Austrian Feature Race is part of Austrian (Round 6) at Red Bull Ring (Spielberg, Austria). Scheduled
+              date: June 29, 2025. Local start: 08:30:00.
+      7:
+        title: British
+        sort_title: 07_British
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula3/2025/s07/poster.jpg
+        summary: >
+          British (Round 7) spans July 5-6, 2025 with 2 SportsDB events recorded for this Formula 3 weekend.
+        episodes:
+          1:
+            title: British Sprint Race
+            originally_available: 2025-07-05
+            summary: >
+              British Sprint Race is part of British (Round 7) at Silverstone Circuit (Silverstone, United
+              Kingdom). Scheduled date: July 05, 2025. Local start: 09:15:00.
+          2:
+            title: British Feature Race
+            originally_available: 2025-07-06
+            summary: >
+              British Feature Race is part of British (Round 7) at Silverstone Circuit (Silverstone, United
+              Kingdom). Scheduled date: July 06, 2025. Local start: 09:30:00.
+      8:
+        title: Belgian
+        sort_title: 08_Belgian
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula3/2025/s08/poster.jpg
+        summary: >
+          Belgian (Round 8) spans July 26, 2025 with 1 SportsDB event recorded for this Formula 3 weekend.
+        episodes:
+          1:
+            title: Belgian Sprint Race
+            originally_available: 2025-07-26
+            summary: >
+              Belgian Sprint Race is part of Belgian (Round 8) at Circuit de Spa-Francorchamps (Stavelot,
+              Belgium). Scheduled date: July 26, 2025. Local start: 09:15:00.
+      9:
+        title: Hungarian
+        sort_title: 09_Hungarian
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula3/2025/s09/poster.jpg
+        summary: >
+          Hungarian (Round 9) spans August 2-3, 2025 with 2 SportsDB events recorded for this Formula 3
+          weekend.
+        episodes:
+          1:
+            title: Hungarian Sprint Race
+            originally_available: 2025-08-02
+            summary: >
+              Hungarian Sprint Race is part of Hungarian (Round 9) at Hungaroring (Mogyoród, Hungary). Scheduled
+              date: August 02, 2025. Local start: 10:05:00.
+          2:
+            title: Hungarian Feature Race
+            originally_available: 2025-08-03
+            summary: >
+              Hungarian Feature Race is part of Hungarian (Round 9) at Hungaroring (Mogyoród, Hungary). Scheduled
+              date: August 03, 2025. Local start: 08:50:00. Rafael Câmara claimed the 2025 Formula 3 Drivers’
+              Championship in style, taking his fourth win of the season in dominant fashion, converting pole into
+              the top step and the title.
+      10:
+        title: Italian
+        sort_title: 10_Italian
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula3/2025/s10/poster.jpg
+        summary: >
+          Italian (Round 10) spans September 6-7, 2025 with 2 SportsDB events recorded for this Formula 3
+          weekend.
+        episodes:
+          1:
+            title: Italian Sprint Race
+            originally_available: 2025-09-06
+            summary: >
+              Italian Sprint Race is part of Italian (Round 10) at Monza Circuit (Monza, Italy). Scheduled date:
+              September 06, 2025. Local start: 09:15:00. Following the conclusion of the FIA Formula 3 Sprint
+              Race, Tim Tramnitz has been handed a post-race penalty.  The MP Motorsport driver was alleged to
+              have not engaged the start setup procedure ahead of the start of the race.  Following the race, the
+              Stewards heard from the team representative along with Tramnitz and examined available evidence. It
+              was found that Tramnitz had failed to engage the start procedure as per Article 1.6.1 of the 2025
+              FIA Formula 3 Technical Regulations and Article 11.15 of the F3 2025 System user manual.  As a
+              result, Tramnitz has been awarded a 10-second time penalty.  With his penalty applied, it means that
+              Roman Bilinski is promoted to first position.
+          2:
+            title: Italian Feature Race
+            originally_available: 2025-09-07
+            summary: >
+              Italian Feature Race is part of Italian (Round 10) at Monza Circuit (Monza, Italy). Scheduled date:
+              September 07, 2025. Local start: 08:15:00.

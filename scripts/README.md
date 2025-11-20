@@ -92,7 +92,6 @@ python3 scripts/generate_uefa_champions_league_metadata_sportsdb.py \
 ```
 
 Key flags:
-
 - `--season` / `--league-id` / `--api-key` / `--round-label` select the SportsDB feed
   and matchday naming
 - `--matchweek-start`, `--matchweek-stop`, `--matchweek-delay`,
@@ -182,6 +181,75 @@ poster/fanart endpoints and episode art from the thumb fields. `url_poster`
 entries are still emitted even when downloads fail so Plex/Jellyfin can read
 assets via `--asset-url-base`. By default the YAML is written to
 `metadata/formula1/<season>.yaml`.
+
+## `generate_formula2_metadata_sportsdb.py`
+
+Targets TheSportsDB Formula 2 feed (`league_id 4486`) so every SportsDB `intRound`
+becomes a Formula 2 weekend with the four required sessions: Free Practice,
+Qualifying, Sprint Race and Feature Race. Free Practice and Qualifying are added
+manually because SportsDB only exposes the sprint and feature payloads—this keeps
+episode numbering consistent for every Grand Prix.
+
+```shell
+python3 scripts/generate_formula2_metadata_sportsdb.py --season 2025 --api-key "$TSD_KEY"
+```
+
+Key flags mirror the other SportsDB generators:
+
+- `--season` / `--league-id` / `--api-key` select the Formula 2 payload, while
+  `--round-label` controls how each season title references the location (e.g.
+  “Round”, “Grand Prix”). Season titles automatically strip “Sprint Race” so only
+  the venue/location remains.
+- `--matchweek-start`, `--matchweek-stop`, `--matchweek-delay`,
+  `--skip-matchweek-fill`, `--request-interval`, `--max-retries`,
+  `--retry-backoff`, `--insecure` preserve the shared 2.1 s throttle, exponential
+  backoff for 429/5xx responses and the optional SSL bypass. The script replays
+  the matchweek fill loop against `eventsround.php` unless you pass
+  `--skip-matchweek-fill`.
+- `--poster-url`, `--background-url`, `--asset-url-base`, `--assets-root`,
+  `--matchweek-poster-template`, `--matchweek-poster-fallback`,
+  `--fixture-poster-template`, `--skip-asset-download` drive the artwork
+  workflow. Defaults place round art under `posters/formula2/<season>/sX/poster.jpg`
+  and episodes under `posters/formula2/<season>/sX/eY.jpg` (X = round, Y = session
+  index). The YAML still emits `url_poster` entries even if downloads fail.
+- `--summary`, `--title`, `--sort-title`, `--show-id`, `--output` mirror the
+  UFC-style overrides so you can tailor the show metadata and destination path.
+
+Season art pulls from the SportsDB poster/fanart fields and episode thumbs reuse
+the throttled downloader, saving into the template paths before GitHub URLs are
+emitted. By default the YAML is written to `metadata/formula2/<season>.yaml`.
+
+## `generate_formula3_metadata_sportsdb.py`
+
+Targets TheSportsDB Formula 3 feed (`league_id 4487`). Each SportsDB `intRound`
+becomes a Formula 3 weekend and every session returned by the feed is emitted as
+an episode—no extra placeholders are injected, so the YAML mirrors SportsDB
+exactly.
+
+```shell
+python3 scripts/generate_formula3_metadata_sportsdb.py --season 2025 --api-key "$TSD_KEY"
+```
+
+Key flags mirror the other SportsDB generators:
+
+- `--season` / `--league-id` / `--api-key` select the Formula 3 payload, while
+  `--round-label` controls how season titles reference the location.
+- `--matchweek-start`, `--matchweek-stop`, `--matchweek-delay`,
+  `--skip-matchweek-fill`, `--request-interval`, `--max-retries`,
+  `--retry-backoff`, `--insecure` keep the shared 2.1 s throttle, exponential
+  backoff and SSL bypass path.
+- `--poster-url`, `--background-url`, `--asset-url-base`, `--assets-root`,
+  `--matchweek-poster-template`, `--matchweek-poster-fallback`,
+  `--fixture-poster-template`, `--skip-asset-download` power the artwork
+  workflow (defaults land in `posters/formula3/<season>/sX/poster.jpg` for
+  seasons and `.../eY.jpg` for episodes). Episode posters are only requested
+  when SportsDB provides thumb art, so posterless sessions stay empty.
+- `--summary`, `--title`, `--sort-title`, `--show-id`, `--output` mirror the
+  UFC-style overrides so you can tailor the show metadata and destination path.
+
+Season art pulls from the SportsDB poster/fanart endpoints and episode thumbs
+reuse the throttled downloader. The YAML is written to
+`metadata/formula3/<season>.yaml` by default.
 
 ## `generate_moto2_metadata_sportsdb.py`
 
@@ -377,4 +445,3 @@ python3 scripts/import_uefa_schedule_txt.py \
   --schedule scripts/uefa-champions-league-schedule.txt \
   --output metadata/uefa-champions-league-2025-26.yaml
 ```
-
