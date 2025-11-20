@@ -251,6 +251,38 @@ Season art pulls from the SportsDB poster/fanart endpoints and episode thumbs
 reuse the throttled downloader. The YAML is written to
 `metadata/formula3/<season>.yaml` by default.
 
+## `generate_formula_e_metadata_sportsdb.py`
+
+Targets TheSportsDB Formula E feed (`league_id 4371`) so every SportsDB `intRound`
+becomes an E-Prix season entry with the standard four-session stack (Free Practice 1,
+Free Practice 2, Qualifying, Race) even when SportsDB lacks those session rows.
+Summaries highlight the ABB FIA calendar stops and the YAML always includes
+`url_poster` values even when downloads fail.
+
+```shell
+python3 scripts/generate_formula_e_metadata_sportsdb.py --season 2024-2025 --api-key "$TSD_KEY"
+```
+
+Key flags:
+
+- `--season` / `--league-id` / `--api-key` select the SportsDB feed, while
+  `--round-label` controls how each E-Prix season title is phrased.
+- `--matchweek-start`, `--matchweek-stop`, `--matchweek-delay`,
+  `--skip-matchweek-fill`, `--request-interval`, `--max-retries`,
+  `--retry-backoff`, `--insecure` preserve the shared 2.1 s throttle,
+  exponential backoff for 429/5xx responses and the optional SSL bypass path.
+- `--poster-url`, `--background-url`, `--asset-url-base`, `--assets-root`,
+  `--matchweek-poster-template`, `--matchweek-poster-fallback`,
+  `--fixture-poster-template`, `--skip-asset-download` drive the artwork workflow.
+  Defaults save season art to `posters/formula-e/<season>/sX/poster.jpg` and episode
+  art to `.../eY.jpg` before emitting URLs.
+- `--summary`, `--title`, `--sort-title`, `--show-id`, `--output` mirror the UFC
+  overrides so you can tailor the metadata tree and destination path.
+
+Artwork downloads reuse the shared throttled downloader, pulling round posters from
+SportsDB poster/fanart fields and episode art from the thumb endpoints. The output
+path defaults to `metadata/formula-e/<season>.yaml`.
+
 ## `generate_moto2_metadata_sportsdb.py`
 
 Targets TheSportsDB Moto2 feed (`league_id 4436`) so each SportsDB `intRound` becomes
