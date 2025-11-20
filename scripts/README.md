@@ -11,7 +11,7 @@ matches this repository's structure (weeks as seasons, games as episodes).
 python3 scripts/generate_nfl_metadata.py --year 2025
 ```
 
-The command above creates `metadata-files/nfl-2025-2026.yaml` by default.  You can
+The command above creates `metadata/nfl-2025-2026.yaml` by default.  You can
 override the output path or customise the show title, summary and artwork URLs. Run
 `--help` to see all options, including the ability to target specific weeks or to
 disable SSL verification if your platform lacks the required CA bundle.
@@ -29,7 +29,7 @@ summary details that cover the venue, city and scheduled date.
 python3 scripts/generate_nba_metadata.py --year 2025
 ```
 
-By default only regular-season games are written to `metadata-files/nba-2025-26.yaml`.
+By default only regular-season games are written to `metadata/nba-2025-26.yaml`.
 Include additional phases such as preseason or the Emirates NBA Cup by repeating the
 `--phase` flag (for example `--phase preseason --phase cup`). Artwork URLs, summaries
 and output paths mirror the knobs provided by the other generators, so use `--help` to
@@ -76,7 +76,7 @@ to `posters/premier-league/<season>/sX/eY.jpg` (X = matchweek, Y = episode index
 script attempts to download SportsDB art (poster/fanart/thumb) into those paths when
 available so Plex/Jellyfin can reference the GitHub URLs straight away.
 
-By default the YAML is written to `metadata-files/premier-league/<season>.yaml`. Run
+By default the YAML is written to `metadata/premier-league/<season>.yaml`. Run
 the generator again whenever fixtures shift so kickoff dates stay aligned.
 
 ## `generate_uefa_champions_league_metadata_sportsdb.py`
@@ -109,7 +109,7 @@ Season posters default to `posters/uefa-champions-league/<season>/sX/poster.jpg`
 episodes to `posters/uefa-champions-league/<season>/sX/eY.jpg` (X = matchday,
 Y = episode index). Artwork downloads reuse the shared throttled downloader and the
 YAML still emits `url_poster` values even when SportsDB provides no art. The output
-path defaults to `metadata-files/uefa-champions-league/<season>.yaml`.
+path defaults to `metadata/uefa-champions-league/<season>.yaml`.
 
 ## `generate_motogp_metadata_sportsdb.py`
 
@@ -146,7 +146,7 @@ Artwork downloads reuse the shared throttled downloader, pulling season art from
 SportsDB poster/fanart fields and episodes from the thumb feed. The script still emits
 `url_poster` entries even when downloads fail so Plex/Jellyfin can serve assets from
 `--asset-url-base`. By default the YAML is written to
-`metadata-files/motogp/<season>.yaml`.
+`metadata/motogp/<season>.yaml`.
 
 ## `generate_formula1_metadata_sportsdb.py`
 
@@ -181,7 +181,7 @@ Artwork downloads reuse the shared throttled downloader, pulling season art from
 poster/fanart endpoints and episode art from the thumb fields. `url_poster`
 entries are still emitted even when downloads fail so Plex/Jellyfin can read
 assets via `--asset-url-base`. By default the YAML is written to
-`metadata-files/formula1/<season>.yaml`.
+`metadata/formula1/<season>.yaml`.
 
 ## `generate_moto2_metadata_sportsdb.py`
 
@@ -212,7 +212,7 @@ Artwork downloads reuse the throttled downloader, pulling season art from Sports
 poster/fanart fields and episode art from thumb endpoints. The YAML always emits
 `url_poster` values even when downloads fail, so Plex/Jellyfin can reference
 `--asset-url-base`. By default the script writes to
-`metadata-files/moto2/<season>.yaml`.
+`metadata/moto2/<season>.yaml`.
 
 ## `generate_moto3_metadata_sportsdb.py`
 
@@ -249,7 +249,7 @@ Art downloads reuse the throttled downloader: season assets pull from the Sports
 poster/fanart endpoints, while episode art comes from the various thumb fields. The
 YAML always emits `url_poster` entries— even when downloads fail — so Plex/Jellyfin
 can still resolve assets via `--asset-url-base`. By default, output lands in
-`metadata-files/moto3/<season>.yaml`.
+`metadata/moto3/<season>.yaml`.
 
 ## `generate_nba_metadata_sportsdb.py`
 
@@ -278,7 +278,7 @@ Season posters default to `posters/nba/<season>/sX/poster.jpg` and episodes to
 `posters/nba/<season>/sX/eY.jpg` (X = NBA week, Y = episode index). Art downloads
 use the same throttled downloader as the UFC/PL scripts and still emit
 `url_poster` entries even when SportsDB lacks artwork. The YAML is written to
-`metadata-files/nba/<season>.yaml` by default.
+`metadata/nba/<season>.yaml` by default.
 
 ## `generate_nfl_metadata_sportsdb.py`
 
@@ -304,7 +304,7 @@ Key flags mirror the UFC/Premier League generators:
   `--skip-matchweek-fill` mirror the UFC surface for metadata overrides and SSL
   fallbacks
 
-By default the YAML is written to `metadata-files/nfl/<season>.yaml`. Re-run the
+By default the YAML is written to `metadata/nfl/<season>.yaml`. Re-run the
 script whenever the NFL flexes kickoffs or updates postseason matchups so dates
 remain current.
 
@@ -335,7 +335,7 @@ Key flags:
 - `--insecure` – disable SSL verification if your environment lacks the CA bundle
 
 Re-run the script whenever bouts are rescheduled so the event summaries and block
-details stay current. By default the YAML is written to `metadata-files/ufc-<season>.yaml`.
+details stay current. By default the YAML is written to `metadata/ufc-<season>.yaml`.
 
 ## `generate_uefa_champions_league_metadata.py`
 
@@ -375,6 +375,6 @@ expects the "Omgång" headings present in the Swedish-language schedule page.
 ```shell
 python3 scripts/import_uefa_schedule_txt.py \
   --schedule scripts/uefa-champions-league-schedule.txt \
-  --output metadata-files/uefa-champions-league-2025-26.yaml
+  --output metadata/uefa-champions-league-2025-26.yaml
 ```
 

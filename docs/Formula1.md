@@ -13,7 +13,7 @@ This configuration provides comprehensive metadata for Formula 1 seasons, includ
 Add the following to your Plex Meta Manager configuration:
 
 ```yaml
-- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata-files/formula1-2025.yaml
+- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/formula1-2025.yaml
 ```
 
 This will create a fully structured Formula 1 2025 season with:
