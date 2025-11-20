@@ -14,8 +14,9 @@ metadata:
         sort_title: 01_Matchweek 1
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2025-2026/s1/poster.jpg
         summary: >
-          Matchweek 1 spans August 15-18, 2025 with 10 fixtures recorded in TheSportsDB feed for the 2025-2026
-          Premier League campaign.
+          Opening weekend action runs 15-18 August 2025, kicking off with Liverpool hosting Bournemouth on
+          Friday night before marquee clashes such as Manchester United vs Arsenal and Wolves vs champions
+          Manchester City close out a full slate of 10 fixtures captured from TheSportsDB feed.
         episodes:
           1:
             title: Liverpool vs Bournemouth
