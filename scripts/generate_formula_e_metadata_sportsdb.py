@@ -373,7 +373,7 @@ def _normalise_round_name(value: Optional[str]) -> Optional[str]:
     cleaned = re.sub(r"\s+", " ", cleaned)
     cleaned = cleaned.strip(" -_/,:")
     if cleaned.lower().endswith("e prix"):
-        cleaned = cleaned[:-5].rstrip() + " E-Prix"
+        cleaned = cleaned[:-6].rstrip() + " E-Prix"
     return cleaned or None
 
 
