@@ -72,7 +72,7 @@ To add the UFC metadata to Plex, use Plex Meta Manager. Add this configuration t
 libraries:
   Sports: # This is your Plex Library containing UFC
     metadata_files:
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata-files/ufc.yaml
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/ufc.yaml
     operations:
       assets_for_all: true
 ```

@@ -1,0 +1,251 @@
+metadata:
+  NTT IndyCar Series 2025:
+    title: NTT IndyCar Series 2025
+    sort_title: NTT IndyCar Series 2025
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/background.jpg
+    summary: >
+      The 2025 IndyCar Series road, street and oval rounds are grouped here so each race weekend recording
+      can be matched automatically.
+    seasons:
+      1:
+        title: Round 1
+        sort_title: 01_Round 1
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s1/poster.jpg
+        summary: >
+          Round 1 spans March 2, 2025 with 1 IndyCar events recorded in TheSportsDB feed for the 2025 season.
+        episodes:
+          1:
+            title: Firestone Grand Prix of St. Petersburg
+            originally_available: 2025-03-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s1/e1.jpg
+            summary: >
+              Firestone Grand Prix of St. Petersburg (Round 1) at Streets of St. Petersburg (St. Petersburg,
+              Florida, United States). Scheduled date: March 02, 2025. Local start: 00:00:00.
+      2:
+        title: Round 2
+        sort_title: 02_Round 2
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s2/poster.jpg
+        summary: >
+          Round 2 spans March 23, 2025 with 1 IndyCar events recorded in TheSportsDB feed for the 2025 season.
+        episodes:
+          1:
+            title: The Thermal Club IndyCar Grand Prix
+            originally_available: 2025-03-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s2/e1.jpg
+            summary: >
+              The Thermal Club IndyCar Grand Prix (Round 2) at The Thermal Club (Thermal, California, United
+              States). Scheduled date: March 23, 2025. Local start: 00:00:00.
+      3:
+        title: Round 3
+        sort_title: 03_Round 3
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s3/poster.jpg
+        summary: >
+          Round 3 spans April 13, 2025 with 1 IndyCar events recorded in TheSportsDB feed for the 2025 season.
+        episodes:
+          1:
+            title: Acura Grand Prix of Long Beach
+            originally_available: 2025-04-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s3/e1.jpg
+            summary: >
+              Acura Grand Prix of Long Beach (Round 3) at Long Beach Street Circuit (Long Beach, California,
+              United States). Scheduled date: April 13, 2025. Local start: 00:00:00.
+      4:
+        title: Round 4
+        sort_title: 04_Round 4
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s4/poster.jpg
+        summary: >
+          Round 4 spans May 4, 2025 with 1 IndyCar events recorded in TheSportsDB feed for the 2025 season.
+        episodes:
+          1:
+            title: Childrens of Alabama Indy Grand Prix
+            originally_available: 2025-05-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s4/e1.jpg
+            summary: >
+              Childrens of Alabama Indy Grand Prix (Round 4) at Barber Motorsports Park (Birmingham, Alabama,
+              United States). Scheduled date: May 04, 2025. Local start: 00:00:00.
+      5:
+        title: Round 5
+        sort_title: 05_Round 5
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s5/poster.jpg
+        summary: >
+          Round 5 spans May 10, 2025 with 1 IndyCar events recorded in TheSportsDB feed for the 2025 season.
+        episodes:
+          1:
+            title: Sonsio Grand Prix
+            originally_available: 2025-05-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s5/e1.jpg
+            summary: >
+              Sonsio Grand Prix (Round 5) at Indianapolis Motor Speedway (Speedway, Indiana, United States).
+              Scheduled date: May 10, 2025. Listed start: 20:30:00 (UTC).
+      6:
+        title: Round 6
+        sort_title: 06_Round 6
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s6/poster.jpg
+        summary: >
+          Round 6 spans May 25, 2025 with 1 IndyCar events recorded in TheSportsDB feed for the 2025 season.
+        episodes:
+          1:
+            title: 109th Running of the Indianapolis 500
+            originally_available: 2025-05-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s6/e1.jpg
+            summary: >
+              109th Running of the Indianapolis 500 (Round 6) at Indianapolis Motor Speedway (Speedway, Indiana,
+              United States). Scheduled date: May 25, 2025. Local start: 00:00:00.
+      7:
+        title: Round 7
+        sort_title: 07_Round 7
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s7/poster.jpg
+        summary: >
+          Round 7 spans June 1, 2025 with 1 IndyCar events recorded in TheSportsDB feed for the 2025 season.
+        episodes:
+          1:
+            title: Chevrolet Detroit Grand Prix
+            originally_available: 2025-06-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s7/e1.jpg
+            summary: >
+              Chevrolet Detroit Grand Prix (Round 7) at Streets of Detroit (Detroit, Michigan, United States).
+              Scheduled date: June 01, 2025. Local start: 00:00:00.
+      8:
+        title: Round 8
+        sort_title: 08_Round 8
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s8/poster.jpg
+        summary: >
+          Round 8 spans June 15, 2025 with 1 IndyCar events recorded in TheSportsDB feed for the 2025 season.
+        episodes:
+          1:
+            title: Bommarito Automotive Group 500
+            originally_available: 2025-06-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s8/e1.jpg
+            summary: >
+              Bommarito Automotive Group 500 (Round 8) at World Wide Technology Raceway (Madison, Illinois, United
+              States). Scheduled date: June 15, 2025. Local start: 00:00:00.
+      9:
+        title: Round 9
+        sort_title: 09_Round 9
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s9/poster.jpg
+        summary: >
+          Round 9 spans June 22, 2025 with 1 IndyCar events recorded in TheSportsDB feed for the 2025 season.
+        episodes:
+          1:
+            title: XPEL Grand Prix at Road America
+            originally_available: 2025-06-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s9/e1.jpg
+            summary: >
+              XPEL Grand Prix at Road America (Round 9) at Road America (Elkhart Lake, Wisconsin, United States).
+              Scheduled date: June 22, 2025. Local start: 00:00:00.
+      10:
+        title: Round 10
+        sort_title: 10_Round 10
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s10/poster.jpg
+        summary: >
+          Round 10 spans July 6, 2025 with 1 IndyCar events recorded in TheSportsDB feed for the 2025 season.
+        episodes:
+          1:
+            title: Honda Indy 200 at Mid Ohio
+            originally_available: 2025-07-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s10/e1.jpg
+            summary: >
+              Honda Indy 200 at Mid Ohio (Round 10) at Mid-Ohio Sports Car Course (Lexington, Ohio, United
+              States). Scheduled date: July 06, 2025. Local start: 13:22:00.
+      11:
+        title: Round 11
+        sort_title: 11_Round 11
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s11/poster.jpg
+        summary: >
+          Round 11 spans July 12, 2025 with 1 IndyCar events recorded in TheSportsDB feed for the 2025 season.
+        episodes:
+          1:
+            title: Synk 275 Powered by Sukup
+            originally_available: 2025-07-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s11/e1.jpg
+            summary: >
+              Synk 275 Powered by Sukup (Round 11) at Iowa Speedway (Newton, Iowa, United States). Scheduled date:
+              July 12, 2025. Listed start: 20:45:00 (UTC).
+      12:
+        title: Round 12
+        sort_title: 12_Round 12
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s12/poster.jpg
+        summary: >
+          Round 12 spans July 13, 2025 with 1 IndyCar events recorded in TheSportsDB feed for the 2025 season.
+        episodes:
+          1:
+            title: Farm to Finish 275
+            originally_available: 2025-07-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s12/e1.jpg
+            summary: >
+              Farm to Finish 275 (Round 12) at Iowa Speedway (Newton, Iowa, United States). Scheduled date: July
+              13, 2025. Local start: 00:00:00.
+      13:
+        title: Round 13
+        sort_title: 13_Round 13
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s13/poster.jpg
+        summary: >
+          Round 13 spans July 20, 2025 with 1 IndyCar events recorded in TheSportsDB feed for the 2025 season.
+        episodes:
+          1:
+            title: Ontario Honda Dealers Indy Toronto
+            originally_available: 2025-07-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s13/e1.jpg
+            summary: >
+              Ontario Honda Dealers Indy Toronto (Round 13) at Exhibition Place (Toronto, Ontario, Canada).
+              Scheduled date: July 20, 2025. Local start: 00:00:00.
+      14:
+        title: Round 14
+        sort_title: 14_Round 14
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s14/poster.jpg
+        summary: >
+          Round 14 spans July 27, 2025 with 1 IndyCar events recorded in TheSportsDB feed for the 2025 season.
+        episodes:
+          1:
+            title: Java House Grand Prix of Monterey
+            originally_available: 2025-07-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s14/e1.jpg
+            summary: >
+              Java House Grand Prix of Monterey (Round 14) at TBD Circuit (Monterey, California, United States).
+              Scheduled date: July 27, 2025. Local start: 00:00:00.
+      15:
+        title: Round 15
+        sort_title: 15_Round 15
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s15/poster.jpg
+        summary: >
+          Round 15 spans August 10, 2025 with 1 IndyCar events recorded in TheSportsDB feed for the 2025
+          season.
+        episodes:
+          1:
+            title: BitNile.com Grand Prix of Portland
+            originally_available: 2025-08-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s15/e1.jpg
+            summary: >
+              BitNile.com Grand Prix of Portland (Round 15) at Portland International Raceway (Portland, Oregon,
+              United States). Scheduled date: August 10, 2025. Local start: 00:00:00.
+      16:
+        title: Round 16
+        sort_title: 16_Round 16
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s16/poster.jpg
+        summary: >
+          Round 16 spans August 24, 2025 with 1 IndyCar events recorded in TheSportsDB feed for the 2025
+          season.
+        episodes:
+          1:
+            title: Snap-on Milwaukee Mile 250
+            originally_available: 2025-08-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s16/e1.jpg
+            summary: >
+              Snap-on Milwaukee Mile 250 (Round 16) at Milwaukee Mile (West Allis, Wisconsin, United States).
+              Scheduled date: August 24, 2025. Local start: 00:00:00.
+      17:
+        title: Round 17
+        sort_title: 17_Round 17
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s17/poster.jpg
+        summary: >
+          Round 17 spans August 31, 2025 with 1 IndyCar events recorded in TheSportsDB feed for the 2025
+          season.
+        episodes:
+          1:
+            title: Borchetta Bourbon Music City Grand Prix
+            originally_available: 2025-08-31
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/indycar-series/2025/s17/e1.jpg
+            summary: >
+              Borchetta Bourbon Music City Grand Prix (Round 17) at Nashville Superspeedway (Nashville, Tennessee,
+              United States). Scheduled date: August 31, 2025. Local start: 00:00:00.

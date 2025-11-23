@@ -1,0 +1,569 @@
+metadata:
+  Formula 2 2025:
+    title: Formula 2 2025
+    sort_title: Formula 2 2025
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/background.jpg
+    summary: >
+      The 2025 FIA Formula 2 Championship mirrors the Formula 1 calendar with practice, qualifying, sprint
+      and feature races every weekend. Each SportsDB round is grouped here so recordings can be renamed
+      and matched automatically.
+    seasons:
+      1:
+        title: Australian
+        sort_title: 01_Australian
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s01/poster.jpg
+        summary: >
+          Australian (Round 1) spans March 5-6, 2025 with 2 SportsDB events recorded for this Formula 2
+          weekend.
+        episodes:
+          1:
+            title: Free Practice
+            originally_available: 2025-03-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s01/e1.jpg
+            summary: >
+              Free Practice for Australian (Round 1) runs at Albert Park Circuit (Melbourne, Australia). Focus
+              date: March 04, 2025. 45-minute systems check that lets teams dial in baseline setups before parc
+              fermé. Session is injected so Formula 2 libraries always include Free Practice and Qualifying even
+              when SportsDB omits them.
+          2:
+            title: Qualifying
+            originally_available: 2025-03-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s01/e2.jpg
+            summary: >
+              Qualifying for Australian (Round 1) runs at Albert Park Circuit (Melbourne, Australia). Focus date:
+              March 05, 2025. 30-minute knockout session that locks the Feature Race grid (top 10 reversed for the
+              sprint). Session is injected so Formula 2 libraries always include Free Practice and Qualifying even
+              when SportsDB omits them.
+          3:
+            title: Sprint Race
+            originally_available: 2025-03-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s01/e3.jpg
+            summary: >
+              Sprint Race for Australian (Round 1) runs at Albert Park Circuit (Melbourne, Australia). Focus date:
+              March 05, 2025. Reverse-grid dash awarding Saturday points across 21 laps.
+          4:
+            title: Feature Race
+            originally_available: 2025-03-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s01/e4.jpg
+            summary: >
+              Feature Race for Australian (Round 1) runs at Albert Park Circuit (Melbourne, Australia). Focus
+              date: March 07, 2025. Sunday's main race with mandatory pit stop and full championship points.
+      2:
+        title: Bahrain
+        sort_title: 02_Bahrain
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s02/poster.jpg
+        summary: >
+          Bahrain (Round 2) spans April 12-13, 2025 with 2 SportsDB events recorded for this Formula 2
+          weekend.
+        episodes:
+          1:
+            title: Free Practice
+            originally_available: 2025-04-11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s02/e1.jpg
+            summary: >
+              Free Practice for Bahrain (Round 2) runs at Bahrain International Circuit (Sakhir, Bahrain). Focus
+              date: April 11, 2025. 45-minute systems check that lets teams dial in baseline setups before parc
+              fermé. Session is injected so Formula 2 libraries always include Free Practice and Qualifying even
+              when SportsDB omits them.
+          2:
+            title: Qualifying
+            originally_available: 2025-04-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s02/e2.jpg
+            summary: >
+              Qualifying for Bahrain (Round 2) runs at Bahrain International Circuit (Sakhir, Bahrain). Focus
+              date: April 12, 2025. 30-minute knockout session that locks the Feature Race grid (top 10 reversed
+              for the sprint). Session is injected so Formula 2 libraries always include Free Practice and
+              Qualifying even when SportsDB omits them.
+          3:
+            title: Sprint Race
+            originally_available: 2025-04-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s02/e3.jpg
+            summary: >
+              Sprint Race for Bahrain (Round 2) runs at Bahrain International Circuit (Sakhir, Bahrain). Focus
+              date: April 12, 2025. Reverse-grid dash awarding Saturday points across 21 laps.
+          4:
+            title: Feature Race
+            originally_available: 2025-04-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s02/e4.jpg
+            summary: >
+              Feature Race for Bahrain (Round 2) runs at Bahrain International Circuit (Sakhir, Bahrain). Focus
+              date: April 14, 2025. Sunday's main race with mandatory pit stop and full championship points.
+      3:
+        title: Saudi Arabian
+        sort_title: 03_Saudi Arabian
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s03/poster.jpg
+        summary: >
+          Saudi Arabian (Round 3) spans April 19-20, 2025 with 2 SportsDB events recorded for this Formula 2
+          weekend.
+        episodes:
+          1:
+            title: Free Practice
+            originally_available: 2025-04-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s03/e1.jpg
+            summary: >
+              Free Practice for Saudi Arabian (Round 3) runs at Jeddah Corniche Circuit (Jeddah, Saudi Arabia).
+              Focus date: April 18, 2025. 45-minute systems check that lets teams dial in baseline setups before
+              parc fermé. Session is injected so Formula 2 libraries always include Free Practice and Qualifying
+              even when SportsDB omits them.
+          2:
+            title: Qualifying
+            originally_available: 2025-04-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s03/e2.jpg
+            summary: >
+              Qualifying for Saudi Arabian (Round 3) runs at Jeddah Corniche Circuit (Jeddah, Saudi Arabia). Focus
+              date: April 19, 2025. 30-minute knockout session that locks the Feature Race grid (top 10 reversed
+              for the sprint). Session is injected so Formula 2 libraries always include Free Practice and
+              Qualifying even when SportsDB omits them.
+          3:
+            title: Sprint Race
+            originally_available: 2025-04-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s03/e3.jpg
+            summary: >
+              Sprint Race for Saudi Arabian (Round 3) runs at Jeddah Corniche Circuit (Jeddah, Saudi Arabia).
+              Focus date: April 19, 2025. Reverse-grid dash awarding Saturday points across 21 laps.
+          4:
+            title: Feature Race
+            originally_available: 2025-04-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s03/e4.jpg
+            summary: >
+              Feature Race for Saudi Arabian (Round 3) runs at Jeddah Corniche Circuit (Jeddah, Saudi Arabia).
+              Focus date: April 21, 2025. Sunday's main race with mandatory pit stop and full championship points.
+      4:
+        title: Emilia Romagna
+        sort_title: 04_Emilia Romagna
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s04/poster.jpg
+        summary: >
+          Emilia Romagna (Round 4) spans May 17-18, 2025 with 2 SportsDB events recorded for this Formula 2
+          weekend.
+        episodes:
+          1:
+            title: Free Practice
+            originally_available: 2025-05-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s04/e1.jpg
+            summary: >
+              Free Practice for Emilia Romagna (Round 4) runs at Imola Circuit (Imola, Italy). Focus date: May 16,
+              2025. 45-minute systems check that lets teams dial in baseline setups before parc fermé. Session is
+              injected so Formula 2 libraries always include Free Practice and Qualifying even when SportsDB omits
+              them.
+          2:
+            title: Qualifying
+            originally_available: 2025-05-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s04/e2.jpg
+            summary: >
+              Qualifying for Emilia Romagna (Round 4) runs at Imola Circuit (Imola, Italy). Focus date: May 17,
+              2025. 30-minute knockout session that locks the Feature Race grid (top 10 reversed for the sprint).
+              Session is injected so Formula 2 libraries always include Free Practice and Qualifying even when
+              SportsDB omits them.
+          3:
+            title: Sprint Race
+            originally_available: 2025-05-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s04/e3.jpg
+            summary: >
+              Sprint Race for Emilia Romagna (Round 4) runs at Imola Circuit (Imola, Italy). Focus date: May 17,
+              2025. Reverse-grid dash awarding Saturday points across 21 laps.
+          4:
+            title: Feature Race
+            originally_available: 2025-05-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s04/e4.jpg
+            summary: >
+              Feature Race for Emilia Romagna (Round 4) runs at Imola Circuit (Imola, Italy). Focus date: May 19,
+              2025. Sunday's main race with mandatory pit stop and full championship points.
+      5:
+        title: Monaco
+        sort_title: 05_Monaco
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s05/poster.jpg
+        summary: >
+          Monaco (Round 5) spans May 24-25, 2025 with 2 SportsDB events recorded for this Formula 2 weekend.
+        episodes:
+          1:
+            title: Free Practice
+            originally_available: 2025-05-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s05/e1.jpg
+            summary: >
+              Free Practice for Monaco (Round 5) runs at Circuit de Monaco (Monaco, Monaco). Focus date: May 23,
+              2025. 45-minute systems check that lets teams dial in baseline setups before parc fermé. Session is
+              injected so Formula 2 libraries always include Free Practice and Qualifying even when SportsDB omits
+              them.
+          2:
+            title: Qualifying
+            originally_available: 2025-05-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s05/e2.jpg
+            summary: >
+              Qualifying for Monaco (Round 5) runs at Circuit de Monaco (Monaco, Monaco). Focus date: May 24,
+              2025. 30-minute knockout session that locks the Feature Race grid (top 10 reversed for the sprint).
+              Session is injected so Formula 2 libraries always include Free Practice and Qualifying even when
+              SportsDB omits them.
+          3:
+            title: Sprint Race
+            originally_available: 2025-05-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s05/e3.jpg
+            summary: >
+              Sprint Race for Monaco (Round 5) runs at Circuit de Monaco (Monaco, Monaco). Focus date: May 24,
+              2025. Reverse-grid dash awarding Saturday points across 21 laps.
+          4:
+            title: Feature Race
+            originally_available: 2025-05-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s05/e4.jpg
+            summary: >
+              Feature Race for Monaco (Round 5) runs at Circuit de Monaco (Monaco, Monaco). Focus date: May 26,
+              2025. Sunday's main race with mandatory pit stop and full championship points.
+      6:
+        title: Spanish
+        sort_title: 06_Spanish
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s06/poster.jpg
+        summary: >
+          Spanish (Round 6) spans May 31 - June 1, 2025 with 2 SportsDB events recorded for this Formula 2
+          weekend.
+        episodes:
+          1:
+            title: Free Practice
+            originally_available: 2025-05-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s06/e1.jpg
+            summary: >
+              Free Practice for Spanish (Round 6) runs at Circuit de Barcelona-Catalunya (Montmeló, Spain). Focus
+              date: May 30, 2025. 45-minute systems check that lets teams dial in baseline setups before parc
+              fermé. Session is injected so Formula 2 libraries always include Free Practice and Qualifying even
+              when SportsDB omits them.
+          2:
+            title: Qualifying
+            originally_available: 2025-05-31
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s06/e2.jpg
+            summary: >
+              Qualifying for Spanish (Round 6) runs at Circuit de Barcelona-Catalunya (Montmeló, Spain). Focus
+              date: May 31, 2025. 30-minute knockout session that locks the Feature Race grid (top 10 reversed for
+              the sprint). Session is injected so Formula 2 libraries always include Free Practice and Qualifying
+              even when SportsDB omits them.
+          3:
+            title: Sprint Race
+            originally_available: 2025-05-31
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s06/e3.jpg
+            summary: >
+              Sprint Race for Spanish (Round 6) runs at Circuit de Barcelona-Catalunya (Montmeló, Spain). Focus
+              date: May 31, 2025. Reverse-grid dash awarding Saturday points across 21 laps.
+          4:
+            title: Feature Race
+            originally_available: 2025-06-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s06/e4.jpg
+            summary: >
+              Feature Race for Spanish (Round 6) runs at Circuit de Barcelona-Catalunya (Montmeló, Spain). Focus
+              date: June 02, 2025. Sunday's main race with mandatory pit stop and full championship points.
+      7:
+        title: Austrian
+        sort_title: 07_Austrian
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s07/poster.jpg
+        summary: >
+          Austrian (Round 7) spans June 28-29, 2025 with 2 SportsDB events recorded for this Formula 2
+          weekend.
+        episodes:
+          1:
+            title: Free Practice
+            originally_available: 2025-06-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s07/e1.jpg
+            summary: >
+              Free Practice for Austrian (Round 7) runs at Red Bull Ring (Spielberg, Austria). Focus date: June
+              27, 2025. 45-minute systems check that lets teams dial in baseline setups before parc fermé. Session
+              is injected so Formula 2 libraries always include Free Practice and Qualifying even when SportsDB
+              omits them.
+          2:
+            title: Qualifying
+            originally_available: 2025-06-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s07/e2.jpg
+            summary: >
+              Qualifying for Austrian (Round 7) runs at Red Bull Ring (Spielberg, Austria). Focus date: June 28,
+              2025. 30-minute knockout session that locks the Feature Race grid (top 10 reversed for the sprint).
+              Session is injected so Formula 2 libraries always include Free Practice and Qualifying even when
+              SportsDB omits them.
+          3:
+            title: Sprint Race
+            originally_available: 2025-06-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s07/e3.jpg
+            summary: >
+              Sprint Race for Austrian (Round 7) runs at Red Bull Ring (Spielberg, Austria). Focus date: June 28,
+              2025. Reverse-grid dash awarding Saturday points across 21 laps.
+          4:
+            title: Feature Race
+            originally_available: 2025-06-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s07/e4.jpg
+            summary: >
+              Feature Race for Austrian (Round 7) runs at Red Bull Ring (Spielberg, Austria). Focus date: June 30,
+              2025. Sunday's main race with mandatory pit stop and full championship points.
+      8:
+        title: British
+        sort_title: 08_British
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s08/poster.jpg
+        summary: >
+          British (Round 8) spans July 5, 2025 with 1 SportsDB event recorded for this Formula 2 weekend.
+        episodes:
+          1:
+            title: Free Practice
+            originally_available: 2025-07-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s08/e1.jpg
+            summary: >
+              Free Practice for British (Round 8) runs at Silverstone Circuit (Silverstone, United Kingdom). Focus
+              date: July 04, 2025. 45-minute systems check that lets teams dial in baseline setups before parc
+              fermé. Session is injected so Formula 2 libraries always include Free Practice and Qualifying even
+              when SportsDB omits them.
+          2:
+            title: Qualifying
+            originally_available: 2025-07-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s08/e2.jpg
+            summary: >
+              Qualifying for British (Round 8) runs at Silverstone Circuit (Silverstone, United Kingdom). Focus
+              date: July 05, 2025. 30-minute knockout session that locks the Feature Race grid (top 10 reversed
+              for the sprint). Session is injected so Formula 2 libraries always include Free Practice and
+              Qualifying even when SportsDB omits them.
+          3:
+            title: Sprint Race
+            originally_available: 2025-07-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s08/e3.jpg
+            summary: >
+              Sprint Race for British (Round 8) runs at Silverstone Circuit (Silverstone, United Kingdom). Focus
+              date: July 05, 2025. Reverse-grid dash awarding Saturday points across 21 laps.
+          4:
+            title: Feature Race
+            originally_available: 2025-07-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s08/e4.jpg
+            summary: >
+              Feature Race for British (Round 8) runs at Silverstone Circuit (Silverstone, United Kingdom). Focus
+              date: July 06, 2025. Sunday's main race with mandatory pit stop and full championship points.
+      9:
+        title: Belgian
+        sort_title: 09_Belgian
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s09/poster.jpg
+        summary: >
+          Belgian (Round 9) spans July 26-27, 2025 with 2 SportsDB events recorded for this Formula 2 weekend.
+        episodes:
+          1:
+            title: Free Practice
+            originally_available: 2025-07-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s09/e1.jpg
+            summary: >
+              Free Practice for Belgian (Round 9) runs at Circuit de Spa-Francorchamps (Stavelot, Belgium). Focus
+              date: July 25, 2025. 45-minute systems check that lets teams dial in baseline setups before parc
+              fermé. Session is injected so Formula 2 libraries always include Free Practice and Qualifying even
+              when SportsDB omits them.
+          2:
+            title: Qualifying
+            originally_available: 2025-07-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s09/e2.jpg
+            summary: >
+              Qualifying for Belgian (Round 9) runs at Circuit de Spa-Francorchamps (Stavelot, Belgium). Focus
+              date: July 26, 2025. 30-minute knockout session that locks the Feature Race grid (top 10 reversed
+              for the sprint). Session is injected so Formula 2 libraries always include Free Practice and
+              Qualifying even when SportsDB omits them.
+          3:
+            title: Sprint Race
+            originally_available: 2025-07-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s09/e3.jpg
+            summary: >
+              Sprint Race for Belgian (Round 9) runs at Circuit de Spa-Francorchamps (Stavelot, Belgium). Focus
+              date: July 26, 2025. Reverse-grid dash awarding Saturday points across 21 laps.
+          4:
+            title: Feature Race
+            originally_available: 2025-07-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s09/e4.jpg
+            summary: >
+              Feature Race for Belgian (Round 9) runs at Circuit de Spa-Francorchamps (Stavelot, Belgium). Focus
+              date: July 28, 2025. Sunday's main race with mandatory pit stop and full championship points.
+      10:
+        title: Hungarian
+        sort_title: 10_Hungarian
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s10/poster.jpg
+        summary: >
+          Hungarian (Round 10) spans August 2-3, 2025 with 2 SportsDB events recorded for this Formula 2
+          weekend.
+        episodes:
+          1:
+            title: Free Practice
+            originally_available: 2025-08-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s10/e1.jpg
+            summary: >
+              Free Practice for Hungarian (Round 10) runs at Hungaroring (Mogyoród, Hungary). Focus date: August
+              01, 2025. 45-minute systems check that lets teams dial in baseline setups before parc fermé. Session
+              is injected so Formula 2 libraries always include Free Practice and Qualifying even when SportsDB
+              omits them.
+          2:
+            title: Qualifying
+            originally_available: 2025-08-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s10/e2.jpg
+            summary: >
+              Qualifying for Hungarian (Round 10) runs at Hungaroring (Mogyoród, Hungary). Focus date: August 02,
+              2025. 30-minute knockout session that locks the Feature Race grid (top 10 reversed for the sprint).
+              Session is injected so Formula 2 libraries always include Free Practice and Qualifying even when
+              SportsDB omits them.
+          3:
+            title: Sprint Race
+            originally_available: 2025-08-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s10/e3.jpg
+            summary: >
+              Sprint Race for Hungarian (Round 10) runs at Hungaroring (Mogyoród, Hungary). Focus date: August 02,
+              2025. Reverse-grid dash awarding Saturday points across 21 laps.
+          4:
+            title: Feature Race
+            originally_available: 2025-08-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s10/e4.jpg
+            summary: >
+              Feature Race for Hungarian (Round 10) runs at Hungaroring (Mogyoród, Hungary). Focus date: August
+              04, 2025. Sunday's main race with mandatory pit stop and full championship points.
+      11:
+        title: Italian
+        sort_title: 11_Italian
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s11/poster.jpg
+        summary: >
+          Italian (Round 11) spans September 6-7, 2025 with 2 SportsDB events recorded for this Formula 2
+          weekend.
+        episodes:
+          1:
+            title: Free Practice
+            originally_available: 2025-09-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s11/e1.jpg
+            summary: >
+              Free Practice for Italian (Round 11) runs at Monza Circuit (Monza, Italy). Focus date: September 05,
+              2025. 45-minute systems check that lets teams dial in baseline setups before parc fermé. Session is
+              injected so Formula 2 libraries always include Free Practice and Qualifying even when SportsDB omits
+              them.
+          2:
+            title: Qualifying
+            originally_available: 2025-09-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s11/e2.jpg
+            summary: >
+              Qualifying for Italian (Round 11) runs at Monza Circuit (Monza, Italy). Focus date: September 06,
+              2025. 30-minute knockout session that locks the Feature Race grid (top 10 reversed for the sprint).
+              Session is injected so Formula 2 libraries always include Free Practice and Qualifying even when
+              SportsDB omits them.
+          3:
+            title: Sprint Race
+            originally_available: 2025-09-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s11/e3.jpg
+            summary: >
+              Sprint Race for Italian (Round 11) runs at Monza Circuit (Monza, Italy). Focus date: September 06,
+              2025. Reverse-grid dash awarding Saturday points across 21 laps.
+          4:
+            title: Feature Race
+            originally_available: 2025-09-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s11/e4.jpg
+            summary: >
+              Feature Race for Italian (Round 11) runs at Monza Circuit (Monza, Italy). Focus date: September 08,
+              2025. Sunday's main race with mandatory pit stop and full championship points.
+      12:
+        title: Azerbaijan
+        sort_title: 12_Azerbaijan
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s12/poster.jpg
+        summary: >
+          Azerbaijan (Round 12) spans September 20-21, 2025 with 2 SportsDB events recorded for this Formula 2
+          weekend.
+        episodes:
+          1:
+            title: Free Practice
+            originally_available: 2025-09-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s12/e1.jpg
+            summary: >
+              Free Practice for Azerbaijan (Round 12) runs at Baku City Circuit (Baku, Azerbaijan). Focus date:
+              September 19, 2025. 45-minute systems check that lets teams dial in baseline setups before parc
+              fermé. Session is injected so Formula 2 libraries always include Free Practice and Qualifying even
+              when SportsDB omits them.
+          2:
+            title: Qualifying
+            originally_available: 2025-09-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s12/e2.jpg
+            summary: >
+              Qualifying for Azerbaijan (Round 12) runs at Baku City Circuit (Baku, Azerbaijan). Focus date:
+              September 20, 2025. 30-minute knockout session that locks the Feature Race grid (top 10 reversed for
+              the sprint). Session is injected so Formula 2 libraries always include Free Practice and Qualifying
+              even when SportsDB omits them.
+          3:
+            title: Sprint Race
+            originally_available: 2025-09-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s12/e3.jpg
+            summary: >
+              Sprint Race for Azerbaijan (Round 12) runs at Baku City Circuit (Baku, Azerbaijan). Focus date:
+              September 20, 2025. Reverse-grid dash awarding Saturday points across 21 laps.
+          4:
+            title: Feature Race
+            originally_available: 2025-09-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s12/e4.jpg
+            summary: >
+              Feature Race for Azerbaijan (Round 12) runs at Baku City Circuit (Baku, Azerbaijan). Focus date:
+              September 22, 2025. Sunday's main race with mandatory pit stop and full championship points.
+      13:
+        title: Qatar
+        sort_title: 13_Qatar
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s13/poster.jpg
+        summary: >
+          Qatar (Round 13) spans November 29-30, 2025 with 2 SportsDB events recorded for this Formula 2
+          weekend.
+        episodes:
+          1:
+            title: Free Practice
+            originally_available: 2025-11-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s13/e1.jpg
+            summary: >
+              Free Practice for Qatar (Round 13) runs at Lusail International Circuit (Lusail, Qatar). Focus date:
+              November 28, 2025. 45-minute systems check that lets teams dial in baseline setups before parc
+              fermé. Session is injected so Formula 2 libraries always include Free Practice and Qualifying even
+              when SportsDB omits them.
+          2:
+            title: Qualifying
+            originally_available: 2025-11-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s13/e2.jpg
+            summary: >
+              Qualifying for Qatar (Round 13) runs at Lusail International Circuit (Lusail, Qatar). Focus date:
+              November 29, 2025. 30-minute knockout session that locks the Feature Race grid (top 10 reversed for
+              the sprint). Session is injected so Formula 2 libraries always include Free Practice and Qualifying
+              even when SportsDB omits them.
+          3:
+            title: Sprint Race
+            originally_available: 2025-11-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s13/e3.jpg
+            summary: >
+              Sprint Race for Qatar (Round 13) runs at Lusail International Circuit (Lusail, Qatar). Focus date:
+              November 29, 2025. Reverse-grid dash awarding Saturday points across 21 laps.
+          4:
+            title: Feature Race
+            originally_available: 2025-12-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s13/e4.jpg
+            summary: >
+              Feature Race for Qatar (Round 13) runs at Lusail International Circuit (Lusail, Qatar). Focus date:
+              December 01, 2025. Sunday's main race with mandatory pit stop and full championship points.
+      14:
+        title: Abu Dhabi
+        sort_title: 14_Abu Dhabi
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s14/poster.jpg
+        summary: >
+          Abu Dhabi (Round 14) spans December 6-7, 2025 with 2 SportsDB events recorded for this Formula 2
+          weekend.
+        episodes:
+          1:
+            title: Free Practice
+            originally_available: 2025-12-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s14/e1.jpg
+            summary: >
+              Free Practice for Abu Dhabi (Round 14) runs at Yas Marina Circuit (Abu Dhabi, United Arab Emirates).
+              Focus date: December 05, 2025. 45-minute systems check that lets teams dial in baseline setups
+              before parc fermé. Session is injected so Formula 2 libraries always include Free Practice and
+              Qualifying even when SportsDB omits them.
+          2:
+            title: Qualifying
+            originally_available: 2025-12-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s14/e2.jpg
+            summary: >
+              Qualifying for Abu Dhabi (Round 14) runs at Yas Marina Circuit (Abu Dhabi, United Arab Emirates).
+              Focus date: December 06, 2025. 30-minute knockout session that locks the Feature Race grid (top 10
+              reversed for the sprint). Session is injected so Formula 2 libraries always include Free Practice
+              and Qualifying even when SportsDB omits them.
+          3:
+            title: Sprint Race
+            originally_available: 2025-12-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s14/e3.jpg
+            summary: >
+              Sprint Race for Abu Dhabi (Round 14) runs at Yas Marina Circuit (Abu Dhabi, United Arab Emirates).
+              Focus date: December 06, 2025. Reverse-grid dash awarding Saturday points across 21 laps.
+          4:
+            title: Feature Race
+            originally_available: 2025-12-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula2/2025/s14/e4.jpg
+            summary: >
+              Feature Race for Abu Dhabi (Round 14) runs at Yas Marina Circuit (Abu Dhabi, United Arab Emirates).
+              Focus date: December 08, 2025. Sunday's main race with mandatory pit stop and full championship
+              points.

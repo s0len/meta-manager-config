@@ -580,7 +580,7 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
         type=Path,
         default=None,
         help="Destination path for the generated YAML "
-        "(defaults to metadata-files/ufc/{season}.yaml).",
+        "(defaults to metadata/ufc/{season}.yaml).",
     )
     parser.add_argument(
         "--insecure",
@@ -646,7 +646,7 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
 
     output_path = args.output
     if output_path is None:
-        output_path = Path("metadata-files") / f"ufc/{args.season}.yaml"
+        output_path = Path("metadata") / f"ufc/{args.season}.yaml"
     output_path = output_path.expanduser()
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(yaml_text, encoding="utf-8")
