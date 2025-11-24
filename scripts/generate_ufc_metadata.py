@@ -23,11 +23,8 @@ from datetime import date, datetime
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Sequence, Tuple
 
+from sportsdb import SportsDBSettings, load_sportsdb_settings
 
-API_URL = (
-    "https://www.thesportsdb.com/api/v1/json/{api_key}/eventsseason.php"
-    "?id={league_id}&s={season}"
-)
 
 USER_AGENT = (
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
@@ -45,6 +42,14 @@ CARD_LABELS = {
     "main": "Main Card",
 }
 
+SPORTSDB_DEFAULTS = load_sportsdb_settings()
+
+
+def _build_headers(sportsdb: SportsDBSettings) -> Dict[str, str]:
+    headers = {"User-Agent": USER_AGENT}
+    headers.update(sportsdb.auth_headers)
+    return headers
+
 
 def build_ssl_context(verify: bool) -> ssl.SSLContext:
     context = ssl.create_default_context()
@@ -57,11 +62,11 @@ def build_ssl_context(verify: bool) -> ssl.SSLContext:
 def fetch_season_events(
     season: str,
     league_id: int,
-    api_key: str,
+    sportsdb: SportsDBSettings,
     context: ssl.SSLContext,
 ) -> List[dict]:
-    url = API_URL.format(api_key=api_key, league_id=league_id, season=season)
-    request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    url = sportsdb.season_url(league_id, season)
+    request = urllib.request.Request(url, headers=_build_headers(sportsdb))
     with urllib.request.urlopen(request, context=context) as response:
         payload = json.load(response)
 
@@ -69,7 +74,7 @@ def fetch_season_events(
     if not events:
         raise RuntimeError(
             f"No events returned for league {league_id} season {season} "
-            f"(API key {api_key})."
+            f"(API {sportsdb.api_version})."
         )
     return events
 
@@ -78,20 +83,34 @@ def fetch_round_event(
     season: str,
     league_id: int,
     round_number: int,
-    api_key: str,
+    sportsdb: SportsDBSettings,
     context: ssl.SSLContext,
 ) -> Optional[dict]:
-    url = (
-        "https://www.thesportsdb.com/api/v1/json/{api_key}/eventsround.php"
-        "?id={league_id}&r={round_number}&s={season}"
-    ).format(api_key=api_key, league_id=league_id, season=season, round_number=round_number)
-    request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    round_url = sportsdb.round_url(league_id, season, round_number)
+    target_url = round_url or sportsdb.season_url(league_id, season)
+    request = urllib.request.Request(target_url, headers=_build_headers(sportsdb))
     with urllib.request.urlopen(request, context=context) as response:
         payload = json.load(response)
     events = payload.get("events") or []
-    if not events:
-        return None
-    return events[0]
+    if round_url:
+        return events[0] if events else None
+    for event in events:
+        number = _round_number_from_event(event)
+        if number == round_number:
+            return event
+    return None
+
+
+def _round_number_from_event(event: dict) -> Optional[int]:
+    for key in ("intRound", "strRound"):
+        value = event.get(key)
+        if value in (None, "", "0"):
+            continue
+        try:
+            return int(value)
+        except ValueError:
+            continue
+    return None
 
 
 def _to_date(value: Optional[str]) -> Optional[date]:
@@ -254,11 +273,11 @@ def ensure_asset_download(
         return False
 
 
-def build_metadata(args: argparse.Namespace) -> dict:
+def build_metadata(args: argparse.Namespace, sportsdb: SportsDBSettings) -> dict:
     verify_ssl = not args.insecure
     context = build_ssl_context(verify_ssl)
     try:
-        events = fetch_season_events(args.season, args.league_id, args.api_key, context)
+        events = fetch_season_events(args.season, args.league_id, sportsdb, context)
     except urllib.error.URLError as exc:
         if verify_ssl:
             print(
@@ -266,7 +285,7 @@ def build_metadata(args: argparse.Namespace) -> dict:
                 file=sys.stderr,
             )
             context = build_ssl_context(False)
-            events = fetch_season_events(args.season, args.league_id, args.api_key, context)
+            events = fetch_season_events(args.season, args.league_id, sportsdb, context)
         else:
             raise RuntimeError(f"Failed to fetch season data: {exc}") from exc
 
@@ -289,7 +308,7 @@ def build_metadata(args: argparse.Namespace) -> dict:
                     args.season,
                     args.league_id,
                     round_number,
-                    args.api_key,
+                    sportsdb,
                     context,
                 )
             except urllib.error.URLError as exc:
@@ -303,7 +322,7 @@ def build_metadata(args: argparse.Namespace) -> dict:
                         args.season,
                         args.league_id,
                         round_number,
-                        args.api_key,
+                        sportsdb,
                         context,
                     )
                 else:
@@ -506,8 +525,16 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
     )
     parser.add_argument(
         "--api-key",
-        default="123",
-        help="TheSportsDB API key (free-tier default is 123).",
+        default=SPORTSDB_DEFAULTS.api_key,
+        help=(
+            "TheSportsDB API key (defaults to SPORTSDB_API_KEY from .env or 123 "
+            "when unset)."
+        ),
+    )
+    parser.add_argument(
+        "--api-version",
+        default=SPORTSDB_DEFAULTS.api_version,
+        help="TheSportsDB API version to target (e.g. v1 or v2).",
     )
     parser.add_argument(
         "--title",
@@ -620,6 +647,9 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
 
 def main(argv: Optional[Sequence[str]] = None) -> int:
     args = parse_args(argv)
+    sportsdb = SPORTSDB_DEFAULTS.with_overrides(
+        api_key=args.api_key, api_version=args.api_version
+    )
     args.assets_root = Path(args.assets_root).expanduser()
 
     def resolve_asset(value: Optional[str]) -> Tuple[Optional[str], Optional[str]]:
@@ -641,7 +671,7 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
         args.sort_title = args.sort_title.format(season=args.season)
     if args.show_id:
         args.show_id = args.show_id.format(season=args.season)
-    metadata = build_metadata(args)
+    metadata = build_metadata(args, sportsdb)
     yaml_text = render_yaml(metadata)
 
     output_path = args.output

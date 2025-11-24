@@ -2,6 +2,23 @@
 
 Utilities that help regenerate or extend metadata files for Sports Organizer live here.
 
+## SportsDB configuration defaults
+
+Every script that talks to [TheSportsDB](https://www.thesportsdb.com/documentation)
+now reads credentials from a repository-level `.env` file. Add the following keys
+to `.env` (or export them in your shell) and the CLI fallbacks will pull them in
+automatically:
+
+```ini
+SPORTSDB_API_VERSION=v2   # v1 for the free tier, v2 for premium
+SPORTSDB_API_KEY=YOUR_KEY # defaults to 123 when unset
+```
+
+`--api-key` and the new `--api-version` flags still override the env values when
+you need to test a different tier. `SPORTSDB_API_VERSION` also controls the default
+`--request-interval` delay: v1 scripts space calls by 2.1 s (≈28 req/min) while v2
+defaults to 0.6 s (≈100 req/min).
+
 ## `generate_nfl_metadata.py`
 
 Pulls the weekly NFL scoreboard feed from ESPN and writes a metadata YAML file that
@@ -64,7 +81,8 @@ Key flags mirror `generate_ufc_metadata`:
 
 - `--season` / `--league-id` / `--api-key` to select the SportsDB feed
 - `--matchweek-start/--matchweek-stop` plus `--matchweek-delay` / `--request-interval`
-  / `--max-retries` to respect SportsDB rate limits (default 2.1s spacing ≈28 req/min)
+  / `--max-retries` to respect SportsDB rate limits (defaults to 2.1s on v1 or 0.6s on
+  v2)
 - `--poster-url`, `--background-url`, `--asset-url-base`, `--assets-root`,
   `--matchweek-poster-template`, `--fixture-poster-template` and
   `--skip-asset-download` to mirror the UFC poster workflow
@@ -92,11 +110,13 @@ python3 scripts/generate_uefa_champions_league_metadata_sportsdb.py \
 ```
 
 Key flags:
+
 - `--season` / `--league-id` / `--api-key` / `--round-label` select the SportsDB feed
   and matchday naming
 - `--matchweek-start`, `--matchweek-stop`, `--matchweek-delay`,
   `--skip-matchweek-fill`, `--request-interval`, `--max-retries`,
-  `--retry-backoff`, `--insecure` preserve the shared 2.1 s rate limiter,
+  `--retry-backoff`, `--insecure` preserve the shared rate limiter (2.1 s on v1,
+  0.6 s on v2),
   exponential backoff for 429/5xx and the optional SSL bypass path
 - `--poster-url`, `--background-url`, `--asset-url-base`, `--assets-root`,
   `--matchweek-poster-template`, `--matchweek-poster-fallback`,
@@ -130,7 +150,8 @@ Key flags:
 - `--season` / `--league-id` / `--api-key` select the SportsDB payload for MotoGP
 - `--matchweek-start`, `--matchweek-stop`, `--matchweek-delay`,
   `--skip-matchweek-fill`, `--request-interval`, `--max-retries`,
-  `--retry-backoff`, `--insecure` preserve the shared 2.1 s throttle,
+  `--retry-backoff`, `--insecure` preserve the shared throttle
+  (2.1 s on v1, 0.6 s on v2),
   exponential backoff for 429/5xx and the optional SSL bypass path
 - `--poster-url`, `--background-url`, `--asset-url-base`, `--assets-root`,
   `--matchweek-poster-template`, `--matchweek-poster-fallback`,
@@ -165,7 +186,8 @@ Key flags:
 - `--season` / `--league-id` / `--api-key` select the SportsDB Formula 1 payload
 - `--matchweek-start`, `--matchweek-stop`, `--matchweek-delay`,
   `--skip-matchweek-fill`, `--request-interval`, `--max-retries`,
-  `--retry-backoff`, `--insecure` preserve the shared 2.1 s throttle,
+  `--retry-backoff`, `--insecure` preserve the shared throttle (2.1 s on v1,
+  0.6 s on v2),
   exponential backoff for 429/5xx and the optional SSL bypass path
 - `--poster-url`, `--background-url`, `--asset-url-base`, `--assets-root`,
   `--matchweek-poster-template`, `--matchweek-poster-fallback`,
@@ -202,7 +224,8 @@ Key flags mirror the other SportsDB generators:
   the venue/location remains.
 - `--matchweek-start`, `--matchweek-stop`, `--matchweek-delay`,
   `--skip-matchweek-fill`, `--request-interval`, `--max-retries`,
-  `--retry-backoff`, `--insecure` preserve the shared 2.1 s throttle, exponential
+  `--retry-backoff`, `--insecure` preserve the shared throttle (2.1 s on v1,
+  0.6 s on v2) plus exponential
   backoff for 429/5xx responses and the optional SSL bypass. The script replays
   the matchweek fill loop against `eventsround.php` unless you pass
   `--skip-matchweek-fill`.
@@ -236,7 +259,7 @@ Key flags mirror the other SportsDB generators:
   `--round-label` controls how season titles reference the location.
 - `--matchweek-start`, `--matchweek-stop`, `--matchweek-delay`,
   `--skip-matchweek-fill`, `--request-interval`, `--max-retries`,
-  `--retry-backoff`, `--insecure` keep the shared 2.1 s throttle, exponential
+  `--retry-backoff`, `--insecure` keep the shared throttle (2.1 s on v1, 0.6 s on v2),
   backoff and SSL bypass path.
 - `--poster-url`, `--background-url`, `--asset-url-base`, `--assets-root`,
   `--matchweek-poster-template`, `--matchweek-poster-fallback`,
@@ -269,7 +292,8 @@ Key flags:
   `--round-label` controls how each E-Prix season title is phrased.
 - `--matchweek-start`, `--matchweek-stop`, `--matchweek-delay`,
   `--skip-matchweek-fill`, `--request-interval`, `--max-retries`,
-  `--retry-backoff`, `--insecure` preserve the shared 2.1 s throttle,
+  `--retry-backoff`, `--insecure` preserve the shared throttle (2.1 s on v1,
+  0.6 s on v2) plus
   exponential backoff for 429/5xx responses and the optional SSL bypass path.
 - `--poster-url`, `--background-url`, `--asset-url-base`, `--assets-root`,
   `--matchweek-poster-template`, `--matchweek-poster-fallback`,
@@ -299,7 +323,8 @@ Key flags mirror the UFC-style CLI:
   `--round-label` lets you rename rounds to “Race”, “Event”, etc.
 - `--matchweek-start`, `--matchweek-stop`, `--matchweek-delay`,
   `--skip-matchweek-fill`, `--request-interval`, `--max-retries`,
-  `--retry-backoff`, `--insecure` preserve the shared 2.1 s rate limiter,
+  `--retry-backoff`, `--insecure` preserve the shared rate limiter (2.1 s on v1,
+  0.6 s on v2),
   exponential backoff for 429/5xx responses and the optional SSL bypass path.
 - `--poster-url`, `--background-url`, `--asset-url-base`, `--assets-root`,
   `--matchweek-poster-template`, `--matchweek-poster-fallback`,
@@ -329,7 +354,8 @@ Key flags mirror the other SportsDB generators:
 - `--season` / `--league-id` / `--api-key` select the Moto2 payload
 - `--matchweek-start`, `--matchweek-stop`, `--matchweek-delay`,
   `--skip-matchweek-fill`, `--request-interval`, `--max-retries`,
-  `--retry-backoff`, `--insecure` preserve the shared 2.1 s rate limiter,
+  `--retry-backoff`, `--insecure` preserve the shared rate limiter (2.1 s on v1,
+  0.6 s on v2),
   exponential backoff for 429/5xx and the optional SSL bypass path
 - `--poster-url`, `--background-url`, `--asset-url-base`, `--assets-root`,
   `--matchweek-poster-template`, `--matchweek-poster-fallback`,
@@ -365,7 +391,7 @@ Key flags mirror the UFC/Premier League tooling:
   `2025`)
 - `--matchweek-start`, `--matchweek-stop`, `--matchweek-delay`,
   `--skip-matchweek-fill`, `--request-interval`, `--max-retries`,
-  `--retry-backoff`, `--insecure` preserve the shared 2.1 s limiter, exponential
+  `--retry-backoff`, `--insecure` preserve the shared limiter (2.1 s on v1, 0.6 s on v2),
   backoff for 429/5xx and the optional SSL bypass path
 - `--poster-url`, `--background-url`, `--asset-url-base`, `--assets-root`,
   `--matchweek-poster-template`, `--matchweek-poster-fallback`,
@@ -398,7 +424,7 @@ Key flags:
 - `--season` / `--league-id` / `--api-key` select the SportsDB payload
 - `--matchweek-start`, `--matchweek-stop`, `--matchweek-delay`,
   `--skip-matchweek-fill`, `--request-interval`, `--max-retries`,
-  `--retry-backoff` maintain the shared 2.1 s throttle plus exponential backoff
+  `--retry-backoff` maintain the shared throttle (2.1 s on v1, 0.6 s on v2) plus
   for 429/5xx responses (including the optional `--insecure` retry path)
 - `--poster-url`, `--background-url`, `--asset-url-base`, `--assets-root`,
   `--matchweek-poster-template`, `--matchweek-poster-fallback`,
@@ -426,7 +452,7 @@ Key flags mirror the UFC/Premier League generators:
 - `--season` / `--league-id` / `--api-key` select the SportsDB payload
 - `--matchweek-start`, `--matchweek-stop`, `--matchweek-delay`,
   `--request-interval`, `--max-retries`, `--retry-backoff` respect the shared
-  2.1 s rate limiter plus exponential backoff for 429/5xx
+  rate limiter (2.1 s on v1, 0.6 s on v2) plus exponential backoff for 429/5xx
 - `--poster-url`, `--background-url`, `--asset-url-base`, `--assets-root`,
   `--matchweek-poster-template`, `--fixture-poster-template`,
   `--skip-asset-download` control the artwork flow (defaults write to

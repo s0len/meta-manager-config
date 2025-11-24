@@ -26,16 +26,12 @@ from datetime import date, datetime, timedelta
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Sequence, Tuple
 
-
-API_URL = (
-    "https://www.thesportsdb.com/api/v1/json/{api_key}/eventsseason.php"
-    "?id={league_id}&s={season}"
+from sportsdb import (
+    SportsDBSettings,
+    default_request_interval,
+    load_sportsdb_settings,
 )
 
-ROUND_URL = (
-    "https://www.thesportsdb.com/api/v1/json/{api_key}/eventsround.php"
-    "?id={league_id}&r={round_number}&s={season}"
-)
 
 USER_AGENT = (
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
@@ -45,6 +41,8 @@ USER_AGENT = (
 DEFAULT_MATCHWEEK_START = 1
 DEFAULT_MATCHWEEK_STOP = 20
 RETRYABLE_STATUS_CODES = {429, 500, 502, 503, 504}
+
+SPORTSDB_DEFAULTS = load_sportsdb_settings()
 
 ROUND_SUFFIX_RE = re.compile(
     r"[\s\-–—,:]*(?:"
@@ -111,12 +109,16 @@ def _fetch_json(
     rate_limiter: Optional[RateLimiter],
     retries: int,
     retry_backoff: float,
+    headers: Optional[Dict[str, str]] = None,
 ) -> dict:
     attempt = 0
     while True:
         if rate_limiter:
             rate_limiter.wait()
-        request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+        request_headers = {"User-Agent": USER_AGENT}
+        if headers:
+            request_headers.update(headers)
+        request = urllib.request.Request(url, headers=request_headers)
         try:
             with urllib.request.urlopen(request, context=context) as response:
                 return json.load(response)
@@ -190,20 +192,27 @@ def build_ssl_context(verify: bool) -> ssl.SSLContext:
 def fetch_season_events(
     season: str,
     league_id: int,
-    api_key: str,
+    sportsdb: SportsDBSettings,
     context: ssl.SSLContext,
     rate_limiter: Optional[RateLimiter],
     retries: int,
     retry_backoff: float,
 ) -> List[dict]:
-    url = API_URL.format(api_key=api_key, league_id=league_id, season=season)
-    payload = _fetch_json(url, context, rate_limiter, retries, retry_backoff)
+    url = sportsdb.season_url(league_id, season)
+    payload = _fetch_json(
+        url,
+        context,
+        rate_limiter,
+        retries,
+        retry_backoff,
+        headers=sportsdb.auth_headers,
+    )
 
     events = payload.get("events")
     if not events:
         raise RuntimeError(
             f"No events returned for league {league_id} season {season} "
-            f"(API key {api_key})."
+            f"(API {sportsdb.api_version})."
         )
     return events
 
@@ -212,20 +221,30 @@ def fetch_round_events(
     season: str,
     league_id: int,
     round_number: int,
-    api_key: str,
+    sportsdb: SportsDBSettings,
     context: ssl.SSLContext,
     rate_limiter: Optional[RateLimiter],
     retries: int,
     retry_backoff: float,
 ) -> List[dict]:
-    url = ROUND_URL.format(
-        api_key=api_key,
-        league_id=league_id,
-        season=season,
-        round_number=round_number,
+    round_url = sportsdb.round_url(league_id, season, round_number)
+    target_url = round_url or sportsdb.season_url(league_id, season)
+    payload = _fetch_json(
+        target_url,
+        context,
+        rate_limiter,
+        retries,
+        retry_backoff,
+        headers=sportsdb.auth_headers,
     )
-    payload = _fetch_json(url, context, rate_limiter, retries, retry_backoff)
-    return payload.get("events") or []
+    events = payload.get("events") or []
+    if round_url:
+        return events
+    return [
+        event
+        for event in events
+        if _round_number_from_event(event) == round_number
+    ]
 
 
 def _to_date(value: Optional[str]) -> Optional[date]:
@@ -446,7 +465,7 @@ def _format_url_value(value: Optional[str]) -> str:
     return value if value else "null"
 
 
-def build_metadata(args: argparse.Namespace) -> dict:
+def build_metadata(args: argparse.Namespace, sportsdb: SportsDBSettings) -> dict:
     verify_ssl = not args.insecure
     context = build_ssl_context(verify_ssl)
     rate_limiter = RateLimiter(args.request_interval)
@@ -457,7 +476,7 @@ def build_metadata(args: argparse.Namespace) -> dict:
         events = fetch_season_events(
             args.season,
             args.league_id,
-            args.api_key,
+            sportsdb,
             context,
             rate_limiter,
             args.max_retries,
@@ -473,7 +492,7 @@ def build_metadata(args: argparse.Namespace) -> dict:
             events = fetch_season_events(
                 args.season,
                 args.league_id,
-                args.api_key,
+                sportsdb,
                 context,
                 rate_limiter,
                 args.max_retries,
@@ -503,7 +522,7 @@ def build_metadata(args: argparse.Namespace) -> dict:
                     args.season,
                     args.league_id,
                     round_number,
-                    args.api_key,
+                    sportsdb,
                     context,
                     rate_limiter,
                     args.max_retries,
@@ -521,7 +540,7 @@ def build_metadata(args: argparse.Namespace) -> dict:
                         args.season,
                         args.league_id,
                         round_number,
-                        args.api_key,
+                        sportsdb,
                         context,
                         rate_limiter,
                         args.max_retries,
@@ -760,8 +779,16 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
     )
     parser.add_argument(
         "--api-key",
-        default="123",
-        help="TheSportsDB API key (free-tier default is 123).",
+        default=SPORTSDB_DEFAULTS.api_key,
+        help=(
+            "TheSportsDB API key (defaults to SPORTSDB_API_KEY from .env or 123 "
+            "when unset)."
+        ),
+    )
+    parser.add_argument(
+        "--api-version",
+        default=SPORTSDB_DEFAULTS.api_version,
+        help="TheSportsDB API version to target (e.g. v1 or v2).",
     )
     parser.add_argument(
         "--title",
@@ -877,8 +904,11 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
     parser.add_argument(
         "--request-interval",
         type=float,
-        default=2.1,
-        help="Minimum seconds between SportsDB API calls (2.1s ≈ 28 req/min free tier).",
+        default=None,
+        help=(
+            "Minimum seconds between SportsDB API calls "
+            "(defaults to 2.1s for v1 or 0.6s for v2 when omitted)."
+        ),
     )
     parser.add_argument(
         "--max-retries",
@@ -897,6 +927,12 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
 
 def main(argv: Optional[Sequence[str]] = None) -> int:
     args = parse_args(argv)
+    sportsdb = SPORTSDB_DEFAULTS.with_overrides(
+        api_key=args.api_key,
+        api_version=args.api_version,
+    )
+    if args.request_interval is None:
+        args.request_interval = default_request_interval(sportsdb.api_version)
     args.assets_root = Path(args.assets_root).expanduser()
 
     def resolve_asset(value: Optional[str]) -> Tuple[Optional[str], Optional[str]]:
@@ -920,7 +956,7 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     if args.show_id:
         args.show_id = args.show_id.format(season=args.season)
 
-    metadata = build_metadata(args)
+    metadata = build_metadata(args, sportsdb)
     yaml_text = render_yaml(metadata)
 
     output_path = args.output
