@@ -26,6 +26,7 @@ from sportsdb import (
     default_request_interval,
     load_sportsdb_settings,
 )
+from sportsdb_helpers import extract_events, fetch_season_description_text
 
 USER_AGENT = (
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
@@ -158,7 +159,7 @@ def fetch_season_events(
         headers=sportsdb.auth_headers,
     )
 
-    events = _extract_events(payload)
+    events = extract_events(payload)
     if not events:
         message = payload.get("Message") or payload.get("message")
         raise RuntimeError(
@@ -189,7 +190,7 @@ def fetch_round_events(
         retry_backoff,
         headers=sportsdb.auth_headers,
     )
-    events = _extract_events(payload)
+    events = extract_events(payload)
     if round_url:
         return events
     return [
@@ -197,48 +198,6 @@ def fetch_round_events(
         for event in events
         if _round_number_from_event(event) == round_number
     ]
-
-
-def _extract_events(payload: dict) -> List[dict]:
-    """Normalize different SportsDB payload shapes."""
-    for key in ("events", "schedule", "fixtures", "results"):
-        events = payload.get(key)
-        if isinstance(events, list):
-            return events
-    return []
-
-
-def fetch_season_description(
-    season: str,
-    league_id: int,
-    sportsdb: SportsDBSettings,
-    context: ssl.SSLContext,
-    rate_limiter: Optional[RateLimiter],
-    retries: int,
-    retry_backoff: float,
-) -> Optional[str]:
-    url = sportsdb.season_description_url(league_id)
-    payload = _fetch_json(
-        url,
-        context,
-        rate_limiter,
-        retries,
-        retry_backoff,
-        headers=sportsdb.auth_headers,
-    )
-    entries = (
-        payload.get("list")
-        or payload.get("seasons")
-        or payload.get("results")
-        or []
-    )
-    for entry in entries:
-        if entry.get("strSeason") != season:
-            continue
-        description = entry.get("strDescriptionEN")
-        if isinstance(description, str) and description.strip():
-            return description.strip()
-    return None
 
 
 def _to_date(value: Optional[str]) -> Optional[date]:
@@ -421,14 +380,15 @@ def build_metadata(args: argparse.Namespace, sportsdb: SportsDBSettings) -> dict
 
     season_summary: Optional[str] = None
     try:
-        season_summary = fetch_season_description(
-            args.season,
-            args.league_id,
-            sportsdb,
-            context,
-            rate_limiter,
-            args.max_retries,
-            args.retry_backoff,
+        season_summary = fetch_season_description_text(
+            season=args.season,
+            league_id=args.league_id,
+            sportsdb=sportsdb,
+            fetch_json=_fetch_json,
+            context=context,
+            rate_limiter=rate_limiter,
+            retries=args.max_retries,
+            retry_backoff=args.retry_backoff,
         )
     except urllib.error.URLError as exc:
         if verify_ssl:
@@ -437,14 +397,15 @@ def build_metadata(args: argparse.Namespace, sportsdb: SportsDBSettings) -> dict
                 file=sys.stderr,
             )
             context = build_ssl_context(False)
-            season_summary = fetch_season_description(
-                args.season,
-                args.league_id,
-                sportsdb,
-                context,
-                rate_limiter,
-                args.max_retries,
-                args.retry_backoff,
+            season_summary = fetch_season_description_text(
+                season=args.season,
+                league_id=args.league_id,
+                sportsdb=sportsdb,
+                fetch_json=_fetch_json,
+                context=context,
+                rate_limiter=rate_limiter,
+                retries=args.max_retries,
+                retry_backoff=args.retry_backoff,
             )
         else:
             print(

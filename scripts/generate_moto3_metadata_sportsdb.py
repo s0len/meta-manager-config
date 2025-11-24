@@ -27,6 +27,7 @@ from sportsdb import (
     default_request_interval,
     load_sportsdb_settings,
 )
+from sportsdb_helpers import extract_events, fetch_season_description_text
 
 USER_AGENT = (
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
@@ -269,7 +270,7 @@ def fetch_season_events(
         headers=sportsdb.auth_headers,
     )
 
-    events = payload.get("events")
+    events = extract_events(payload)
     if not events:
         raise RuntimeError(
             f"No events returned for league {league_id} season {season} "
@@ -298,7 +299,7 @@ def fetch_round_events(
         retry_backoff,
         headers=sportsdb.auth_headers,
     )
-    events = payload.get("events") or []
+    events = extract_events(payload)
     if round_url:
         return events
     return [
@@ -516,6 +517,41 @@ def build_metadata(args: argparse.Namespace, sportsdb: SportsDBSettings) -> dict
         else:
             raise RuntimeError(f"Failed to fetch season data: {exc}") from exc
 
+    season_summary: Optional[str] = None
+    try:
+        season_summary = fetch_season_description_text(
+            season=args.season,
+            league_id=args.league_id,
+            sportsdb=sportsdb,
+            fetch_json=_fetch_json,
+            context=context,
+            rate_limiter=rate_limiter,
+            retries=args.max_retries,
+            retry_backoff=args.retry_backoff,
+        )
+    except urllib.error.URLError as exc:
+        if verify_ssl:
+            print(
+                "Season description fetch failed with SSL error, retrying insecure...",
+                file=sys.stderr,
+            )
+            context = build_ssl_context(False)
+            season_summary = fetch_season_description_text(
+                season=args.season,
+                league_id=args.league_id,
+                sportsdb=sportsdb,
+                fetch_json=_fetch_json,
+                context=context,
+                rate_limiter=rate_limiter,
+                retries=args.max_retries,
+                retry_backoff=args.retry_backoff,
+            )
+        else:
+            print(
+                f"Warning: failed to fetch season description: {exc}",
+                file=sys.stderr,
+            )
+
     events_by_round: Dict[int, List[dict]] = {}
     for event in events:
         try:
@@ -708,13 +744,14 @@ def build_metadata(args: argparse.Namespace, sportsdb: SportsDBSettings) -> dict
         )
 
     show_id = args.show_id or args.title
+    show_summary = season_summary or args.summary
     metadata = {
         "show_id": show_id,
         "title": args.title,
         "sort_title": args.sort_title or args.title,
         "poster_url": args.poster_url,
         "background_url": args.background_url,
-        "summary": args.summary,
+        "summary": show_summary,
         "seasons": seasons,
     }
     return metadata
