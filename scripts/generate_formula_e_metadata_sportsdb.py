@@ -31,6 +31,7 @@ from sportsdb import (
     default_request_interval,
     load_sportsdb_settings,
 )
+from sportsdb_helpers import join_location, location_suffix
 from sportsdb_helpers import extract_events, fetch_season_description_text
 
 
@@ -373,10 +374,10 @@ def _pick_episode_thumb(event: Optional[dict]) -> Optional[str]:
 def _event_location(event: Optional[dict]) -> str:
     if not event:
         return ""
+    city_country = join_location(event.get("strCity"), event.get("strCountry"))
     bits = [
         event.get("strCircuit"),
-        event.get("strCity"),
-        event.get("strCountry"),
+        city_country,
     ]
     compacted = [bit for bit in bits if bit]
     return ", ".join(compacted)
@@ -442,14 +443,14 @@ def _session_summary(
     round_number: int,
     round_title: str,
     venue: str,
-    location: str,
+    location_text: str,
     session_date: date,
     race_time_note: Optional[str],
     race_description: Optional[str],
 ) -> str:
     summary_parts = [
         f"{session.title} for {round_title} ({round_label} {round_number}) "
-        f"at {venue}{f' ({location})' if location else ''}."
+        f"at {venue}{location_text}."
     ]
     summary_parts.append(f"Scheduled date: {session_date.strftime('%B %d, %Y')}.")
     if session.slug == "race":
@@ -687,6 +688,15 @@ def build_metadata(args: argparse.Namespace, sportsdb: SportsDBSettings) -> dict
             session_date = event_date + timedelta(days=session.day_offset)
             dates.append(session_date)
             session_slug = session.slug
+            session_event_location = (
+                _event_location(artwork_event) if session.slug == "race" else location
+            )
+            session_location_text = location_suffix(
+                artwork_event.get("strCity") if artwork_event else None,
+                artwork_event.get("strCountry") if artwork_event else None,
+            )
+            if not session_location_text and session_event_location:
+                session_location_text = f" ({session_event_location})"
             episode_poster_url = None
             if args.fixture_poster_template:
                 episode_poster_rel = args.fixture_poster_template.format(
@@ -723,7 +733,7 @@ def build_metadata(args: argparse.Namespace, sportsdb: SportsDBSettings) -> dict
                         round_number,
                         round_title,
                         venue,
-                        location,
+                        session_location_text,
                         session_date,
                         race_time_note if session.slug == "race" else None,
                         race_description if session.slug == "race" else None,

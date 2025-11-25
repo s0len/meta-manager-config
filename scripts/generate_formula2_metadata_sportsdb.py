@@ -29,6 +29,7 @@ from sportsdb import (
     default_request_interval,
     load_sportsdb_settings,
 )
+from sportsdb_helpers import join_location, location_suffix
 from sportsdb_helpers import extract_events, fetch_season_description_text
 
 
@@ -395,10 +396,10 @@ def _pick_episode_thumb(event: Optional[dict]) -> Optional[str]:
 def _event_location(event: Optional[dict]) -> str:
     if not event:
         return ""
+    city_country = join_location(event.get("strCity"), event.get("strCountry"))
     bits = [
         event.get("strCircuit"),
-        event.get("strCity"),
-        event.get("strCountry"),
+        city_country,
     ]
     compacted = [bit for bit in bits if bit]
     return ", ".join(compacted)
@@ -462,10 +463,9 @@ def _session_summary(
     round_number: int,
     round_title: str,
     venue: str,
-    location: str,
+    location_text: str,
     event_date: date,
 ) -> str:
-    location_text = f" ({location})" if location else ""
     summary_parts = [
         f"{session.title} for {round_title} ({round_label} {round_number}) runs at "
         f"{venue}{location_text}."
@@ -691,6 +691,12 @@ def build_metadata(args: argparse.Namespace, sportsdb: SportsDBSettings) -> dict
             )
             venue = (summary_event.get("strVenue") if summary_event else None) or default_venue
             location = _event_location(summary_event) or round_location
+            location_text = location_suffix(
+                summary_event.get("strCity") if summary_event else None,
+                summary_event.get("strCountry") if summary_event else None,
+            )
+            if not location_text and location:
+                location_text = f" ({location})" if location else ""
             poster_source_event = reference_event if session.kind == "feed" else None
             episode_poster_url = None
             if args.fixture_poster_template and poster_source_event:
@@ -730,7 +736,7 @@ def build_metadata(args: argparse.Namespace, sportsdb: SportsDBSettings) -> dict
                         round_number,
                         round_title,
                         venue,
-                        location,
+                        location_text,
                         event_date,
                     ),
                     "url_poster": episode_poster_url,

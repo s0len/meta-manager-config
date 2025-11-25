@@ -29,6 +29,7 @@ from sportsdb import (
     default_request_interval,
     load_sportsdb_settings,
 )
+from sportsdb_helpers import join_location, location_suffix
 from sportsdb_helpers import extract_events, fetch_season_description_text
 
 USER_AGENT = (
@@ -265,7 +266,8 @@ def _format_date_range(dates: Iterable[date]) -> Optional[str]:
 def _event_location(event: Optional[dict]) -> str:
     if not event:
         return ""
-    bits = [event.get("strVenue"), event.get("strCity"), event.get("strCountry")]
+    city_country = join_location(event.get("strCity"), event.get("strCountry"))
+    bits = [event.get("strVenue"), city_country]
     return ", ".join(part for part in bits if part)
 
 
@@ -280,15 +282,14 @@ def _event_display_name(event: dict) -> str:
 def _build_episode_summary(event: dict, stop_number: int, stop_label: str) -> str:
     event_name = _event_display_name(event)
     venue = event.get("strVenue") or "TBD Venue"
-    location = ", ".join(
-        bit
-        for bit in [event.get("strCity"), event.get("strCountry")]
-        if bit
-    )
+    location = _event_location(event)
+    location_text = location_suffix(event.get("strCity"), event.get("strCountry"))
+    if not location_text and location:
+        location_text = f" ({location})"
     event_date = _date_from_event(event)
     summary_parts = [
         f"{event_name} is part of {stop_label} {stop_number}",
-        f"at {venue}{f' ({location})' if location else ''}.",
+        f"at {venue}{location_text}.",
     ]
     summary_parts.append(
         f"Scheduled date: {event_date.strftime('%B %d, %Y')}."

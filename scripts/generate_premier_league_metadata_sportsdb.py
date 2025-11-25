@@ -26,6 +26,7 @@ from sportsdb import (
     default_request_interval,
     load_sportsdb_settings,
 )
+from sportsdb_helpers import join_location, location_suffix
 from sportsdb_helpers import extract_events, fetch_season_description_text
 
 USER_AGENT = (
@@ -278,15 +279,11 @@ def _build_fixture_summary(event: dict, matchweek: int) -> str:
     home_team = event.get("strHomeTeam") or "Home TBD"
     away_team = event.get("strAwayTeam") or "Away TBD"
     venue = event.get("strVenue") or "TBD Venue"
-    location = ", ".join(
-        bit
-        for bit in [event.get("strCity"), event.get("strCountry")]
-        if bit
-    )
+    location = join_location(event.get("strCity"), event.get("strCountry"))
     event_date = _date_from_event(event)
     summary_parts = [
         f"Matchweek {matchweek} fixture at {venue}"
-        f"{f' ({location})' if location else ''}."
+        f"{location_suffix(event.get('strCity'), event.get('strCountry'))}."
     ]
     summary_parts.append(
         f"Scheduled date: {event_date.strftime('%B %d, %Y')}."

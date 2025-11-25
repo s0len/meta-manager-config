@@ -26,6 +26,7 @@ from sportsdb import (
     default_request_interval,
     load_sportsdb_settings,
 )
+from sportsdb_helpers import join_location, location_suffix
 from sportsdb_helpers import extract_events, fetch_season_description_text
 
 USER_AGENT = (
@@ -274,13 +275,12 @@ def _event_sort_key(event: dict) -> Tuple[date, str]:
 def _build_event_summary(event: dict, round_number: int, round_label: str) -> str:
     event_name = event.get("strEvent") or f"{round_label} {round_number}"
     venue = event.get("strVenue") or "TBD Circuit"
-    location = ", ".join(
-        bit for bit in [event.get("strCity"), event.get("strCountry")] if bit
-    )
+    location = join_location(event.get("strCity"), event.get("strCountry"))
+    location_text = location_suffix(event.get("strCity"), event.get("strCountry"))
     event_date = _date_from_event(event)
     summary_parts = [
         f"{event_name} ({round_label} {round_number}) at {venue}"
-        f"{f' ({location})' if location else ''}."
+        f"{location_text}."
     ]
     summary_parts.append(f"Scheduled date: {event_date.strftime('%B %d, %Y')}.")
     if event.get("strTimeLocal"):

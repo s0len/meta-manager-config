@@ -540,7 +540,10 @@ def build_metadata(args: argparse.Namespace, sportsdb: SportsDBSettings) -> dict
         event_date = _date_from_event(event)
         event_date_str = event_date.isoformat()
         venue = event.get("strVenue") or "TBD Venue"
-        location = ", ".join(
+        city = event.get("strCity") or ""
+        country = event.get("strCountry") or ""
+        location = ", ".join(bit for bit in [city, country] if bit)
+        location_for_summary = ", ".join(
             bit
             for bit in [
                 event.get("strCity"),
@@ -588,9 +591,17 @@ def build_metadata(args: argparse.Namespace, sportsdb: SportsDBSettings) -> dict
             card_lines = card_sections.get(card_key, [])
             fights_summary = summarise_fights(card_lines)
             episode_title = CARD_LABELS[card_key]
+            location_snippet = ""
+            if city and country:
+                location_snippet = f" ({city}, {country})"
+            elif country:
+                location_snippet = f" ({country})"
+            elif city:
+                location_snippet = f" ({city})"
+
             episode_summary_parts = [
                 f"{episode_title} for {event_title} hosted at {venue}"
-                f"{f' ({location})' if location else ''} on "
+                f"{location_snippet} on "
                 f"{event_date.strftime('%B %d, %Y')}."
             ]
             if fights_summary:
