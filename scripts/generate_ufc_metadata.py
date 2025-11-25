@@ -23,11 +23,9 @@ from datetime import date, datetime
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Sequence, Tuple
 
+from sportsdb import SportsDBSettings, load_sportsdb_settings
+from sportsdb_helpers import extract_events, fetch_season_description_text
 
-API_URL = (
-    "https://www.thesportsdb.com/api/v1/json/{api_key}/eventsseason.php"
-    "?id={league_id}&s={season}"
-)
 
 USER_AGENT = (
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
@@ -45,6 +43,15 @@ CARD_LABELS = {
     "main": "Main Card",
 }
 
+SPORTSDB_DEFAULTS = load_sportsdb_settings()
+RETRYABLE_STATUS_CODES = {429, 500, 502, 503, 504}
+
+
+def _build_headers(sportsdb: SportsDBSettings) -> Dict[str, str]:
+    headers = {"User-Agent": USER_AGENT}
+    headers.update(sportsdb.auth_headers)
+    return headers
+
 
 def build_ssl_context(verify: bool) -> ssl.SSLContext:
     context = ssl.create_default_context()
@@ -54,22 +61,53 @@ def build_ssl_context(verify: bool) -> ssl.SSLContext:
     return context
 
 
+def _fetch_json(
+    url: str,
+    context: ssl.SSLContext,
+    rate_limiter: Optional[object],
+    retries: int,
+    retry_backoff: float,
+    headers: Optional[Dict[str, str]] = None,
+) -> dict:
+    attempt = 0
+    while True:
+        request_headers = {"User-Agent": USER_AGENT}
+        if headers:
+            request_headers.update(headers)
+        request = urllib.request.Request(url, headers=request_headers)
+        try:
+            with urllib.request.urlopen(request, context=context) as response:
+                return json.load(response)
+        except urllib.error.HTTPError as exc:
+            if exc.code in RETRYABLE_STATUS_CODES and attempt < retries:
+                delay = retry_backoff * (2**attempt)
+                time.sleep(delay)
+                attempt += 1
+                continue
+            raise
+
+
 def fetch_season_events(
     season: str,
     league_id: int,
-    api_key: str,
+    sportsdb: SportsDBSettings,
     context: ssl.SSLContext,
 ) -> List[dict]:
-    url = API_URL.format(api_key=api_key, league_id=league_id, season=season)
-    request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(request, context=context) as response:
-        payload = json.load(response)
+    url = sportsdb.season_url(league_id, season)
+    payload = _fetch_json(
+        url,
+        context,
+        rate_limiter=None,
+        retries=0,
+        retry_backoff=0.0,
+        headers=_build_headers(sportsdb),
+    )
 
-    events = payload.get("events")
+    events = extract_events(payload)
     if not events:
         raise RuntimeError(
             f"No events returned for league {league_id} season {season} "
-            f"(API key {api_key})."
+            f"(API {sportsdb.api_version})."
         )
     return events
 
@@ -78,20 +116,39 @@ def fetch_round_event(
     season: str,
     league_id: int,
     round_number: int,
-    api_key: str,
+    sportsdb: SportsDBSettings,
     context: ssl.SSLContext,
 ) -> Optional[dict]:
-    url = (
-        "https://www.thesportsdb.com/api/v1/json/{api_key}/eventsround.php"
-        "?id={league_id}&r={round_number}&s={season}"
-    ).format(api_key=api_key, league_id=league_id, season=season, round_number=round_number)
-    request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(request, context=context) as response:
-        payload = json.load(response)
-    events = payload.get("events") or []
-    if not events:
-        return None
-    return events[0]
+    round_url = sportsdb.round_url(league_id, season, round_number)
+    target_url = round_url or sportsdb.season_url(league_id, season)
+    payload = _fetch_json(
+        target_url,
+        context,
+        rate_limiter=None,
+        retries=0,
+        retry_backoff=0.0,
+        headers=_build_headers(sportsdb),
+    )
+    events = extract_events(payload)
+    if round_url:
+        return events[0] if events else None
+    for event in events:
+        number = _round_number_from_event(event)
+        if number == round_number:
+            return event
+    return None
+
+
+def _round_number_from_event(event: dict) -> Optional[int]:
+    for key in ("intRound", "strRound"):
+        value = event.get(key)
+        if value in (None, "", "0"):
+            continue
+        try:
+            return int(value)
+        except ValueError:
+            continue
+    return None
 
 
 def _to_date(value: Optional[str]) -> Optional[date]:
@@ -254,11 +311,11 @@ def ensure_asset_download(
         return False
 
 
-def build_metadata(args: argparse.Namespace) -> dict:
+def build_metadata(args: argparse.Namespace, sportsdb: SportsDBSettings) -> dict:
     verify_ssl = not args.insecure
     context = build_ssl_context(verify_ssl)
     try:
-        events = fetch_season_events(args.season, args.league_id, args.api_key, context)
+        events = fetch_season_events(args.season, args.league_id, sportsdb, context)
     except urllib.error.URLError as exc:
         if verify_ssl:
             print(
@@ -266,9 +323,44 @@ def build_metadata(args: argparse.Namespace) -> dict:
                 file=sys.stderr,
             )
             context = build_ssl_context(False)
-            events = fetch_season_events(args.season, args.league_id, args.api_key, context)
+            events = fetch_season_events(args.season, args.league_id, sportsdb, context)
         else:
             raise RuntimeError(f"Failed to fetch season data: {exc}") from exc
+
+    season_summary: Optional[str] = None
+    try:
+        season_summary = fetch_season_description_text(
+            season=args.season,
+            league_id=args.league_id,
+            sportsdb=sportsdb,
+            fetch_json=_fetch_json,
+            context=context,
+            rate_limiter=None,
+            retries=0,
+            retry_backoff=0.0,
+        )
+    except urllib.error.URLError as exc:
+        if verify_ssl:
+            print(
+                "Season description fetch failed with SSL error, retrying insecure...",
+                file=sys.stderr,
+            )
+            context = build_ssl_context(False)
+            season_summary = fetch_season_description_text(
+                season=args.season,
+                league_id=args.league_id,
+                sportsdb=sportsdb,
+                fetch_json=_fetch_json,
+                context=context,
+                rate_limiter=None,
+                retries=0,
+                retry_backoff=0.0,
+            )
+        else:
+            print(
+                f"Warning: failed to fetch season description: {exc}",
+                file=sys.stderr,
+            )
 
     events_by_round: Dict[int, dict] = {}
     for event in events:
@@ -289,7 +381,7 @@ def build_metadata(args: argparse.Namespace) -> dict:
                     args.season,
                     args.league_id,
                     round_number,
-                    args.api_key,
+                    sportsdb,
                     context,
                 )
             except urllib.error.URLError as exc:
@@ -303,7 +395,7 @@ def build_metadata(args: argparse.Namespace) -> dict:
                         args.season,
                         args.league_id,
                         round_number,
-                        args.api_key,
+                        sportsdb,
                         context,
                     )
                 else:
@@ -442,13 +534,14 @@ def build_metadata(args: argparse.Namespace) -> dict:
         )
 
     show_id = args.show_id or args.title
+    show_summary = season_summary or args.summary
     metadata = {
         "show_id": show_id,
         "title": args.title,
         "sort_title": args.sort_title or args.title,
         "poster_url": args.poster_url,
         "background_url": args.background_url,
-        "summary": args.summary,
+        "summary": show_summary,
         "seasons": seasons,
     }
     return metadata
@@ -506,8 +599,16 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
     )
     parser.add_argument(
         "--api-key",
-        default="123",
-        help="TheSportsDB API key (free-tier default is 123).",
+        default=SPORTSDB_DEFAULTS.api_key,
+        help=(
+            "TheSportsDB API key (defaults to SPORTSDB_API_KEY from .env or 123 "
+            "when unset)."
+        ),
+    )
+    parser.add_argument(
+        "--api-version",
+        default=SPORTSDB_DEFAULTS.api_version,
+        help="TheSportsDB API version to target (e.g. v1 or v2).",
     )
     parser.add_argument(
         "--title",
@@ -620,6 +721,9 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
 
 def main(argv: Optional[Sequence[str]] = None) -> int:
     args = parse_args(argv)
+    sportsdb = SPORTSDB_DEFAULTS.with_overrides(
+        api_key=args.api_key, api_version=args.api_version
+    )
     args.assets_root = Path(args.assets_root).expanduser()
 
     def resolve_asset(value: Optional[str]) -> Tuple[Optional[str], Optional[str]]:
@@ -641,7 +745,7 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
         args.sort_title = args.sort_title.format(season=args.season)
     if args.show_id:
         args.show_id = args.show_id.format(season=args.season)
-    metadata = build_metadata(args)
+    metadata = build_metadata(args, sportsdb)
     yaml_text = render_yaml(metadata)
 
     output_path = args.output

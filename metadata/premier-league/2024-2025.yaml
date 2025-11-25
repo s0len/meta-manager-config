@@ -1,0 +1,2957 @@
+metadata:
+  Premier League 2024-2025:
+    title: Premier League 2024-2025
+    sort_title: Premier League 2024-2025
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/background.jpg
+    summary: >
+      The 2024–25 Premier League was the 33rd season of the Premier League and the 126th season of top-
+      flight English football overall. Manchester City entered the season as four-time defending
+      champions, but were dethroned by Liverpool, who emerged as Premier League winners with four games to
+      spare, equalling Manchester United's record of 20 English league titles.
+    seasons:
+      1:
+        title: Matchweek 1
+        sort_title: 01_Matchweek 1
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s1/poster.jpg
+        summary: >
+          Matchweek 1 spans August 16-19, 2024 with 10 fixtures recorded in TheSportsDB feed for the 2024-2025
+          Premier League campaign.
+        episodes:
+          1:
+            title: Manchester United vs Fulham
+            originally_available: 2024-08-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s1/e1.jpg
+            summary: >
+              Matchweek 1 fixture at Old Trafford (England). Scheduled date: August 16, 2024. Local kickoff:
+              20:00:00.
+          2:
+            title: Arsenal vs Wolves
+            originally_available: 2024-08-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s1/e2.jpg
+            summary: >
+              Matchweek 1 fixture at Emirates Stadium (England). Scheduled date: August 17, 2024. Local kickoff:
+              15:00:00.
+          3:
+            title: Everton vs Brighton
+            originally_available: 2024-08-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s1/e3.jpg
+            summary: >
+              Matchweek 1 fixture at Goodison Park (England). Scheduled date: August 17, 2024. Local kickoff:
+              15:00:00.
+          4:
+            title: Ipswich vs Liverpool
+            originally_available: 2024-08-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s1/e4.jpg
+            summary: >
+              Matchweek 1 fixture at Portman Road (England). Scheduled date: August 17, 2024. Local kickoff:
+              12:30:00.
+          5:
+            title: Newcastle vs Southampton
+            originally_available: 2024-08-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s1/e5.jpg
+            summary: >
+              Matchweek 1 fixture at St James Park (England). Scheduled date: August 17, 2024. Local kickoff:
+              15:00:00.
+          6:
+            title: Nottingham Forest vs Bournemouth
+            originally_available: 2024-08-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s1/e6.jpg
+            summary: >
+              Matchweek 1 fixture at City Ground (England). Scheduled date: August 17, 2024. Local kickoff:
+              15:00:00.
+          7:
+            title: West Ham vs Aston Villa
+            originally_available: 2024-08-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s1/e7.jpg
+            summary: >
+              Matchweek 1 fixture at London Stadium (England). Scheduled date: August 17, 2024. Local kickoff:
+              17:30:00.
+          8:
+            title: Brentford vs Crystal Palace
+            originally_available: 2024-08-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s1/e8.jpg
+            summary: >
+              Matchweek 1 fixture at Brentford Community Stadium (England). Scheduled date: August 18, 2024. Local
+              kickoff: 14:00:00.
+          9:
+            title: Chelsea vs Manchester City
+            originally_available: 2024-08-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s1/e9.jpg
+            summary: >
+              Matchweek 1 fixture at Stamford Bridge (England). Scheduled date: August 18, 2024. Local kickoff:
+              16:30:00.
+          10:
+            title: Leicester vs Tottenham
+            originally_available: 2024-08-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s1/e10.jpg
+            summary: >
+              Matchweek 1 fixture at King Power Stadium (England). Scheduled date: August 19, 2024. Local kickoff:
+              20:00:00.
+      2:
+        title: Matchweek 2
+        sort_title: 02_Matchweek 2
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s2/poster.jpg
+        summary: >
+          Matchweek 2 spans August 24-25, 2024 with 10 fixtures recorded in TheSportsDB feed for the 2024-2025
+          Premier League campaign.
+        episodes:
+          1:
+            title: Aston Villa vs Arsenal
+            originally_available: 2024-08-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s2/e1.jpg
+            summary: >
+              Matchweek 2 fixture at Villa Park (England). Scheduled date: August 24, 2024. Local kickoff:
+              17:30:00.
+          2:
+            title: Brighton vs Manchester United
+            originally_available: 2024-08-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s2/e2.jpg
+            summary: >
+              Matchweek 2 fixture at Amex Stadium (England). Scheduled date: August 24, 2024. Local kickoff:
+              12:30:00.
+          3:
+            title: Crystal Palace vs West Ham
+            originally_available: 2024-08-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s2/e3.jpg
+            summary: >
+              Matchweek 2 fixture at Selhurst Park (England). Scheduled date: August 24, 2024. Local kickoff:
+              15:00:00.
+          4:
+            title: Fulham vs Leicester
+            originally_available: 2024-08-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s2/e4.jpg
+            summary: >
+              Matchweek 2 fixture at Craven Cottage (England). Scheduled date: August 24, 2024. Local kickoff:
+              15:00:00.
+          5:
+            title: Manchester City vs Ipswich
+            originally_available: 2024-08-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s2/e5.jpg
+            summary: >
+              Matchweek 2 fixture at Etihad Stadium (England). Scheduled date: August 24, 2024. Local kickoff:
+              15:00:00.
+          6:
+            title: Southampton vs Nottingham Forest
+            originally_available: 2024-08-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s2/e6.jpg
+            summary: >
+              Matchweek 2 fixture at St. Mary (England). Scheduled date: August 24, 2024. Local kickoff: 15:00:00.
+          7:
+            title: Tottenham vs Everton
+            originally_available: 2024-08-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s2/e7.jpg
+            summary: >
+              Matchweek 2 fixture at Tottenham Hotspur Stadium (England). Scheduled date: August 24, 2024. Local
+              kickoff: 15:00:00.
+          8:
+            title: Bournemouth vs Newcastle
+            originally_available: 2024-08-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s2/e8.jpg
+            summary: >
+              Matchweek 2 fixture at Vitality Stadium (England). Scheduled date: August 25, 2024. Local kickoff:
+              14:00:00.
+          9:
+            title: Liverpool vs Brentford
+            originally_available: 2024-08-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s2/e9.jpg
+            summary: >
+              Matchweek 2 fixture at Anfield (England). Scheduled date: August 25, 2024. Local kickoff: 16:30:00.
+          10:
+            title: Wolves vs Chelsea
+            originally_available: 2024-08-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s2/e10.jpg
+            summary: >
+              Matchweek 2 fixture at Molineux Stadium (England). Scheduled date: August 25, 2024. Local kickoff:
+              14:00:00.
+      3:
+        title: Matchweek 3
+        sort_title: 03_Matchweek 3
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s3/poster.jpg
+        summary: >
+          Matchweek 3 spans August 31 - September 1, 2024 with 10 fixtures recorded in TheSportsDB feed for
+          the 2024-2025 Premier League campaign.
+        episodes:
+          1:
+            title: Arsenal vs Brighton
+            originally_available: 2024-08-31
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s3/e1.jpg
+            summary: >
+              Matchweek 3 fixture at Emirates Stadium (England). Scheduled date: August 31, 2024. Local kickoff:
+              12:30:00.
+          2:
+            title: Brentford vs Southampton
+            originally_available: 2024-08-31
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s3/e2.jpg
+            summary: >
+              Matchweek 3 fixture at Brentford Community Stadium (England). Scheduled date: August 31, 2024. Local
+              kickoff: 15:00:00.
+          3:
+            title: Everton vs Bournemouth
+            originally_available: 2024-08-31
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s3/e3.jpg
+            summary: >
+              Matchweek 3 fixture at Goodison Park (England). Scheduled date: August 31, 2024. Local kickoff:
+              15:00:00.
+          4:
+            title: Ipswich vs Fulham
+            originally_available: 2024-08-31
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s3/e4.jpg
+            summary: >
+              Matchweek 3 fixture at Portman Road (England). Scheduled date: August 31, 2024. Local kickoff:
+              15:00:00.
+          5:
+            title: Leicester vs Aston Villa
+            originally_available: 2024-08-31
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s3/e5.jpg
+            summary: >
+              Matchweek 3 fixture at King Power Stadium (England). Scheduled date: August 31, 2024. Local kickoff:
+              15:00:00.
+          6:
+            title: Nottingham Forest vs Wolves
+            originally_available: 2024-08-31
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s3/e6.jpg
+            summary: >
+              Matchweek 3 fixture at City Ground (England). Scheduled date: August 31, 2024. Local kickoff:
+              15:00:00.
+          7:
+            title: West Ham vs Manchester City
+            originally_available: 2024-08-31
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s3/e7.jpg
+            summary: >
+              Matchweek 3 fixture at London Stadium (England). Scheduled date: August 31, 2024. Local kickoff:
+              17:30:00.
+          8:
+            title: Chelsea vs Crystal Palace
+            originally_available: 2024-09-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s3/e8.jpg
+            summary: >
+              Matchweek 3 fixture at Stamford Bridge (England). Scheduled date: September 01, 2024. Local kickoff:
+              13:30:00.
+          9:
+            title: Manchester United vs Liverpool
+            originally_available: 2024-09-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s3/e9.jpg
+            summary: >
+              Matchweek 3 fixture at Old Trafford (England). Scheduled date: September 01, 2024. Local kickoff:
+              16:00:00.
+          10:
+            title: Newcastle vs Tottenham
+            originally_available: 2024-09-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s3/e10.jpg
+            summary: >
+              Matchweek 3 fixture at St James Park (England). Scheduled date: September 01, 2024. Local kickoff:
+              13:30:00.
+      4:
+        title: Matchweek 4
+        sort_title: 04_Matchweek 4
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s4/poster.jpg
+        summary: >
+          Matchweek 4 spans September 14-15, 2024 with 10 fixtures recorded in TheSportsDB feed for the
+          2024-2025 Premier League campaign.
+        episodes:
+          1:
+            title: Aston Villa vs Everton
+            originally_available: 2024-09-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s4/e1.jpg
+            summary: >
+              Matchweek 4 fixture at Villa Park (England). Scheduled date: September 14, 2024. Local kickoff:
+              17:30:00.
+          2:
+            title: Bournemouth vs Chelsea
+            originally_available: 2024-09-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s4/e2.jpg
+            summary: >
+              Matchweek 4 fixture at Vitality Stadium (England). Scheduled date: September 14, 2024. Local
+              kickoff: 20:00:00.
+          3:
+            title: Brighton vs Ipswich
+            originally_available: 2024-09-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s4/e3.jpg
+            summary: >
+              Matchweek 4 fixture at Amex Stadium (England). Scheduled date: September 14, 2024. Local kickoff:
+              15:00:00.
+          4:
+            title: Crystal Palace vs Leicester
+            originally_available: 2024-09-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s4/e4.jpg
+            summary: >
+              Matchweek 4 fixture at Selhurst Park (England). Scheduled date: September 14, 2024. Local kickoff:
+              15:00:00.
+          5:
+            title: Fulham vs West Ham
+            originally_available: 2024-09-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s4/e5.jpg
+            summary: >
+              Matchweek 4 fixture at Craven Cottage (England). Scheduled date: September 14, 2024. Local kickoff:
+              15:00:00.
+          6:
+            title: Liverpool vs Nottingham Forest
+            originally_available: 2024-09-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s4/e6.jpg
+            summary: >
+              Matchweek 4 fixture at Anfield (England). Scheduled date: September 14, 2024. Local kickoff:
+              15:00:00.
+          7:
+            title: Manchester City vs Brentford
+            originally_available: 2024-09-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s4/e7.jpg
+            summary: >
+              Matchweek 4 fixture at Etihad Stadium (England). Scheduled date: September 14, 2024. Local kickoff:
+              15:00:00.
+          8:
+            title: Southampton vs Manchester United
+            originally_available: 2024-09-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s4/e8.jpg
+            summary: >
+              Matchweek 4 fixture at St. Mary (England). Scheduled date: September 14, 2024. Local kickoff:
+              12:30:00.
+          9:
+            title: Tottenham vs Arsenal
+            originally_available: 2024-09-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s4/e9.jpg
+            summary: >
+              Matchweek 4 fixture at Tottenham Hotspur Stadium (England). Scheduled date: September 15, 2024.
+              Local kickoff: 14:00:00.
+          10:
+            title: Wolves vs Newcastle
+            originally_available: 2024-09-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s4/e10.jpg
+            summary: >
+              Matchweek 4 fixture at Molineux Stadium (England). Scheduled date: September 15, 2024. Local
+              kickoff: 16:30:00.
+      5:
+        title: Matchweek 5
+        sort_title: 05_Matchweek 5
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s5/poster.jpg
+        summary: >
+          Matchweek 5 spans September 21-22, 2024 with 10 fixtures recorded in TheSportsDB feed for the
+          2024-2025 Premier League campaign.
+        episodes:
+          1:
+            title: Aston Villa vs Wolves
+            originally_available: 2024-09-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s5/e1.jpg
+            summary: >
+              Matchweek 5 fixture at Villa Park (England). Scheduled date: September 21, 2024. Local kickoff:
+              15:00:00.
+          2:
+            title: Crystal Palace vs Manchester United
+            originally_available: 2024-09-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s5/e2.jpg
+            summary: >
+              Matchweek 5 fixture at Selhurst Park (England). Scheduled date: September 21, 2024. Local kickoff:
+              17:30:00.
+          3:
+            title: Fulham vs Newcastle
+            originally_available: 2024-09-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s5/e3.jpg
+            summary: >
+              Matchweek 5 fixture at Craven Cottage (England). Scheduled date: September 21, 2024. Local kickoff:
+              15:00:00.
+          4:
+            title: Leicester vs Everton
+            originally_available: 2024-09-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s5/e4.jpg
+            summary: >
+              Matchweek 5 fixture at King Power Stadium (England). Scheduled date: September 21, 2024. Local
+              kickoff: 15:00:00.
+          5:
+            title: Liverpool vs Bournemouth
+            originally_available: 2024-09-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s5/e5.jpg
+            summary: >
+              Matchweek 5 fixture at Anfield (England). Scheduled date: September 21, 2024. Local kickoff:
+              15:00:00.
+          6:
+            title: Southampton vs Ipswich
+            originally_available: 2024-09-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s5/e6.jpg
+            summary: >
+              Matchweek 5 fixture at St. Mary (England). Scheduled date: September 21, 2024. Local kickoff:
+              15:00:00.
+          7:
+            title: Tottenham vs Brentford
+            originally_available: 2024-09-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s5/e7.jpg
+            summary: >
+              Matchweek 5 fixture at Tottenham Hotspur Stadium (England). Scheduled date: September 21, 2024.
+              Local kickoff: 15:00:00.
+          8:
+            title: West Ham vs Chelsea
+            originally_available: 2024-09-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s5/e8.jpg
+            summary: >
+              Matchweek 5 fixture at London Stadium (England). Scheduled date: September 21, 2024. Local kickoff:
+              12:30:00.
+          9:
+            title: Brighton vs Nottingham Forest
+            originally_available: 2024-09-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s5/e9.jpg
+            summary: >
+              Matchweek 5 fixture at Amex Stadium (England). Scheduled date: September 22, 2024. Local kickoff:
+              14:00:00.
+          10:
+            title: Manchester City vs Arsenal
+            originally_available: 2024-09-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s5/e10.jpg
+            summary: >
+              Matchweek 5 fixture at Etihad Stadium (England). Scheduled date: September 22, 2024. Local kickoff:
+              16:30:00.
+      6:
+        title: Matchweek 6
+        sort_title: 06_Matchweek 6
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s6/poster.jpg
+        summary: >
+          Matchweek 6 spans September 28-30, 2024 with 10 fixtures recorded in TheSportsDB feed for the
+          2024-2025 Premier League campaign.
+        episodes:
+          1:
+            title: Arsenal vs Leicester
+            originally_available: 2024-09-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s6/e1.jpg
+            summary: >
+              Matchweek 6 fixture at Emirates Stadium (England). Scheduled date: September 28, 2024. Local
+              kickoff: 15:00:00.
+          2:
+            title: Brentford vs West Ham
+            originally_available: 2024-09-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s6/e2.jpg
+            summary: >
+              Matchweek 6 fixture at Brentford Community Stadium (England). Scheduled date: September 28, 2024.
+              Local kickoff: 15:00:00.
+          3:
+            title: Chelsea vs Brighton
+            originally_available: 2024-09-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s6/e3.jpg
+            summary: >
+              Matchweek 6 fixture at Stamford Bridge (England). Scheduled date: September 28, 2024. Local kickoff:
+              15:00:00.
+          4:
+            title: Everton vs Crystal Palace
+            originally_available: 2024-09-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s6/e4.jpg
+            summary: >
+              Matchweek 6 fixture at Goodison Park (England). Scheduled date: September 28, 2024. Local kickoff:
+              15:00:00.
+          5:
+            title: Newcastle vs Manchester City
+            originally_available: 2024-09-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s6/e5.jpg
+            summary: >
+              Matchweek 6 fixture at St James Park (England). Scheduled date: September 28, 2024. Local kickoff:
+              12:30:00.
+          6:
+            title: Nottingham Forest vs Fulham
+            originally_available: 2024-09-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s6/e6.jpg
+            summary: >
+              Matchweek 6 fixture at City Ground (England). Scheduled date: September 28, 2024. Local kickoff:
+              15:00:00.
+          7:
+            title: Wolves vs Liverpool
+            originally_available: 2024-09-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s6/e7.jpg
+            summary: >
+              Matchweek 6 fixture at Molineux Stadium (England). Scheduled date: September 28, 2024. Local
+              kickoff: 17:30:00.
+          8:
+            title: Ipswich vs Aston Villa
+            originally_available: 2024-09-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s6/e8.jpg
+            summary: >
+              Matchweek 6 fixture at Portman Road (England). Scheduled date: September 29, 2024. Local kickoff:
+              14:00:00.
+          9:
+            title: Manchester United vs Tottenham
+            originally_available: 2024-09-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s6/e9.jpg
+            summary: >
+              Matchweek 6 fixture at Old Trafford (England). Scheduled date: September 29, 2024. Local kickoff:
+              16:30:00.
+          10:
+            title: Bournemouth vs Southampton
+            originally_available: 2024-09-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s6/e10.jpg
+            summary: >
+              Matchweek 6 fixture at Vitality Stadium (England). Scheduled date: September 30, 2024. Local
+              kickoff: 20:00:00.
+      7:
+        title: Matchweek 7
+        sort_title: 07_Matchweek 7
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s7/poster.jpg
+        summary: >
+          Matchweek 7 spans October 5-6, 2024 with 10 fixtures recorded in TheSportsDB feed for the 2024-2025
+          Premier League campaign.
+        episodes:
+          1:
+            title: Arsenal vs Southampton
+            originally_available: 2024-10-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s7/e1.jpg
+            summary: >
+              Matchweek 7 fixture at Emirates Stadium (England). Scheduled date: October 05, 2024. Local kickoff:
+              15:00:00.
+          2:
+            title: Brentford vs Wolves
+            originally_available: 2024-10-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s7/e2.jpg
+            summary: >
+              Matchweek 7 fixture at Brentford Community Stadium (England). Scheduled date: October 05, 2024.
+              Local kickoff: 15:00:00.
+          3:
+            title: Crystal Palace vs Liverpool
+            originally_available: 2024-10-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s7/e3.jpg
+            summary: >
+              Matchweek 7 fixture at Selhurst Park (England). Scheduled date: October 05, 2024. Local kickoff:
+              12:30:00.
+          4:
+            title: Everton vs Newcastle
+            originally_available: 2024-10-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s7/e4.jpg
+            summary: >
+              Matchweek 7 fixture at Goodison Park (England). Scheduled date: October 05, 2024. Local kickoff:
+              17:30:00.
+          5:
+            title: Leicester vs Bournemouth
+            originally_available: 2024-10-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s7/e5.jpg
+            summary: >
+              Matchweek 7 fixture at King Power Stadium (England). Scheduled date: October 05, 2024. Local
+              kickoff: 15:00:00.
+          6:
+            title: Manchester City vs Fulham
+            originally_available: 2024-10-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s7/e6.jpg
+            summary: >
+              Matchweek 7 fixture at Etihad Stadium (England). Scheduled date: October 05, 2024. Local kickoff:
+              15:00:00.
+          7:
+            title: West Ham vs Ipswich
+            originally_available: 2024-10-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s7/e7.jpg
+            summary: >
+              Matchweek 7 fixture at London Stadium (England). Scheduled date: October 05, 2024. Local kickoff:
+              15:00:00.
+          8:
+            title: Aston Villa vs Manchester United
+            originally_available: 2024-10-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s7/e8.jpg
+            summary: >
+              Matchweek 7 fixture at Villa Park (England). Scheduled date: October 06, 2024. Local kickoff:
+              14:00:00.
+          9:
+            title: Brighton vs Tottenham
+            originally_available: 2024-10-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s7/e9.jpg
+            summary: >
+              Matchweek 7 fixture at Amex Stadium (England). Scheduled date: October 06, 2024. Local kickoff:
+              16:30:00.
+          10:
+            title: Chelsea vs Nottingham Forest
+            originally_available: 2024-10-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s7/e10.jpg
+            summary: >
+              Matchweek 7 fixture at Stamford Bridge (England). Scheduled date: October 06, 2024. Local kickoff:
+              14:00:00.
+      8:
+        title: Matchweek 8
+        sort_title: 08_Matchweek 8
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s8/poster.jpg
+        summary: >
+          Matchweek 8 spans October 19-21, 2024 with 10 fixtures recorded in TheSportsDB feed for the
+          2024-2025 Premier League campaign.
+        episodes:
+          1:
+            title: Bournemouth vs Arsenal
+            originally_available: 2024-10-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s8/e1.jpg
+            summary: >
+              Matchweek 8 fixture at Vitality Stadium (England). Scheduled date: October 19, 2024. Local kickoff:
+              17:30:00.
+          2:
+            title: Fulham vs Aston Villa
+            originally_available: 2024-10-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s8/e2.jpg
+            summary: >
+              Matchweek 8 fixture at Craven Cottage (England). Scheduled date: October 19, 2024. Local kickoff:
+              15:00:00.
+          3:
+            title: Ipswich vs Everton
+            originally_available: 2024-10-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s8/e3.jpg
+            summary: >
+              Matchweek 8 fixture at Portman Road (England). Scheduled date: October 19, 2024. Local kickoff:
+              15:00:00.
+          4:
+            title: Manchester United vs Brentford
+            originally_available: 2024-10-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s8/e4.jpg
+            summary: >
+              Matchweek 8 fixture at Old Trafford (England). Scheduled date: October 19, 2024. Local kickoff:
+              15:00:00.
+          5:
+            title: Newcastle vs Brighton
+            originally_available: 2024-10-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s8/e5.jpg
+            summary: >
+              Matchweek 8 fixture at St James Park (England). Scheduled date: October 19, 2024. Local kickoff:
+              15:00:00.
+          6:
+            title: Southampton vs Leicester
+            originally_available: 2024-10-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s8/e6.jpg
+            summary: >
+              Matchweek 8 fixture at St. Mary (England). Scheduled date: October 19, 2024. Local kickoff:
+              15:00:00.
+          7:
+            title: Tottenham vs West Ham
+            originally_available: 2024-10-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s8/e7.jpg
+            summary: >
+              Matchweek 8 fixture at Tottenham Hotspur Stadium (England). Scheduled date: October 19, 2024. Local
+              kickoff: 12:30:00.
+          8:
+            title: Liverpool vs Chelsea
+            originally_available: 2024-10-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s8/e8.jpg
+            summary: >
+              Matchweek 8 fixture at Anfield (England). Scheduled date: October 20, 2024. Local kickoff: 16:30:00.
+          9:
+            title: Wolves vs Manchester City
+            originally_available: 2024-10-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s8/e9.jpg
+            summary: >
+              Matchweek 8 fixture at Molineux Stadium (England). Scheduled date: October 20, 2024. Local kickoff:
+              14:00:00.
+          10:
+            title: Nottingham Forest vs Crystal Palace
+            originally_available: 2024-10-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s8/e10.jpg
+            summary: >
+              Matchweek 8 fixture at City Ground (England). Scheduled date: October 21, 2024. Local kickoff:
+              20:00:00.
+      9:
+        title: Matchweek 9
+        sort_title: 09_Matchweek 9
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s9/poster.jpg
+        summary: >
+          Matchweek 9 spans October 25-27, 2024 with 10 fixtures recorded in TheSportsDB feed for the
+          2024-2025 Premier League campaign.
+        episodes:
+          1:
+            title: Leicester vs Nottingham Forest
+            originally_available: 2024-10-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s9/e1.jpg
+            summary: >
+              Matchweek 9 fixture at King Power Stadium (England). Scheduled date: October 25, 2024. Local
+              kickoff: 20:00:00.
+          2:
+            title: Aston Villa vs Bournemouth
+            originally_available: 2024-10-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s9/e2.jpg
+            summary: >
+              Matchweek 9 fixture at Villa Park (England). Scheduled date: October 26, 2024. Local kickoff:
+              15:00:00.
+          3:
+            title: Brentford vs Ipswich
+            originally_available: 2024-10-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s9/e3.jpg
+            summary: >
+              Matchweek 9 fixture at Brentford Community Stadium (England). Scheduled date: October 26, 2024.
+              Local kickoff: 15:00:00.
+          4:
+            title: Brighton vs Wolves
+            originally_available: 2024-10-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s9/e4.jpg
+            summary: >
+              Matchweek 9 fixture at Amex Stadium (England). Scheduled date: October 26, 2024. Local kickoff:
+              15:00:00.
+          5:
+            title: Everton vs Fulham
+            originally_available: 2024-10-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s9/e5.jpg
+            summary: >
+              Matchweek 9 fixture at Goodison Park (England). Scheduled date: October 26, 2024. Local kickoff:
+              17:30:00.
+          6:
+            title: Manchester City vs Southampton
+            originally_available: 2024-10-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s9/e6.jpg
+            summary: >
+              Matchweek 9 fixture at Etihad Stadium (England). Scheduled date: October 26, 2024. Local kickoff:
+              15:00:00.
+          7:
+            title: Arsenal vs Liverpool
+            originally_available: 2024-10-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s9/e7.jpg
+            summary: >
+              Matchweek 9 fixture at Emirates Stadium (England). Scheduled date: October 27, 2024. Local kickoff:
+              16:30:00.
+          8:
+            title: Chelsea vs Newcastle
+            originally_available: 2024-10-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s9/e8.jpg
+            summary: >
+              Matchweek 9 fixture at Stamford Bridge (England). Scheduled date: October 27, 2024. Local kickoff:
+              14:00:00.
+          9:
+            title: Crystal Palace vs Tottenham
+            originally_available: 2024-10-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s9/e9.jpg
+            summary: >
+              Matchweek 9 fixture at Selhurst Park (England). Scheduled date: October 27, 2024. Local kickoff:
+              14:00:00.
+          10:
+            title: West Ham vs Manchester United
+            originally_available: 2024-10-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s9/e10.jpg
+            summary: >
+              Matchweek 9 fixture at London Stadium (England). Scheduled date: October 27, 2024. Local kickoff:
+              14:00:00.
+      10:
+        title: Matchweek 10
+        sort_title: 10_Matchweek 10
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s10/poster.jpg
+        summary: >
+          Matchweek 10 spans November 2-4, 2024 with 10 fixtures recorded in TheSportsDB feed for the
+          2024-2025 Premier League campaign.
+        episodes:
+          1:
+            title: Bournemouth vs Manchester City
+            originally_available: 2024-11-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s10/e1.jpg
+            summary: >
+              Matchweek 10 fixture at Vitality Stadium (England). Scheduled date: November 02, 2024. Local
+              kickoff: 15:00:00.
+          2:
+            title: Ipswich vs Leicester
+            originally_available: 2024-11-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s10/e2.jpg
+            summary: >
+              Matchweek 10 fixture at Portman Road (England). Scheduled date: November 02, 2024. Local kickoff:
+              15:00:00.
+          3:
+            title: Liverpool vs Brighton
+            originally_available: 2024-11-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s10/e3.jpg
+            summary: >
+              Matchweek 10 fixture at Anfield (England). Scheduled date: November 02, 2024. Local kickoff:
+              15:00:00.
+          4:
+            title: Newcastle vs Arsenal
+            originally_available: 2024-11-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s10/e4.jpg
+            summary: >
+              Matchweek 10 fixture at St James Park (England). Scheduled date: November 02, 2024. Local kickoff:
+              12:30:00.
+          5:
+            title: Nottingham Forest vs West Ham
+            originally_available: 2024-11-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s10/e5.jpg
+            summary: >
+              Matchweek 10 fixture at City Ground (England). Scheduled date: November 02, 2024. Local kickoff:
+              15:00:00.
+          6:
+            title: Southampton vs Everton
+            originally_available: 2024-11-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s10/e6.jpg
+            summary: >
+              Matchweek 10 fixture at St. Mary (England). Scheduled date: November 02, 2024. Local kickoff:
+              15:00:00.
+          7:
+            title: Wolves vs Crystal Palace
+            originally_available: 2024-11-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s10/e7.jpg
+            summary: >
+              Matchweek 10 fixture at Molineux Stadium (England). Scheduled date: November 02, 2024. Local
+              kickoff: 17:30:00.
+          8:
+            title: Manchester United vs Chelsea
+            originally_available: 2024-11-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s10/e8.jpg
+            summary: >
+              Matchweek 10 fixture at Old Trafford (England). Scheduled date: November 03, 2024. Local kickoff:
+              16:30:00.
+          9:
+            title: Tottenham vs Aston Villa
+            originally_available: 2024-11-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s10/e9.jpg
+            summary: >
+              Matchweek 10 fixture at Tottenham Hotspur Stadium (England). Scheduled date: November 03, 2024.
+              Local kickoff: 14:00:00.
+          10:
+            title: Fulham vs Brentford
+            originally_available: 2024-11-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s10/e10.jpg
+            summary: >
+              Matchweek 10 fixture at Craven Cottage (England). Scheduled date: November 04, 2024. Local kickoff:
+              20:00:00.
+      11:
+        title: Matchweek 11
+        sort_title: 11_Matchweek 11
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s11/poster.jpg
+        summary: >
+          Matchweek 11 spans November 9-10, 2024 with 10 fixtures recorded in TheSportsDB feed for the
+          2024-2025 Premier League campaign.
+        episodes:
+          1:
+            title: Brentford vs Bournemouth
+            originally_available: 2024-11-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s11/e1.jpg
+            summary: >
+              Matchweek 11 fixture at Brentford Community Stadium (England). Scheduled date: November 09, 2024.
+              Local kickoff: 15:00:00.
+          2:
+            title: Brighton vs Manchester City
+            originally_available: 2024-11-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s11/e2.jpg
+            summary: >
+              Matchweek 11 fixture at Amex Stadium (England). Scheduled date: November 09, 2024. Local kickoff:
+              17:30:00.
+          3:
+            title: Crystal Palace vs Fulham
+            originally_available: 2024-11-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s11/e3.jpg
+            summary: >
+              Matchweek 11 fixture at Selhurst Park (England). Scheduled date: November 09, 2024. Local kickoff:
+              15:00:00.
+          4:
+            title: Liverpool vs Aston Villa
+            originally_available: 2024-11-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s11/e4.jpg
+            summary: >
+              Matchweek 11 fixture at Anfield (England). Scheduled date: November 09, 2024. Local kickoff:
+              20:00:00.
+          5:
+            title: West Ham vs Everton
+            originally_available: 2024-11-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s11/e5.jpg
+            summary: >
+              Matchweek 11 fixture at London Stadium (England). Scheduled date: November 09, 2024. Local kickoff:
+              15:00:00.
+          6:
+            title: Wolves vs Southampton
+            originally_available: 2024-11-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s11/e6.jpg
+            summary: >
+              Matchweek 11 fixture at Molineux Stadium (England). Scheduled date: November 09, 2024. Local
+              kickoff: 15:00:00.
+          7:
+            title: Chelsea vs Arsenal
+            originally_available: 2024-11-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s11/e7.jpg
+            summary: >
+              Matchweek 11 fixture at Stamford Bridge (England). Scheduled date: November 10, 2024. Local kickoff:
+              16:30:00.
+          8:
+            title: Manchester United vs Leicester
+            originally_available: 2024-11-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s11/e8.jpg
+            summary: >
+              Matchweek 11 fixture at Old Trafford (England). Scheduled date: November 10, 2024. Local kickoff:
+              14:00:00.
+          9:
+            title: Nottingham Forest vs Newcastle
+            originally_available: 2024-11-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s11/e9.jpg
+            summary: >
+              Matchweek 11 fixture at City Ground (England). Scheduled date: November 10, 2024. Local kickoff:
+              14:00:00.
+          10:
+            title: Tottenham vs Ipswich
+            originally_available: 2024-11-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s11/e10.jpg
+            summary: >
+              Matchweek 11 fixture at Tottenham Hotspur Stadium (England). Scheduled date: November 10, 2024.
+              Local kickoff: 14:00:00.
+      12:
+        title: Matchweek 12
+        sort_title: 12_Matchweek 12
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s12/poster.jpg
+        summary: >
+          Matchweek 12 spans November 23-25, 2024 with 10 fixtures recorded in TheSportsDB feed for the
+          2024-2025 Premier League campaign.
+        episodes:
+          1:
+            title: Arsenal vs Nottingham Forest
+            originally_available: 2024-11-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s12/e1.jpg
+            summary: >
+              Matchweek 12 fixture at Emirates Stadium (England). Scheduled date: November 23, 2024. Local
+              kickoff: 15:00:00.
+          2:
+            title: Aston Villa vs Crystal Palace
+            originally_available: 2024-11-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s12/e2.jpg
+            summary: >
+              Matchweek 12 fixture at Villa Park (England). Scheduled date: November 23, 2024. Local kickoff:
+              15:00:00.
+          3:
+            title: Bournemouth vs Brighton
+            originally_available: 2024-11-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s12/e3.jpg
+            summary: >
+              Matchweek 12 fixture at Vitality Stadium (England). Scheduled date: November 23, 2024. Local
+              kickoff: 15:00:00.
+          4:
+            title: Everton vs Brentford
+            originally_available: 2024-11-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s12/e4.jpg
+            summary: >
+              Matchweek 12 fixture at Goodison Park (England). Scheduled date: November 23, 2024. Local kickoff:
+              15:00:00.
+          5:
+            title: Fulham vs Wolves
+            originally_available: 2024-11-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s12/e5.jpg
+            summary: >
+              Matchweek 12 fixture at Craven Cottage (England). Scheduled date: November 23, 2024. Local kickoff:
+              15:00:00.
+          6:
+            title: Leicester vs Chelsea
+            originally_available: 2024-11-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s12/e6.jpg
+            summary: >
+              Matchweek 12 fixture at King Power Stadium (England). Scheduled date: November 23, 2024. Local
+              kickoff: 12:30:00.
+          7:
+            title: Manchester City vs Tottenham
+            originally_available: 2024-11-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s12/e7.jpg
+            summary: >
+              Matchweek 12 fixture at Etihad Stadium (England). Scheduled date: November 23, 2024. Local kickoff:
+              17:30:00.
+          8:
+            title: Ipswich vs Manchester United
+            originally_available: 2024-11-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s12/e8.jpg
+            summary: >
+              Matchweek 12 fixture at Portman Road (England). Scheduled date: November 24, 2024. Local kickoff:
+              16:30:00.
+          9:
+            title: Southampton vs Liverpool
+            originally_available: 2024-11-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s12/e9.jpg
+            summary: >
+              Matchweek 12 fixture at St. Mary (England). Scheduled date: November 24, 2024. Local kickoff:
+              14:00:00.
+          10:
+            title: Newcastle vs West Ham
+            originally_available: 2024-11-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s12/e10.jpg
+            summary: >
+              Matchweek 12 fixture at St James Park (England). Scheduled date: November 25, 2024. Local kickoff:
+              20:00:00.
+      13:
+        title: Matchweek 13
+        sort_title: 13_Matchweek 13
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s13/poster.jpg
+        summary: >
+          Matchweek 13 spans November 29 - December 1, 2024 with 10 fixtures recorded in TheSportsDB feed for
+          the 2024-2025 Premier League campaign.
+        episodes:
+          1:
+            title: Brighton vs Southampton
+            originally_available: 2024-11-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s13/e1.jpg
+            summary: >
+              Matchweek 13 fixture at Amex Stadium (England). Scheduled date: November 29, 2024. Local kickoff:
+              20:00:00.
+          2:
+            title: Brentford vs Leicester
+            originally_available: 2024-11-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s13/e2.jpg
+            summary: >
+              Matchweek 13 fixture at Brentford Community Stadium (England). Scheduled date: November 30, 2024.
+              Local kickoff: 15:00:00.
+          3:
+            title: Crystal Palace vs Newcastle
+            originally_available: 2024-11-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s13/e3.jpg
+            summary: >
+              Matchweek 13 fixture at Selhurst Park (England). Scheduled date: November 30, 2024. Local kickoff:
+              15:00:00.
+          4:
+            title: Nottingham Forest vs Ipswich
+            originally_available: 2024-11-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s13/e4.jpg
+            summary: >
+              Matchweek 13 fixture at City Ground (England). Scheduled date: November 30, 2024. Local kickoff:
+              15:00:00.
+          5:
+            title: West Ham vs Arsenal
+            originally_available: 2024-11-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s13/e5.jpg
+            summary: >
+              Matchweek 13 fixture at London Stadium (England). Scheduled date: November 30, 2024. Local kickoff:
+              17:30:00.
+          6:
+            title: Wolves vs Bournemouth
+            originally_available: 2024-11-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s13/e6.jpg
+            summary: >
+              Matchweek 13 fixture at Molineux Stadium (England). Scheduled date: November 30, 2024. Local
+              kickoff: 15:00:00.
+          7:
+            title: Chelsea vs Aston Villa
+            originally_available: 2024-12-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s13/e7.jpg
+            summary: >
+              Matchweek 13 fixture at Stamford Bridge (England). Scheduled date: December 01, 2024. Local kickoff:
+              13:30:00.
+          8:
+            title: Liverpool vs Manchester City
+            originally_available: 2024-12-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s13/e8.jpg
+            summary: >
+              Matchweek 13 fixture at Anfield (England). Scheduled date: December 01, 2024. Local kickoff:
+              16:00:00.
+          9:
+            title: Manchester United vs Everton
+            originally_available: 2024-12-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s13/e9.jpg
+            summary: >
+              Matchweek 13 fixture at Old Trafford (England). Scheduled date: December 01, 2024. Local kickoff:
+              13:30:00.
+          10:
+            title: Tottenham vs Fulham
+            originally_available: 2024-12-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s13/e10.jpg
+            summary: >
+              Matchweek 13 fixture at Tottenham Hotspur Stadium (England). Scheduled date: December 01, 2024.
+              Local kickoff: 13:30:00.
+      14:
+        title: Matchweek 14
+        sort_title: 14_Matchweek 14
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s14/poster.jpg
+        summary: >
+          Matchweek 14 spans December 3-5, 2024 with 10 fixtures recorded in TheSportsDB feed for the
+          2024-2025 Premier League campaign.
+        episodes:
+          1:
+            title: Ipswich vs Crystal Palace
+            originally_available: 2024-12-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s14/e1.jpg
+            summary: >
+              Matchweek 14 fixture at Portman Road (England). Scheduled date: December 03, 2024. Local kickoff:
+              19:30:00.
+          2:
+            title: Leicester vs West Ham
+            originally_available: 2024-12-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s14/e2.jpg
+            summary: >
+              Matchweek 14 fixture at King Power Stadium (England). Scheduled date: December 03, 2024. Local
+              kickoff: 20:15:00.
+          3:
+            title: Arsenal vs Manchester United
+            originally_available: 2024-12-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s14/e3.jpg
+            summary: >
+              Matchweek 14 fixture at Emirates Stadium (England). Scheduled date: December 04, 2024. Local
+              kickoff: 20:15:00.
+          4:
+            title: Aston Villa vs Brentford
+            originally_available: 2024-12-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s14/e4.jpg
+            summary: >
+              Matchweek 14 fixture at Villa Park (England). Scheduled date: December 04, 2024. Local kickoff:
+              20:15:00.
+          5:
+            title: Everton vs Wolves
+            originally_available: 2024-12-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s14/e5.jpg
+            summary: >
+              Matchweek 14 fixture at Goodison Park (England). Scheduled date: December 04, 2024. Local kickoff:
+              19:30:00.
+          6:
+            title: Manchester City vs Nottingham Forest
+            originally_available: 2024-12-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s14/e6.jpg
+            summary: >
+              Matchweek 14 fixture at Etihad Stadium (England). Scheduled date: December 04, 2024. Local kickoff:
+              19:30:00.
+          7:
+            title: Newcastle vs Liverpool
+            originally_available: 2024-12-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s14/e7.jpg
+            summary: >
+              Matchweek 14 fixture at St James Park (England). Scheduled date: December 04, 2024. Local kickoff:
+              19:30:00.
+          8:
+            title: Southampton vs Chelsea
+            originally_available: 2024-12-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s14/e8.jpg
+            summary: >
+              Matchweek 14 fixture at St. Mary (England). Scheduled date: December 04, 2024. Local kickoff:
+              19:30:00.
+          9:
+            title: Bournemouth vs Tottenham
+            originally_available: 2024-12-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s14/e9.jpg
+            summary: >
+              Matchweek 14 fixture at Vitality Stadium (England). Scheduled date: December 05, 2024. Local
+              kickoff: 20:15:00.
+          10:
+            title: Fulham vs Brighton
+            originally_available: 2024-12-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s14/e10.jpg
+            summary: >
+              Matchweek 14 fixture at Craven Cottage (England). Scheduled date: December 05, 2024. Local kickoff:
+              19:30:00.
+      15:
+        title: Matchweek 15
+        sort_title: 15_Matchweek 15
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s15/poster.jpg
+        summary: >
+          Matchweek 15 spans December 7, 2024 - February 12, 2025 with 10 fixtures recorded in TheSportsDB
+          feed for the 2024-2025 Premier League campaign.
+        episodes:
+          1:
+            title: Aston Villa vs Southampton
+            originally_available: 2024-12-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s15/e1.jpg
+            summary: >
+              Matchweek 15 fixture at Villa Park (England). Scheduled date: December 07, 2024. Local kickoff:
+              15:00:00.
+          2:
+            title: Brentford vs Newcastle
+            originally_available: 2024-12-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s15/e2.jpg
+            summary: >
+              Matchweek 15 fixture at Brentford Community Stadium (England). Scheduled date: December 07, 2024.
+              Local kickoff: 15:00:00.
+          3:
+            title: Crystal Palace vs Manchester City
+            originally_available: 2024-12-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s15/e3.jpg
+            summary: >
+              Matchweek 15 fixture at Selhurst Park (England). Scheduled date: December 07, 2024. Local kickoff:
+              15:00:00.
+          4:
+            title: Manchester United vs Nottingham Forest
+            originally_available: 2024-12-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s15/e4.jpg
+            summary: >
+              Matchweek 15 fixture at Old Trafford (England). Scheduled date: December 07, 2024. Local kickoff:
+              17:30:00.
+          5:
+            title: Fulham vs Arsenal
+            originally_available: 2024-12-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s15/e5.jpg
+            summary: >
+              Matchweek 15 fixture at Craven Cottage (England). Scheduled date: December 08, 2024. Local kickoff:
+              14:00:00.
+          6:
+            title: Ipswich vs Bournemouth
+            originally_available: 2024-12-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s15/e6.jpg
+            summary: >
+              Matchweek 15 fixture at Portman Road (England). Scheduled date: December 08, 2024. Local kickoff:
+              14:00:00.
+          7:
+            title: Leicester vs Brighton
+            originally_available: 2024-12-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s15/e7.jpg
+            summary: >
+              Matchweek 15 fixture at King Power Stadium (England). Scheduled date: December 08, 2024. Local
+              kickoff: 14:00:00.
+          8:
+            title: Tottenham vs Chelsea
+            originally_available: 2024-12-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s15/e8.jpg
+            summary: >
+              Matchweek 15 fixture at Tottenham Hotspur Stadium (England). Scheduled date: December 08, 2024.
+              Local kickoff: 16:30:00.
+          9:
+            title: West Ham vs Wolves
+            originally_available: 2024-12-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s15/e9.jpg
+            summary: >
+              Matchweek 15 fixture at London Stadium (England). Scheduled date: December 09, 2024. Local kickoff:
+              20:00:00.
+          10:
+            title: Everton vs Liverpool
+            originally_available: 2025-02-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s15/e10.jpg
+            summary: >
+              Matchweek 15 fixture at Goodison Park (England). Scheduled date: February 12, 2025. Local kickoff:
+              19:30:00.
+      16:
+        title: Matchweek 16
+        sort_title: 16_Matchweek 16
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s16/poster.jpg
+        summary: >
+          Matchweek 16 spans December 14-16, 2024 with 10 fixtures recorded in TheSportsDB feed for the
+          2024-2025 Premier League campaign.
+        episodes:
+          1:
+            title: Arsenal vs Everton
+            originally_available: 2024-12-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s16/e1.jpg
+            summary: >
+              Matchweek 16 fixture at Emirates Stadium (England). Scheduled date: December 14, 2024. Local
+              kickoff: 15:00:00.
+          2:
+            title: Liverpool vs Fulham
+            originally_available: 2024-12-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s16/e2.jpg
+            summary: >
+              Matchweek 16 fixture at Anfield (England). Scheduled date: December 14, 2024. Local kickoff:
+              15:00:00.
+          3:
+            title: Newcastle vs Leicester
+            originally_available: 2024-12-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s16/e3.jpg
+            summary: >
+              Matchweek 16 fixture at St James Park (England). Scheduled date: December 14, 2024. Local kickoff:
+              15:00:00.
+          4:
+            title: Nottingham Forest vs Aston Villa
+            originally_available: 2024-12-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s16/e4.jpg
+            summary: >
+              Matchweek 16 fixture at City Ground (England). Scheduled date: December 14, 2024. Local kickoff:
+              17:30:00.
+          5:
+            title: Wolves vs Ipswich
+            originally_available: 2024-12-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s16/e5.jpg
+            summary: >
+              Matchweek 16 fixture at Molineux Stadium (England). Scheduled date: December 14, 2024. Local
+              kickoff: 15:00:00.
+          6:
+            title: Brighton vs Crystal Palace
+            originally_available: 2024-12-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s16/e6.jpg
+            summary: >
+              Matchweek 16 fixture at Amex Stadium (England). Scheduled date: December 15, 2024. Local kickoff:
+              14:00:00.
+          7:
+            title: Chelsea vs Brentford
+            originally_available: 2024-12-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s16/e7.jpg
+            summary: >
+              Matchweek 16 fixture at Stamford Bridge (England). Scheduled date: December 15, 2024. Local kickoff:
+              19:00:00.
+          8:
+            title: Manchester City vs Manchester United
+            originally_available: 2024-12-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s16/e8.jpg
+            summary: >
+              Matchweek 16 fixture at Etihad Stadium (England). Scheduled date: December 15, 2024. Local kickoff:
+              16:30:00.
+          9:
+            title: Southampton vs Tottenham
+            originally_available: 2024-12-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s16/e9.jpg
+            summary: >
+              Matchweek 16 fixture at St. Mary (England). Scheduled date: December 15, 2024. Local kickoff:
+              19:00:00.
+          10:
+            title: Bournemouth vs West Ham
+            originally_available: 2024-12-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s16/e10.jpg
+            summary: >
+              Matchweek 16 fixture at Vitality Stadium (England). Scheduled date: December 16, 2024. Local
+              kickoff: 20:00:00.
+      17:
+        title: Matchweek 17
+        sort_title: 17_Matchweek 17
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s17/poster.jpg
+        summary: >
+          Matchweek 17 spans December 21-22, 2024 with 10 fixtures recorded in TheSportsDB feed for the
+          2024-2025 Premier League campaign.
+        episodes:
+          1:
+            title: Aston Villa vs Manchester City
+            originally_available: 2024-12-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s17/e1.jpg
+            summary: >
+              Matchweek 17 fixture at Villa Park (England). Scheduled date: December 21, 2024. Local kickoff:
+              12:30:00.
+          2:
+            title: Brentford vs Nottingham Forest
+            originally_available: 2024-12-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s17/e2.jpg
+            summary: >
+              Matchweek 17 fixture at Brentford Community Stadium (England). Scheduled date: December 21, 2024.
+              Local kickoff: 15:00:00.
+          3:
+            title: Crystal Palace vs Arsenal
+            originally_available: 2024-12-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s17/e3.jpg
+            summary: >
+              Matchweek 17 fixture at Selhurst Park (England). Scheduled date: December 21, 2024. Local kickoff:
+              17:30:00.
+          4:
+            title: Ipswich vs Newcastle
+            originally_available: 2024-12-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s17/e4.jpg
+            summary: >
+              Matchweek 17 fixture at Portman Road (England). Scheduled date: December 21, 2024. Local kickoff:
+              15:00:00.
+          5:
+            title: West Ham vs Brighton
+            originally_available: 2024-12-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s17/e5.jpg
+            summary: >
+              Matchweek 17 fixture at London Stadium (England). Scheduled date: December 21, 2024. Local kickoff:
+              15:00:00.
+          6:
+            title: Everton vs Chelsea
+            originally_available: 2024-12-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s17/e6.jpg
+            summary: >
+              Matchweek 17 fixture at Goodison Park (England). Scheduled date: December 22, 2024. Local kickoff:
+              14:00:00.
+          7:
+            title: Fulham vs Southampton
+            originally_available: 2024-12-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s17/e7.jpg
+            summary: >
+              Matchweek 17 fixture at Craven Cottage (England). Scheduled date: December 22, 2024. Local kickoff:
+              14:00:00.
+          8:
+            title: Leicester vs Wolves
+            originally_available: 2024-12-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s17/e8.jpg
+            summary: >
+              Matchweek 17 fixture at King Power Stadium (England). Scheduled date: December 22, 2024. Local
+              kickoff: 14:00:00.
+          9:
+            title: Manchester United vs Bournemouth
+            originally_available: 2024-12-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s17/e9.jpg
+            summary: >
+              Matchweek 17 fixture at Old Trafford (England). Scheduled date: December 22, 2024. Local kickoff:
+              14:00:00.
+          10:
+            title: Tottenham vs Liverpool
+            originally_available: 2024-12-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s17/e10.jpg
+            summary: >
+              Matchweek 17 fixture at Tottenham Hotspur Stadium (England). Scheduled date: December 22, 2024.
+              Local kickoff: 16:30:00.
+      18:
+        title: Matchweek 18
+        sort_title: 18_Matchweek 18
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s18/poster.jpg
+        summary: >
+          Matchweek 18 spans December 26-27, 2024 with 10 fixtures recorded in TheSportsDB feed for the
+          2024-2025 Premier League campaign.
+        episodes:
+          1:
+            title: Bournemouth vs Crystal Palace
+            originally_available: 2024-12-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s18/e1.jpg
+            summary: >
+              Matchweek 18 fixture at Vitality Stadium (England). Scheduled date: December 26, 2024. Local
+              kickoff: 15:00:00.
+          2:
+            title: Chelsea vs Fulham
+            originally_available: 2024-12-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s18/e2.jpg
+            summary: >
+              Matchweek 18 fixture at Stamford Bridge (England). Scheduled date: December 26, 2024. Local kickoff:
+              15:00:00.
+          3:
+            title: Liverpool vs Leicester
+            originally_available: 2024-12-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s18/e3.jpg
+            summary: >
+              Matchweek 18 fixture at Anfield (England). Scheduled date: December 26, 2024. Local kickoff:
+              20:00:00.
+          4:
+            title: Manchester City vs Everton
+            originally_available: 2024-12-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s18/e4.jpg
+            summary: >
+              Matchweek 18 fixture at Etihad Stadium (England). Scheduled date: December 26, 2024. Local kickoff:
+              12:30:00.
+          5:
+            title: Newcastle vs Aston Villa
+            originally_available: 2024-12-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s18/e5.jpg
+            summary: >
+              Matchweek 18 fixture at St James Park (England). Scheduled date: December 26, 2024. Local kickoff:
+              15:00:00.
+          6:
+            title: Nottingham Forest vs Tottenham
+            originally_available: 2024-12-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s18/e6.jpg
+            summary: >
+              Matchweek 18 fixture at City Ground (England). Scheduled date: December 26, 2024. Local kickoff:
+              15:00:00.
+          7:
+            title: Southampton vs West Ham
+            originally_available: 2024-12-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s18/e7.jpg
+            summary: >
+              Matchweek 18 fixture at St. Mary (England). Scheduled date: December 26, 2024. Local kickoff:
+              15:00:00.
+          8:
+            title: Wolves vs Manchester United
+            originally_available: 2024-12-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s18/e8.jpg
+            summary: >
+              Matchweek 18 fixture at Molineux Stadium (England). Scheduled date: December 26, 2024. Local
+              kickoff: 17:30:00.
+          9:
+            title: Arsenal vs Ipswich
+            originally_available: 2024-12-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s18/e9.jpg
+            summary: >
+              Matchweek 18 fixture at Emirates Stadium (England). Scheduled date: December 27, 2024. Local
+              kickoff: 20:15:00.
+          10:
+            title: Brighton vs Brentford
+            originally_available: 2024-12-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s18/e10.jpg
+            summary: >
+              Matchweek 18 fixture at Amex Stadium (England). Scheduled date: December 27, 2024. Local kickoff:
+              19:30:00.
+      19:
+        title: Matchweek 19
+        sort_title: 19_Matchweek 19
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s19/poster.jpg
+        summary: >
+          Matchweek 19 spans December 29, 2024 - January 1, 2025 with 10 fixtures recorded in TheSportsDB feed
+          for the 2024-2025 Premier League campaign.
+        episodes:
+          1:
+            title: Crystal Palace vs Southampton
+            originally_available: 2024-12-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s19/e1.jpg
+            summary: >
+              Matchweek 19 fixture at Selhurst Park (England). Scheduled date: December 29, 2024. Local kickoff:
+              15:00:00.
+          2:
+            title: Everton vs Nottingham Forest
+            originally_available: 2024-12-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s19/e2.jpg
+            summary: >
+              Matchweek 19 fixture at Goodison Park (England). Scheduled date: December 29, 2024. Local kickoff:
+              15:00:00.
+          3:
+            title: Fulham vs Bournemouth
+            originally_available: 2024-12-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s19/e3.jpg
+            summary: >
+              Matchweek 19 fixture at Craven Cottage (England). Scheduled date: December 29, 2024. Local kickoff:
+              15:00:00.
+          4:
+            title: Leicester vs Manchester City
+            originally_available: 2024-12-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s19/e4.jpg
+            summary: >
+              Matchweek 19 fixture at King Power Stadium (England). Scheduled date: December 29, 2024. Local
+              kickoff: 14:30:00.
+          5:
+            title: Tottenham vs Wolves
+            originally_available: 2024-12-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s19/e5.jpg
+            summary: >
+              Matchweek 19 fixture at Tottenham Hotspur Stadium (England). Scheduled date: December 29, 2024.
+              Local kickoff: 15:00:00.
+          6:
+            title: West Ham vs Liverpool
+            originally_available: 2024-12-29
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s19/e6.jpg
+            summary: >
+              Matchweek 19 fixture at London Stadium (England). Scheduled date: December 29, 2024. Local kickoff:
+              17:15:00.
+          7:
+            title: Aston Villa vs Brighton
+            originally_available: 2024-12-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s19/e7.jpg
+            summary: >
+              Matchweek 19 fixture at Villa Park (England). Scheduled date: December 30, 2024. Local kickoff:
+              19:45:00.
+          8:
+            title: Ipswich vs Chelsea
+            originally_available: 2024-12-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s19/e8.jpg
+            summary: >
+              Matchweek 19 fixture at Portman Road (England). Scheduled date: December 30, 2024. Local kickoff:
+              19:45:00.
+          9:
+            title: Manchester United vs Newcastle
+            originally_available: 2024-12-30
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s19/e9.jpg
+            summary: >
+              Matchweek 19 fixture at Old Trafford (England). Scheduled date: December 30, 2024. Local kickoff:
+              20:00:00.
+          10:
+            title: Brentford vs Arsenal
+            originally_available: 2025-01-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s19/e10.jpg
+            summary: >
+              Matchweek 19 fixture at Brentford Community Stadium (England). Scheduled date: January 01, 2025.
+              Local kickoff: 17:30:00.
+      20:
+        title: Matchweek 20
+        sort_title: 20_Matchweek 20
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s20/poster.jpg
+        summary: >
+          Matchweek 20 spans January 4-6, 2025 with 10 fixtures recorded in TheSportsDB feed for the 2024-2025
+          Premier League campaign.
+        episodes:
+          1:
+            title: Aston Villa vs Leicester
+            originally_available: 2025-01-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s20/e1.jpg
+            summary: >
+              Matchweek 20 fixture at Villa Park (England). Scheduled date: January 04, 2025. Local kickoff:
+              15:00:00.
+          2:
+            title: Bournemouth vs Everton
+            originally_available: 2025-01-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s20/e2.jpg
+            summary: >
+              Matchweek 20 fixture at Vitality Stadium (England). Scheduled date: January 04, 2025. Local kickoff:
+              15:00:00.
+          3:
+            title: Brighton vs Arsenal
+            originally_available: 2025-01-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s20/e3.jpg
+            summary: >
+              Matchweek 20 fixture at Amex Stadium (England). Scheduled date: January 04, 2025. Local kickoff:
+              17:30:00.
+          4:
+            title: Crystal Palace vs Chelsea
+            originally_available: 2025-01-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s20/e4.jpg
+            summary: >
+              Matchweek 20 fixture at Selhurst Park (England). Scheduled date: January 04, 2025. Local kickoff:
+              15:00:00.
+          5:
+            title: Manchester City vs West Ham
+            originally_available: 2025-01-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s20/e5.jpg
+            summary: >
+              Matchweek 20 fixture at Etihad Stadium (England). Scheduled date: January 04, 2025. Local kickoff:
+              15:00:00.
+          6:
+            title: Southampton vs Brentford
+            originally_available: 2025-01-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s20/e6.jpg
+            summary: >
+              Matchweek 20 fixture at St. Mary (England). Scheduled date: January 04, 2025. Local kickoff:
+              15:00:00.
+          7:
+            title: Tottenham vs Newcastle
+            originally_available: 2025-01-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s20/e7.jpg
+            summary: >
+              Matchweek 20 fixture at Tottenham Hotspur Stadium (England). Scheduled date: January 04, 2025. Local
+              kickoff: 12:30:00.
+          8:
+            title: Fulham vs Ipswich
+            originally_available: 2025-01-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s20/e8.jpg
+            summary: >
+              Matchweek 20 fixture at Craven Cottage (England). Scheduled date: January 05, 2025. Local kickoff:
+              14:00:00.
+          9:
+            title: Liverpool vs Manchester United
+            originally_available: 2025-01-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s20/e9.jpg
+            summary: >
+              Matchweek 20 fixture at Anfield (England). Scheduled date: January 05, 2025. Local kickoff:
+              16:30:00.
+          10:
+            title: Wolves vs Nottingham Forest
+            originally_available: 2025-01-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s20/e10.jpg
+            summary: >
+              Matchweek 20 fixture at Molineux Stadium (England). Scheduled date: January 06, 2025. Local kickoff:
+              20:00:00.
+      21:
+        title: Matchweek 21
+        sort_title: 21_Matchweek 21
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s21/poster.jpg
+        summary: >
+          Matchweek 21 spans January 14-16, 2025 with 10 fixtures recorded in TheSportsDB feed for the
+          2024-2025 Premier League campaign.
+        episodes:
+          1:
+            title: Brentford vs Manchester City
+            originally_available: 2025-01-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s21/e1.jpg
+            summary: >
+              Matchweek 21 fixture at Brentford Community Stadium (England). Scheduled date: January 14, 2025.
+              Local kickoff: 19:30:00.
+          2:
+            title: Chelsea vs Bournemouth
+            originally_available: 2025-01-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s21/e2.jpg
+            summary: >
+              Matchweek 21 fixture at Stamford Bridge (England). Scheduled date: January 14, 2025. Local kickoff:
+              19:30:00.
+          3:
+            title: Nottingham Forest vs Liverpool
+            originally_available: 2025-01-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s21/e3.jpg
+            summary: >
+              Matchweek 21 fixture at City Ground (England). Scheduled date: January 14, 2025. Local kickoff:
+              20:00:00.
+          4:
+            title: West Ham vs Fulham
+            originally_available: 2025-01-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s21/e4.jpg
+            summary: >
+              Matchweek 21 fixture at London Stadium (England). Scheduled date: January 14, 2025. Local kickoff:
+              19:30:00.
+          5:
+            title: Arsenal vs Tottenham
+            originally_available: 2025-01-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s21/e5.jpg
+            summary: >
+              Matchweek 21 fixture at Emirates Stadium (England). Scheduled date: January 15, 2025. Local kickoff:
+              20:00:00.
+          6:
+            title: Everton vs Aston Villa
+            originally_available: 2025-01-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s21/e6.jpg
+            summary: >
+              Matchweek 21 fixture at Goodison Park (England). Scheduled date: January 15, 2025. Local kickoff:
+              19:30:00.
+          7:
+            title: Leicester vs Crystal Palace
+            originally_available: 2025-01-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s21/e7.jpg
+            summary: >
+              Matchweek 21 fixture at King Power Stadium (England). Scheduled date: January 15, 2025. Local
+              kickoff: 19:30:00.
+          8:
+            title: Newcastle vs Wolves
+            originally_available: 2025-01-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s21/e8.jpg
+            summary: >
+              Matchweek 21 fixture at St James Park (England). Scheduled date: January 15, 2025. Local kickoff:
+              19:30:00.
+          9:
+            title: Ipswich vs Brighton
+            originally_available: 2025-01-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s21/e9.jpg
+            summary: >
+              Matchweek 21 fixture at Portman Road (England). Scheduled date: January 16, 2025. Local kickoff:
+              19:30:00.
+          10:
+            title: Manchester United vs Southampton
+            originally_available: 2025-01-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s21/e10.jpg
+            summary: >
+              Matchweek 21 fixture at Old Trafford (England). Scheduled date: January 16, 2025. Local kickoff:
+              20:00:00.
+      22:
+        title: Matchweek 22
+        sort_title: 22_Matchweek 22
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s22/poster.jpg
+        summary: >
+          Matchweek 22 spans January 18-20, 2025 with 10 fixtures recorded in TheSportsDB feed for the
+          2024-2025 Premier League campaign.
+        episodes:
+          1:
+            title: Arsenal vs Aston Villa
+            originally_available: 2025-01-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s22/e1.jpg
+            summary: >
+              Matchweek 22 fixture at Emirates Stadium (England). Scheduled date: January 18, 2025. Local kickoff:
+              17:30:00.
+          2:
+            title: Brentford vs Liverpool
+            originally_available: 2025-01-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s22/e2.jpg
+            summary: >
+              Matchweek 22 fixture at Brentford Community Stadium (England). Scheduled date: January 18, 2025.
+              Local kickoff: 15:00:00.
+          3:
+            title: Leicester vs Fulham
+            originally_available: 2025-01-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s22/e3.jpg
+            summary: >
+              Matchweek 22 fixture at King Power Stadium (England). Scheduled date: January 18, 2025. Local
+              kickoff: 15:00:00.
+          4:
+            title: Newcastle vs Bournemouth
+            originally_available: 2025-01-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s22/e4.jpg
+            summary: >
+              Matchweek 22 fixture at St James Park (England). Scheduled date: January 18, 2025. Local kickoff:
+              12:30:00.
+          5:
+            title: West Ham vs Crystal Palace
+            originally_available: 2025-01-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s22/e5.jpg
+            summary: >
+              Matchweek 22 fixture at London Stadium (England). Scheduled date: January 18, 2025. Local kickoff:
+              15:00:00.
+          6:
+            title: Everton vs Tottenham
+            originally_available: 2025-01-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s22/e6.jpg
+            summary: >
+              Matchweek 22 fixture at Goodison Park (England). Scheduled date: January 19, 2025. Local kickoff:
+              14:00:00.
+          7:
+            title: Ipswich vs Manchester City
+            originally_available: 2025-01-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s22/e7.jpg
+            summary: >
+              Matchweek 22 fixture at Portman Road (England). Scheduled date: January 19, 2025. Local kickoff:
+              16:30:00.
+          8:
+            title: Manchester United vs Brighton
+            originally_available: 2025-01-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s22/e8.jpg
+            summary: >
+              Matchweek 22 fixture at Old Trafford (England). Scheduled date: January 19, 2025. Local kickoff:
+              14:00:00.
+          9:
+            title: Nottingham Forest vs Southampton
+            originally_available: 2025-01-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s22/e9.jpg
+            summary: >
+              Matchweek 22 fixture at City Ground (England). Scheduled date: January 19, 2025. Local kickoff:
+              14:00:00.
+          10:
+            title: Chelsea vs Wolves
+            originally_available: 2025-01-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s22/e10.jpg
+            summary: >
+              Matchweek 22 fixture at Stamford Bridge (England). Scheduled date: January 20, 2025. Local kickoff:
+              20:00:00.
+      23:
+        title: Matchweek 23
+        sort_title: 23_Matchweek 23
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s23/poster.jpg
+        summary: >
+          Matchweek 23 spans January 25-26, 2025 with 10 fixtures recorded in TheSportsDB feed for the
+          2024-2025 Premier League campaign.
+        episodes:
+          1:
+            title: Bournemouth vs Nottingham Forest
+            originally_available: 2025-01-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s23/e1.jpg
+            summary: >
+              Matchweek 23 fixture at Vitality Stadium (England). Scheduled date: January 25, 2025. Local kickoff:
+              15:00:00.
+          2:
+            title: Brighton vs Everton
+            originally_available: 2025-01-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s23/e2.jpg
+            summary: >
+              Matchweek 23 fixture at TBD Venue (England). Scheduled date: January 25, 2025. Local kickoff:
+              15:00:00.
+          3:
+            title: Liverpool vs Ipswich
+            originally_available: 2025-01-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s23/e3.jpg
+            summary: >
+              Matchweek 23 fixture at Anfield (England). Scheduled date: January 25, 2025. Local kickoff:
+              15:00:00.
+          4:
+            title: Manchester City vs Chelsea
+            originally_available: 2025-01-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s23/e4.jpg
+            summary: >
+              Matchweek 23 fixture at Etihad Stadium (England). Scheduled date: January 25, 2025. Local kickoff:
+              17:30:00.
+          5:
+            title: Southampton vs Newcastle
+            originally_available: 2025-01-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s23/e5.jpg
+            summary: >
+              Matchweek 23 fixture at St. Mary (England). Scheduled date: January 25, 2025. Local kickoff:
+              15:00:00.
+          6:
+            title: Wolves vs Arsenal
+            originally_available: 2025-01-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s23/e6.jpg
+            summary: >
+              Matchweek 23 fixture at Molineux Stadium (England). Scheduled date: January 25, 2025. Local kickoff:
+              15:00:00.
+          7:
+            title: Aston Villa vs West Ham
+            originally_available: 2025-01-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s23/e7.jpg
+            summary: >
+              Matchweek 23 fixture at Villa Park (England). Scheduled date: January 26, 2025. Local kickoff:
+              16:30:00.
+          8:
+            title: Crystal Palace vs Brentford
+            originally_available: 2025-01-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s23/e8.jpg
+            summary: >
+              Matchweek 23 fixture at Selhurst Park (England). Scheduled date: January 26, 2025. Local kickoff:
+              14:00:00.
+          9:
+            title: Fulham vs Manchester United
+            originally_available: 2025-01-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s23/e9.jpg
+            summary: >
+              Matchweek 23 fixture at Craven Cottage (England). Scheduled date: January 26, 2025. Local kickoff:
+              19:00:00.
+          10:
+            title: Tottenham vs Leicester
+            originally_available: 2025-01-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s23/e10.jpg
+            summary: >
+              Matchweek 23 fixture at Tottenham Hotspur Stadium (England). Scheduled date: January 26, 2025. Local
+              kickoff: 14:00:00.
+      24:
+        title: Matchweek 24
+        sort_title: 24_Matchweek 24
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s24/poster.jpg
+        summary: >
+          Matchweek 24 spans February 1-3, 2025 with 10 fixtures recorded in TheSportsDB feed for the
+          2024-2025 Premier League campaign.
+        episodes:
+          1:
+            title: Bournemouth vs Liverpool
+            originally_available: 2025-02-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s24/e1.jpg
+            summary: >
+              Matchweek 24 fixture at Vitality Stadium (England). Scheduled date: February 01, 2025. Local
+              kickoff: 15:00:00.
+          2:
+            title: Everton vs Leicester
+            originally_available: 2025-02-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s24/e2.jpg
+            summary: >
+              Matchweek 24 fixture at Goodison Park (England). Scheduled date: February 01, 2025. Local kickoff:
+              15:00:00.
+          3:
+            title: Ipswich vs Southampton
+            originally_available: 2025-02-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s24/e3.jpg
+            summary: >
+              Matchweek 24 fixture at Portman Road (England). Scheduled date: February 01, 2025. Local kickoff:
+              15:00:00.
+          4:
+            title: Newcastle vs Fulham
+            originally_available: 2025-02-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s24/e4.jpg
+            summary: >
+              Matchweek 24 fixture at St James Park (England). Scheduled date: February 01, 2025. Local kickoff:
+              15:00:00.
+          5:
+            title: Nottingham Forest vs Brighton
+            originally_available: 2025-02-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s24/e5.jpg
+            summary: >
+              Matchweek 24 fixture at City Ground (England). Scheduled date: February 01, 2025. Local kickoff:
+              12:30:00.
+          6:
+            title: Wolves vs Aston Villa
+            originally_available: 2025-02-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s24/e6.jpg
+            summary: >
+              Matchweek 24 fixture at Molineux Stadium (England). Scheduled date: February 01, 2025. Local
+              kickoff: 17:30:00.
+          7:
+            title: Arsenal vs Manchester City
+            originally_available: 2025-02-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s24/e7.jpg
+            summary: >
+              Matchweek 24 fixture at Emirates Stadium (England). Scheduled date: February 02, 2025. Local
+              kickoff: 16:30:00.
+          8:
+            title: Brentford vs Tottenham
+            originally_available: 2025-02-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s24/e8.jpg
+            summary: >
+              Matchweek 24 fixture at Brentford Community Stadium (England). Scheduled date: February 02, 2025.
+              Local kickoff: 14:00:00.
+          9:
+            title: Manchester United vs Crystal Palace
+            originally_available: 2025-02-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s24/e9.jpg
+            summary: >
+              Matchweek 24 fixture at Old Trafford (England). Scheduled date: February 02, 2025. Local kickoff:
+              14:00:00.
+          10:
+            title: Chelsea vs West Ham
+            originally_available: 2025-02-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s24/e10.jpg
+            summary: >
+              Matchweek 24 fixture at Stamford Bridge (England). Scheduled date: February 03, 2025. Local kickoff:
+              20:00:00.
+      25:
+        title: Matchweek 25
+        sort_title: 25_Matchweek 25
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s25/poster.jpg
+        summary: >
+          Matchweek 25 spans February 14-16, 2025 with 10 fixtures recorded in TheSportsDB feed for the
+          2024-2025 Premier League campaign.
+        episodes:
+          1:
+            title: Brighton vs Chelsea
+            originally_available: 2025-02-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s25/e1.jpg
+            summary: >
+              Matchweek 25 fixture at TBD Venue (England). Scheduled date: February 14, 2025. Local kickoff:
+              20:00:00.
+          2:
+            title: Aston Villa vs Ipswich
+            originally_available: 2025-02-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s25/e2.jpg
+            summary: >
+              Matchweek 25 fixture at Villa Park (England). Scheduled date: February 15, 2025. Local kickoff:
+              15:00:00.
+          3:
+            title: Crystal Palace vs Everton
+            originally_available: 2025-02-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s25/e3.jpg
+            summary: >
+              Matchweek 25 fixture at Selhurst Park (England). Scheduled date: February 15, 2025. Local kickoff:
+              17:30:00.
+          4:
+            title: Fulham vs Nottingham Forest
+            originally_available: 2025-02-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s25/e4.jpg
+            summary: >
+              Matchweek 25 fixture at Craven Cottage (England). Scheduled date: February 15, 2025. Local kickoff:
+              15:00:00.
+          5:
+            title: Leicester vs Arsenal
+            originally_available: 2025-02-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s25/e5.jpg
+            summary: >
+              Matchweek 25 fixture at King Power Stadium (England). Scheduled date: February 15, 2025. Local
+              kickoff: 12:30:00.
+          6:
+            title: Manchester City vs Newcastle
+            originally_available: 2025-02-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s25/e6.jpg
+            summary: >
+              Matchweek 25 fixture at Etihad Stadium (England). Scheduled date: February 15, 2025. Local kickoff:
+              15:00:00.
+          7:
+            title: Southampton vs Bournemouth
+            originally_available: 2025-02-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s25/e7.jpg
+            summary: >
+              Matchweek 25 fixture at St. Mary (England). Scheduled date: February 15, 2025. Local kickoff:
+              15:00:00.
+          8:
+            title: West Ham vs Brentford
+            originally_available: 2025-02-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s25/e8.jpg
+            summary: >
+              Matchweek 25 fixture at London Stadium (England). Scheduled date: February 15, 2025. Local kickoff:
+              15:00:00.
+          9:
+            title: Liverpool vs Wolves
+            originally_available: 2025-02-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s25/e9.jpg
+            summary: >
+              Matchweek 25 fixture at Anfield (England). Scheduled date: February 16, 2025. Local kickoff:
+              14:00:00.
+          10:
+            title: Tottenham vs Manchester United
+            originally_available: 2025-02-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s25/e10.jpg
+            summary: >
+              Matchweek 25 fixture at Tottenham Hotspur Stadium (England). Scheduled date: February 16, 2025.
+              Local kickoff: 16:30:00.
+      26:
+        title: Matchweek 26
+        sort_title: 26_Matchweek 26
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s26/poster.jpg
+        summary: >
+          Matchweek 26 spans February 21-23, 2025 with 10 fixtures recorded in TheSportsDB feed for the
+          2024-2025 Premier League campaign.
+        episodes:
+          1:
+            title: Leicester vs Brentford
+            originally_available: 2025-02-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s26/e1.jpg
+            summary: >
+              Matchweek 26 fixture at King Power Stadium (England). Scheduled date: February 21, 2025. Local
+              kickoff: 20:00:00.
+          2:
+            title: Arsenal vs West Ham
+            originally_available: 2025-02-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s26/e2.jpg
+            summary: >
+              Matchweek 26 fixture at Emirates Stadium (England). Scheduled date: February 22, 2025. Local
+              kickoff: 15:00:00.
+          3:
+            title: Aston Villa vs Chelsea
+            originally_available: 2025-02-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s26/e3.jpg
+            summary: >
+              Matchweek 26 fixture at Villa Park (England). Scheduled date: February 22, 2025. Local kickoff:
+              17:30:00.
+          4:
+            title: Bournemouth vs Wolves
+            originally_available: 2025-02-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s26/e4.jpg
+            summary: >
+              Matchweek 26 fixture at Vitality Stadium (England). Scheduled date: February 22, 2025. Local
+              kickoff: 15:00:00.
+          5:
+            title: Everton vs Manchester United
+            originally_available: 2025-02-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s26/e5.jpg
+            summary: >
+              Matchweek 26 fixture at Goodison Park (England). Scheduled date: February 22, 2025. Local kickoff:
+              12:30:00.
+          6:
+            title: Fulham vs Crystal Palace
+            originally_available: 2025-02-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s26/e6.jpg
+            summary: >
+              Matchweek 26 fixture at Craven Cottage (England). Scheduled date: February 22, 2025. Local kickoff:
+              15:00:00.
+          7:
+            title: Ipswich vs Tottenham
+            originally_available: 2025-02-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s26/e7.jpg
+            summary: >
+              Matchweek 26 fixture at Portman Road (England). Scheduled date: February 22, 2025. Local kickoff:
+              15:00:00.
+          8:
+            title: Southampton vs Brighton
+            originally_available: 2025-02-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s26/e8.jpg
+            summary: >
+              Matchweek 26 fixture at St. Mary (England). Scheduled date: February 22, 2025. Local kickoff:
+              15:00:00.
+          9:
+            title: Manchester City vs Liverpool
+            originally_available: 2025-02-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s26/e9.jpg
+            summary: >
+              Matchweek 26 fixture at Etihad Stadium (England). Scheduled date: February 23, 2025. Local kickoff:
+              16:30:00.
+          10:
+            title: Newcastle vs Nottingham Forest
+            originally_available: 2025-02-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s26/e10.jpg
+            summary: >
+              Matchweek 26 fixture at St James Park (England). Scheduled date: February 23, 2025. Local kickoff:
+              14:00:00.
+      27:
+        title: Matchweek 27
+        sort_title: 27_Matchweek 27
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s27/poster.jpg
+        summary: >
+          Matchweek 27 spans February 25-27, 2025 with 10 fixtures recorded in TheSportsDB feed for the
+          2024-2025 Premier League campaign.
+        episodes:
+          1:
+            title: Brighton vs Bournemouth
+            originally_available: 2025-02-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s27/e1.jpg
+            summary: >
+              Matchweek 27 fixture at TBD Venue (England). Scheduled date: February 25, 2025. Local kickoff:
+              19:30:00.
+          2:
+            title: Chelsea vs Southampton
+            originally_available: 2025-02-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s27/e2.jpg
+            summary: >
+              Matchweek 27 fixture at Stamford Bridge (England). Scheduled date: February 25, 2025. Local kickoff:
+              20:15:00.
+          3:
+            title: Crystal Palace vs Aston Villa
+            originally_available: 2025-02-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s27/e3.jpg
+            summary: >
+              Matchweek 27 fixture at Selhurst Park (England). Scheduled date: February 25, 2025. Local kickoff:
+              19:30:00.
+          4:
+            title: Wolves vs Fulham
+            originally_available: 2025-02-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s27/e4.jpg
+            summary: >
+              Matchweek 27 fixture at Molineux Stadium (England). Scheduled date: February 25, 2025. Local
+              kickoff: 19:30:00.
+          5:
+            title: Brentford vs Everton
+            originally_available: 2025-02-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s27/e5.jpg
+            summary: >
+              Matchweek 27 fixture at Brentford Community Stadium (England). Scheduled date: February 26, 2025.
+              Local kickoff: 19:30:00.
+          6:
+            title: Liverpool vs Newcastle
+            originally_available: 2025-02-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s27/e6.jpg
+            summary: >
+              Matchweek 27 fixture at Anfield (England). Scheduled date: February 26, 2025. Local kickoff:
+              20:15:00.
+          7:
+            title: Manchester United vs Ipswich
+            originally_available: 2025-02-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s27/e7.jpg
+            summary: >
+              Matchweek 27 fixture at Old Trafford (England). Scheduled date: February 26, 2025. Local kickoff:
+              19:30:00.
+          8:
+            title: Nottingham Forest vs Arsenal
+            originally_available: 2025-02-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s27/e8.jpg
+            summary: >
+              Matchweek 27 fixture at City Ground (England). Scheduled date: February 26, 2025. Local kickoff:
+              19:30:00.
+          9:
+            title: Tottenham vs Manchester City
+            originally_available: 2025-02-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s27/e9.jpg
+            summary: >
+              Matchweek 27 fixture at Tottenham Hotspur Stadium (England). Scheduled date: February 26, 2025.
+              Local kickoff: 19:30:00.
+          10:
+            title: West Ham vs Leicester
+            originally_available: 2025-02-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s27/e10.jpg
+            summary: >
+              Matchweek 27 fixture at London Stadium (England). Scheduled date: February 27, 2025. Local kickoff:
+              20:00:00.
+      28:
+        title: Matchweek 28
+        sort_title: 28_Matchweek 28
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s28/poster.jpg
+        summary: >
+          Matchweek 28 spans March 8-10, 2025 with 10 fixtures recorded in TheSportsDB feed for the 2024-2025
+          Premier League campaign.
+        episodes:
+          1:
+            title: Brentford vs Aston Villa
+            originally_available: 2025-03-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s28/e1.jpg
+            summary: >
+              Matchweek 28 fixture at Brentford Community Stadium (England). Scheduled date: March 08, 2025. Local
+              kickoff: 17:30:00.
+          2:
+            title: Brighton vs Fulham
+            originally_available: 2025-03-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s28/e2.jpg
+            summary: >
+              Matchweek 28 fixture at TBD Venue (England). Scheduled date: March 08, 2025. Local kickoff:
+              15:00:00.
+          3:
+            title: Crystal Palace vs Ipswich
+            originally_available: 2025-03-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s28/e3.jpg
+            summary: >
+              Matchweek 28 fixture at Selhurst Park (England). Scheduled date: March 08, 2025. Local kickoff:
+              15:00:00.
+          4:
+            title: Liverpool vs Southampton
+            originally_available: 2025-03-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s28/e4.jpg
+            summary: >
+              Matchweek 28 fixture at Anfield (England). Scheduled date: March 08, 2025. Local kickoff: 15:00:00.
+          5:
+            title: Nottingham Forest vs Manchester City
+            originally_available: 2025-03-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s28/e5.jpg
+            summary: >
+              Matchweek 28 fixture at City Ground (England). Scheduled date: March 08, 2025. Local kickoff:
+              12:30:00.
+          6:
+            title: Wolves vs Everton
+            originally_available: 2025-03-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s28/e6.jpg
+            summary: >
+              Matchweek 28 fixture at Molineux Stadium (England). Scheduled date: March 08, 2025. Local kickoff:
+              20:00:00.
+          7:
+            title: Chelsea vs Leicester
+            originally_available: 2025-03-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s28/e7.jpg
+            summary: >
+              Matchweek 28 fixture at Stamford Bridge (England). Scheduled date: March 09, 2025. Local kickoff:
+              15:00:00.
+          8:
+            title: Manchester United vs Arsenal
+            originally_available: 2025-03-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s28/e8.jpg
+            summary: >
+              Matchweek 28 fixture at Old Trafford (England). Scheduled date: March 09, 2025. Local kickoff:
+              17:30:00.
+          9:
+            title: Tottenham vs Bournemouth
+            originally_available: 2025-03-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s28/e9.jpg
+            summary: >
+              Matchweek 28 fixture at Tottenham Hotspur Stadium (England). Scheduled date: March 09, 2025. Local
+              kickoff: 15:00:00.
+          10:
+            title: West Ham vs Newcastle
+            originally_available: 2025-03-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s28/e10.jpg
+            summary: >
+              Matchweek 28 fixture at London Stadium (England). Scheduled date: March 10, 2025. Local kickoff:
+              20:00:00.
+      29:
+        title: Matchweek 29
+        sort_title: 29_Matchweek 29
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s29/poster.jpg
+        summary: >
+          Matchweek 29 spans February 19 - April 16, 2025 with 10 fixtures recorded in TheSportsDB feed for
+          the 2024-2025 Premier League campaign.
+        episodes:
+          1:
+            title: Aston Villa vs Liverpool
+            originally_available: 2025-02-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s29/e1.jpg
+            summary: >
+              Matchweek 29 fixture at Villa Park (England). Scheduled date: February 19, 2025. Local kickoff:
+              19:30:00.
+          2:
+            title: Bournemouth vs Brentford
+            originally_available: 2025-03-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s29/e2.jpg
+            summary: >
+              Matchweek 29 fixture at Vitality Stadium (England). Scheduled date: March 15, 2025. Local kickoff:
+              17:30:00.
+          3:
+            title: Everton vs West Ham
+            originally_available: 2025-03-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s29/e3.jpg
+            summary: >
+              Matchweek 29 fixture at Goodison Park (England). Scheduled date: March 15, 2025. Local kickoff:
+              15:00:00.
+          4:
+            title: Ipswich vs Nottingham Forest
+            originally_available: 2025-03-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s29/e4.jpg
+            summary: >
+              Matchweek 29 fixture at Portman Road (England). Scheduled date: March 15, 2025. Local kickoff:
+              15:00:00.
+          5:
+            title: Manchester City vs Brighton
+            originally_available: 2025-03-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s29/e5.jpg
+            summary: >
+              Matchweek 29 fixture at Etihad Stadium (England). Scheduled date: March 15, 2025. Local kickoff:
+              15:00:00.
+          6:
+            title: Southampton vs Wolves
+            originally_available: 2025-03-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s29/e6.jpg
+            summary: >
+              Matchweek 29 fixture at St. Mary (England). Scheduled date: March 15, 2025. Local kickoff: 15:00:00.
+          7:
+            title: Arsenal vs Chelsea
+            originally_available: 2025-03-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s29/e7.jpg
+            summary: >
+              Matchweek 29 fixture at Emirates Stadium (England). Scheduled date: March 16, 2025. Local kickoff:
+              13:30:00.
+          8:
+            title: Fulham vs Tottenham
+            originally_available: 2025-03-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s29/e8.jpg
+            summary: >
+              Matchweek 29 fixture at Craven Cottage (England). Scheduled date: March 16, 2025. Local kickoff:
+              13:30:00.
+          9:
+            title: Leicester vs Manchester United
+            originally_available: 2025-03-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s29/e9.jpg
+            summary: >
+              Matchweek 29 fixture at King Power Stadium (England). Scheduled date: March 16, 2025. Local kickoff:
+              19:00:00.
+          10:
+            title: Newcastle vs Crystal Palace
+            originally_available: 2025-04-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s29/e10.jpg
+            summary: >
+              Matchweek 29 fixture at St James Park (England). Scheduled date: April 16, 2025. Local kickoff:
+              19:30:00.
+      30:
+        title: Matchweek 30
+        sort_title: 30_Matchweek 30
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s30/poster.jpg
+        summary: >
+          Matchweek 30 spans April 1-3, 2025 with 10 fixtures recorded in TheSportsDB feed for the 2024-2025
+          Premier League campaign.
+        episodes:
+          1:
+            title: Arsenal vs Fulham
+            originally_available: 2025-04-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s30/e1.jpg
+            summary: >
+              Matchweek 30 fixture at Emirates Stadium (England). Scheduled date: April 01, 2025. Local kickoff:
+              19:45:00.
+          2:
+            title: Nottingham Forest vs Manchester United
+            originally_available: 2025-04-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s30/e2.jpg
+            summary: >
+              Matchweek 30 fixture at City Ground (England). Scheduled date: April 01, 2025. Local kickoff:
+              20:00:00.
+          3:
+            title: Wolves vs West Ham
+            originally_available: 2025-04-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s30/e3.jpg
+            summary: >
+              Matchweek 30 fixture at Molineux Stadium (England). Scheduled date: April 01, 2025. Local kickoff:
+              19:45:00.
+          4:
+            title: Bournemouth vs Ipswich
+            originally_available: 2025-04-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s30/e4.jpg
+            summary: >
+              Matchweek 30 fixture at Vitality Stadium (England). Scheduled date: April 02, 2025. Local kickoff:
+              19:45:00.
+          5:
+            title: Brighton vs Aston Villa
+            originally_available: 2025-04-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s30/e5.jpg
+            summary: >
+              Matchweek 30 fixture at TBD Venue (England). Scheduled date: April 02, 2025. Local kickoff:
+              19:45:00.
+          6:
+            title: Liverpool vs Everton
+            originally_available: 2025-04-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s30/e6.jpg
+            summary: >
+              Matchweek 30 fixture at Anfield (England). Scheduled date: April 02, 2025. Local kickoff: 20:00:00.
+          7:
+            title: Manchester City vs Leicester
+            originally_available: 2025-04-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s30/e7.jpg
+            summary: >
+              Matchweek 30 fixture at Etihad Stadium (England). Scheduled date: April 02, 2025. Local kickoff:
+              19:45:00.
+          8:
+            title: Newcastle vs Brentford
+            originally_available: 2025-04-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s30/e8.jpg
+            summary: >
+              Matchweek 30 fixture at St James Park (England). Scheduled date: April 02, 2025. Local kickoff:
+              19:45:00.
+          9:
+            title: Southampton vs Crystal Palace
+            originally_available: 2025-04-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s30/e9.jpg
+            summary: >
+              Matchweek 30 fixture at St. Mary (England). Scheduled date: April 02, 2025. Local kickoff: 19:45:00.
+          10:
+            title: Chelsea vs Tottenham
+            originally_available: 2025-04-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s30/e10.jpg
+            summary: >
+              Matchweek 30 fixture at Stamford Bridge (England). Scheduled date: April 03, 2025. Local kickoff:
+              20:00:00.
+      31:
+        title: Matchweek 31
+        sort_title: 31_Matchweek 31
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s31/poster.jpg
+        summary: >
+          Matchweek 31 spans April 5-7, 2025 with 10 fixtures recorded in TheSportsDB feed for the 2024-2025
+          Premier League campaign.
+        episodes:
+          1:
+            title: Aston Villa vs Nottingham Forest
+            originally_available: 2025-04-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s31/e1.jpg
+            summary: >
+              Matchweek 31 fixture at Villa Park (England). Scheduled date: April 05, 2025. Local kickoff:
+              17:30:00.
+          2:
+            title: Crystal Palace vs Brighton
+            originally_available: 2025-04-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s31/e2.jpg
+            summary: >
+              Matchweek 31 fixture at Selhurst Park (England). Scheduled date: April 05, 2025. Local kickoff:
+              15:00:00.
+          3:
+            title: Everton vs Arsenal
+            originally_available: 2025-04-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s31/e3.jpg
+            summary: >
+              Matchweek 31 fixture at Goodison Park (England). Scheduled date: April 05, 2025. Local kickoff:
+              12:30:00.
+          4:
+            title: Ipswich vs Wolves
+            originally_available: 2025-04-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s31/e4.jpg
+            summary: >
+              Matchweek 31 fixture at Portman Road (England). Scheduled date: April 05, 2025. Local kickoff:
+              15:00:00.
+          5:
+            title: West Ham vs Bournemouth
+            originally_available: 2025-04-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s31/e5.jpg
+            summary: >
+              Matchweek 31 fixture at London Stadium (England). Scheduled date: April 05, 2025. Local kickoff:
+              15:00:00.
+          6:
+            title: Brentford vs Chelsea
+            originally_available: 2025-04-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s31/e6.jpg
+            summary: >
+              Matchweek 31 fixture at Brentford Community Stadium (England). Scheduled date: April 06, 2025. Local
+              kickoff: 14:00:00.
+          7:
+            title: Fulham vs Liverpool
+            originally_available: 2025-04-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s31/e7.jpg
+            summary: >
+              Matchweek 31 fixture at Craven Cottage (England). Scheduled date: April 06, 2025. Local kickoff:
+              14:00:00.
+          8:
+            title: Manchester United vs Manchester City
+            originally_available: 2025-04-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s31/e8.jpg
+            summary: >
+              Matchweek 31 fixture at Old Trafford (England). Scheduled date: April 06, 2025. Local kickoff:
+              16:30:00.
+          9:
+            title: Tottenham vs Southampton
+            originally_available: 2025-04-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s31/e9.jpg
+            summary: >
+              Matchweek 31 fixture at Tottenham Hotspur Stadium (England). Scheduled date: April 06, 2025. Local
+              kickoff: 14:00:00.
+          10:
+            title: Leicester vs Newcastle
+            originally_available: 2025-04-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s31/e10.jpg
+            summary: >
+              Matchweek 31 fixture at King Power Stadium (England). Scheduled date: April 07, 2025. Local kickoff:
+              20:00:00.
+      32:
+        title: Matchweek 32
+        sort_title: 32_Matchweek 32
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s32/poster.jpg
+        summary: >
+          Matchweek 32 spans April 12-14, 2025 with 10 fixtures recorded in TheSportsDB feed for the 2024-2025
+          Premier League campaign.
+        episodes:
+          1:
+            title: Arsenal vs Brentford
+            originally_available: 2025-04-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s32/e1.jpg
+            summary: >
+              Matchweek 32 fixture at Emirates Stadium (England). Scheduled date: April 12, 2025. Local kickoff:
+              17:30:00.
+          2:
+            title: Brighton vs Leicester
+            originally_available: 2025-04-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s32/e2.jpg
+            summary: >
+              Matchweek 32 fixture at TBD Venue (England). Scheduled date: April 12, 2025. Local kickoff:
+              15:00:00.
+          3:
+            title: Manchester City vs Crystal Palace
+            originally_available: 2025-04-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s32/e3.jpg
+            summary: >
+              Matchweek 32 fixture at Etihad Stadium (England). Scheduled date: April 12, 2025. Local kickoff:
+              12:30:00.
+          4:
+            title: Nottingham Forest vs Everton
+            originally_available: 2025-04-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s32/e4.jpg
+            summary: >
+              Matchweek 32 fixture at City Ground (England). Scheduled date: April 12, 2025. Local kickoff:
+              15:00:00.
+          5:
+            title: Southampton vs Aston Villa
+            originally_available: 2025-04-12
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s32/e5.jpg
+            summary: >
+              Matchweek 32 fixture at St. Mary (England). Scheduled date: April 12, 2025. Local kickoff: 15:00:00.
+          6:
+            title: Chelsea vs Ipswich
+            originally_available: 2025-04-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s32/e6.jpg
+            summary: >
+              Matchweek 32 fixture at Stamford Bridge (England). Scheduled date: April 13, 2025. Local kickoff:
+              14:00:00.
+          7:
+            title: Liverpool vs West Ham
+            originally_available: 2025-04-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s32/e7.jpg
+            summary: >
+              Matchweek 32 fixture at Anfield (England). Scheduled date: April 13, 2025. Local kickoff: 14:00:00.
+          8:
+            title: Newcastle vs Manchester United
+            originally_available: 2025-04-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s32/e8.jpg
+            summary: >
+              Matchweek 32 fixture at St James Park (England). Scheduled date: April 13, 2025. Local kickoff:
+              16:30:00.
+          9:
+            title: Wolves vs Tottenham
+            originally_available: 2025-04-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s32/e9.jpg
+            summary: >
+              Matchweek 32 fixture at Molineux Stadium (England). Scheduled date: April 13, 2025. Local kickoff:
+              14:00:00.
+          10:
+            title: Bournemouth vs Fulham
+            originally_available: 2025-04-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s32/e10.jpg
+            summary: >
+              Matchweek 32 fixture at Vitality Stadium (England). Scheduled date: April 14, 2025. Local kickoff:
+              20:00:00.
+      33:
+        title: Matchweek 33
+        sort_title: 33_Matchweek 33
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s33/poster.jpg
+        summary: >
+          Matchweek 33 spans April 19-21, 2025 with 10 fixtures recorded in TheSportsDB feed for the 2024-2025
+          Premier League campaign.
+        episodes:
+          1:
+            title: Aston Villa vs Newcastle
+            originally_available: 2025-04-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s33/e1.jpg
+            summary: >
+              Matchweek 33 fixture at Villa Park (England). Scheduled date: April 19, 2025. Local kickoff:
+              17:30:00.
+          2:
+            title: Brentford vs Brighton
+            originally_available: 2025-04-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s33/e2.jpg
+            summary: >
+              Matchweek 33 fixture at Brentford Community Stadium (England). Scheduled date: April 19, 2025. Local
+              kickoff: 15:00:00.
+          3:
+            title: Crystal Palace vs Bournemouth
+            originally_available: 2025-04-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s33/e3.jpg
+            summary: >
+              Matchweek 33 fixture at Selhurst Park (England). Scheduled date: April 19, 2025. Local kickoff:
+              15:00:00.
+          4:
+            title: Everton vs Manchester City
+            originally_available: 2025-04-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s33/e4.jpg
+            summary: >
+              Matchweek 33 fixture at Goodison Park (England). Scheduled date: April 19, 2025. Local kickoff:
+              15:00:00.
+          5:
+            title: West Ham vs Southampton
+            originally_available: 2025-04-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s33/e5.jpg
+            summary: >
+              Matchweek 33 fixture at London Stadium (England). Scheduled date: April 19, 2025. Local kickoff:
+              15:00:00.
+          6:
+            title: Fulham vs Chelsea
+            originally_available: 2025-04-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s33/e6.jpg
+            summary: >
+              Matchweek 33 fixture at Craven Cottage (England). Scheduled date: April 20, 2025. Local kickoff:
+              14:00:00.
+          7:
+            title: Ipswich vs Arsenal
+            originally_available: 2025-04-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s33/e7.jpg
+            summary: >
+              Matchweek 33 fixture at Portman Road (England). Scheduled date: April 20, 2025. Local kickoff:
+              14:00:00.
+          8:
+            title: Leicester vs Liverpool
+            originally_available: 2025-04-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s33/e8.jpg
+            summary: >
+              Matchweek 33 fixture at King Power Stadium (England). Scheduled date: April 20, 2025. Local kickoff:
+              16:30:00.
+          9:
+            title: Manchester United vs Wolves
+            originally_available: 2025-04-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s33/e9.jpg
+            summary: >
+              Matchweek 33 fixture at Old Trafford (England). Scheduled date: April 20, 2025. Local kickoff:
+              14:00:00.
+          10:
+            title: Tottenham vs Nottingham Forest
+            originally_available: 2025-04-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s33/e10.jpg
+            summary: >
+              Matchweek 33 fixture at Tottenham Hotspur Stadium (England). Scheduled date: April 21, 2025. Local
+              kickoff: 20:00:00.
+      34:
+        title: Matchweek 34
+        sort_title: 34_Matchweek 34
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s34/poster.jpg
+        summary: >
+          Matchweek 34 spans April 22 - May 1, 2025 with 10 fixtures recorded in TheSportsDB feed for the
+          2024-2025 Premier League campaign.
+        episodes:
+          1:
+            title: Manchester City vs Aston Villa
+            originally_available: 2025-04-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s34/e1.jpg
+            summary: >
+              Matchweek 34 fixture at Etihad Stadium (England). Scheduled date: April 22, 2025. Local kickoff:
+              20:00:00.
+          2:
+            title: Arsenal vs Crystal Palace
+            originally_available: 2025-04-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s34/e2.jpg
+            summary: >
+              Matchweek 34 fixture at Emirates Stadium (England). Scheduled date: April 23, 2025. Local kickoff:
+              20:00:00.
+          3:
+            title: Brighton vs West Ham
+            originally_available: 2025-04-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s34/e3.jpg
+            summary: >
+              Matchweek 34 fixture at TBD Venue (England). Scheduled date: April 26, 2025. Local kickoff:
+              15:00:00.
+          4:
+            title: Chelsea vs Everton
+            originally_available: 2025-04-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s34/e4.jpg
+            summary: >
+              Matchweek 34 fixture at Stamford Bridge (England). Scheduled date: April 26, 2025. Local kickoff:
+              12:30:00.
+          5:
+            title: Newcastle vs Ipswich
+            originally_available: 2025-04-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s34/e5.jpg
+            summary: >
+              Matchweek 34 fixture at St James Park (England). Scheduled date: April 26, 2025. Local kickoff:
+              15:00:00.
+          6:
+            title: Southampton vs Fulham
+            originally_available: 2025-04-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s34/e6.jpg
+            summary: >
+              Matchweek 34 fixture at St. Mary (England). Scheduled date: April 26, 2025. Local kickoff: 15:00:00.
+          7:
+            title: Wolves vs Leicester
+            originally_available: 2025-04-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s34/e7.jpg
+            summary: >
+              Matchweek 34 fixture at Molineux Stadium (England). Scheduled date: April 26, 2025. Local kickoff:
+              15:00:00.
+          8:
+            title: Bournemouth vs Manchester United
+            originally_available: 2025-04-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s34/e8.jpg
+            summary: >
+              Matchweek 34 fixture at Vitality Stadium (England). Scheduled date: April 27, 2025. Local kickoff:
+              14:00:00.
+          9:
+            title: Liverpool vs Tottenham
+            originally_available: 2025-04-27
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s34/e9.jpg
+            summary: >
+              Matchweek 34 fixture at Anfield (England). Scheduled date: April 27, 2025. Local kickoff: 16:30:00.
+          10:
+            title: Nottingham Forest vs Brentford
+            originally_available: 2025-05-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s34/e10.jpg
+            summary: >
+              Matchweek 34 fixture at City Ground (England). Scheduled date: May 01, 2025. Local kickoff:
+              19:30:00.
+      35:
+        title: Matchweek 35
+        sort_title: 35_Matchweek 35
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s35/poster.jpg
+        summary: >
+          Matchweek 35 spans May 2-5, 2025 with 10 fixtures recorded in TheSportsDB feed for the 2024-2025
+          Premier League campaign.
+        episodes:
+          1:
+            title: Manchester City vs Wolves
+            originally_available: 2025-05-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s35/e1.jpg
+            summary: >
+              Matchweek 35 fixture at Etihad Stadium (England). Scheduled date: May 02, 2025. Local kickoff:
+              20:00:00.
+          2:
+            title: Arsenal vs Bournemouth
+            originally_available: 2025-05-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s35/e2.jpg
+            summary: >
+              Matchweek 35 fixture at Emirates Stadium (England). Scheduled date: May 03, 2025. Local kickoff:
+              17:30:00.
+          3:
+            title: Aston Villa vs Fulham
+            originally_available: 2025-05-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s35/e3.jpg
+            summary: >
+              Matchweek 35 fixture at Villa Park (England). Scheduled date: May 03, 2025. Local kickoff: 12:30:00.
+          4:
+            title: Everton vs Ipswich
+            originally_available: 2025-05-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s35/e4.jpg
+            summary: >
+              Matchweek 35 fixture at Goodison Park (England). Scheduled date: May 03, 2025. Local kickoff:
+              15:00:00.
+          5:
+            title: Leicester vs Southampton
+            originally_available: 2025-05-03
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s35/e5.jpg
+            summary: >
+              Matchweek 35 fixture at King Power Stadium (England). Scheduled date: May 03, 2025. Local kickoff:
+              15:00:00.
+          6:
+            title: Brentford vs Manchester United
+            originally_available: 2025-05-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s35/e6.jpg
+            summary: >
+              Matchweek 35 fixture at Brentford Community Stadium (England). Scheduled date: May 04, 2025. Local
+              kickoff: 14:00:00.
+          7:
+            title: Brighton vs Newcastle
+            originally_available: 2025-05-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s35/e7.jpg
+            summary: >
+              Matchweek 35 fixture at TBD Venue (England). Scheduled date: May 04, 2025. Local kickoff: 14:00:00.
+          8:
+            title: Chelsea vs Liverpool
+            originally_available: 2025-05-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s35/e8.jpg
+            summary: >
+              Matchweek 35 fixture at Stamford Bridge (England). Scheduled date: May 04, 2025. Local kickoff:
+              16:30:00.
+          9:
+            title: West Ham vs Tottenham
+            originally_available: 2025-05-04
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s35/e9.jpg
+            summary: >
+              Matchweek 35 fixture at London Stadium (England). Scheduled date: May 04, 2025. Local kickoff:
+              14:00:00.
+          10:
+            title: Crystal Palace vs Nottingham Forest
+            originally_available: 2025-05-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s35/e10.jpg
+            summary: >
+              Matchweek 35 fixture at Selhurst Park (England). Scheduled date: May 05, 2025. Local kickoff:
+              20:00:00.
+      36:
+        title: Matchweek 36
+        sort_title: 36_Matchweek 36
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s36/poster.jpg
+        summary: >
+          Matchweek 36 spans May 10-11, 2025 with 10 fixtures recorded in TheSportsDB feed for the 2024-2025
+          Premier League campaign.
+        episodes:
+          1:
+            title: Bournemouth vs Aston Villa
+            originally_available: 2025-05-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s36/e1.jpg
+            summary: >
+              Matchweek 36 fixture at Vitality Stadium (England). Scheduled date: May 10, 2025. Local kickoff:
+              17:30:00.
+          2:
+            title: Fulham vs Everton
+            originally_available: 2025-05-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s36/e2.jpg
+            summary: >
+              Matchweek 36 fixture at Craven Cottage (England). Scheduled date: May 10, 2025. Local kickoff:
+              15:00:00.
+          3:
+            title: Ipswich vs Brentford
+            originally_available: 2025-05-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s36/e3.jpg
+            summary: >
+              Matchweek 36 fixture at Portman Road (England). Scheduled date: May 10, 2025. Local kickoff:
+              15:00:00.
+          4:
+            title: Southampton vs Manchester City
+            originally_available: 2025-05-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s36/e4.jpg
+            summary: >
+              Matchweek 36 fixture at St. Mary (England). Scheduled date: May 10, 2025. Local kickoff: 15:00:00.
+          5:
+            title: Wolves vs Brighton
+            originally_available: 2025-05-10
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s36/e5.jpg
+            summary: >
+              Matchweek 36 fixture at Molineux Stadium (England). Scheduled date: May 10, 2025. Local kickoff:
+              15:00:00.
+          6:
+            title: Liverpool vs Arsenal
+            originally_available: 2025-05-11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s36/e6.jpg
+            summary: >
+              Matchweek 36 fixture at Anfield (England). Scheduled date: May 11, 2025. Local kickoff: 16:30:00.
+          7:
+            title: Manchester United vs West Ham
+            originally_available: 2025-05-11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s36/e7.jpg
+            summary: >
+              Matchweek 36 fixture at Old Trafford (England). Scheduled date: May 11, 2025. Local kickoff:
+              14:15:00.
+          8:
+            title: Newcastle vs Chelsea
+            originally_available: 2025-05-11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s36/e8.jpg
+            summary: >
+              Matchweek 36 fixture at St James Park (England). Scheduled date: May 11, 2025. Local kickoff:
+              12:00:00.
+          9:
+            title: Nottingham Forest vs Leicester
+            originally_available: 2025-05-11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s36/e9.jpg
+            summary: >
+              Matchweek 36 fixture at City Ground (England). Scheduled date: May 11, 2025. Local kickoff:
+              14:15:00.
+          10:
+            title: Tottenham vs Crystal Palace
+            originally_available: 2025-05-11
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s36/e10.jpg
+            summary: >
+              Matchweek 36 fixture at Tottenham Hotspur Stadium (England). Scheduled date: May 11, 2025. Local
+              kickoff: 14:15:00.
+      37:
+        title: Matchweek 37
+        sort_title: 37_Matchweek 37
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s37/poster.jpg
+        summary: >
+          Matchweek 37 spans May 16-20, 2025 with 10 fixtures recorded in TheSportsDB feed for the 2024-2025
+          Premier League campaign.
+        episodes:
+          1:
+            title: Aston Villa vs Tottenham
+            originally_available: 2025-05-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s37/e1.jpg
+            summary: >
+              Matchweek 37 fixture at Villa Park (England). Scheduled date: May 16, 2025. Local kickoff: 19:30:00.
+          2:
+            title: Chelsea vs Manchester United
+            originally_available: 2025-05-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s37/e2.jpg
+            summary: >
+              Matchweek 37 fixture at Stamford Bridge (England). Scheduled date: May 16, 2025. Local kickoff:
+              20:15:00.
+          3:
+            title: Arsenal vs Newcastle
+            originally_available: 2025-05-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s37/e3.jpg
+            summary: >
+              Matchweek 37 fixture at Emirates Stadium (England). Scheduled date: May 18, 2025. Local kickoff:
+              16:30:00.
+          4:
+            title: Brentford vs Fulham
+            originally_available: 2025-05-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s37/e4.jpg
+            summary: >
+              Matchweek 37 fixture at Brentford Community Stadium (England). Scheduled date: May 18, 2025. Local
+              kickoff: 15:00:00.
+          5:
+            title: Everton vs Southampton
+            originally_available: 2025-05-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s37/e5.jpg
+            summary: >
+              Matchweek 37 fixture at Goodison Park (England). Scheduled date: May 18, 2025. Local kickoff:
+              12:00:00.
+          6:
+            title: Leicester vs Ipswich
+            originally_available: 2025-05-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s37/e6.jpg
+            summary: >
+              Matchweek 37 fixture at King Power Stadium (England). Scheduled date: May 18, 2025. Local kickoff:
+              15:00:00.
+          7:
+            title: West Ham vs Nottingham Forest
+            originally_available: 2025-05-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s37/e7.jpg
+            summary: >
+              Matchweek 37 fixture at London Stadium (England). Scheduled date: May 18, 2025. Local kickoff:
+              14:15:00.
+          8:
+            title: Brighton vs Liverpool
+            originally_available: 2025-05-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s37/e8.jpg
+            summary: >
+              Matchweek 37 fixture at TBD Venue (England). Scheduled date: May 19, 2025. Local kickoff: 20:00:00.
+          9:
+            title: Crystal Palace vs Wolves
+            originally_available: 2025-05-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s37/e9.jpg
+            summary: >
+              Matchweek 37 fixture at Selhurst Park (England). Scheduled date: May 20, 2025. Local kickoff:
+              20:00:00.
+          10:
+            title: Manchester City vs Bournemouth
+            originally_available: 2025-05-20
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s37/e10.jpg
+            summary: >
+              Matchweek 37 fixture at Etihad Stadium (England). Scheduled date: May 20, 2025. Local kickoff:
+              20:00:00.
+      38:
+        title: Matchweek 38
+        sort_title: 38_Matchweek 38
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s38/poster.jpg
+        summary: >
+          Matchweek 38 spans May 25, 2025 with 10 fixtures recorded in TheSportsDB feed for the 2024-2025
+          Premier League campaign.
+        episodes:
+          1:
+            title: Bournemouth vs Leicester
+            originally_available: 2025-05-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s38/e1.jpg
+            summary: >
+              Matchweek 38 fixture at Vitality Stadium (England). Scheduled date: May 25, 2025. Local kickoff:
+              16:00:00.
+          2:
+            title: Fulham vs Manchester City
+            originally_available: 2025-05-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s38/e2.jpg
+            summary: >
+              Matchweek 38 fixture at Craven Cottage (England). Scheduled date: May 25, 2025. Local kickoff:
+              16:00:00.
+          3:
+            title: Ipswich vs West Ham
+            originally_available: 2025-05-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s38/e3.jpg
+            summary: >
+              Matchweek 38 fixture at Portman Road (England). Scheduled date: May 25, 2025. Local kickoff:
+              16:00:00.
+          4:
+            title: Liverpool vs Crystal Palace
+            originally_available: 2025-05-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s38/e4.jpg
+            summary: >
+              Matchweek 38 fixture at Anfield (England). Scheduled date: May 25, 2025. Local kickoff: 16:00:00.
+          5:
+            title: Manchester United vs Aston Villa
+            originally_available: 2025-05-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s38/e5.jpg
+            summary: >
+              Matchweek 38 fixture at Old Trafford (England). Scheduled date: May 25, 2025. Local kickoff:
+              16:00:00.
+          6:
+            title: Newcastle vs Everton
+            originally_available: 2025-05-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s38/e6.jpg
+            summary: >
+              Matchweek 38 fixture at St James Park (England). Scheduled date: May 25, 2025. Local kickoff:
+              16:00:00.
+          7:
+            title: Nottingham Forest vs Chelsea
+            originally_available: 2025-05-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s38/e7.jpg
+            summary: >
+              Matchweek 38 fixture at City Ground (England). Scheduled date: May 25, 2025. Local kickoff:
+              16:00:00.
+          8:
+            title: Southampton vs Arsenal
+            originally_available: 2025-05-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s38/e8.jpg
+            summary: >
+              Matchweek 38 fixture at St. Mary (England). Scheduled date: May 25, 2025. Local kickoff: 16:00:00.
+          9:
+            title: Tottenham vs Brighton
+            originally_available: 2025-05-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s38/e9.jpg
+            summary: >
+              Matchweek 38 fixture at Tottenham Hotspur Stadium (England). Scheduled date: May 25, 2025. Local
+              kickoff: 16:00:00.
+          10:
+            title: Wolves vs Brentford
+            originally_available: 2025-05-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/premier-league/2024-2025/s38/e10.jpg
+            summary: >
+              Matchweek 38 fixture at Molineux Stadium (England). Scheduled date: May 25, 2025. Local kickoff:
+              16:00:00.
