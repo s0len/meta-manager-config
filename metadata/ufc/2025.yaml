@@ -5,9 +5,8 @@ metadata:
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/poster.jpg
     url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/background.jpg
     summary: >
-      The 2025 UFC calendar spans numbered pay-per-view spectacles and weekly Fight Night cards around the
-      globe. Each SportsDB round is grouped here so recordings for Early Prelims, Prelims and Main Card
-      blocks can be matched and renamed automatically.
+      The year 2025 is the 33rd year in the history of the Ultimate Fighting Championship (UFC), a mixed
+      martial arts promotion based in the United States.
     seasons:
       1:
         title: UFC Fight Night 249 Dern vs Ribas 2
@@ -1208,8 +1207,8 @@ metadata:
         sort_title: 033_Dana Whites Contender Series season 9 Week 3
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s33/poster.jpg
         summary: >
-          Dana Whites Contender Series season 9 Week 3 is scheduled for August 26, 2025 at UFC APEX in Las
-          Vegas, Nevada, United States.
+          Dana Whites Contender Series season 9 Week 3 anchors the UFC numbered pay-per-view slate on August
+          26, 2025 at UFC APEX (Las Vegas, Nevada, United States).
         episodes:
           1:
             title: Early Prelims
@@ -1237,8 +1236,8 @@ metadata:
         sort_title: 034_Dana Whites Contender Series season 9 Week 4
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s34/poster.jpg
         summary: >
-          Dana Whites Contender Series season 9 Week 4 is scheduled for September 02, 2025 at UFC APEX in Las
-          Vegas, Nevada, United States.
+          Dana Whites Contender Series season 9 Week 4 anchors the UFC numbered pay-per-view slate on
+          September 02, 2025 at UFC APEX (Las Vegas, Nevada, United States).
         episodes:
           1:
             title: Early Prelims
@@ -1306,8 +1305,8 @@ metadata:
         sort_title: 036_Dana Whites Contender Series season 9 Week 5
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s36/poster.jpg
         summary: >
-          Dana Whites Contender Series season 9 Week 5 is scheduled for September 09, 2025 at UFC APEX in Las
-          Vegas, Nevada, United States.
+          Dana Whites Contender Series season 9 Week 5 anchors the UFC numbered pay-per-view slate on
+          September 09, 2025 at UFC APEX (Las Vegas, Nevada, United States).
         episodes:
           1:
             title: Early Prelims
@@ -1393,8 +1392,8 @@ metadata:
         sort_title: 038_Dana Whites Contender Series season 9 Week 6
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s38/poster.jpg
         summary: >
-          Dana Whites Contender Series season 9 Week 6 is scheduled for September 17, 2025 at UFC APEX in Las
-          Vegas, Nevada, United States.
+          Dana Whites Contender Series season 9 Week 6 anchors the UFC numbered pay-per-view slate on
+          September 17, 2025 at UFC APEX (Las Vegas, Nevada, United States).
         episodes:
           1:
             title: Early Prelims
@@ -1423,8 +1422,8 @@ metadata:
         sort_title: 039_Dana Whites Contender Series season 9 Week 7
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s39/poster.jpg
         summary: >
-          Dana Whites Contender Series season 9 Week 7 is scheduled for September 24, 2025 at UFC APEX in Las
-          Vegas, Nevada, United States.
+          Dana Whites Contender Series season 9 Week 7 anchors the UFC numbered pay-per-view slate on
+          September 24, 2025 at UFC APEX (Las Vegas, Nevada, United States).
         episodes:
           1:
             title: Early Prelims
@@ -1499,8 +1498,8 @@ metadata:
         sort_title: 041_Dana Whites Contender Series season 9 Week 8
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s41/poster.jpg
         summary: >
-          Dana Whites Contender Series season 9 Week 8 is scheduled for October 01, 2025 at UFC APEX in Las
-          Vegas, Nevada, United States.
+          Dana Whites Contender Series season 9 Week 8 anchors the UFC numbered pay-per-view slate on October
+          01, 2025 at UFC APEX (Las Vegas, Nevada, United States).
         episodes:
           1:
             title: Early Prelims
@@ -1568,8 +1567,8 @@ metadata:
         sort_title: 043_Dana Whites Contender Series season 9 Week 9
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s43/poster.jpg
         summary: >
-          Dana Whites Contender Series season 9 Week 9 is scheduled for October 08, 2025 at UFC APEX in Las
-          Vegas, Nevada, United States.
+          Dana Whites Contender Series season 9 Week 9 anchors the UFC numbered pay-per-view slate on October
+          08, 2025 at UFC APEX (Las Vegas, Nevada, United States).
         episodes:
           1:
             title: Early Prelims
@@ -1633,8 +1632,8 @@ metadata:
         sort_title: 045_Dana Whites Contender Series season 9 Week 10
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s45/poster.jpg
         summary: >
-          Dana Whites Contender Series season 9 Week 10 is scheduled for October 14, 2025 at UFC APEX in Las
-          Vegas, Nevada, United States.
+          Dana Whites Contender Series season 9 Week 10 anchors the UFC numbered pay-per-view slate on October
+          14, 2025 at UFC APEX (Las Vegas, Nevada, United States).
         episodes:
           1:
             title: Early Prelims
@@ -1872,11 +1871,11 @@ metadata:
               Welterweight : Jack Della Maddalena (c)  vs.  Islam Makhachev; Women's Flyweight : Valentina
               Shevchenko (c)  vs.  Zhang Weili.
       51:
-        title: UFC Fight Night 264 Tsarukyan vs Hooker
-        sort_title: 051_UFC Fight Night 264 Tsarukyan vs Hooker
+        title: UFC Fight Night 265 Tsarukyan vs Hooker
+        sort_title: 051_UFC Fight Night 265 Tsarukyan vs Hooker
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s51/poster.jpg
         summary: >
-          UFC Fight Night: Tsarukyan vs. Hooker (also known as UFC Fight Night 264) is an upcoming mixed
+          UFC Fight Night: Tsarukyan vs. Hooker (also known as UFC Fight Night 265) is an upcoming mixed
           martial arts event produced by the Ultimate Fighting Championship that will take place on November
           22, 2025, at the Ali Bin Hamad al-Attiyah Arena in Al Rayyan, Qatar.
         episodes:
@@ -1885,14 +1884,14 @@ metadata:
             originally_available: 2025-11-22
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s51/prelims.jpg
             summary: >
-              Prelims for UFC Fight Night 264 Tsarukyan vs Hooker hosted at Ali Bin Hamad al-Attiyah Arena (Doha,
+              Prelims for UFC Fight Night 265 Tsarukyan vs Hooker hosted at Ali Bin Hamad al-Attiyah Arena (Doha,
               Qatar) on November 22, 2025. Detailed bout listings are pending in the SportsDB feed.
           2:
             title: Main Card
             originally_available: 2025-11-22
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s51/main-card.jpg
             summary: >
-              Main Card for UFC Fight Night 264 Tsarukyan vs Hooker hosted at Ali Bin Hamad al-Attiyah Arena
+              Main Card for UFC Fight Night 265 Tsarukyan vs Hooker hosted at Ali Bin Hamad al-Attiyah Arena
               (Doha, Qatar) on November 22, 2025. Notable bouts: Weight class : Method  Round  Time  Notes;
               Lightweight : Arman Tsarukyan  vs.  Dan Hooker; Welterweight : Belal Muhammad  vs.  Ian Machado
               Garry.

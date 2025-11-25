@@ -28,6 +28,7 @@ from sportsdb import (
     default_request_interval,
     load_sportsdb_settings,
 )
+from sportsdb_helpers import join_location, location_suffix
 from sportsdb_helpers import extract_events, fetch_season_description_text
 
 USER_AGENT = (
@@ -78,7 +79,6 @@ STANDARD_WEEKEND_SESSIONS: Tuple[SessionSlot, ...] = (
             "Selected drivers brief the media on car updates and expectations for the weekend."
         ),
         day_offset=-2,
-        fallback_slugs=("race",),
     ),
     SessionSlot(
         slug="weekend-warm-up",
@@ -88,7 +88,6 @@ STANDARD_WEEKEND_SESSIONS: Tuple[SessionSlot, ...] = (
             "Preview show covering track walks, tyre choices and evolving weather conditions."
         ),
         day_offset=-2,
-        fallback_slugs=("drivers-press-conference", "race"),
     ),
     SessionSlot(
         slug="free-practice-1",
@@ -96,7 +95,6 @@ STANDARD_WEEKEND_SESSIONS: Tuple[SessionSlot, ...] = (
         keywords=("practice 1", "free practice 1", "fp1"),
         summary_hint="Opening practice hour focused on systems checks and baseline setup work.",
         day_offset=-2,
-        fallback_slugs=("race",),
     ),
     SessionSlot(
         slug="free-practice-2",
@@ -104,7 +102,6 @@ STANDARD_WEEKEND_SESSIONS: Tuple[SessionSlot, ...] = (
         keywords=("practice 2", "free practice 2", "fp2"),
         summary_hint="Second practice mirrors race conditions for long-run and tyre evaluation.",
         day_offset=-2,
-        fallback_slugs=("free-practice-1", "race"),
     ),
     SessionSlot(
         slug="free-practice-3",
@@ -112,7 +109,6 @@ STANDARD_WEEKEND_SESSIONS: Tuple[SessionSlot, ...] = (
         keywords=("practice 3", "free practice 3", "fp3"),
         summary_hint="Final tune-up where teams chase qualifying simulations and outright pace.",
         day_offset=-1,
-        fallback_slugs=("free-practice-2", "race"),
     ),
     SessionSlot(
         slug="pre-qualifying-show",
@@ -120,7 +116,6 @@ STANDARD_WEEKEND_SESSIONS: Tuple[SessionSlot, ...] = (
         keywords=("pre qualifying", "pre-qualifying"),
         summary_hint="Build-up show that recaps practice data before knockout qualifying begins.",
         day_offset=-1,
-        fallback_slugs=("qualifying", "race"),
     ),
     SessionSlot(
         slug="qualifying",
@@ -128,7 +123,6 @@ STANDARD_WEEKEND_SESSIONS: Tuple[SessionSlot, ...] = (
         keywords=("qualifying", "qualy", "qualification"),
         summary_hint="Three-stage knockout session that sets Sunday's grid for the Grand Prix.",
         day_offset=-1,
-        fallback_slugs=("race",),
     ),
     SessionSlot(
         slug="post-qualifying-show",
@@ -136,7 +130,6 @@ STANDARD_WEEKEND_SESSIONS: Tuple[SessionSlot, ...] = (
         keywords=("post qualifying", "post-qualifying"),
         summary_hint="Immediate reaction, interviews and technical analysis after qualifying.",
         day_offset=-1,
-        fallback_slugs=("qualifying", "race"),
     ),
     SessionSlot(
         slug="pre-race-show",
@@ -144,15 +137,13 @@ STANDARD_WEEKEND_SESSIONS: Tuple[SessionSlot, ...] = (
         keywords=("pre race", "pre-race"),
         summary_hint="Grid walk coverage with final strategy talk before lights out.",
         day_offset=0,
-        fallback_slugs=("race",),
     ),
     SessionSlot(
         slug="race",
         title="Race",
-        keywords=("race", "grand prix"),
+        keywords=("grand prix", "race"),
         summary_hint="Full Grand Prix distance deciding the championship points haul.",
         day_offset=0,
-        fallback_slugs=("qualifying",),
     ),
     SessionSlot(
         slug="post-race-show",
@@ -160,7 +151,6 @@ STANDARD_WEEKEND_SESSIONS: Tuple[SessionSlot, ...] = (
         keywords=("post race", "post-race"),
         summary_hint="Podium ceremonies, driver interviews and parc fermé debriefs.",
         day_offset=0,
-        fallback_slugs=("race",),
     ),
 )
 
@@ -173,7 +163,6 @@ SPRINT_WEEKEND_SESSIONS: Tuple[SessionSlot, ...] = (
             "Selected drivers brief the media on car updates and expectations for the weekend."
         ),
         day_offset=-2,
-        fallback_slugs=("race",),
     ),
     SessionSlot(
         slug="weekend-warm-up",
@@ -183,7 +172,6 @@ SPRINT_WEEKEND_SESSIONS: Tuple[SessionSlot, ...] = (
             "Preview show covering track walks, tyre choices and evolving weather conditions."
         ),
         day_offset=-2,
-        fallback_slugs=("drivers-press-conference", "race"),
     ),
     SessionSlot(
         slug="free-practice-1",
@@ -191,7 +179,6 @@ SPRINT_WEEKEND_SESSIONS: Tuple[SessionSlot, ...] = (
         keywords=("practice 1", "free practice 1", "fp1"),
         summary_hint="Only practice session before the sprint shootout, vital for rapid setup work.",
         day_offset=-2,
-        fallback_slugs=("race",),
     ),
     SessionSlot(
         slug="sprint-qualifying",
@@ -199,7 +186,6 @@ SPRINT_WEEKEND_SESSIONS: Tuple[SessionSlot, ...] = (
         keywords=("sprint qualifying", "sprint shootout"),
         summary_hint="Short sprint shootout that sets the grid for Saturday's sprint race.",
         day_offset=-1,
-        fallback_slugs=("free-practice-1", "race"),
     ),
     SessionSlot(
         slug="pre-sprint-show",
@@ -207,7 +193,6 @@ SPRINT_WEEKEND_SESSIONS: Tuple[SessionSlot, ...] = (
         keywords=("pre sprint", "pre-sprint"),
         summary_hint="Studio build-up covering sprint strategies, tyre allocations and weather.",
         day_offset=-1,
-        fallback_slugs=("sprint", "sprint-qualifying"),
     ),
     SessionSlot(
         slug="sprint",
@@ -215,7 +200,6 @@ SPRINT_WEEKEND_SESSIONS: Tuple[SessionSlot, ...] = (
         keywords=("sprint", "sprint race"),
         summary_hint="100km dash awarding points to the top eight and shaping the weekend narrative.",
         day_offset=-1,
-        fallback_slugs=("sprint-qualifying", "qualifying", "race"),
     ),
     SessionSlot(
         slug="post-sprint-show",
@@ -223,7 +207,6 @@ SPRINT_WEEKEND_SESSIONS: Tuple[SessionSlot, ...] = (
         keywords=("post sprint", "post-sprint"),
         summary_hint="Analysis and driver interviews immediately after the sprint finish.",
         day_offset=-1,
-        fallback_slugs=("sprint", "qualifying"),
     ),
     SessionSlot(
         slug="pre-qualifying-show",
@@ -231,7 +214,6 @@ SPRINT_WEEKEND_SESSIONS: Tuple[SessionSlot, ...] = (
         keywords=("pre qualifying", "pre-qualifying"),
         summary_hint="Reset before traditional qualifying that locks in the Grand Prix grid.",
         day_offset=-2,
-        fallback_slugs=("qualifying", "sprint"),
     ),
     SessionSlot(
         slug="qualifying",
@@ -239,7 +221,6 @@ SPRINT_WEEKEND_SESSIONS: Tuple[SessionSlot, ...] = (
         keywords=("qualifying", "qualy", "qualification"),
         summary_hint="Knockout qualifying held after the sprint to define Sunday's start order.",
         day_offset=-2,
-        fallback_slugs=("sprint", "race"),
     ),
     SessionSlot(
         slug="post-qualifying-show",
@@ -247,7 +228,6 @@ SPRINT_WEEKEND_SESSIONS: Tuple[SessionSlot, ...] = (
         keywords=("post qualifying", "post-qualifying"),
         summary_hint="Reactions and technical analysis once the Grand Prix grid is finalised.",
         day_offset=-2,
-        fallback_slugs=("qualifying", "race"),
     ),
     SessionSlot(
         slug="pre-race-show",
@@ -255,15 +235,13 @@ SPRINT_WEEKEND_SESSIONS: Tuple[SessionSlot, ...] = (
         keywords=("pre race", "pre-race"),
         summary_hint="Grid walk coverage with final strategy talk before lights out.",
         day_offset=0,
-        fallback_slugs=("race",),
     ),
     SessionSlot(
         slug="race",
         title="Race",
-        keywords=("race", "grand prix"),
+        keywords=("grand prix", "race"),
         summary_hint="Full Grand Prix distance deciding the championship points haul.",
         day_offset=0,
-        fallback_slugs=("qualifying",),
     ),
     SessionSlot(
         slug="post-race-show",
@@ -271,7 +249,6 @@ SPRINT_WEEKEND_SESSIONS: Tuple[SessionSlot, ...] = (
         keywords=("post race", "post-race"),
         summary_hint="Podium ceremonies, driver interviews and parc fermé debriefs.",
         day_offset=0,
-        fallback_slugs=("race",),
     ),
 )
 
@@ -340,10 +317,11 @@ def ensure_asset_download(
     rate_limiter: Optional[RateLimiter],
     retries: int,
     retry_backoff: float,
+    overwrite: bool = False,
 ) -> bool:
     if not source_url:
         return False
-    if dest_path.exists():
+    if dest_path.exists() and not overwrite:
         return True
     dest_path.parent.mkdir(parents=True, exist_ok=True)
     attempt = 0
@@ -434,6 +412,18 @@ def fetch_round_events(
     ]
 
 
+def _round_number_from_event(event: dict) -> Optional[int]:
+    for key in ("intRound", "strRound"):
+        value = event.get(key)
+        if value in (None, "", "0"):
+            continue
+        try:
+            return int(value)
+        except ValueError:
+            continue
+    return None
+
+
 def _to_date(value: Optional[str]) -> Optional[date]:
     if not value:
         return None
@@ -485,8 +475,9 @@ def _match_session_event(
             event.get("strFilename") or "",
         ]
         combined = " ".join(haystacks).lower()
-        if any(token in combined for token in lowered_keywords):
-            return event
+        for token in lowered_keywords:
+            if re.search(rf"\b{re.escape(token)}\b", combined):
+                return event
     return None
 
 
@@ -611,10 +602,10 @@ def _pick_episode_thumb(event: dict) -> Optional[str]:
 
 
 def _event_location(event: dict) -> str:
+    city_country = join_location(event.get("strCity"), event.get("strCountry"))
     bits = [
         event.get("strCircuit"),
-        event.get("strCity"),
-        event.get("strCountry"),
+        city_country,
     ]
     compacted = [bit for bit in bits if bit]
     return ", ".join(compacted)
@@ -657,11 +648,14 @@ def _session_summary(
     event_name = event.get("strEvent") or weekend_title
     venue = event.get("strVenue") or default_venue or "TBD Circuit"
     location = _event_location(event) or default_location
+    location_snippet = location_suffix(event.get("strCity"), event.get("strCountry"))
+    if not location_snippet and location:
+        location_snippet = f" ({location})"
     event_date = _date_from_event(event)
     description = (event.get("strDescriptionEN") or "").strip()
     summary_parts = [
         f"{slot.title} for {weekend_title} takes place at {venue}"
-        f"{f' ({location})' if location else ''} on "
+        f"{location_snippet} on "
         f"{event_date.strftime('%B %d, %Y')}."
     ]
     if event.get("strTimeLocal"):
@@ -819,6 +813,7 @@ def build_metadata(args: argparse.Namespace, sportsdb: SportsDBSettings) -> dict
                 rate_limiter,
                 args.max_retries,
                 args.retry_backoff,
+                overwrite=True,
             )
         if args.background_rel:
             ensure_asset_download(
@@ -828,6 +823,7 @@ def build_metadata(args: argparse.Namespace, sportsdb: SportsDBSettings) -> dict
                 rate_limiter,
                 args.max_retries,
                 args.retry_backoff,
+                overwrite=True,
             )
 
     seasons = []
@@ -860,6 +856,7 @@ def build_metadata(args: argparse.Namespace, sportsdb: SportsDBSettings) -> dict
                     rate_limiter,
                     args.max_retries,
                     args.retry_backoff,
+                    overwrite=True,
                 )
             season_poster_url = build_asset_url(args.asset_url_base, season_poster_rel)
         elif args.matchweek_poster_fallback:
@@ -891,14 +888,34 @@ def build_metadata(args: argparse.Namespace, sportsdb: SportsDBSettings) -> dict
         race_date = max(dates) if dates else _date_from_event(context_event)
 
         for index, slot in enumerate(session_plan, start=1):
-            source_event: Optional[dict] = matched_events.get(slot.slug)
-            if source_event is None:
-                for fallback_slug in slot.fallback_slugs:
-                    source_event = matched_events.get(fallback_slug)
-                    if source_event:
-                        break
-            if source_event is None:
-                source_event = primary_event or artwork_event or {}
+            matched_event: Optional[dict] = matched_events.get(slot.slug)
+            if slot.slug == "race":
+                if matched_event:
+                    title_blob = " ".join(
+                        filter(
+                            None,
+                            [
+                                matched_event.get("strEvent"),
+                                matched_event.get("strEventAlternate"),
+                                matched_event.get("strFilename"),
+                            ],
+                        )
+                    ).lower()
+                    if any(
+                        token in title_blob
+                        for token in (
+                            "practice",
+                            "qualifying",
+                            "sprint",
+                            "shootout",
+                            "warm up",
+                            "press conference",
+                        )
+                    ):
+                        matched_event = None
+                if matched_event is None:
+                    matched_event = primary_event
+            source_event = matched_event or primary_event or artwork_event or {}
             event_date = race_date + timedelta(days=slot.day_offset)
             session_slug = slugify(slot.slug)
             episode_poster_url = None
@@ -916,14 +933,15 @@ def build_metadata(args: argparse.Namespace, sportsdb: SportsDBSettings) -> dict
                 episode_poster_url = build_asset_url(
                     args.asset_url_base, episode_poster_rel
                 )
-                if download_assets:
+                if matched_event and download_assets:
                     ensure_asset_download(
-                        _pick_episode_thumb(source_event),
+                        _pick_episode_thumb(matched_event),
                         episode_poster_path,
                         context,
                         rate_limiter,
                         args.max_retries,
                         args.retry_backoff,
+                        overwrite=True,
                     )
             episodes.append(
                 {

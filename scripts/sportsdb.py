@@ -136,6 +136,15 @@ class SportsDBSettings:
             return f"{self.base_url}/list/seasons/{league_id}"
         return f"{self.base_url}/{self.api_key}/all_seasons.php?id={league_id}"
 
+    def event_detail_url(self, event_id: str) -> str:
+        """Return endpoint for fetching per-event metadata."""
+        if self.is_v2:
+            return (
+                f"{self.site_root}/api/v1/json/{self.api_key}/lookupevent.php"
+                f"?id={event_id}"
+            )
+        return f"{self.base_url}/{self.api_key}/lookupevent.php?id={event_id}"
+
 
 def load_sportsdb_settings(env_path: Optional[Path] = None) -> SportsDBSettings:
     """Load SportsDB credentials from .env overrides plus the active environment."""

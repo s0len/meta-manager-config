@@ -27,6 +27,7 @@ from sportsdb import (
     default_request_interval,
     load_sportsdb_settings,
 )
+from sportsdb_helpers import join_location, location_suffix
 from sportsdb_helpers import extract_events, fetch_season_description_text
 
 USER_AGENT = (
@@ -411,10 +412,10 @@ def _pick_episode_thumb(event: dict) -> Optional[str]:
 
 
 def _event_location(event: dict) -> str:
+    city_country = join_location(event.get("strCity"), event.get("strCountry"))
     bits = [
         event.get("strCircuit"),
-        event.get("strCity"),
-        event.get("strCountry"),
+        city_country,
     ]
     compacted = [bit for bit in bits if bit]
     return ", ".join(compacted)
@@ -461,11 +462,14 @@ def _episode_summary(
     display_name = _clean_event_name(event_name) or event_name
     venue = event.get("strVenue") or "TBD Circuit"
     location = _event_location(event)
+    location_text = location_suffix(event.get("strCity"), event.get("strCountry"))
+    if not location_text and location:
+        location_text = f" ({location})"
     event_date = _date_from_event(event)
     description = (event.get("strDescriptionEN") or "").strip()
     summary_parts = [
         f"{session_title} for {display_name} takes place at {venue}"
-        f"{f' ({location})' if location else ''} on "
+        f"{location_text} on "
         f"{event_date.strftime('%B %d, %Y')}."
     ]
     if event.get("strTimeLocal"):

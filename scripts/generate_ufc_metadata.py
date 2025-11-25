@@ -87,6 +87,35 @@ def _fetch_json(
             raise
 
 
+def fetch_event_detail(
+    event_id: Optional[str],
+    sportsdb: SportsDBSettings,
+    context: ssl.SSLContext,
+) -> Optional[dict]:
+    if not event_id:
+        return None
+    url = sportsdb.event_detail_url(event_id)
+    try:
+        payload = _fetch_json(
+            url,
+            context,
+            rate_limiter=None,
+            retries=0,
+            retry_backoff=0.0,
+            headers=_build_headers(sportsdb),
+        )
+    except urllib.error.URLError as exc:
+        print(f"Warning: failed to fetch details for event {event_id}: {exc}", file=sys.stderr)
+        return None
+    entries = (
+        payload.get("events")
+        or payload.get("event")
+        or payload.get("results")
+        or []
+    )
+    return entries[0] if entries else None
+
+
 def fetch_season_events(
     season: str,
     league_id: int,
@@ -270,6 +299,73 @@ def summarise_fights(lines: Sequence[str], limit: int = 3) -> str:
     return "Notable bouts: " + "; ".join(blurbs) + "."
 
 
+def _event_type_label(event_type: str) -> str:
+    return "numbered pay-per-view" if event_type == "ppv" else "Fight Night"
+
+
+def _fallback_round_summary(
+    *,
+    event_title: str,
+    event_date: date,
+    venue: str,
+    location: str,
+    event_type: str,
+    card_sections: Dict[str, List[str]],
+) -> str:
+    date_text = event_date.strftime("%B %d, %Y")
+    venue_text = f"{venue}{f' ({location})' if location else ''}"
+    summary_parts = [
+        f"{event_title} anchors the UFC {_event_type_label(event_type)} slate on {date_text} at {venue_text}."
+    ]
+    broadcast_blocks = [
+        label
+        for key, label in (
+            ("early", "Early Prelims"),
+            ("prelim", "Prelims"),
+            ("main", "Main Card"),
+        )
+        if card_sections.get(key)
+    ]
+    if broadcast_blocks:
+        summary_parts.append(
+            "Broadcast blocks tracked for automation: "
+            + ", ".join(broadcast_blocks)
+            + "."
+        )
+    headline = (
+        summarise_fights(card_sections.get("main") or [], limit=3)
+        or summarise_fights(card_sections.get("prelim") or [], limit=3)
+        or summarise_fights(card_sections.get("early") or [], limit=3)
+    )
+    if headline:
+        summary_parts.append(headline)
+    return " ".join(summary_parts)
+
+
+DETAIL_COPY_FIELDS = [
+    "strDescriptionEN",
+    "strResult",
+    "strVenue",
+    "strCity",
+    "strCountry",
+    "strPoster",
+    "strThumb",
+    "strEvent",
+    "strTVStation",
+]
+
+
+def _merge_event_details(base: dict, detail: dict) -> None:
+    for field in DETAIL_COPY_FIELDS:
+        if not base.get(field) and detail.get(field):
+            base[field] = detail[field]
+    # Always prefer precise date if provided.
+    if detail.get("dateEvent"):
+        base["dateEvent"] = detail["dateEvent"]
+    if detail.get("strTimeLocal"):
+        base["strTimeLocal"] = detail["strTimeLocal"]
+
+
 def _wrap_lines(prefix: str, text: str, width: int = 100) -> List[str]:
     wrapper = textwrap.TextWrapper(width=width)
     wrapped = wrapper.wrap(text) or [""]
@@ -328,24 +424,8 @@ def build_metadata(args: argparse.Namespace, sportsdb: SportsDBSettings) -> dict
             raise RuntimeError(f"Failed to fetch season data: {exc}") from exc
 
     season_summary: Optional[str] = None
-    try:
-        season_summary = fetch_season_description_text(
-            season=args.season,
-            league_id=args.league_id,
-            sportsdb=sportsdb,
-            fetch_json=_fetch_json,
-            context=context,
-            rate_limiter=None,
-            retries=0,
-            retry_backoff=0.0,
-        )
-    except urllib.error.URLError as exc:
-        if verify_ssl:
-            print(
-                "Season description fetch failed with SSL error, retrying insecure...",
-                file=sys.stderr,
-            )
-            context = build_ssl_context(False)
+    if not args.skip_season_description_fetch:
+        try:
             season_summary = fetch_season_description_text(
                 season=args.season,
                 league_id=args.league_id,
@@ -356,11 +436,28 @@ def build_metadata(args: argparse.Namespace, sportsdb: SportsDBSettings) -> dict
                 retries=0,
                 retry_backoff=0.0,
             )
-        else:
-            print(
-                f"Warning: failed to fetch season description: {exc}",
-                file=sys.stderr,
-            )
+        except urllib.error.URLError as exc:
+            if verify_ssl:
+                print(
+                    "Season description fetch failed with SSL error, retrying insecure...",
+                    file=sys.stderr,
+                )
+                context = build_ssl_context(False)
+                season_summary = fetch_season_description_text(
+                    season=args.season,
+                    league_id=args.league_id,
+                    sportsdb=sportsdb,
+                    fetch_json=_fetch_json,
+                    context=context,
+                    rate_limiter=None,
+                    retries=0,
+                    retry_backoff=0.0,
+                )
+            else:
+                print(
+                    f"Warning: failed to fetch season description: {exc}",
+                    file=sys.stderr,
+                )
 
     events_by_round: Dict[int, dict] = {}
     for event in events:
@@ -408,6 +505,12 @@ def build_metadata(args: argparse.Namespace, sportsdb: SportsDBSettings) -> dict
             if args.round_delay > 0 and round_number < args.round_stop:
                 time.sleep(args.round_delay)
 
+    if not args.skip_event_detail_fetch:
+        for round_number, event in events_by_round.items():
+            detail = fetch_event_detail(event.get("idEvent"), sportsdb, context)
+            if detail:
+                _merge_event_details(event, detail)
+
     assets_root = args.assets_root
     download_assets = not args.skip_asset_download
 
@@ -437,7 +540,10 @@ def build_metadata(args: argparse.Namespace, sportsdb: SportsDBSettings) -> dict
         event_date = _date_from_event(event)
         event_date_str = event_date.isoformat()
         venue = event.get("strVenue") or "TBD Venue"
-        location = ", ".join(
+        city = event.get("strCity") or ""
+        country = event.get("strCountry") or ""
+        location = ", ".join(bit for bit in [city, country] if bit)
+        location_for_summary = ", ".join(
             bit
             for bit in [
                 event.get("strCity"),
@@ -447,9 +553,13 @@ def build_metadata(args: argparse.Namespace, sportsdb: SportsDBSettings) -> dict
         )
         description = (event.get("strDescriptionEN") or "").strip()
         if not description:
-            description = (
-                f"{event_title} is scheduled for {event_date.strftime('%B %d, %Y')} "
-                f"at {venue}{f' in {location}' if location else ''}."
+            description = _fallback_round_summary(
+                event_title=event_title,
+                event_date=event_date,
+                venue=venue,
+                location=location,
+                event_type=event_type,
+                card_sections=card_sections,
             )
 
         event_token = extract_event_number(event_title)
@@ -481,9 +591,17 @@ def build_metadata(args: argparse.Namespace, sportsdb: SportsDBSettings) -> dict
             card_lines = card_sections.get(card_key, [])
             fights_summary = summarise_fights(card_lines)
             episode_title = CARD_LABELS[card_key]
+            location_snippet = ""
+            if city and country:
+                location_snippet = f" ({city}, {country})"
+            elif country:
+                location_snippet = f" ({country})"
+            elif city:
+                location_snippet = f" ({city})"
+
             episode_summary_parts = [
                 f"{episode_title} for {event_title} hosted at {venue}"
-                f"{f' ({location})' if location else ''} on "
+                f"{location_snippet} on "
                 f"{event_date.strftime('%B %d, %Y')}."
             ]
             if fights_summary:
@@ -534,7 +652,12 @@ def build_metadata(args: argparse.Namespace, sportsdb: SportsDBSettings) -> dict
         )
 
     show_id = args.show_id or args.title
-    show_summary = season_summary or args.summary
+    show_summary = args.summary
+    if season_summary:
+        if args.season_description_mode == "replace":
+            show_summary = season_summary
+        else:
+            show_summary = f"{args.summary}\n\n{season_summary}"
     metadata = {
         "show_id": show_id,
         "title": args.title,
@@ -710,6 +833,25 @@ def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
         "--skip-round-fill",
         action="store_true",
         help="Disable per-round fetches (use only eventsseason.php).",
+    )
+    parser.add_argument(
+        "--skip-season-description-fetch",
+        action="store_true",
+        help="Disable fetching show-level summaries from TheSportsDB season descriptions.",
+    )
+    parser.add_argument(
+        "--season-description-mode",
+        choices=("append", "replace"),
+        default="replace",
+        help=(
+            "When SportsDB season descriptions are available, either append them after "
+            "the CLI summary (append) or replace the CLI summary entirely (replace)."
+        ),
+    )
+    parser.add_argument(
+        "--skip-event-detail-fetch",
+        action="store_true",
+        help="Skip per-event detail lookups (useful if TheSportsDB data already includes rich descriptions).",
     )
     parser.add_argument(
         "--skip-asset-download",

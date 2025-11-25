@@ -20,34 +20,32 @@ metadata:
             originally_available: 2025-12-05
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s01/e1.jpg
             summary: >
-              Free Practice 1 for São Paulo (E-Prix 1) at Sao Paulo Street Circuit (São Paulo, Brazil). Scheduled
-              date: December 05, 2025. Opening systems check to dial in baseline energy management before the
-              weekend ramps up.
+              Free Practice 1 for São Paulo (E-Prix 1) at Sao Paulo Street Circuit (Brazil). Scheduled date:
+              December 05, 2025. Opening systems check to dial in baseline energy management before the weekend
+              ramps up.
           2:
             title: Free Practice 2
             originally_available: 2025-12-05
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s01/e2.jpg
             summary: >
-              Free Practice 2 for São Paulo (E-Prix 1) at Sao Paulo Street Circuit (São Paulo, Brazil). Scheduled
-              date: December 05, 2025. Final prep session focused on qualifying duels and race simulations around
-              the host city streets.
+              Free Practice 2 for São Paulo (E-Prix 1) at Sao Paulo Street Circuit (Brazil). Scheduled date:
+              December 05, 2025. Final prep session focused on qualifying duels and race simulations around the
+              host city streets.
           3:
             title: Qualifying
             originally_available: 2025-12-06
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s01/e3.jpg
             summary: >
-              Qualifying for São Paulo (E-Prix 1) at Sao Paulo Street Circuit (São Paulo, Brazil). Scheduled date:
-              December 06, 2025. Formula E's group stage and head-to-head duels decide pole position and the front
-              rows.
+              Qualifying for São Paulo (E-Prix 1) at Sao Paulo Street Circuit (Brazil). Scheduled date: December
+              06, 2025. Formula E's group stage and head-to-head duels decide pole position and the front rows.
           4:
             title: Race
             originally_available: 2025-12-06
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s01/e4.jpg
             summary: >
-              Race for São Paulo (E-Prix 1) at Sao Paulo Street Circuit (São Paulo, Brazil). Scheduled date:
-              December 06, 2025. Listed start: 00:00:00 (UTC). The São Paulo ePrix is a race of the single-seater,
-              electrically powered Formula E championship, held for the first time in São Paulo, Brazil on March
-              25, 2023. 45 minutes plus one lap of all-electric racing with Attack Mode strategy and energy saves.
+              Race for São Paulo (E-Prix 1) at Sao Paulo Street Circuit (Brazil). Scheduled date: December 06,
+              2025. Listed start: 00:00:00 (UTC). 45 minutes plus one lap of all-electric racing with Attack Mode
+              strategy and energy saves.
       2:
         title: Mexico City
         sort_title: 02_Mexico City
@@ -60,39 +58,33 @@ metadata:
             originally_available: 2026-01-09
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s02/e1.jpg
             summary: >
-              Free Practice 1 for Mexico City (E-Prix 2) at Autódromo Hermanos Rodríguez (Mexico City, Mexico).
-              Scheduled date: January 09, 2026. Opening systems check to dial in baseline energy management before
-              the weekend ramps up.
+              Free Practice 1 for Mexico City (E-Prix 2) at Autódromo Hermanos Rodríguez (Mexico). Scheduled date:
+              January 09, 2026. Opening systems check to dial in baseline energy management before the weekend
+              ramps up.
           2:
             title: Free Practice 2
             originally_available: 2026-01-09
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s02/e2.jpg
             summary: >
-              Free Practice 2 for Mexico City (E-Prix 2) at Autódromo Hermanos Rodríguez (Mexico City, Mexico).
-              Scheduled date: January 09, 2026. Final prep session focused on qualifying duels and race
-              simulations around the host city streets.
+              Free Practice 2 for Mexico City (E-Prix 2) at Autódromo Hermanos Rodríguez (Mexico). Scheduled date:
+              January 09, 2026. Final prep session focused on qualifying duels and race simulations around the
+              host city streets.
           3:
             title: Qualifying
             originally_available: 2026-01-10
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s02/e3.jpg
             summary: >
-              Qualifying for Mexico City (E-Prix 2) at Autódromo Hermanos Rodríguez (Mexico City, Mexico).
-              Scheduled date: January 10, 2026. Formula E's group stage and head-to-head duels decide pole
-              position and the front rows.
+              Qualifying for Mexico City (E-Prix 2) at Autódromo Hermanos Rodríguez (Mexico). Scheduled date:
+              January 10, 2026. Formula E's group stage and head-to-head duels decide pole position and the front
+              rows.
           4:
             title: Race
             originally_available: 2026-01-10
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s02/e4.jpg
             summary: >
-              Race for Mexico City (E-Prix 2) at Autódromo Hermanos Rodríguez (Mexico City, Mexico). Scheduled
-              date: January 10, 2026. Listed start: 00:00:00 (UTC). The Mexico City ePrix is an annual race of the
-              single-seater, electrically powered Formula E championship, held in Mexico City, Mexico. It was
-              first raced in the 2015–16 season.  The ePrix is held at the Autódromo Hermanos Rodríguez, albeit in
-              a very different form to the version used in Formula One. The layout is just over two kilometers in
-              length, and is based on a modified version of the one-mile short oval used in the NASCAR Mexico
-              Series. It utilises the full Peraltada final corner, whereas the exit of the Foro Sol section is
-              next to the entrance. 45 minutes plus one lap of all-electric racing with Attack Mode strategy and
-              energy saves.
+              Race for Mexico City (E-Prix 2) at Autódromo Hermanos Rodríguez (Mexico). Scheduled date: January
+              10, 2026. Listed start: 00:00:00 (UTC). 45 minutes plus one lap of all-electric racing with Attack
+              Mode strategy and energy saves.
       3:
         title: Miami
         sort_title: 03_Miami
@@ -105,31 +97,31 @@ metadata:
             originally_available: 2026-01-30
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s03/e1.jpg
             summary: >
-              Free Practice 1 for Miami (E-Prix 3) at TBD Circuit (Miami , United States). Scheduled date: January
-              30, 2026. Opening systems check to dial in baseline energy management before the weekend ramps up.
+              Free Practice 1 for Miami (E-Prix 3) at TBD Circuit (United States). Scheduled date: January 30,
+              2026. Opening systems check to dial in baseline energy management before the weekend ramps up.
           2:
             title: Free Practice 2
             originally_available: 2026-01-30
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s03/e2.jpg
             summary: >
-              Free Practice 2 for Miami (E-Prix 3) at TBD Circuit (Miami , United States). Scheduled date: January
-              30, 2026. Final prep session focused on qualifying duels and race simulations around the host city
+              Free Practice 2 for Miami (E-Prix 3) at TBD Circuit (United States). Scheduled date: January 30,
+              2026. Final prep session focused on qualifying duels and race simulations around the host city
               streets.
           3:
             title: Qualifying
             originally_available: 2026-01-31
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s03/e3.jpg
             summary: >
-              Qualifying for Miami (E-Prix 3) at TBD Circuit (Miami , United States). Scheduled date: January 31,
-              2026. Formula E's group stage and head-to-head duels decide pole position and the front rows.
+              Qualifying for Miami (E-Prix 3) at TBD Circuit (United States). Scheduled date: January 31, 2026.
+              Formula E's group stage and head-to-head duels decide pole position and the front rows.
           4:
             title: Race
             originally_available: 2026-01-31
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s03/e4.jpg
             summary: >
-              Race for Miami (E-Prix 3) at TBD Circuit (Miami , United States). Scheduled date: January 31, 2026.
-              Listed start: 00:00:00 (UTC). 45 minutes plus one lap of all-electric racing with Attack Mode
-              strategy and energy saves.
+              Race for Miami (E-Prix 3) at TBD Circuit (United States). Scheduled date: January 31, 2026. Listed
+              start: 00:00:00 (UTC). 45 minutes plus one lap of all-electric racing with Attack Mode strategy and
+              energy saves.
       4:
         title: Jeddah
         sort_title: 04_Jeddah
@@ -142,32 +134,31 @@ metadata:
             originally_available: 2026-02-12
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s04/e1.jpg
             summary: >
-              Free Practice 1 for Jeddah (E-Prix 4) at TBD Circuit (Jeddah, Saudi Arabia). Scheduled date:
-              February 12, 2026. Opening systems check to dial in baseline energy management before the weekend
-              ramps up.
+              Free Practice 1 for Jeddah (E-Prix 4) at TBD Circuit (Saudi Arabia). Scheduled date: February 12,
+              2026. Opening systems check to dial in baseline energy management before the weekend ramps up.
           2:
             title: Free Practice 2
             originally_available: 2026-02-12
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s04/e2.jpg
             summary: >
-              Free Practice 2 for Jeddah (E-Prix 4) at TBD Circuit (Jeddah, Saudi Arabia). Scheduled date:
-              February 12, 2026. Final prep session focused on qualifying duels and race simulations around the
-              host city streets.
+              Free Practice 2 for Jeddah (E-Prix 4) at TBD Circuit (Saudi Arabia). Scheduled date: February 12,
+              2026. Final prep session focused on qualifying duels and race simulations around the host city
+              streets.
           3:
             title: Qualifying
             originally_available: 2026-02-13
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s04/e3.jpg
             summary: >
-              Qualifying for Jeddah (E-Prix 4) at TBD Circuit (Jeddah, Saudi Arabia). Scheduled date: February 13,
-              2026. Formula E's group stage and head-to-head duels decide pole position and the front rows.
+              Qualifying for Jeddah (E-Prix 4) at TBD Circuit (Saudi Arabia). Scheduled date: February 13, 2026.
+              Formula E's group stage and head-to-head duels decide pole position and the front rows.
           4:
             title: Race
             originally_available: 2026-02-13
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s04/e4.jpg
             summary: >
-              Race for Jeddah (E-Prix 4) at TBD Circuit (Jeddah, Saudi Arabia). Scheduled date: February 13, 2026.
-              Listed start: 00:00:00 (UTC). 45 minutes plus one lap of all-electric racing with Attack Mode
-              strategy and energy saves.
+              Race for Jeddah (E-Prix 4) at TBD Circuit (Saudi Arabia). Scheduled date: February 13, 2026. Listed
+              start: 00:00:00 (UTC). 45 minutes plus one lap of all-electric racing with Attack Mode strategy and
+              energy saves.
       5:
         title: Jeddah
         sort_title: 05_Jeddah
@@ -180,32 +171,31 @@ metadata:
             originally_available: 2026-02-13
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s05/e1.jpg
             summary: >
-              Free Practice 1 for Jeddah (E-Prix 5) at TBD Circuit (Jeddah, Saudi Arabia). Scheduled date:
-              February 13, 2026. Opening systems check to dial in baseline energy management before the weekend
-              ramps up.
+              Free Practice 1 for Jeddah (E-Prix 5) at TBD Circuit (Saudi Arabia). Scheduled date: February 13,
+              2026. Opening systems check to dial in baseline energy management before the weekend ramps up.
           2:
             title: Free Practice 2
             originally_available: 2026-02-13
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s05/e2.jpg
             summary: >
-              Free Practice 2 for Jeddah (E-Prix 5) at TBD Circuit (Jeddah, Saudi Arabia). Scheduled date:
-              February 13, 2026. Final prep session focused on qualifying duels and race simulations around the
-              host city streets.
+              Free Practice 2 for Jeddah (E-Prix 5) at TBD Circuit (Saudi Arabia). Scheduled date: February 13,
+              2026. Final prep session focused on qualifying duels and race simulations around the host city
+              streets.
           3:
             title: Qualifying
             originally_available: 2026-02-14
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s05/e3.jpg
             summary: >
-              Qualifying for Jeddah (E-Prix 5) at TBD Circuit (Jeddah, Saudi Arabia). Scheduled date: February 14,
-              2026. Formula E's group stage and head-to-head duels decide pole position and the front rows.
+              Qualifying for Jeddah (E-Prix 5) at TBD Circuit (Saudi Arabia). Scheduled date: February 14, 2026.
+              Formula E's group stage and head-to-head duels decide pole position and the front rows.
           4:
             title: Race
             originally_available: 2026-02-14
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s05/e4.jpg
             summary: >
-              Race for Jeddah (E-Prix 5) at TBD Circuit (Jeddah, Saudi Arabia). Scheduled date: February 14, 2026.
-              Listed start: 00:00:00 (UTC). 45 minutes plus one lap of all-electric racing with Attack Mode
-              strategy and energy saves.
+              Race for Jeddah (E-Prix 5) at TBD Circuit (Saudi Arabia). Scheduled date: February 14, 2026. Listed
+              start: 00:00:00 (UTC). 45 minutes plus one lap of all-electric racing with Attack Mode strategy and
+              energy saves.
       6:
         title: Madrid
         sort_title: 06_Madrid
@@ -218,32 +208,30 @@ metadata:
             originally_available: 2026-03-20
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s06/e1.jpg
             summary: >
-              Free Practice 1 for Madrid (E-Prix 6) at TBD Circuit (Madrid, Spain). Scheduled date: March 20,
-              2026. Opening systems check to dial in baseline energy management before the weekend ramps up.
+              Free Practice 1 for Madrid (E-Prix 6) at TBD Circuit (Spain). Scheduled date: March 20, 2026.
+              Opening systems check to dial in baseline energy management before the weekend ramps up.
           2:
             title: Free Practice 2
             originally_available: 2026-03-20
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s06/e2.jpg
             summary: >
-              Free Practice 2 for Madrid (E-Prix 6) at TBD Circuit (Madrid, Spain). Scheduled date: March 20,
-              2026. Final prep session focused on qualifying duels and race simulations around the host city
-              streets.
+              Free Practice 2 for Madrid (E-Prix 6) at TBD Circuit (Spain). Scheduled date: March 20, 2026. Final
+              prep session focused on qualifying duels and race simulations around the host city streets.
           3:
             title: Qualifying
             originally_available: 2026-03-21
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s06/e3.jpg
             summary: >
-              Qualifying for Madrid (E-Prix 6) at TBD Circuit (Madrid, Spain). Scheduled date: March 21, 2026.
-              Formula E's group stage and head-to-head duels decide pole position and the front rows.
+              Qualifying for Madrid (E-Prix 6) at TBD Circuit (Spain). Scheduled date: March 21, 2026. Formula E's
+              group stage and head-to-head duels decide pole position and the front rows.
           4:
             title: Race
             originally_available: 2026-03-21
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s06/e4.jpg
             summary: >
-              Race for Madrid (E-Prix 6) at TBD Circuit (Madrid, Spain). Scheduled date: March 21, 2026. Listed
-              start: 00:00:00 (UTC). The Madrid ePrix is a race of the single-seater, electrically powered Formula
-              E championship, held in Madrid, Spain. It will be held for the first time as part of the 2025-26
-              season. 45 minutes plus one lap of all-electric racing with Attack Mode strategy and energy saves.
+              Race for Madrid (E-Prix 6) at TBD Circuit (Spain). Scheduled date: March 21, 2026. Listed start:
+              00:00:00 (UTC). 45 minutes plus one lap of all-electric racing with Attack Mode strategy and energy
+              saves.
       7:
         title: Berlin
         sort_title: 07_Berlin
@@ -256,32 +244,30 @@ metadata:
             originally_available: 2026-05-01
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s07/e1.jpg
             summary: >
-              Free Practice 1 for Berlin (E-Prix 7) at TBD Circuit (Berlin, Germany). Scheduled date: May 01,
-              2026. Opening systems check to dial in baseline energy management before the weekend ramps up.
+              Free Practice 1 for Berlin (E-Prix 7) at TBD Circuit (Germany). Scheduled date: May 01, 2026.
+              Opening systems check to dial in baseline energy management before the weekend ramps up.
           2:
             title: Free Practice 2
             originally_available: 2026-05-01
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s07/e2.jpg
             summary: >
-              Free Practice 2 for Berlin (E-Prix 7) at TBD Circuit (Berlin, Germany). Scheduled date: May 01,
-              2026. Final prep session focused on qualifying duels and race simulations around the host city
-              streets.
+              Free Practice 2 for Berlin (E-Prix 7) at TBD Circuit (Germany). Scheduled date: May 01, 2026. Final
+              prep session focused on qualifying duels and race simulations around the host city streets.
           3:
             title: Qualifying
             originally_available: 2026-05-02
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s07/e3.jpg
             summary: >
-              Qualifying for Berlin (E-Prix 7) at TBD Circuit (Berlin, Germany). Scheduled date: May 02, 2026.
-              Formula E's group stage and head-to-head duels decide pole position and the front rows.
+              Qualifying for Berlin (E-Prix 7) at TBD Circuit (Germany). Scheduled date: May 02, 2026. Formula E's
+              group stage and head-to-head duels decide pole position and the front rows.
           4:
             title: Race
             originally_available: 2026-05-02
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s07/e4.jpg
             summary: >
-              Race for Berlin (E-Prix 7) at TBD Circuit (Berlin, Germany). Scheduled date: May 02, 2026. Listed
-              start: 00:00:00 (UTC). The Berlin ePrix is an annual race of the single-seater, electrically powered
-              Formula E championship, held in Berlin, Germany. It was first raced in the 2014–15 season. 45
-              minutes plus one lap of all-electric racing with Attack Mode strategy and energy saves.
+              Race for Berlin (E-Prix 7) at TBD Circuit (Germany). Scheduled date: May 02, 2026. Listed start:
+              00:00:00 (UTC). 45 minutes plus one lap of all-electric racing with Attack Mode strategy and energy
+              saves.
       8:
         title: Berlin
         sort_title: 08_Berlin
@@ -294,32 +280,30 @@ metadata:
             originally_available: 2026-05-02
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s08/e1.jpg
             summary: >
-              Free Practice 1 for Berlin (E-Prix 8) at TBD Circuit (Berlin, Germany). Scheduled date: May 02,
-              2026. Opening systems check to dial in baseline energy management before the weekend ramps up.
+              Free Practice 1 for Berlin (E-Prix 8) at TBD Circuit (Germany). Scheduled date: May 02, 2026.
+              Opening systems check to dial in baseline energy management before the weekend ramps up.
           2:
             title: Free Practice 2
             originally_available: 2026-05-02
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s08/e2.jpg
             summary: >
-              Free Practice 2 for Berlin (E-Prix 8) at TBD Circuit (Berlin, Germany). Scheduled date: May 02,
-              2026. Final prep session focused on qualifying duels and race simulations around the host city
-              streets.
+              Free Practice 2 for Berlin (E-Prix 8) at TBD Circuit (Germany). Scheduled date: May 02, 2026. Final
+              prep session focused on qualifying duels and race simulations around the host city streets.
           3:
             title: Qualifying
             originally_available: 2026-05-03
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s08/e3.jpg
             summary: >
-              Qualifying for Berlin (E-Prix 8) at TBD Circuit (Berlin, Germany). Scheduled date: May 03, 2026.
-              Formula E's group stage and head-to-head duels decide pole position and the front rows.
+              Qualifying for Berlin (E-Prix 8) at TBD Circuit (Germany). Scheduled date: May 03, 2026. Formula E's
+              group stage and head-to-head duels decide pole position and the front rows.
           4:
             title: Race
             originally_available: 2026-05-03
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s08/e4.jpg
             summary: >
-              Race for Berlin (E-Prix 8) at TBD Circuit (Berlin, Germany). Scheduled date: May 03, 2026. Listed
-              start: 00:00:00 (UTC). The Berlin ePrix is an annual race of the single-seater, electrically powered
-              Formula E championship, held in Berlin, Germany. It was first raced in the 2014–15 season. 45
-              minutes plus one lap of all-electric racing with Attack Mode strategy and energy saves.
+              Race for Berlin (E-Prix 8) at TBD Circuit (Germany). Scheduled date: May 03, 2026. Listed start:
+              00:00:00 (UTC). 45 minutes plus one lap of all-electric racing with Attack Mode strategy and energy
+              saves.
       9:
         title: Monaco
         sort_title: 09_Monaco
@@ -332,33 +316,30 @@ metadata:
             originally_available: 2026-05-15
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s09/e1.jpg
             summary: >
-              Free Practice 1 for Monaco (E-Prix 9) at Circuit de Monaco (Monte Carlo, Monaco). Scheduled date:
-              May 15, 2026. Opening systems check to dial in baseline energy management before the weekend ramps
-              up.
+              Free Practice 1 for Monaco (E-Prix 9) at Circuit de Monaco (Monaco). Scheduled date: May 15, 2026.
+              Opening systems check to dial in baseline energy management before the weekend ramps up.
           2:
             title: Free Practice 2
             originally_available: 2026-05-15
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s09/e2.jpg
             summary: >
-              Free Practice 2 for Monaco (E-Prix 9) at Circuit de Monaco (Monte Carlo, Monaco). Scheduled date:
-              May 15, 2026. Final prep session focused on qualifying duels and race simulations around the host
-              city streets.
+              Free Practice 2 for Monaco (E-Prix 9) at Circuit de Monaco (Monaco). Scheduled date: May 15, 2026.
+              Final prep session focused on qualifying duels and race simulations around the host city streets.
           3:
             title: Qualifying
             originally_available: 2026-05-16
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s09/e3.jpg
             summary: >
-              Qualifying for Monaco (E-Prix 9) at Circuit de Monaco (Monte Carlo, Monaco). Scheduled date: May 16,
-              2026. Formula E's group stage and head-to-head duels decide pole position and the front rows.
+              Qualifying for Monaco (E-Prix 9) at Circuit de Monaco (Monaco). Scheduled date: May 16, 2026.
+              Formula E's group stage and head-to-head duels decide pole position and the front rows.
           4:
             title: Race
             originally_available: 2026-05-16
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s09/e4.jpg
             summary: >
-              Race for Monaco (E-Prix 9) at Circuit de Monaco (Monte Carlo, Monaco). Scheduled date: May 16, 2026.
-              Listed start: 00:00:00 (UTC). The Monaco ePrix is a recurring automobile race of the Formula E World
-              Championship which takes place in Monte Carlo, Monaco. 45 minutes plus one lap of all-electric
-              racing with Attack Mode strategy and energy saves.
+              Race for Monaco (E-Prix 9) at Circuit de Monaco (Monaco). Scheduled date: May 16, 2026. Listed
+              start: 00:00:00 (UTC). 45 minutes plus one lap of all-electric racing with Attack Mode strategy and
+              energy saves.
       10:
         title: Monaco
         sort_title: 10_Monaco
@@ -371,33 +352,30 @@ metadata:
             originally_available: 2026-05-16
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s10/e1.jpg
             summary: >
-              Free Practice 1 for Monaco (E-Prix 10) at Circuit de Monaco (Monte Carlo, Monaco). Scheduled date:
-              May 16, 2026. Opening systems check to dial in baseline energy management before the weekend ramps
-              up.
+              Free Practice 1 for Monaco (E-Prix 10) at Circuit de Monaco (Monaco). Scheduled date: May 16, 2026.
+              Opening systems check to dial in baseline energy management before the weekend ramps up.
           2:
             title: Free Practice 2
             originally_available: 2026-05-16
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s10/e2.jpg
             summary: >
-              Free Practice 2 for Monaco (E-Prix 10) at Circuit de Monaco (Monte Carlo, Monaco). Scheduled date:
-              May 16, 2026. Final prep session focused on qualifying duels and race simulations around the host
-              city streets.
+              Free Practice 2 for Monaco (E-Prix 10) at Circuit de Monaco (Monaco). Scheduled date: May 16, 2026.
+              Final prep session focused on qualifying duels and race simulations around the host city streets.
           3:
             title: Qualifying
             originally_available: 2026-05-17
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s10/e3.jpg
             summary: >
-              Qualifying for Monaco (E-Prix 10) at Circuit de Monaco (Monte Carlo, Monaco). Scheduled date: May
-              17, 2026. Formula E's group stage and head-to-head duels decide pole position and the front rows.
+              Qualifying for Monaco (E-Prix 10) at Circuit de Monaco (Monaco). Scheduled date: May 17, 2026.
+              Formula E's group stage and head-to-head duels decide pole position and the front rows.
           4:
             title: Race
             originally_available: 2026-05-17
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s10/e4.jpg
             summary: >
-              Race for Monaco (E-Prix 10) at Circuit de Monaco (Monte Carlo, Monaco). Scheduled date: May 17,
-              2026. Listed start: 00:00:00 (UTC). The Monaco ePrix is a recurring automobile race of the Formula E
-              World Championship which takes place in Monte Carlo, Monaco. 45 minutes plus one lap of all-electric
-              racing with Attack Mode strategy and energy saves.
+              Race for Monaco (E-Prix 10) at Circuit de Monaco (Monaco). Scheduled date: May 17, 2026. Listed
+              start: 00:00:00 (UTC). 45 minutes plus one lap of all-electric racing with Attack Mode strategy and
+              energy saves.
       11:
         title: Sanya
         sort_title: 11_Sanya
@@ -410,34 +388,29 @@ metadata:
             originally_available: 2026-06-19
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s11/e1.jpg
             summary: >
-              Free Practice 1 for Sanya (E-Prix 11) at Haitang Bay Circuit (Hainan, China). Scheduled date: June
-              19, 2026. Opening systems check to dial in baseline energy management before the weekend ramps up.
+              Free Practice 1 for Sanya (E-Prix 11) at Haitang Bay Circuit (China). Scheduled date: June 19, 2026.
+              Opening systems check to dial in baseline energy management before the weekend ramps up.
           2:
             title: Free Practice 2
             originally_available: 2026-06-19
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s11/e2.jpg
             summary: >
-              Free Practice 2 for Sanya (E-Prix 11) at Haitang Bay Circuit (Hainan, China). Scheduled date: June
-              19, 2026. Final prep session focused on qualifying duels and race simulations around the host city
-              streets.
+              Free Practice 2 for Sanya (E-Prix 11) at Haitang Bay Circuit (China). Scheduled date: June 19, 2026.
+              Final prep session focused on qualifying duels and race simulations around the host city streets.
           3:
             title: Qualifying
             originally_available: 2026-06-20
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s11/e3.jpg
             summary: >
-              Qualifying for Sanya (E-Prix 11) at Haitang Bay Circuit (Hainan, China). Scheduled date: June 20,
-              2026. Formula E's group stage and head-to-head duels decide pole position and the front rows.
+              Qualifying for Sanya (E-Prix 11) at Haitang Bay Circuit (China). Scheduled date: June 20, 2026.
+              Formula E's group stage and head-to-head duels decide pole position and the front rows.
           4:
             title: Race
             originally_available: 2026-06-20
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s11/e4.jpg
             summary: >
-              Race for Sanya (E-Prix 11) at Haitang Bay Circuit (Hainan, China). Scheduled date: June 20, 2026.
-              Listed start: 00:00:00 (UTC). The Sanya ePrix is a race of the all-electric Formula E championship
-              held in Sanya, Hainan, China. It debuted during the 2018–19 Formula E season on the Haitang Bay
-              Circuit. The race was won by Jean-Éric Vergne for DS Techeetah. Planned events in subsequent seasons
-              were cancelled due to the COVID-19 pandemic, before Formula E announced Sanya would return to the
-              calendar in 2026. 45 minutes plus one lap of all-electric racing with Attack Mode strategy and
+              Race for Sanya (E-Prix 11) at Haitang Bay Circuit (China). Scheduled date: June 20, 2026. Listed
+              start: 00:00:00 (UTC). 45 minutes plus one lap of all-electric racing with Attack Mode strategy and
               energy saves.
       12:
         title: Shanghai
@@ -451,33 +424,30 @@ metadata:
             originally_available: 2026-07-03
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s12/e1.jpg
             summary: >
-              Free Practice 1 for Shanghai (E-Prix 12) at TBD Circuit (Shanghai , China). Scheduled date: July 03,
-              2026. Opening systems check to dial in baseline energy management before the weekend ramps up.
+              Free Practice 1 for Shanghai (E-Prix 12) at TBD Circuit (China). Scheduled date: July 03, 2026.
+              Opening systems check to dial in baseline energy management before the weekend ramps up.
           2:
             title: Free Practice 2
             originally_available: 2026-07-03
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s12/e2.jpg
             summary: >
-              Free Practice 2 for Shanghai (E-Prix 12) at TBD Circuit (Shanghai , China). Scheduled date: July 03,
-              2026. Final prep session focused on qualifying duels and race simulations around the host city
-              streets.
+              Free Practice 2 for Shanghai (E-Prix 12) at TBD Circuit (China). Scheduled date: July 03, 2026.
+              Final prep session focused on qualifying duels and race simulations around the host city streets.
           3:
             title: Qualifying
             originally_available: 2026-07-04
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s12/e3.jpg
             summary: >
-              Qualifying for Shanghai (E-Prix 12) at TBD Circuit (Shanghai , China). Scheduled date: July 04,
-              2026. Formula E's group stage and head-to-head duels decide pole position and the front rows.
+              Qualifying for Shanghai (E-Prix 12) at TBD Circuit (China). Scheduled date: July 04, 2026. Formula
+              E's group stage and head-to-head duels decide pole position and the front rows.
           4:
             title: Race
             originally_available: 2026-07-04
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s12/e4.jpg
             summary: >
-              Race for Shanghai (E-Prix 12) at TBD Circuit (Shanghai , China). Scheduled date: July 04, 2026.
-              Listed start: 00:00:00 (UTC). The Shanghai E-Prix is an annual race in the FIA Formula E World
-              Championship, an all-electric single-seater racing series. The race was held for the first time at
-              the Shanghai International Circuit on 25 May 2024. 45 minutes plus one lap of all-electric racing
-              with Attack Mode strategy and energy saves.
+              Race for Shanghai (E-Prix 12) at TBD Circuit (China). Scheduled date: July 04, 2026. Listed start:
+              00:00:00 (UTC). 45 minutes plus one lap of all-electric racing with Attack Mode strategy and energy
+              saves.
       13:
         title: Shanghai
         sort_title: 13_Shanghai
@@ -490,33 +460,30 @@ metadata:
             originally_available: 2026-07-04
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s13/e1.jpg
             summary: >
-              Free Practice 1 for Shanghai (E-Prix 13) at TBD Circuit (Shanghai, China). Scheduled date: July 04,
-              2026. Opening systems check to dial in baseline energy management before the weekend ramps up.
+              Free Practice 1 for Shanghai (E-Prix 13) at TBD Circuit (China). Scheduled date: July 04, 2026.
+              Opening systems check to dial in baseline energy management before the weekend ramps up.
           2:
             title: Free Practice 2
             originally_available: 2026-07-04
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s13/e2.jpg
             summary: >
-              Free Practice 2 for Shanghai (E-Prix 13) at TBD Circuit (Shanghai, China). Scheduled date: July 04,
-              2026. Final prep session focused on qualifying duels and race simulations around the host city
-              streets.
+              Free Practice 2 for Shanghai (E-Prix 13) at TBD Circuit (China). Scheduled date: July 04, 2026.
+              Final prep session focused on qualifying duels and race simulations around the host city streets.
           3:
             title: Qualifying
             originally_available: 2026-07-05
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s13/e3.jpg
             summary: >
-              Qualifying for Shanghai (E-Prix 13) at TBD Circuit (Shanghai, China). Scheduled date: July 05, 2026.
-              Formula E's group stage and head-to-head duels decide pole position and the front rows.
+              Qualifying for Shanghai (E-Prix 13) at TBD Circuit (China). Scheduled date: July 05, 2026. Formula
+              E's group stage and head-to-head duels decide pole position and the front rows.
           4:
             title: Race
             originally_available: 2026-07-05
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s13/e4.jpg
             summary: >
-              Race for Shanghai (E-Prix 13) at TBD Circuit (Shanghai, China). Scheduled date: July 05, 2026.
-              Listed start: 00:00:00 (UTC). The Shanghai E-Prix is an annual race in the FIA Formula E World
-              Championship, an all-electric single-seater racing series. The race was held for the first time at
-              the Shanghai International Circuit on 25 May 2024. 45 minutes plus one lap of all-electric racing
-              with Attack Mode strategy and energy saves.
+              Race for Shanghai (E-Prix 13) at TBD Circuit (China). Scheduled date: July 05, 2026. Listed start:
+              00:00:00 (UTC). 45 minutes plus one lap of all-electric racing with Attack Mode strategy and energy
+              saves.
       14:
         title: Tokyo
         sort_title: 14_Tokyo
@@ -529,32 +496,30 @@ metadata:
             originally_available: 2026-07-24
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s14/e1.jpg
             summary: >
-              Free Practice 1 for Tokyo (E-Prix 14) at TBD Circuit (Tokyo, Japan). Scheduled date: July 24, 2026.
-              Opening systems check to dial in baseline energy management before the weekend ramps up.
+              Free Practice 1 for Tokyo (E-Prix 14) at TBD Circuit (Japan). Scheduled date: July 24, 2026. Opening
+              systems check to dial in baseline energy management before the weekend ramps up.
           2:
             title: Free Practice 2
             originally_available: 2026-07-24
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s14/e2.jpg
             summary: >
-              Free Practice 2 for Tokyo (E-Prix 14) at TBD Circuit (Tokyo, Japan). Scheduled date: July 24, 2026.
-              Final prep session focused on qualifying duels and race simulations around the host city streets.
+              Free Practice 2 for Tokyo (E-Prix 14) at TBD Circuit (Japan). Scheduled date: July 24, 2026. Final
+              prep session focused on qualifying duels and race simulations around the host city streets.
           3:
             title: Qualifying
             originally_available: 2026-07-25
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s14/e3.jpg
             summary: >
-              Qualifying for Tokyo (E-Prix 14) at TBD Circuit (Tokyo, Japan). Scheduled date: July 25, 2026.
-              Formula E's group stage and head-to-head duels decide pole position and the front rows.
+              Qualifying for Tokyo (E-Prix 14) at TBD Circuit (Japan). Scheduled date: July 25, 2026. Formula E's
+              group stage and head-to-head duels decide pole position and the front rows.
           4:
             title: Race
             originally_available: 2026-07-25
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s14/e4.jpg
             summary: >
-              Race for Tokyo (E-Prix 14) at TBD Circuit (Tokyo, Japan). Scheduled date: July 25, 2026. Listed
-              start: 00:00:00 (UTC). The Tokyo ePrix is a race of the FIA Formula E World Championship, an all-
-              electric single-seater racing series. The race was held for the first time at the Tokyo Street
-              Circuit on 30 March 2024. 45 minutes plus one lap of all-electric racing with Attack Mode strategy
-              and energy saves.
+              Race for Tokyo (E-Prix 14) at TBD Circuit (Japan). Scheduled date: July 25, 2026. Listed start:
+              00:00:00 (UTC). 45 minutes plus one lap of all-electric racing with Attack Mode strategy and energy
+              saves.
       15:
         title: Tokyo
         sort_title: 15_Tokyo
@@ -567,32 +532,30 @@ metadata:
             originally_available: 2026-07-25
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s15/e1.jpg
             summary: >
-              Free Practice 1 for Tokyo (E-Prix 15) at TBD Circuit (Tokyo, Japan). Scheduled date: July 25, 2026.
-              Opening systems check to dial in baseline energy management before the weekend ramps up.
+              Free Practice 1 for Tokyo (E-Prix 15) at TBD Circuit (Japan). Scheduled date: July 25, 2026. Opening
+              systems check to dial in baseline energy management before the weekend ramps up.
           2:
             title: Free Practice 2
             originally_available: 2026-07-25
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s15/e2.jpg
             summary: >
-              Free Practice 2 for Tokyo (E-Prix 15) at TBD Circuit (Tokyo, Japan). Scheduled date: July 25, 2026.
-              Final prep session focused on qualifying duels and race simulations around the host city streets.
+              Free Practice 2 for Tokyo (E-Prix 15) at TBD Circuit (Japan). Scheduled date: July 25, 2026. Final
+              prep session focused on qualifying duels and race simulations around the host city streets.
           3:
             title: Qualifying
             originally_available: 2026-07-26
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s15/e3.jpg
             summary: >
-              Qualifying for Tokyo (E-Prix 15) at TBD Circuit (Tokyo, Japan). Scheduled date: July 26, 2026.
-              Formula E's group stage and head-to-head duels decide pole position and the front rows.
+              Qualifying for Tokyo (E-Prix 15) at TBD Circuit (Japan). Scheduled date: July 26, 2026. Formula E's
+              group stage and head-to-head duels decide pole position and the front rows.
           4:
             title: Race
             originally_available: 2026-07-26
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s15/e4.jpg
             summary: >
-              Race for Tokyo (E-Prix 15) at TBD Circuit (Tokyo, Japan). Scheduled date: July 26, 2026. Listed
-              start: 00:00:00 (UTC). The Tokyo ePrix is a race of the FIA Formula E World Championship, an all-
-              electric single-seater racing series. The race was held for the first time at the Tokyo Street
-              Circuit on 30 March 2024. 45 minutes plus one lap of all-electric racing with Attack Mode strategy
-              and energy saves.
+              Race for Tokyo (E-Prix 15) at TBD Circuit (Japan). Scheduled date: July 26, 2026. Listed start:
+              00:00:00 (UTC). 45 minutes plus one lap of all-electric racing with Attack Mode strategy and energy
+              saves.
       16:
         title: London
         sort_title: 16_London
@@ -605,36 +568,31 @@ metadata:
             originally_available: 2026-08-14
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s16/e1.jpg
             summary: >
-              Free Practice 1 for London (E-Prix 16) at TBD Circuit (London, United Kingdom). Scheduled date:
-              August 14, 2026. Opening systems check to dial in baseline energy management before the weekend
-              ramps up.
+              Free Practice 1 for London (E-Prix 16) at TBD Circuit (United Kingdom). Scheduled date: August 14,
+              2026. Opening systems check to dial in baseline energy management before the weekend ramps up.
           2:
             title: Free Practice 2
             originally_available: 2026-08-14
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s16/e2.jpg
             summary: >
-              Free Practice 2 for London (E-Prix 16) at TBD Circuit (London, United Kingdom). Scheduled date:
-              August 14, 2026. Final prep session focused on qualifying duels and race simulations around the host
-              city streets.
+              Free Practice 2 for London (E-Prix 16) at TBD Circuit (United Kingdom). Scheduled date: August 14,
+              2026. Final prep session focused on qualifying duels and race simulations around the host city
+              streets.
           3:
             title: Qualifying
             originally_available: 2026-08-15
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s16/e3.jpg
             summary: >
-              Qualifying for London (E-Prix 16) at TBD Circuit (London, United Kingdom). Scheduled date: August
-              15, 2026. Formula E's group stage and head-to-head duels decide pole position and the front rows.
+              Qualifying for London (E-Prix 16) at TBD Circuit (United Kingdom). Scheduled date: August 15, 2026.
+              Formula E's group stage and head-to-head duels decide pole position and the front rows.
           4:
             title: Race
             originally_available: 2026-08-15
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s16/e4.jpg
             summary: >
-              Race for London (E-Prix 16) at TBD Circuit (London, United Kingdom). Scheduled date: August 15,
-              2026. Listed start: 00:00:00 (UTC). The London ePrix is an annual race of the single-seater,
-              electrically powered Formula E championship, held in London, United Kingdom. It was first raced in
-              the 2014–15 season until the 2015–16 season. The event was originally meant to return for the
-              2019–20 season at a new location around (and through) ExCeL London before being cancelled due to the
-              COVID-19 pandemic. The event at the new location was eventually held in the following season. 45
-              minutes plus one lap of all-electric racing with Attack Mode strategy and energy saves.
+              Race for London (E-Prix 16) at TBD Circuit (United Kingdom). Scheduled date: August 15, 2026. Listed
+              start: 00:00:00 (UTC). 45 minutes plus one lap of all-electric racing with Attack Mode strategy and
+              energy saves.
       17:
         title: London
         sort_title: 17_London
@@ -647,33 +605,28 @@ metadata:
             originally_available: 2026-08-15
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s17/e1.jpg
             summary: >
-              Free Practice 1 for London (E-Prix 17) at TBD Circuit (London, United Kingdom). Scheduled date:
-              August 15, 2026. Opening systems check to dial in baseline energy management before the weekend
-              ramps up.
+              Free Practice 1 for London (E-Prix 17) at TBD Circuit (United Kingdom). Scheduled date: August 15,
+              2026. Opening systems check to dial in baseline energy management before the weekend ramps up.
           2:
             title: Free Practice 2
             originally_available: 2026-08-15
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s17/e2.jpg
             summary: >
-              Free Practice 2 for London (E-Prix 17) at TBD Circuit (London, United Kingdom). Scheduled date:
-              August 15, 2026. Final prep session focused on qualifying duels and race simulations around the host
-              city streets.
+              Free Practice 2 for London (E-Prix 17) at TBD Circuit (United Kingdom). Scheduled date: August 15,
+              2026. Final prep session focused on qualifying duels and race simulations around the host city
+              streets.
           3:
             title: Qualifying
             originally_available: 2026-08-16
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s17/e3.jpg
             summary: >
-              Qualifying for London (E-Prix 17) at TBD Circuit (London, United Kingdom). Scheduled date: August
-              16, 2026. Formula E's group stage and head-to-head duels decide pole position and the front rows.
+              Qualifying for London (E-Prix 17) at TBD Circuit (United Kingdom). Scheduled date: August 16, 2026.
+              Formula E's group stage and head-to-head duels decide pole position and the front rows.
           4:
             title: Race
             originally_available: 2026-08-16
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/formula-e/2025-2026/s17/e4.jpg
             summary: >
-              Race for London (E-Prix 17) at TBD Circuit (London, United Kingdom). Scheduled date: August 16,
-              2026. Listed start: 00:00:00 (UTC). The London ePrix is an annual race of the single-seater,
-              electrically powered Formula E championship, held in London, United Kingdom. It was first raced in
-              the 2014–15 season until the 2015–16 season. The event was originally meant to return for the
-              2019–20 season at a new location around (and through) ExCeL London before being cancelled due to the
-              COVID-19 pandemic. The event at the new location was eventually held in the following season. 45
-              minutes plus one lap of all-electric racing with Attack Mode strategy and energy saves.
+              Race for London (E-Prix 17) at TBD Circuit (United Kingdom). Scheduled date: August 16, 2026. Listed
+              start: 00:00:00 (UTC). 45 minutes plus one lap of all-electric racing with Attack Mode strategy and
+              energy saves.
