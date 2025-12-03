@@ -1,0 +1,510 @@
+metadata:
+  Figure Skating Grand Prix 2025:
+    title: Figure Skating Grand Prix 2025
+    sort_title: Figure Skating Grand Prix 2025
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/background.jpg
+    summary: >
+      ISU Grand Prix of Figure Skating 2025 brings together the world’s best skaters for a high-stakes
+      international tour where every jump, spin, and step counts. Across six Grand Prix stops in France,
+      China, Canada, Japan, the United States, and Finland, elite athletes in Men’s, Women’s, Pairs, and
+      Ice Dance battle for medals, ranking points, and a coveted ticket to the Grand Prix Final in Nagoya,
+      Japan.
+    seasons:
+      1:
+        title: Grand Prix de France
+        sort_title: 01_Grand Prix de France
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s01/poster.jpg
+        summary: >
+          Grand Prix de France spans October 17-19, 2025 at Iceparc (France). TheSportsDB currently lists 9
+          broadcast blocks for automation.
+        episodes:
+          1:
+            title: Grand Prix de France Pairs Short Program
+            originally_available: 2025-10-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s01/e1.jpg
+            summary: >
+              Grand Prix de France Pairs Short Program coverage for Grand Prix de France at Iceparc (France).
+              Scheduled date: October 17, 2025.
+          2:
+            title: Grand Prix de France Women Short Program
+            originally_available: 2025-10-17
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s01/e2.jpg
+            summary: >
+              Grand Prix de France Women Short Program coverage for Grand Prix de France at Iceparc (France).
+              Scheduled date: October 17, 2025.
+          3:
+            title: Grand Prix de France Ice Dance Rhythm Dance
+            originally_available: 2025-10-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s01/e3.jpg
+            summary: >
+              Grand Prix de France Ice Dance Rhythm Dance coverage for Grand Prix de France at Iceparc (France).
+              Scheduled date: October 18, 2025.
+          4:
+            title: Grand Prix de France Men Short Program
+            originally_available: 2025-10-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s01/e4.jpg
+            summary: >
+              Grand Prix de France Men Short Program coverage for Grand Prix de France at Iceparc (France).
+              Scheduled date: October 18, 2025.
+          5:
+            title: Grand Prix de France Pairs Free Skating
+            originally_available: 2025-10-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s01/e5.jpg
+            summary: >
+              Grand Prix de France Pairs Free Skating coverage for Grand Prix de France at Iceparc (France).
+              Scheduled date: October 18, 2025.
+          6:
+            title: Grand Prix de France Women Free Skating
+            originally_available: 2025-10-18
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s01/e6.jpg
+            summary: >
+              Grand Prix de France Women Free Skating coverage for Grand Prix de France at Iceparc (France).
+              Scheduled date: October 18, 2025.
+          7:
+            title: Grand Prix de France Exhibition Gala
+            originally_available: 2025-10-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s01/e7.jpg
+            summary: >
+              Grand Prix de France Exhibition Gala coverage for Grand Prix de France at Iceparc (France).
+              Scheduled date: October 19, 2025.
+          8:
+            title: Grand Prix de France Ice Dance Free Dance
+            originally_available: 2025-10-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s01/e8.jpg
+            summary: >
+              Grand Prix de France Ice Dance Free Dance coverage for Grand Prix de France at Iceparc (France).
+              Scheduled date: October 19, 2025.
+          9:
+            title: Grand Prix de France Men Free Skating
+            originally_available: 2025-10-19
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s01/e9.jpg
+            summary: >
+              Grand Prix de France Men Free Skating coverage for Grand Prix de France at Iceparc (France).
+              Scheduled date: October 19, 2025.
+      2:
+        title: Cup of China
+        sort_title: 02_Cup of China
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s02/poster.jpg
+        summary: >
+          Cup of China spans October 24-26, 2025 at Chongqing Huaxi Culture and Sports Center (China).
+          TheSportsDB currently lists 9 broadcast blocks for automation.
+        episodes:
+          1:
+            title: Cup of China Pairs Short Program
+            originally_available: 2025-10-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s02/e1.jpg
+            summary: >
+              Cup of China Pairs Short Program coverage for Cup of China at Chongqing Huaxi Culture and Sports
+              Center (China). Scheduled date: October 24, 2025.
+          2:
+            title: Cup of China Women Short Program
+            originally_available: 2025-10-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s02/e2.jpg
+            summary: >
+              Cup of China Women Short Program coverage for Cup of China at Chongqing Huaxi Culture and Sports
+              Center (China). Scheduled date: October 24, 2025.
+          3:
+            title: Cup of China Ice Dance Rhythm Dance
+            originally_available: 2025-10-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s02/e3.jpg
+            summary: >
+              Cup of China Ice Dance Rhythm Dance coverage for Cup of China at Chongqing Huaxi Culture and Sports
+              Center (China). Scheduled date: October 25, 2025.
+          4:
+            title: Cup of China Men Short Program
+            originally_available: 2025-10-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s02/e4.jpg
+            summary: >
+              Cup of China Men Short Program coverage for Cup of China at Chongqing Huaxi Culture and Sports
+              Center (China). Scheduled date: October 25, 2025.
+          5:
+            title: Cup of China Pairs Free Skating
+            originally_available: 2025-10-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s02/e5.jpg
+            summary: >
+              Cup of China Pairs Free Skating coverage for Cup of China at Chongqing Huaxi Culture and Sports
+              Center (China). Scheduled date: October 25, 2025.
+          6:
+            title: Cup of China Women Free Skating
+            originally_available: 2025-10-25
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s02/e6.jpg
+            summary: >
+              Cup of China Women Free Skating coverage for Cup of China at Chongqing Huaxi Culture and Sports
+              Center (China). Scheduled date: October 25, 2025.
+          7:
+            title: Cup of China Exhibition Gala
+            originally_available: 2025-10-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s02/e7.jpg
+            summary: >
+              Cup of China Exhibition Gala coverage for Cup of China at Chongqing Huaxi Culture and Sports Center
+              (China). Scheduled date: October 26, 2025.
+          8:
+            title: Cup of China Ice Dance Free Dance
+            originally_available: 2025-10-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s02/e8.jpg
+            summary: >
+              Cup of China Ice Dance Free Dance coverage for Cup of China at Chongqing Huaxi Culture and Sports
+              Center (China). Scheduled date: October 26, 2025.
+          9:
+            title: Cup of China Men Free Skating
+            originally_available: 2025-10-26
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s02/e9.jpg
+            summary: >
+              Cup of China Men Free Skating coverage for Cup of China at Chongqing Huaxi Culture and Sports Center
+              (China). Scheduled date: October 26, 2025.
+      3:
+        title: Skate Canada
+        sort_title: 03_Skate Canada
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s03/poster.jpg
+        summary: >
+          Skate Canada spans October 31 - November 2, 2025 at SaskTel Centre (Canada). TheSportsDB currently
+          lists 9 broadcast blocks for automation.
+        episodes:
+          1:
+            title: Skate Canada Pairs Short Program
+            originally_available: 2025-10-31
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s03/e1.jpg
+            summary: >
+              Skate Canada Pairs Short Program coverage for Skate Canada at SaskTel Centre (Canada). Scheduled
+              date: October 31, 2025.
+          2:
+            title: Skate Canada Women Short Program
+            originally_available: 2025-10-31
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s03/e2.jpg
+            summary: >
+              Skate Canada Women Short Program coverage for Skate Canada at SaskTel Centre (Canada). Scheduled
+              date: October 31, 2025.
+          3:
+            title: Skate Canada Ice Dance Rhythm Dance
+            originally_available: 2025-11-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s03/e3.jpg
+            summary: >
+              Skate Canada Ice Dance Rhythm Dance coverage for Skate Canada at SaskTel Centre (Canada). Scheduled
+              date: November 01, 2025.
+          4:
+            title: Skate Canada Men Short Program
+            originally_available: 2025-11-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s03/e4.jpg
+            summary: >
+              Skate Canada Men Short Program coverage for Skate Canada at SaskTel Centre (Canada). Scheduled date:
+              November 01, 2025.
+          5:
+            title: Skate Canada Pairs Free Skating
+            originally_available: 2025-11-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s03/e5.jpg
+            summary: >
+              Skate Canada Pairs Free Skating coverage for Skate Canada at SaskTel Centre (Canada). Scheduled
+              date: November 01, 2025.
+          6:
+            title: Skate Canada Women Free Skating
+            originally_available: 2025-11-01
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s03/e6.jpg
+            summary: >
+              Skate Canada Women Free Skating coverage for Skate Canada at SaskTel Centre (Canada). Scheduled
+              date: November 01, 2025.
+          7:
+            title: Skate Canada Exhibition Gala
+            originally_available: 2025-11-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s03/e7.jpg
+            summary: >
+              Skate Canada Exhibition Gala coverage for Skate Canada at SaskTel Centre (Canada). Scheduled date:
+              November 02, 2025.
+          8:
+            title: Skate Canada Ice Dance Free Dance
+            originally_available: 2025-11-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s03/e8.jpg
+            summary: >
+              Skate Canada Ice Dance Free Dance coverage for Skate Canada at SaskTel Centre (Canada). Scheduled
+              date: November 02, 2025.
+          9:
+            title: Skate Canada Men Free Skating
+            originally_available: 2025-11-02
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s03/e9.jpg
+            summary: >
+              Skate Canada Men Free Skating coverage for Skate Canada at SaskTel Centre (Canada). Scheduled date:
+              November 02, 2025.
+      4:
+        title: NHK Trophy
+        sort_title: 04_NHK Trophy
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s04/poster.jpg
+        summary: >
+          NHK Trophy spans November 7-9, 2025 at Towa Pharmaceutical Ractab Dome (Japan). TheSportsDB
+          currently lists 9 broadcast blocks for automation.
+        episodes:
+          1:
+            title: NHK Trophy Pairs Short Program
+            originally_available: 2025-11-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s04/e1.jpg
+            summary: >
+              NHK Trophy Pairs Short Program coverage for NHK Trophy at Towa Pharmaceutical Ractab Dome (Japan).
+              Scheduled date: November 07, 2025.
+          2:
+            title: NHK Trophy Women Short Program
+            originally_available: 2025-11-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s04/e2.jpg
+            summary: >
+              NHK Trophy Women Short Program coverage for NHK Trophy at Towa Pharmaceutical Ractab Dome (Japan).
+              Scheduled date: November 07, 2025.
+          3:
+            title: NHK Trophy Ice Dance Rhythm Dance
+            originally_available: 2025-11-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s04/e3.jpg
+            summary: >
+              NHK Trophy Ice Dance Rhythm Dance coverage for NHK Trophy at Towa Pharmaceutical Ractab Dome
+              (Japan). Scheduled date: November 08, 2025.
+          4:
+            title: NHK Trophy Men Short Program
+            originally_available: 2025-11-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s04/e4.jpg
+            summary: >
+              NHK Trophy Men Short Program coverage for NHK Trophy at Towa Pharmaceutical Ractab Dome (Japan).
+              Scheduled date: November 08, 2025.
+          5:
+            title: NHK Trophy Pairs Free Skating
+            originally_available: 2025-11-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s04/e5.jpg
+            summary: >
+              NHK Trophy Pairs Free Skating coverage for NHK Trophy at Towa Pharmaceutical Ractab Dome (Japan).
+              Scheduled date: November 08, 2025.
+          6:
+            title: NHK Trophy Women Free Skating
+            originally_available: 2025-11-08
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s04/e6.jpg
+            summary: >
+              NHK Trophy Women Free Skating coverage for NHK Trophy at Towa Pharmaceutical Ractab Dome (Japan).
+              Scheduled date: November 08, 2025.
+          7:
+            title: NHK Trophy Exhibition Gala
+            originally_available: 2025-11-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s04/e7.jpg
+            summary: >
+              NHK Trophy Exhibition Gala coverage for NHK Trophy at Towa Pharmaceutical Ractab Dome (Japan).
+              Scheduled date: November 09, 2025.
+          8:
+            title: NHK Trophy Ice Dance Free Dance
+            originally_available: 2025-11-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s04/e8.jpg
+            summary: >
+              NHK Trophy Ice Dance Free Dance coverage for NHK Trophy at Towa Pharmaceutical Ractab Dome (Japan).
+              Scheduled date: November 09, 2025.
+          9:
+            title: NHK Trophy Men Free Skating
+            originally_available: 2025-11-09
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s04/e9.jpg
+            summary: >
+              NHK Trophy Men Free Skating coverage for NHK Trophy at Towa Pharmaceutical Ractab Dome (Japan).
+              Scheduled date: November 09, 2025.
+      5:
+        title: Skate America
+        sort_title: 05_Skate America
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s05/poster.jpg
+        summary: >
+          Skate America spans November 14-16, 2025 at Herb Brooks Arena (United States). TheSportsDB currently
+          lists 9 broadcast blocks for automation.
+        episodes:
+          1:
+            title: Skate America Pairs Short Program
+            originally_available: 2025-11-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s05/e1.jpg
+            summary: >
+              Skate America Pairs Short Program coverage for Skate America at Herb Brooks Arena (United States).
+              Scheduled date: November 14, 2025.
+          2:
+            title: Skate America Women Short Program
+            originally_available: 2025-11-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s05/e2.jpg
+            summary: >
+              Skate America Women Short Program coverage for Skate America at Herb Brooks Arena (United States).
+              Scheduled date: November 14, 2025.
+          3:
+            title: Skate America Ice Dance Rhythm Dance
+            originally_available: 2025-11-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s05/e3.jpg
+            summary: >
+              Skate America Ice Dance Rhythm Dance coverage for Skate America at Herb Brooks Arena (United
+              States). Scheduled date: November 15, 2025.
+          4:
+            title: Skate America Men Short Program
+            originally_available: 2025-11-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s05/e4.jpg
+            summary: >
+              Skate America Men Short Program coverage for Skate America at Herb Brooks Arena (United States).
+              Scheduled date: November 15, 2025.
+          5:
+            title: Skate America Pairs Free Skating
+            originally_available: 2025-11-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s05/e5.jpg
+            summary: >
+              Skate America Pairs Free Skating coverage for Skate America at Herb Brooks Arena (United States).
+              Scheduled date: November 15, 2025.
+          6:
+            title: Skate America Women Free Skating
+            originally_available: 2025-11-15
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s05/e6.jpg
+            summary: >
+              Skate America Women Free Skating coverage for Skate America at Herb Brooks Arena (United States).
+              Scheduled date: November 15, 2025.
+          7:
+            title: Skate America Exhibition Gala
+            originally_available: 2025-11-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s05/e7.jpg
+            summary: >
+              Skate America Exhibition Gala coverage for Skate America at Herb Brooks Arena (United States).
+              Scheduled date: November 16, 2025.
+          8:
+            title: Skate America Ice Dance Free Dance
+            originally_available: 2025-11-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s05/e8.jpg
+            summary: >
+              Skate America Ice Dance Free Dance coverage for Skate America at Herb Brooks Arena (United States).
+              Scheduled date: November 16, 2025.
+          9:
+            title: Skate America Men Free Skating
+            originally_available: 2025-11-16
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s05/e9.jpg
+            summary: >
+              Skate America Men Free Skating coverage for Skate America at Herb Brooks Arena (United States).
+              Scheduled date: November 16, 2025.
+      6:
+        title: Finlandia Trophy
+        sort_title: 06_Finlandia Trophy
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s06/poster.jpg
+        summary: >
+          Finlandia Trophy spans November 21-23, 2025 at Helsinki Ice Hall (Finland). TheSportsDB currently
+          lists 9 broadcast blocks for automation.
+        episodes:
+          1:
+            title: Finlandia Trophy Pairs Short Program
+            originally_available: 2025-11-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s06/e1.jpg
+            summary: >
+              Finlandia Trophy Pairs Short Program coverage for Finlandia Trophy at Helsinki Ice Hall (Finland).
+              Scheduled date: November 21, 2025.
+          2:
+            title: Finlandia Trophy Women Short Program
+            originally_available: 2025-11-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s06/e2.jpg
+            summary: >
+              Finlandia Trophy Women Short Program coverage for Finlandia Trophy at Helsinki Ice Hall (Finland).
+              Scheduled date: November 21, 2025.
+          3:
+            title: Finlandia Trophy Ice Dance Rhythm Dance
+            originally_available: 2025-11-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s06/e3.jpg
+            summary: >
+              Finlandia Trophy Ice Dance Rhythm Dance coverage for Finlandia Trophy at Helsinki Ice Hall
+              (Finland). Scheduled date: November 22, 2025.
+          4:
+            title: Finlandia Trophy Men Short Program
+            originally_available: 2025-11-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s06/e4.jpg
+            summary: >
+              Finlandia Trophy Men Short Program coverage for Finlandia Trophy at Helsinki Ice Hall (Finland).
+              Scheduled date: November 22, 2025.
+          5:
+            title: Finlandia Trophy Pairs Free Skating
+            originally_available: 2025-11-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s06/e5.jpg
+            summary: >
+              Finlandia Trophy Pairs Free Skating coverage for Finlandia Trophy at Helsinki Ice Hall (Finland).
+              Scheduled date: November 22, 2025.
+          6:
+            title: Finlandia Trophy Women Free Skating
+            originally_available: 2025-11-22
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s06/e6.jpg
+            summary: >
+              Finlandia Trophy Women Free Skating coverage for Finlandia Trophy at Helsinki Ice Hall (Finland).
+              Scheduled date: November 22, 2025.
+          7:
+            title: Finlandia Trophy Exhibition Gala
+            originally_available: 2025-11-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s06/e7.jpg
+            summary: >
+              Finlandia Trophy Exhibition Gala coverage for Finlandia Trophy at Helsinki Ice Hall (Finland).
+              Scheduled date: November 23, 2025.
+          8:
+            title: Finlandia Trophy Ice Dance Free Dance
+            originally_available: 2025-11-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s06/e8.jpg
+            summary: >
+              Finlandia Trophy Ice Dance Free Dance coverage for Finlandia Trophy at Helsinki Ice Hall (Finland).
+              Scheduled date: November 23, 2025.
+          9:
+            title: Finlandia Trophy Men Free Skating
+            originally_available: 2025-11-23
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s06/e9.jpg
+            summary: >
+              Finlandia Trophy Men Free Skating coverage for Finlandia Trophy at Helsinki Ice Hall (Finland).
+              Scheduled date: November 23, 2025.
+      7:
+        title: Grand Prix Final
+        sort_title: 07_Grand Prix Final
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s07/poster.jpg
+        summary: >
+          Grand Prix Final spans December 5-7, 2025 at IG Arena (Japan). TheSportsDB currently lists 9
+          broadcast blocks for automation.
+        episodes:
+          1:
+            title: Grand Prix Final Pairs Short Program
+            originally_available: 2025-12-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s07/e1.jpg
+            summary: >
+              Grand Prix Final Pairs Short Program coverage for Grand Prix Final at IG Arena (Japan). Scheduled
+              date: December 05, 2025.
+          2:
+            title: Grand Prix Final Women Short Program
+            originally_available: 2025-12-05
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s07/e2.jpg
+            summary: >
+              Grand Prix Final Women Short Program coverage for Grand Prix Final at IG Arena (Japan). Scheduled
+              date: December 05, 2025.
+          3:
+            title: Grand Prix Final Ice Dance Rhythm Dance
+            originally_available: 2025-12-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s07/e3.jpg
+            summary: >
+              Grand Prix Final Ice Dance Rhythm Dance coverage for Grand Prix Final at IG Arena (Japan). Scheduled
+              date: December 06, 2025.
+          4:
+            title: Grand Prix Final Men Short Program
+            originally_available: 2025-12-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s07/e4.jpg
+            summary: >
+              Grand Prix Final Men Short Program coverage for Grand Prix Final at IG Arena (Japan). Scheduled
+              date: December 06, 2025.
+          5:
+            title: Grand Prix Final Pairs Free Skating
+            originally_available: 2025-12-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s07/e5.jpg
+            summary: >
+              Grand Prix Final Pairs Free Skating coverage for Grand Prix Final at IG Arena (Japan). Scheduled
+              date: December 06, 2025.
+          6:
+            title: Grand Prix Final Women Free Skating
+            originally_available: 2025-12-06
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s07/e6.jpg
+            summary: >
+              Grand Prix Final Women Free Skating coverage for Grand Prix Final at IG Arena (Japan). Scheduled
+              date: December 06, 2025.
+          7:
+            title: Grand Prix Final Exhibition Gala
+            originally_available: 2025-12-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s07/e7.jpg
+            summary: >
+              Grand Prix Final Exhibition Gala coverage for Grand Prix Final at IG Arena (Japan). Scheduled date:
+              December 07, 2025.
+          8:
+            title: Grand Prix Final Ice Dance Free Dance
+            originally_available: 2025-12-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s07/e8.jpg
+            summary: >
+              Grand Prix Final Ice Dance Free Dance coverage for Grand Prix Final at IG Arena (Japan). Scheduled
+              date: December 07, 2025.
+          9:
+            title: Grand Prix Final Men Free Skating
+            originally_available: 2025-12-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/figure-skating-grand-prix/2025/s07/e9.jpg
+            summary: >
+              Grand Prix Final Men Free Skating coverage for Grand Prix Final at IG Arena (Japan). Scheduled date:
+              December 07, 2025.
