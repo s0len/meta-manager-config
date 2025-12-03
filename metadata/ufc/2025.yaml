@@ -57,21 +57,30 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s2/early-prelims.jpg
             summary: >
               Early Prelims for UFC 311 Makhachev vs Moicano hosted at Intuit Dome (Inglewood, California, United
-              States) on January 19, 2025. Detailed bout listings are pending in the SportsDB feed.
+              States) on January 19, 2025. Notable bouts: Women's Bantamweight: Ailín Pérez def. Karol Rosa
+              (Decision (unanimous) (29–28, 29–28, 30–27), R3, 5:00); Bantamweight: Muin Gafurov def. Rinya
+              Nakamura (Decision (unanimous) (30–27, 30–27, 30–27), R3, 5:00); Bantamweight: Bernardo Sopaj def.
+              Ricky Turcios (Decision (unanimous) (30–27, 30–27, 29–28), R3, 5:00).
           2:
             title: Prelims
             originally_available: 2025-01-19
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s2/prelims.jpg
             summary: >
               Prelims for UFC 311 Makhachev vs Moicano hosted at Intuit Dome (Inglewood, California, United
-              States) on January 19, 2025. Detailed bout listings are pending in the SportsDB feed.
+              States) on January 19, 2025. Notable bouts: Bantamweight: Raoni Barcelos def. Payton Talbott
+              (Decision (unanimous) (30–27, 30–27, 30–26), R3, 5:00); Middleweight: Azamat Bekoev def. Zachary
+              Reese (KO (punches), R1, 3:04); Light Heavyweight: Bogdan Guskov def. Billy Elekana (Submission
+              (guillotine choke), R2, 3:33).
           3:
             title: Main Card
             originally_available: 2025-01-19
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s2/main-card.jpg
             summary: >
               Main Card for UFC 311 Makhachev vs Moicano hosted at Intuit Dome (Inglewood, California, United
-              States) on January 19, 2025. Detailed bout listings are pending in the SportsDB feed.
+              States) on January 19, 2025. Notable bouts: Lightweight: Islam Makhachev (c) def. Renato Moicano
+              (Submission (brabo choke), R1, 4:05); Bantamweight: Merab Dvalishvili (c) def. Umar Nurmagomedov
+              (Decision (unanimous) (48–47, 48–47, 49–46), R5, 5:00); Light Heavyweight: Jiří Procházka def.
+              Jamahal Hill (TKO (punches), R3, 3:01).
       3:
         title: UFC Fight Night 250 Adesanya vs Imavov
         sort_title: 003_UFC Fight Night 250 Adesanya vs Imavov
@@ -1724,14 +1733,20 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s47/prelims.jpg
             summary: >
               Prelims for UFC 321 Aspinall vs Gane hosted at Etihad Arena (Abu Dhabi, United Arab Emirates) on
-              October 25, 2025. Detailed bout listings are pending in the SportsDB feed.
+              October 25, 2025. Notable bouts: Lightweight: Quillan Salkilld def. Nasrat Haqparast (KO (head
+              kick), R1, 2:30); Middleweight: Ikram Aliskerov def. Park Jun-yong (Decision (unanimous) (30–27,
+              30–27, 30–27), R3, 5:00); Lightweight: Ľudovít Klein def. Mateusz Rębecki (Decision (majority)
+              (29–28, 28–27, 28–28), R3, 5:00).
           3:
             title: Main Card
             originally_available: 2025-10-25
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s47/main-card.jpg
             summary: >
               Main Card for UFC 321 Aspinall vs Gane hosted at Etihad Arena (Abu Dhabi, United Arab Emirates) on
-              October 25, 2025. Detailed bout listings are pending in the SportsDB feed.
+              October 25, 2025. Notable bouts: Heavyweight: Tom Aspinall (c) vs. Ciryl Gane NC (accidental eye
+              poke) 1 4:35; Women's Strawweight: Mackenzie Dern def. Virna Jandiroba (Decision (unanimous) (48–47,
+              48–47, 49–46), R5, 5:00); Bantamweight: Umar Nurmagomedov def. Mario Bautista (Decision (unanimous)
+              (30–27, 30–27, 30–27), R3, 5:00).
       48:
         title: UFC Fight Night 263 Garcia vs Onama
         sort_title: 048_UFC Fight Night 263 Garcia vs Onama
@@ -1849,35 +1864,57 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s50/early-prelims.jpg
             summary: >
               Early Prelims for UFC 322 Della Maddalena vs Makhachev hosted at Madison Square Garden (New York,
-              NY, United States) on November 15, 2025. Notable bouts: Middleweight : Kyle Daukaus  vs.  Gerald
-              Meerschaert; Women's Strawweight : Angela Hill  vs.  Fatima Kline; Middleweight : Baisangur
-              Susurkaev  vs.  Eric McConico.
+              NY, United States) on November 15, 2025. Notable bouts: Middleweight: Kyle Daukaus def. Gerald
+              Meerschaert (Submission (brabo choke), R1, 0:50); Featherweight: Pat Sabatini def. Chepe Mariscal
+              (Decision (unanimous) (30–27, 30–27, 30–27), R3, 5:00); Women's Strawweight: Fatima Kline def.
+              Angela Hill (Decision (unanimous) (30–27, 30–27, 29–28), R3, 5:00).
           2:
             title: Prelims
             originally_available: 2025-11-15
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s50/prelims.jpg
             summary: >
               Prelims for UFC 322 Della Maddalena vs Makhachev hosted at Madison Square Garden (New York, NY,
-              United States) on November 15, 2025. Notable bouts: Lightweight : Beneil Dariush  vs.  Benoît Saint
-              Denis; Middleweight : Roman Kopylov  vs.  Gregory Rodrigues; Women's Flyweight : Erin Blanchfield
-              vs.  Tracy Cortez.
+              United States) on November 15, 2025. Notable bouts: Middleweight: Bo Nickal def. Rodolfo Vieira (KO
+              (head kick), R3, 2:24); Middleweight: Gregory Rodrigues def. Roman Kopylov (Decision (unanimous)
+              (30–27, 30–27, 29–28), R3, 5:00); Women's Flyweight: Erin Blanchfield def. Tracy Cortez (Submission
+              (rear-naked choke), R2, 4:44).
           3:
             title: Main Card
             originally_available: 2025-11-15
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s50/main-card.jpg
             summary: >
               Main Card for UFC 322 Della Maddalena vs Makhachev hosted at Madison Square Garden (New York, NY,
-              United States) on November 15, 2025. Notable bouts: Weight class : Method  Round  Time  Notes;
-              Welterweight : Jack Della Maddalena (c)  vs.  Islam Makhachev; Women's Flyweight : Valentina
-              Shevchenko (c)  vs.  Zhang Weili.
+              United States) on November 15, 2025. Notable bouts: Welterweight: Islam Makhachev def. Jack Della
+              Maddalena (c) (Decision (unanimous) (50–45, 50–45, 50–45), R5, 5:00); Women's Flyweight: Valentina
+              Shevchenko (c) def. Zhang Weili (Decision (unanimous) (50–45, 50–45, 50–45), R5, 5:00);
+              Welterweight: Michael Morales def. Sean Brady (TKO (punches), R1, 3:27).
       51:
         title: UFC Fight Night 265 Tsarukyan vs Hooker
         sort_title: 051_UFC Fight Night 265 Tsarukyan vs Hooker
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s51/poster.jpg
         summary: >
-          UFC Fight Night: Tsarukyan vs. Hooker (also known as UFC Fight Night 265) is an upcoming mixed
-          martial arts event produced by the Ultimate Fighting Championship that will take place on November
-          22, 2025, at the Ali Bin Hamad al-Attiyah Arena in Al Rayyan, Qatar.
+          UFC Fight Night: Tsarukyan vs. Hooker (also known as UFC Fight Night 265) was a mixed martial arts
+          event produced by the Ultimate Fighting Championship that took place on November 22, 2025, at the
+          Ali Bin Hamad al-Attiyah Arena in Al Rayyan, Qatar.    Background  This event marked the promotion's
+          debut in Qatar, which became the third country in the Middle East to host it, after the United Arab
+          Emirates and Saudi Arabia. There were initially rumors that the first event in the country would
+          take place on May 17 at UFC Fight Night: Burns vs. Morales, but that card was moved to the UFC Apex
+          in Las Vegas for unknown reasons.    The event headliner featured a lightweight bout between Arman
+          Tsarukyan and Dan Hooker.    A heavyweight bout between Serghei Spivac and Shamil Gaziev was
+          scheduled for this event. The pairing was originally scheduled for UFC Fight Night: Burns vs.
+          Morales, then shifted to UFC 316. However, Gaziev withdrew from that event due to a broken finger
+          sustained during training. In turn, Spivac withdrew from the bout for unknown reasons and was
+          replaced by former LFA Heavyweight Champion Waldo Cortes-Acosta.    A middleweight bout between
+          former UFC Middleweight Championship challenger Paulo Costa and Sharabutdin Magomedov was expected
+          to take place at this event. However, Magomedov withdrew due to undergoing nose surgery, and the
+          bout was removed from the card.    A heavyweight bout between promotional newcomers Marek Bujło and
+          José Luiz was initially scheduled for the event. However, Luiz was later replaced for undisclosed
+          reasons by current LFA Heavyweight Champion Denzel Freeman, who also made his promotional debut.
+          A flyweight bout between former UFC Flyweight Championship challenger Kyoji Horiguchi (who is also a
+          former one-time RIZIN flyweight and two-time bantamweight champion, as well as a former Bellator
+          bantamweight world champion) and Tagir Ulanbekov took place at this event. The pairing was initially
+          expected to meet at UFC on ABC: Hill vs. Rountree Jr. in June, but Horiguchi withdrew for
+          undisclosed reasons.
         episodes:
           1:
             title: Prelims
@@ -1885,16 +1922,20 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s51/prelims.jpg
             summary: >
               Prelims for UFC Fight Night 265 Tsarukyan vs Hooker hosted at Ali Bin Hamad al-Attiyah Arena (Doha,
-              Qatar) on November 22, 2025. Detailed bout listings are pending in the SportsDB feed.
+              Qatar) on November 22, 2025. Notable bouts: Featherweight: Luke Riley def. Bogdan Grad (KO
+              (punches), R2, 0:30); Welterweight: Nicolas Dalby def. Saygid Izagakhmaev (Decision (split) (29–28,
+              28–29, 29–28), R3, 5:00); Flyweight: Asu Almabayev def. Alex Perez (Submission (guillotine choke),
+              R3, 0:22).
           2:
             title: Main Card
             originally_available: 2025-11-22
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s51/main-card.jpg
             summary: >
               Main Card for UFC Fight Night 265 Tsarukyan vs Hooker hosted at Ali Bin Hamad al-Attiyah Arena
-              (Doha, Qatar) on November 22, 2025. Notable bouts: Weight class : Method  Round  Time  Notes;
-              Lightweight : Arman Tsarukyan  vs.  Dan Hooker; Welterweight : Belal Muhammad  vs.  Ian Machado
-              Garry.
+              (Doha, Qatar) on November 22, 2025. Notable bouts: Lightweight: Arman Tsarukyan def. Dan Hooker
+              (Submission (arm-triangle choke), R2, 3:34); Welterweight: Ian Machado Garry def. Belal Muhammad
+              (Decision (unanimous) (30–27, 30–27, 29–28), R3, 5:00); Light Heavyweight: Volkan Oezdemir def.
+              Alonzo Menifield (KO (knee and punches), R1, 1:27).
       52:
         title: UFC 323 Dvalishvili vs Yan 2
         sort_title: 052_UFC 323 Dvalishvili vs Yan 2
@@ -1926,3 +1967,25 @@ metadata:
               Main Card for UFC 323 Dvalishvili vs Yan 2 hosted at T-Mobile Arena (Paradise, NV, United States) on
               December 06, 2025. Notable bouts: Weight class : Method  Round  Time  Notes; Bantamweight : Merab
               Dvalishvili (c)  vs.  Petr Yan; Flyweight : Alexandre Pantoja (c)  vs.  Joshua Van.
+      53:
+        title: UFC Fight Night 266 Royval vs Kape
+        sort_title: 053_UFC Fight Night 266 Royval vs Kape
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s53/poster.jpg
+        summary: >
+          UFC Fight Night 266 Royval vs Kape anchors the UFC Fight Night slate on December 13, 2025 at UFC
+          APEX (Las Vegas, NV, United States).
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2025-12-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s53/prelims.jpg
+            summary: >
+              Prelims for UFC Fight Night 266 Royval vs Kape hosted at UFC APEX (Las Vegas, NV, United States) on
+              December 13, 2025. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2025-12-13
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s53/main-card.jpg
+            summary: >
+              Main Card for UFC Fight Night 266 Royval vs Kape hosted at UFC APEX (Las Vegas, NV, United States)
+              on December 13, 2025. Detailed bout listings are pending in the SportsDB feed.
