@@ -130,6 +130,40 @@ Y = episode index). Artwork downloads reuse the shared throttled downloader and 
 YAML still emits `url_poster` values even when SportsDB provides no art. The output
 path defaults to `metadata/uefa-champions-league/<season>.yaml`.
 
+## `generate_isu_grand_prix_metadata_sportsdb.py`
+
+Targets TheSportsDB ISU Grand Prix feed (`league_id 5753`) so each SportsDB
+`intRound` becomes a Grand Prix stop (season entry) with every listed broadcast block
+rendered as an episode. The generator mirrors the UFC-style CLI, including the shared
+rate limiter, SSL fallbacks and artwork workflow used by the Premier League/UFC
+scripts.
+
+```shell
+python3 scripts/generate_isu_grand_prix_metadata_sportsdb.py --season 2025 --api-key "$TSD_KEY"
+```
+
+Key flags:
+
+- `--season` / `--league-id` / `--api-key` select the SportsDB payload, while
+  `--round-label` and `--round-title-template` control how each stop title is phrased
+- `--matchweek-start`, `--matchweek-stop`, `--matchweek-delay`,
+  `--skip-matchweek-fill`, `--request-interval`, `--max-retries`,
+  `--retry-backoff`, `--insecure` keep the shared 2.1 s (v1) / 0.6 s (v2) throttle,
+  exponential backoff for 429/5xx responses and the optional insecure retry path
+- `--poster-url`, `--background-url`, `--asset-url-base`, `--assets-root`,
+  `--matchweek-poster-template`, `--matchweek-poster-fallback`,
+  `--fixture-poster-template`, `--skip-asset-download` power the artwork workflow.
+  Defaults drop stop art into `posters/figure-skating-grand-prix/<season>/sX/poster.jpg`
+  and session art into `.../sX/eY.jpg` (X = round, Y = episode index, both padded)
+- `--summary`, `--show-id`, `--sort-title`, `--output` mirror the UFC overrides so
+  you can tailor the metadata tree and destination path
+
+Artwork downloads pull season art from the poster/fanart endpoints and session art
+from SportsDB thumb fields using the throttled downloader; `url_poster` entries are
+still emitted even when downloads fail so Plex/Jellyfin can fall back to the
+`--asset-url-base`. By default the YAML is written to
+`metadata/figure-skating-grand-prix/<season>.yaml`.
+
 ## `generate_motogp_metadata_sportsdb.py`
 
 Targets TheSportsDB MotoGP feed (`league_id 4407`) so every SportsDB round is emitted
