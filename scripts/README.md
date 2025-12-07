@@ -471,6 +471,40 @@ use the same throttled downloader as the UFC/PL scripts and still emit
 `url_poster` entries even when SportsDB lacks artwork. The YAML is written to
 `metadata/nba/<season>.yaml` by default.
 
+## `generate_nhl_metadata_sportsdb.py`
+
+Mirrors the UFC/Premier League SportsDB generators but targets the NHL feed
+(`league_id 4380`, seasons like `2025-2026`). Each SportsDB `intRound` becomes an
+NHL week and every scheduled game is emitted as an episode with venue, city and
+start-time context.
+
+```shell
+python3 scripts/generate_nhl_metadata_sportsdb.py --season 2025-2026 --api-key "$TSD_KEY"
+```
+
+Key flags mirror the UFC-style tooling:
+
+- `--season` / `--league-id` / `--api-key` select the SportsDB payload (defaults
+  to the 2025-2026 NHL season).
+- `--matchweek-start`, `--matchweek-stop`, `--matchweek-delay`,
+  `--skip-matchweek-fill`, `--request-interval`, `--max-retries`,
+  `--retry-backoff`, `--insecure` preserve the shared limiter (2.1 s on v1,
+  0.6 s on v2), exponential backoff for 429/5xx responses and the optional SSL
+  bypass path.
+- `--poster-url`, `--background-url`, `--asset-url-base`, `--assets-root`,
+  `--matchweek-poster-template`, `--matchweek-poster-fallback`,
+  `--fixture-poster-template`, `--skip-asset-download` power the artwork
+  workflow. Defaults save NHL week art to `posters/nhl/<season>/sX/poster.jpg`
+  and episode art to `posters/nhl/<season>/sX/eY.jpg`, and the YAML always emits
+  `url_poster` values even when downloads fail.
+- `--summary`, `--title`, `--sort-title`, `--show-id`, `--output` mirror the
+  UFC-style overrides so you can customise metadata fields and the destination
+  path.
+
+Artwork downloads reuse the throttled downloader, pulling season art from the
+SportsDB poster/fanart fields and episode art from the thumb endpoints. By
+default the YAML is written to `metadata/nhl/<season>.yaml`.
+
 ## `generate_nfl_metadata_sportsdb.py`
 
 Targets TheSportsDB NFL feed (league `4391`) so each SportsDB `intRound`
