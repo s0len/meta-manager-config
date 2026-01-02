@@ -245,9 +245,9 @@ metadata:
         sort_title: 008_UFC 313 Pereira vs Ankalaev
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s8/poster.jpg
         summary: >
-          UFC 313: Pereira vs. Ankalaev is an upcoming mixed martial arts event produced by the Ultimate
-          Fighting Championship that will take place on March 8, 2025, at T-Mobile Arena in Paradise, Nevada,
-          part of the Las Vegas Valley, United States.
+          UFC 313: Pereira vs. Ankalaev was a mixed martial arts event produced by the Ultimate Fighting
+          Championship that took place on March 8, 2025, at T-Mobile Arena in Paradise, Nevada, part of the
+          Las Vegas Valley, United States.
         episodes:
           1:
             title: Early Prelims
@@ -255,21 +255,27 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s8/early-prelims.jpg
             summary: >
               Early Prelims for UFC 313 Pereira vs Ankalaev hosted at T-Mobile Arena (Las Vegas, United States) on
-              March 09, 2025. Detailed bout listings are pending in the SportsDB feed.
+              March 09, 2025. Notable bouts: Middleweight: Ozzy Diaz def. Djorden Ribeiro dos Santos (Decision
+              (unanimous) (29–28, 29–28, 29–28), R3, 5:00).
           2:
             title: Prelims
             originally_available: 2025-03-09
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s8/prelims.jpg
             summary: >
               Prelims for UFC 313 Pereira vs Ankalaev hosted at T-Mobile Arena (Las Vegas, United States) on March
-              09, 2025. Detailed bout listings are pending in the SportsDB feed.
+              09, 2025. Notable bouts: Flyweight: Joshua Van def. Rei Tsuruya (Decision (unanimous) (30–27, 30–27,
+              30–27), R3, 5:00); Middleweight: Brunno Ferreira def. Armen Petrosyan (Submission (triangle armbar),
+              R2, 4:27); Welterweight: Carlos Leal def. Alex Morono (TKO (punches), R1, 4:16).
           3:
             title: Main Card
             originally_available: 2025-03-09
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s8/main-card.jpg
             summary: >
               Main Card for UFC 313 Pereira vs Ankalaev hosted at T-Mobile Arena (Las Vegas, United States) on
-              March 09, 2025. Detailed bout listings are pending in the SportsDB feed.
+              March 09, 2025. Notable bouts: Light Heavyweight: Magomed Ankalaev def. Alex Pereira (c) (Decision
+              (unanimous) (49–46, 48–47, 48–47), R5, 5:00); Lightweight: Justin Gaethje def. Rafael Fiziev
+              (Decision (unanimous) (29–28, 29–28, 29–28), R3, 5:00); Lightweight: Ignacio Bahamondes def. Jalin
+              Turner (Submission (triangle choke), R1, 2:29).
       9:
         title: UFC Fight Night 254 Vettori vs Dolidze 2
         sort_title: 009_UFC Fight Night 254 Vettori vs Dolidze 2
@@ -434,21 +440,30 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s13/early-prelims.jpg
             summary: >
               Early Prelims for UFC 314 Volkanovski vs Lopes hosted at Kaseya Center (Miami, Florida, United
-              States) on April 13, 2025. Detailed bout listings are pending in the SportsDB feed.
+              States) on April 13, 2025. Notable bouts: Middleweight: Michał Oleksiejczuk def. Sedriques Dumas
+              (TKO (punches and elbows), R1, 2:49); Flyweight: Su Mudaerji def. Mitch Raposo (Decision (split)
+              (28–29, 29–28, 29–28), R3, 5:00); Middleweight: Marco Tulio def. Tresean Gore (TKO (punch), R2,
+              3:16).
           2:
             title: Prelims
             originally_available: 2025-04-13
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s13/prelims.jpg
             summary: >
               Prelims for UFC 314 Volkanovski vs Lopes hosted at Kaseya Center (Miami, Florida, United States) on
-              April 13, 2025. Detailed bout listings are pending in the SportsDB feed.
+              April 13, 2025. Notable bouts: Featherweight: Dan Ige def. Sean Woodson (TKO (punches), R3, 1:12);
+              Women's Strawweight: Virna Jandiroba def. Yan Xiaonan (Decision (unanimous) (30–27, 30–27, 30–27),
+              R3, 5:00); Lightweight: Chase Hooper def. Jim Miller (Decision (unanimous) (30–27, 29–28, 29–28),
+              R3, 5:00).
           3:
             title: Main Card
             originally_available: 2025-04-13
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s13/main-card.jpg
             summary: >
               Main Card for UFC 314 Volkanovski vs Lopes hosted at Kaseya Center (Miami, Florida, United States)
-              on April 13, 2025. Detailed bout listings are pending in the SportsDB feed.
+              on April 13, 2025. Notable bouts: Featherweight: Alexander Volkanovski def. Diego Lopes (Decision
+              (unanimous) (48–47, 49–46, 49–46), R5, 5:00); Lightweight: Paddy Pimblett def. Michael Chandler (TKO
+              (elbows and punches), R3, 3:07); Featherweight: Yair Rodríguez def. Patrício Pitbull (Decision
+              (unanimous) (30–27, 30–27, 30–27), R3, 5:00).
       14:
         title: UFC on ESPN 66 Machado Garry vs Prates
         sort_title: 014_UFC on ESPN 66 Machado Garry vs Prates
@@ -1789,14 +1804,14 @@ metadata:
               Welterweight: Jeremiah Wells def. Themba Gorimbo (Decision (unanimous) (29–28, 29–28, 29–28), R3,
               5:00).
       49:
-        title: UFC on ESPN 73 Bonfim vs Brown
-        sort_title: 049_UFC on ESPN 73 Bonfim vs Brown
+        title: UFC Fight Night 264 Bonfim vs Brown
+        sort_title: 049_UFC Fight Night 264 Bonfim vs Brown
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s49/poster.jpg
         summary: >
-          UFC Fight Night: Bonfim vs. Brown (also known as UFC on ESPN 73 and UFC Vegas 111) is an upcoming
-          mixed martial arts event produced by the Ultimate Fighting Championship that will take place on
-          November 8, 2025, at the UFC Apex in Enterprise, Nevada, part of the Las Vegas Valley, United
-          States.    A welterweight bout between former LFA Welterweight Champion Gabriel Bonfim and Randy
+          UFC Fight Night: Bonfim vs. Brown (also known as UFC Fight Night 264, UFC Vegas 111 and UFC on ESPN+
+          122) was a mixed martial arts event produced by the Ultimate Fighting Championship that took place
+          on November 8, 2025, at the UFC Apex in Enterprise, Nevada, part of the Las Vegas Valley, United
+          States.     A welterweight bout between former LFA Welterweight Champion Gabriel Bonfim and Randy
           Brown is scheduled to headline the event. They were originally scheduled to compete at UFC Fight
           Night: Oliveira vs. Gamrot one month before, but the bout was moved to this event in order to serve
           as the main event.    Austin Bashi was expected to face Jamall Emmers in a featherweight bout at the
@@ -1823,7 +1838,7 @@ metadata:
             originally_available: 2025-11-08
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s49/prelims.jpg
             summary: >
-              Prelims for UFC on ESPN 73 Bonfim vs Brown hosted at UFC APEX (Las Vegas, NV, United States) on
+              Prelims for UFC Fight Night 264 Bonfim vs Brown hosted at UFC APEX (Las Vegas, NV, United States) on
               November 08, 2025. Notable bouts: Featherweight : Hyder Amil  vs.  Jamall Emmers; Bantamweight :
               Adrian Yañez  vs.  Cristian Quiñónez; Women's Bantamweight : Mayra Bueno Silva  vs.  Jacqueline
               Cavalcanti.
@@ -1832,9 +1847,9 @@ metadata:
             originally_available: 2025-11-08
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s49/main-card.jpg
             summary: >
-              Main Card for UFC on ESPN 73 Bonfim vs Brown hosted at UFC APEX (Las Vegas, NV, United States) on
-              November 08, 2025. Notable bouts: Weight class : Method  Round  Time  Notes; Welterweight : Gabriel
-              Bonfim  vs.  Randy Brown; Flyweight : Matt Schnell  vs.  Joseph Morales.
+              Main Card for UFC Fight Night 264 Bonfim vs Brown hosted at UFC APEX (Las Vegas, NV, United States)
+              on November 08, 2025. Notable bouts: Weight class : Method  Round  Time  Notes; Welterweight :
+              Gabriel Bonfim  vs.  Randy Brown; Flyweight : Matt Schnell  vs.  Joseph Morales.
       50:
         title: UFC 322 Della Maddalena vs Makhachev
         sort_title: 050_UFC 322 Della Maddalena vs Makhachev
@@ -1968,24 +1983,47 @@ metadata:
               December 06, 2025. Notable bouts: Weight class : Method  Round  Time  Notes; Bantamweight : Merab
               Dvalishvili (c)  vs.  Petr Yan; Flyweight : Alexandre Pantoja (c)  vs.  Joshua Van.
       53:
-        title: UFC Fight Night 266 Royval vs Kape
-        sort_title: 053_UFC Fight Night 266 Royval vs Kape
+        title: UFC on ESPN 73 Royval vs Kape
+        sort_title: 053_UFC on ESPN 73 Royval vs Kape
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s53/poster.jpg
         summary: >
-          UFC Fight Night 266 Royval vs Kape anchors the UFC Fight Night slate on December 13, 2025 at UFC
-          APEX (Las Vegas, NV, United States).
+          UFC on ESPN: Royval vs. Kape (also known as UFC on ESPN 73 and UFC Vegas 112) is an upcoming mixed
+          martial arts event produced by the Ultimate Fighting Championship that will take place on December
+          13, 2025, at the UFC Apex in Enterprise, Nevada, part of the Las Vegas Valley, United States.
+          This event is expected to be the final UFC broadcast under the U.S. media rights agreement with ESPN
+          as beginning in 2026, UFC live event coverage will transition to Paramount Skydance.    A flyweight
+          bout between former UFC Flyweight Championship challenger (also former LFA Flyweight Champion)
+          Brandon Royval and former RIZIN Bantamweight Champion Manel Kape is scheduled to headline the event.
+          The pairing was originally expected to headline UFC Fight Night: Kape vs. Almabayev in March 2025,
+          but Royval had to withdraw due to multiple concussions. They were later rebooked to compete at UFC
+          317 in June 2025; however, Kape withdrew due to a broken foot.    A women's flyweight bout between
+          former LFA Women's Flyweight Champion Jamey-Lyn Horth and Tereza Bledá is scheduled for this event.
+          They were originally scheduled to compete at UFC on ESPN: Usman vs. Buckley in June but Bledá was
+          forced to withdraw from the fight due to a staph infection.    A women's bantamweight bout between
+          Luana Santos and Melissa Croden is scheduled for this event. The pairing was originally set for UFC
+          on ESPN: Bonfim vs. Brown in November, but was moved to this card for undisclosed reasons.    A
+          women's strawweight bout between Gillian Robertson and Iasmin Lucindo was scheduled for this event.
+          However, Lucindo withdrew due to an undisclosed injury and was replaced by former UFC Women's
+          Strawweight Championship challenger Amanda Lemos.    Melsik Baghdasaryan was expected to face
+          Joanderson Brito in a featherweight bout. However, Baghdasaryan pulled out for undisclosed reasons
+          and was replaced by promotional newcomer Isaac Thomson. Baghdasaryan and Brito had previously been
+          scheduled to meet in October 2022 at UFC Fight Night: Grasso vs. Araújo but Baghdasaryan pulled out
+          of that bout due to a broken hand.
         episodes:
           1:
             title: Prelims
             originally_available: 2025-12-13
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s53/prelims.jpg
             summary: >
-              Prelims for UFC Fight Night 266 Royval vs Kape hosted at UFC APEX (Las Vegas, NV, United States) on
-              December 13, 2025. Detailed bout listings are pending in the SportsDB feed.
+              Prelims for UFC on ESPN 73 Royval vs Kape hosted at UFC APEX (Las Vegas, NV, United States) on
+              December 13, 2025. Notable bouts: Women's Strawweight : Amanda Lemos  vs.  Gillian Robertson;
+              Featherweight : Joanderson Brito  vs.  Isaac Thomson; Welterweight : Neil Magny  vs.  Yaroslav
+              Amosov.
           2:
             title: Main Card
             originally_available: 2025-12-13
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2025/s53/main-card.jpg
             summary: >
-              Main Card for UFC Fight Night 266 Royval vs Kape hosted at UFC APEX (Las Vegas, NV, United States)
-              on December 13, 2025. Detailed bout listings are pending in the SportsDB feed.
+              Main Card for UFC on ESPN 73 Royval vs Kape hosted at UFC APEX (Las Vegas, NV, United States) on
+              December 13, 2025. Notable bouts: Flyweight : Brandon Royval  vs.  Manel Kape; Featherweight : Giga
+              Chikadze  vs.  Kevin Vallejos; Middleweight : César Almeida  vs.  Cezary Oleksiejczuk.
