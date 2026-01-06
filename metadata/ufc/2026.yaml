@@ -1,0 +1,281 @@
+metadata:
+  UFC 2026:
+    title: UFC 2026
+    sort_title: UFC 2026
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/poster.jpg
+    url_background: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/background.jpg
+    summary: >
+      The 2026 UFC calendar spans numbered pay-per-view spectacles and weekly Fight Night cards around the
+      globe. Each SportsDB round is grouped here so recordings for Early Prelims, Prelims and Main Card
+      blocks can be matched and renamed automatically.
+    seasons:
+      1:
+        title: UFC 324 Gaethje vs Pimblett
+        sort_title: 001_UFC 324 Gaethje vs Pimblett
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s1/poster.jpg
+        summary: >
+          UFC 324 Gaethje vs Pimblett anchors the UFC numbered pay-per-view slate on January 24, 2026 at
+          T-Mobile Arena (Las Vegas, NV, United States).
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2026-01-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s1/early-prelims.jpg
+            summary: >
+              Early Prelims for UFC 324 Gaethje vs Pimblett hosted at T-Mobile Arena (Las Vegas, NV, United
+              States) on January 24, 2026. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Prelims
+            originally_available: 2026-01-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s1/prelims.jpg
+            summary: >
+              Prelims for UFC 324 Gaethje vs Pimblett hosted at T-Mobile Arena (Las Vegas, NV, United States) on
+              January 24, 2026. Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2026-01-24
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s1/main-card.jpg
+            summary: >
+              Main Card for UFC 324 Gaethje vs Pimblett hosted at T-Mobile Arena (Las Vegas, NV, United States) on
+              January 24, 2026. Detailed bout listings are pending in the SportsDB feed.
+      2:
+        title: UFC 325 Volkanovski vs Lopes 2
+        sort_title: 002_UFC 325 Volkanovski vs Lopes 2
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s2/poster.jpg
+        summary: >
+          UFC 325 Volkanovski vs Lopes 2 anchors the UFC numbered pay-per-view slate on January 31, 2026 at
+          Qudos Bank Arena (Sydney, NSW, Australia).
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2026-01-31
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s2/early-prelims.jpg
+            summary: >
+              Early Prelims for UFC 325 Volkanovski vs Lopes 2 hosted at Qudos Bank Arena (Sydney, NSW, Australia)
+              on January 31, 2026. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Prelims
+            originally_available: 2026-01-31
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s2/prelims.jpg
+            summary: >
+              Prelims for UFC 325 Volkanovski vs Lopes 2 hosted at Qudos Bank Arena (Sydney, NSW, Australia) on
+              January 31, 2026. Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2026-01-31
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s2/main-card.jpg
+            summary: >
+              Main Card for UFC 325 Volkanovski vs Lopes 2 hosted at Qudos Bank Arena (Sydney, NSW, Australia) on
+              January 31, 2026. Detailed bout listings are pending in the SportsDB feed.
+      3:
+        title: UFC Fight Night 266 Bautista vs Oliveira
+        sort_title: 003_UFC Fight Night 266 Bautista vs Oliveira
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s3/poster.jpg
+        summary: >
+          UFC Fight Night 266 Bautista vs Oliveira anchors the UFC Fight Night slate on February 07, 2026 at
+          UFC APEX (Las Vegas, Nevada, United States).
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2026-02-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s3/prelims.jpg
+            summary: >
+              Prelims for UFC Fight Night 266 Bautista vs Oliveira hosted at UFC APEX (Las Vegas, Nevada, United
+              States) on February 07, 2026. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2026-02-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s3/main-card.jpg
+            summary: >
+              Main Card for UFC Fight Night 266 Bautista vs Oliveira hosted at UFC APEX (Las Vegas, Nevada, United
+              States) on February 07, 2026. Detailed bout listings are pending in the SportsDB feed.
+      4:
+        title: UFC Fight Night 267
+        sort_title: 004_UFC Fight Night 267
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s4/poster.jpg
+        summary: >
+          UFC Fight Night 267 anchors the UFC Fight Night slate on February 14, 2026 at UFC APEX (Las Vegas,
+          Nevada, United States).
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2026-02-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s4/prelims.jpg
+            summary: >
+              Prelims for UFC Fight Night 267 hosted at UFC APEX (Las Vegas, Nevada, United States) on February
+              14, 2026. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2026-02-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s4/main-card.jpg
+            summary: >
+              Main Card for UFC Fight Night 267 hosted at UFC APEX (Las Vegas, Nevada, United States) on February
+              14, 2026. Detailed bout listings are pending in the SportsDB feed.
+      5:
+        title: UFC Fight Night 268 Strickland vs Hernandez
+        sort_title: 005_UFC Fight Night 268 Strickland vs Hernandez
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s5/poster.jpg
+        summary: >
+          UFC Fight Night 268 Strickland vs Hernandez anchors the UFC Fight Night slate on February 21, 2026
+          at Toyota Center (Houston, Texas, United States).
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2026-02-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s5/prelims.jpg
+            summary: >
+              Prelims for UFC Fight Night 268 Strickland vs Hernandez hosted at Toyota Center (Houston, Texas,
+              United States) on February 21, 2026. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2026-02-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s5/main-card.jpg
+            summary: >
+              Main Card for UFC Fight Night 268 Strickland vs Hernandez hosted at Toyota Center (Houston, Texas,
+              United States) on February 21, 2026. Detailed bout listings are pending in the SportsDB feed.
+      6:
+        title: UFC Fight Night 269 Moreno vs Almabayev
+        sort_title: 006_UFC Fight Night 269 Moreno vs Almabayev
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s6/poster.jpg
+        summary: >
+          UFC Fight Night 269 Moreno vs Almabayev anchors the UFC Fight Night slate on February 28, 2026 at
+          Mexico City Arena (Mexico City, Mexico).
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2026-02-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s6/prelims.jpg
+            summary: >
+              Prelims for UFC Fight Night 269 Moreno vs Almabayev hosted at Mexico City Arena (Mexico City,
+              Mexico) on February 28, 2026. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2026-02-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s6/main-card.jpg
+            summary: >
+              Main Card for UFC Fight Night 269 Moreno vs Almabayev hosted at Mexico City Arena (Mexico City,
+              Mexico) on February 28, 2026. Detailed bout listings are pending in the SportsDB feed.
+      7:
+        title: UFC 326 Holloway vs Oliveira 2
+        sort_title: 007_UFC 326 Holloway vs Oliveira 2
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s7/poster.jpg
+        summary: >
+          UFC 326 Holloway vs Oliveira 2 anchors the UFC numbered pay-per-view slate on March 07, 2026 at
+          T-Mobile Arena (Las Vegas, Nevada, United States).
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2026-03-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s7/early-prelims.jpg
+            summary: >
+              Early Prelims for UFC 326 Holloway vs Oliveira 2 hosted at T-Mobile Arena (Las Vegas, Nevada, United
+              States) on March 07, 2026. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Prelims
+            originally_available: 2026-03-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s7/prelims.jpg
+            summary: >
+              Prelims for UFC 326 Holloway vs Oliveira 2 hosted at T-Mobile Arena (Las Vegas, Nevada, United
+              States) on March 07, 2026. Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2026-03-07
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s7/main-card.jpg
+            summary: >
+              Main Card for UFC 326 Holloway vs Oliveira 2 hosted at T-Mobile Arena (Las Vegas, Nevada, United
+              States) on March 07, 2026. Detailed bout listings are pending in the SportsDB feed.
+      8:
+        title: UFC Fight Night 270
+        sort_title: 008_UFC Fight Night 270
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s8/poster.jpg
+        summary: >
+          UFC Fight Night 270 anchors the UFC Fight Night slate on March 14, 2026 at UFC APEX (Las Vegas,
+          Nevada, United States).
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2026-03-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s8/prelims.jpg
+            summary: >
+              Prelims for UFC Fight Night 270 hosted at UFC APEX (Las Vegas, Nevada, United States) on March 14,
+              2026. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2026-03-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s8/main-card.jpg
+            summary: >
+              Main Card for UFC Fight Night 270 hosted at UFC APEX (Las Vegas, Nevada, United States) on March 14,
+              2026. Detailed bout listings are pending in the SportsDB feed.
+      9:
+        title: UFC Fight Night 271
+        sort_title: 009_UFC Fight Night 271
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s9/poster.jpg
+        summary: >
+          UFC Fight Night 271 anchors the UFC Fight Night slate on March 21, 2026 at The O2 Arena (London,
+          England, United Kingdom).
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2026-03-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s9/prelims.jpg
+            summary: >
+              Prelims for UFC Fight Night 271 hosted at The O2 Arena (London, England, United Kingdom) on March
+              21, 2026. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2026-03-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s9/main-card.jpg
+            summary: >
+              Main Card for UFC Fight Night 271 hosted at The O2 Arena (London, England, United Kingdom) on March
+              21, 2026. Detailed bout listings are pending in the SportsDB feed.
+      10:
+        title: UFC Fight Night 272
+        sort_title: 010_UFC Fight Night 272
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s10/poster.jpg
+        summary: >
+          UFC Fight Night 272 anchors the UFC Fight Night slate on March 28, 2026 at Climate Pledge Arena
+          (Seattle, Washington, United States).
+        episodes:
+          1:
+            title: Prelims
+            originally_available: 2026-03-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s10/prelims.jpg
+            summary: >
+              Prelims for UFC Fight Night 272 hosted at Climate Pledge Arena (Seattle, Washington, United States)
+              on March 28, 2026. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Main Card
+            originally_available: 2026-03-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s10/main-card.jpg
+            summary: >
+              Main Card for UFC Fight Night 272 hosted at Climate Pledge Arena (Seattle, Washington, United
+              States) on March 28, 2026. Detailed bout listings are pending in the SportsDB feed.
+      11:
+        title: UFC White House
+        sort_title: 011_UFC White House
+        url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s11/poster.jpg
+        summary: >
+          UFC White House anchors the UFC numbered pay-per-view slate on June 14, 2026 at TBD Venue
+          (Washington, D.C., United States).
+        episodes:
+          1:
+            title: Early Prelims
+            originally_available: 2026-06-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s11/early-prelims.jpg
+            summary: >
+              Early Prelims for UFC White House hosted at TBD Venue (Washington, D.C., United States) on June 14,
+              2026. Detailed bout listings are pending in the SportsDB feed.
+          2:
+            title: Prelims
+            originally_available: 2026-06-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s11/prelims.jpg
+            summary: >
+              Prelims for UFC White House hosted at TBD Venue (Washington, D.C., United States) on June 14, 2026.
+              Detailed bout listings are pending in the SportsDB feed.
+          3:
+            title: Main Card
+            originally_available: 2026-06-14
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/ufc/2026/s11/main-card.jpg
+            summary: >
+              Main Card for UFC White House hosted at TBD Venue (Washington, D.C., United States) on June 14,
+              2026. Detailed bout listings are pending in the SportsDB feed.
