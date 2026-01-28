@@ -194,7 +194,7 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s2/e8.jpg
             summary: >
               Week 2 matchup at GEHA Field at Arrowhead Stadium (United States). Scheduled kickoff: September 14,
-              2025. Local kickoff: 15:25:00.
+              2025. Local kickoff: 14:25:00.
           9:
             title: Miami Dolphins vs New England Patriots
             originally_available: 2025-09-14
@@ -363,7 +363,7 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s3/e15.jpg
             summary: >
               Week 3 matchup at MetLife Stadium (United States). Scheduled kickoff: September 22, 2025. Local
-              kickoff: 20:20:00.
+              kickoff: 19:20:00.
           16:
             title: Baltimore Ravens vs Detroit Lions
             originally_available: 2025-09-23
@@ -420,7 +420,7 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s4/e6.jpg
             summary: >
               Week 4 matchup at GEHA Field at Arrowhead Stadium (United States). Scheduled kickoff: September 28,
-              2025. Local kickoff: 15:25:00.
+              2025. Local kickoff: 14:25:00.
           7:
             title: Las Vegas Raiders vs Chicago Bears
             originally_available: 2025-09-28
@@ -595,7 +595,7 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s5/e14.jpg
             summary: >
               Week 5 matchup at EverBank Stadium (United States). Scheduled kickoff: October 07, 2025. Local
-              kickoff: 20:15:00.
+              kickoff: 19:15:00.
       6:
         title: Week 6
         sort_title: 06_Week 6
@@ -701,7 +701,7 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s6/e14.jpg
             summary: >
               Week 6 matchup at GEHA Field at Arrowhead Stadium (United States). Scheduled kickoff: October 13,
-              2025. Local kickoff: 19:20:00.
+              2025. Local kickoff: 18:20:00.
           15:
             title: Washington Commanders vs Chicago Bears
             originally_available: 2025-10-14
@@ -772,7 +772,7 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s7/e8.jpg
             summary: >
               Week 7 matchup at GEHA Field at Arrowhead Stadium (United States). Scheduled kickoff: October 19,
-              2025. Local kickoff: 12:00:00.
+              2025. Local kickoff: 11:00:00.
           9:
             title: Los Angeles Chargers vs Indianapolis Colts
             originally_available: 2025-10-19
@@ -920,7 +920,7 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s8/e13.jpg
             summary: >
               Week 8 matchup at GEHA Field at Arrowhead Stadium (United States). Scheduled kickoff: October 28,
-              2025. Local kickoff: 19:15:00.
+              2025. Local kickoff: 18:15:00.
       9:
         title: Week 9
         sort_title: 09_Week 9
@@ -1514,7 +1514,7 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s14/e5.jpg
             summary: >
               Week 14 matchup at Highmark Stadium (United States). Scheduled kickoff: December 07, 2025. Local
-              kickoff: 16:25:00.
+              kickoff: 13:00:00.
           6:
             title: Cleveland Browns vs Tennessee Titans
             originally_available: 2025-12-07
@@ -1528,7 +1528,7 @@ metadata:
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s14/e7.jpg
             summary: >
               Week 14 matchup at Lambeau Field (United States). Scheduled kickoff: December 07, 2025. Local
-              kickoff: 12:00:00.
+              kickoff: 15:25:00.
           8:
             title: Jacksonville Jaguars vs Indianapolis Colts
             originally_available: 2025-12-07
@@ -1714,75 +1714,75 @@ metadata:
               Week 16 matchup at Lumen Field (United States). Scheduled kickoff: December 19, 2025. Local kickoff:
               17:15:00.
           2:
-            title: Chicago Bears vs Green Bay Packers
+            title: Washington Commanders vs Philadelphia Eagles
             originally_available: 2025-12-20
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s16/e2.jpg
             summary: >
-              Week 16 matchup at Soldier Field (United States). Scheduled kickoff: December 20, 2025. Local
-              kickoff: 18:00:00.
-          3:
-            title: Washington Commanders vs Philadelphia Eagles
-            originally_available: 2025-12-20
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s16/e3.jpg
-            summary: >
               Week 16 matchup at Northwest Stadium (United States). Scheduled kickoff: December 20, 2025. Local
-              kickoff: 19:00:00.
-          4:
+              kickoff: 17:00:00.
+          3:
             title: Arizona Cardinals vs Atlanta Falcons
             originally_available: 2025-12-21
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s16/e4.jpg
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s16/e3.jpg
             summary: >
               Week 16 matchup at State Farm Stadium (United States). Scheduled kickoff: December 21, 2025. Local
               kickoff: 14:05:00.
-          5:
-            title: Baltimore Ravens vs New England Patriots
-            originally_available: 2025-12-21
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s16/e5.jpg
-            summary: >
-              Week 16 matchup at M&T Bank Stadium (United States). Scheduled kickoff: December 21, 2025. Local
-              kickoff: 13:00:00.
-          6:
+          4:
             title: Carolina Panthers vs Tampa Bay Buccaneers
             originally_available: 2025-12-21
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s16/e6.jpg
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s16/e4.jpg
             summary: >
               Week 16 matchup at Bank of America Stadium (United States). Scheduled kickoff: December 21, 2025.
               Local kickoff: 13:00:00.
-          7:
+          5:
+            title: Chicago Bears vs Green Bay Packers
+            originally_available: 2025-12-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s16/e5.jpg
+            summary: >
+              Week 16 matchup at Soldier Field (United States). Scheduled kickoff: December 21, 2025. Local
+              kickoff: 19:20:00.
+          6:
             title: Cleveland Browns vs Buffalo Bills
             originally_available: 2025-12-21
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s16/e7.jpg
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s16/e6.jpg
             summary: >
               Week 16 matchup at Huntington Bank Field (United States). Scheduled kickoff: December 21, 2025.
               Local kickoff: 13:00:00.
-          8:
+          7:
             title: Dallas Cowboys vs Los Angeles Chargers
             originally_available: 2025-12-21
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s16/e8.jpg
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s16/e7.jpg
             summary: >
               Week 16 matchup at AT&T Stadium (United States). Scheduled kickoff: December 21, 2025. Local
               kickoff: 12:00:00.
-          9:
+          8:
             title: Denver Broncos vs Jacksonville Jaguars
             originally_available: 2025-12-21
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s16/e9.jpg
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s16/e8.jpg
             summary: >
               Week 16 matchup at Empower Field at Mile High (United States). Scheduled kickoff: December 21, 2025.
               Local kickoff: 14:05:00.
-          10:
+          9:
             title: Detroit Lions vs Pittsburgh Steelers
             originally_available: 2025-12-21
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s16/e10.jpg
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s16/e9.jpg
             summary: >
               Week 16 matchup at Ford Field (United States). Scheduled kickoff: December 21, 2025. Local kickoff:
               16:25:00.
-          11:
+          10:
             title: Houston Texans vs Las Vegas Raiders
             originally_available: 2025-12-21
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s16/e11.jpg
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s16/e10.jpg
             summary: >
               Week 16 matchup at NRG Stadium (United States). Scheduled kickoff: December 21, 2025. Local kickoff:
               15:25:00.
+          11:
+            title: Miami Dolphins vs Cincinnati Bengals
+            originally_available: 2025-12-21
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s16/e11.jpg
+            summary: >
+              Week 16 matchup at Hard Rock Stadium (United States). Scheduled kickoff: December 21, 2025. Local
+              kickoff: 13:00:00.
           12:
             title: New Orleans Saints vs New York Jets
             originally_available: 2025-12-21
@@ -1805,11 +1805,11 @@ metadata:
               Week 16 matchup at Nissan Stadium Nashville (United States). Scheduled kickoff: December 21, 2025.
               Local kickoff: 12:00:00.
           15:
-            title: Miami Dolphins vs Cincinnati Bengals
+            title: Baltimore Ravens vs New England Patriots
             originally_available: 2025-12-22
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s16/e15.jpg
             summary: >
-              Week 16 matchup at Hard Rock Stadium (United States). Scheduled kickoff: December 22, 2025. Local
+              Week 16 matchup at M&T Bank Stadium (United States). Scheduled kickoff: December 22, 2025. Local
               kickoff: 20:20:00.
           16:
             title: Indianapolis Colts vs San Francisco 49ers
@@ -1848,61 +1848,61 @@ metadata:
               Week 17 matchup at GEHA Field at Arrowhead Stadium (United States). Scheduled kickoff: December 26,
               2025. Local kickoff: 19:15:00.
           4:
-            title: Carolina Panthers vs Seattle Seahawks
+            title: Los Angeles Chargers vs Houston Texans
             originally_available: 2025-12-27
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s17/e4.jpg
             summary: >
-              Week 17 matchup at Bank of America Stadium (United States). Scheduled kickoff: December 27, 2025.
-              Local kickoff: 19:00:00.
-          5:
-            title: Cincinnati Bengals vs Arizona Cardinals
-            originally_available: 2025-12-27
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s17/e5.jpg
-            summary: >
-              Week 17 matchup at Paycor Stadium (United States). Scheduled kickoff: December 27, 2025. Local
-              kickoff: 19:00:00.
-          6:
-            title: Green Bay Packers vs Baltimore Ravens
-            originally_available: 2025-12-27
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s17/e6.jpg
-            summary: >
-              Week 17 matchup at Lambeau Field (United States). Scheduled kickoff: December 27, 2025. Local
-              kickoff: 18:00:00.
-          7:
-            title: Las Vegas Raiders vs New York Giants
-            originally_available: 2025-12-27
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s17/e7.jpg
-            summary: >
-              Week 17 matchup at Allegiant Stadium (United States). Scheduled kickoff: December 27, 2025. Local
-              kickoff: 16:00:00.
-          8:
-            title: Los Angeles Chargers vs Houston Texans
-            originally_available: 2025-12-27
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s17/e8.jpg
-            summary: >
               Week 17 matchup at SoFi Stadium (United States). Scheduled kickoff: December 27, 2025. Local
-              kickoff: 16:00:00.
-          9:
+              kickoff: 13:30:00.
+          5:
             title: Buffalo Bills vs Philadelphia Eagles
             originally_available: 2025-12-28
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s17/e9.jpg
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s17/e5.jpg
             summary: >
               Week 17 matchup at Highmark Stadium (United States). Scheduled kickoff: December 28, 2025. Local
               kickoff: 16:25:00.
-          10:
+          6:
+            title: Carolina Panthers vs Seattle Seahawks
+            originally_available: 2025-12-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s17/e6.jpg
+            summary: >
+              Week 17 matchup at Bank of America Stadium (United States). Scheduled kickoff: December 28, 2025.
+              Local kickoff: 13:00:00.
+          7:
+            title: Cincinnati Bengals vs Arizona Cardinals
+            originally_available: 2025-12-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s17/e7.jpg
+            summary: >
+              Week 17 matchup at Paycor Stadium (United States). Scheduled kickoff: December 28, 2025. Local
+              kickoff: 13:00:00.
+          8:
             title: Cleveland Browns vs Pittsburgh Steelers
             originally_available: 2025-12-28
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s17/e10.jpg
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s17/e8.jpg
             summary: >
               Week 17 matchup at Huntington Bank Field (United States). Scheduled kickoff: December 28, 2025.
               Local kickoff: 13:00:00.
-          11:
+          9:
+            title: Green Bay Packers vs Baltimore Ravens
+            originally_available: 2025-12-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s17/e9.jpg
+            summary: >
+              Week 17 matchup at Lambeau Field (United States). Scheduled kickoff: December 28, 2025. Local
+              kickoff: 19:00:00.
+          10:
             title: Indianapolis Colts vs Jacksonville Jaguars
             originally_available: 2025-12-28
-            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s17/e11.jpg
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s17/e10.jpg
             summary: >
               Week 17 matchup at Lucas Oil Stadium (United States). Scheduled kickoff: December 28, 2025. Local
               kickoff: 13:00:00.
+          11:
+            title: Las Vegas Raiders vs New York Giants
+            originally_available: 2025-12-28
+            url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s17/e11.jpg
+            summary: >
+              Week 17 matchup at Allegiant Stadium (United States). Scheduled kickoff: December 28, 2025. Local
+              kickoff: 13:05:00.
           12:
             title: Miami Dolphins vs Tampa Bay Buccaneers
             originally_available: 2025-12-28
@@ -1943,117 +1943,118 @@ metadata:
         sort_title: 18_Week 18
         url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s18/poster.jpg
         summary: >
-          Week 18 spans January 4, 2026 with 16 games recorded in TheSportsDB feed for the 2025 NFL schedule.
+          Week 18 spans January 3-5, 2026 with 16 games recorded in TheSportsDB feed for the 2025 NFL
+          schedule.
         episodes:
           1:
-            title: Atlanta Falcons vs New Orleans Saints
-            originally_available: 2026-01-04
+            title: Tampa Bay Buccaneers vs Carolina Panthers
+            originally_available: 2026-01-03
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s18/e1.jpg
             summary: >
-              Week 18 matchup at Mercedes-Benz Stadium (United States). Scheduled kickoff: January 04, 2026. Local
-              kickoff: 19:00:00.
+              Week 18 matchup at Raymond James Stadium (United States). Scheduled kickoff: January 03, 2026. Local
+              kickoff: 16:30:00.
           2:
-            title: Buffalo Bills vs New York Jets
+            title: Atlanta Falcons vs New Orleans Saints
             originally_available: 2026-01-04
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s18/e2.jpg
             summary: >
-              Week 18 matchup at Highmark Stadium (United States). Scheduled kickoff: January 04, 2026. Local
-              kickoff: 19:00:00.
+              Week 18 matchup at Mercedes-Benz Stadium (United States). Scheduled kickoff: January 04, 2026. Local
+              kickoff: 13:00:00.
           3:
-            title: Chicago Bears vs Detroit Lions
+            title: Buffalo Bills vs New York Jets
             originally_available: 2026-01-04
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s18/e3.jpg
             summary: >
-              Week 18 matchup at Soldier Field (United States). Scheduled kickoff: January 04, 2026. Local
-              kickoff: 18:00:00.
+              Week 18 matchup at Highmark Stadium (United States). Scheduled kickoff: January 04, 2026. Local
+              kickoff: 16:25:00.
           4:
-            title: Cincinnati Bengals vs Cleveland Browns
+            title: Chicago Bears vs Detroit Lions
             originally_available: 2026-01-04
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s18/e4.jpg
             summary: >
-              Week 18 matchup at Paycor Stadium (United States). Scheduled kickoff: January 04, 2026. Local
-              kickoff: 19:00:00.
+              Week 18 matchup at Soldier Field (United States). Scheduled kickoff: January 04, 2026. Local
+              kickoff: 15:25:00.
           5:
-            title: Denver Broncos vs Los Angeles Chargers
+            title: Cincinnati Bengals vs Cleveland Browns
             originally_available: 2026-01-04
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s18/e5.jpg
             summary: >
-              Week 18 matchup at Empower Field at Mile High (United States). Scheduled kickoff: January 04, 2026.
-              Local kickoff: 17:00:00.
+              Week 18 matchup at Paycor Stadium (United States). Scheduled kickoff: January 04, 2026. Local
+              kickoff: 13:00:00.
           6:
-            title: Houston Texans vs Indianapolis Colts
+            title: Denver Broncos vs Los Angeles Chargers
             originally_available: 2026-01-04
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s18/e6.jpg
             summary: >
-              Week 18 matchup at NRG Stadium (United States). Scheduled kickoff: January 04, 2026. Local kickoff:
-              18:00:00.
+              Week 18 matchup at Empower Field at Mile High (United States). Scheduled kickoff: January 04, 2026.
+              Local kickoff: 14:25:00.
           7:
-            title: Jacksonville Jaguars vs Tennessee Titans
+            title: Houston Texans vs Indianapolis Colts
             originally_available: 2026-01-04
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s18/e7.jpg
             summary: >
-              Week 18 matchup at EverBank Stadium (United States). Scheduled kickoff: January 04, 2026. Local
-              kickoff: 19:00:00.
+              Week 18 matchup at NRG Stadium (United States). Scheduled kickoff: January 04, 2026. Local kickoff:
+              12:00:00.
           8:
-            title: Las Vegas Raiders vs Kansas City Chiefs
+            title: Jacksonville Jaguars vs Tennessee Titans
             originally_available: 2026-01-04
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s18/e8.jpg
             summary: >
-              Week 18 matchup at Allegiant Stadium (United States). Scheduled kickoff: January 04, 2026. Local
-              kickoff: 16:00:00.
+              Week 18 matchup at EverBank Stadium (United States). Scheduled kickoff: January 04, 2026. Local
+              kickoff: 13:00:00.
           9:
-            title: Los Angeles Rams vs Arizona Cardinals
+            title: Las Vegas Raiders vs Kansas City Chiefs
             originally_available: 2026-01-04
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s18/e9.jpg
             summary: >
-              Week 18 matchup at SoFi Stadium (United States). Scheduled kickoff: January 04, 2026. Local kickoff:
-              16:00:00.
+              Week 18 matchup at Allegiant Stadium (United States). Scheduled kickoff: January 04, 2026. Local
+              kickoff: 13:25:00.
           10:
-            title: Minnesota Vikings vs Green Bay Packers
+            title: Los Angeles Rams vs Arizona Cardinals
             originally_available: 2026-01-04
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s18/e10.jpg
             summary: >
-              Week 18 matchup at U.S. Bank Stadium (United States). Scheduled kickoff: January 04, 2026. Local
-              kickoff: 18:00:00.
+              Week 18 matchup at SoFi Stadium (United States). Scheduled kickoff: January 04, 2026. Local kickoff:
+              13:25:00.
           11:
-            title: New England Patriots vs Miami Dolphins
+            title: Minnesota Vikings vs Green Bay Packers
             originally_available: 2026-01-04
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s18/e11.jpg
             summary: >
-              Week 18 matchup at Gillette Stadium (United States). Scheduled kickoff: January 04, 2026. Local
-              kickoff: 19:00:00.
+              Week 18 matchup at U.S. Bank Stadium (United States). Scheduled kickoff: January 04, 2026. Local
+              kickoff: 12:00:00.
           12:
-            title: New York Giants vs Dallas Cowboys
+            title: New England Patriots vs Miami Dolphins
             originally_available: 2026-01-04
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s18/e12.jpg
             summary: >
-              Week 18 matchup at MetLife Stadium (United States). Scheduled kickoff: January 04, 2026. Local
-              kickoff: 19:00:00.
+              Week 18 matchup at Gillette Stadium (United States). Scheduled kickoff: January 04, 2026. Local
+              kickoff: 16:25:00.
           13:
-            title: Philadelphia Eagles vs Washington Commanders
+            title: New York Giants vs Dallas Cowboys
             originally_available: 2026-01-04
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s18/e13.jpg
             summary: >
-              Week 18 matchup at Lincoln Financial Field (United States). Scheduled kickoff: January 04, 2026.
-              Local kickoff: 19:00:00.
+              Week 18 matchup at MetLife Stadium (United States). Scheduled kickoff: January 04, 2026. Local
+              kickoff: 13:00:00.
           14:
-            title: Pittsburgh Steelers vs Baltimore Ravens
+            title: Philadelphia Eagles vs Washington Commanders
             originally_available: 2026-01-04
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s18/e14.jpg
             summary: >
-              Week 18 matchup at Acrisure Stadium (United States). Scheduled kickoff: January 04, 2026. Local
-              kickoff: 19:00:00.
+              Week 18 matchup at Lincoln Financial Field (United States). Scheduled kickoff: January 04, 2026.
+              Local kickoff: 16:25:00.
           15:
             title: San Francisco 49ers vs Seattle Seahawks
             originally_available: 2026-01-04
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s18/e15.jpg
             summary: >
               Week 18 matchup at Levi's Stadium (United States). Scheduled kickoff: January 04, 2026. Local
-              kickoff: 16:00:00.
+              kickoff: 17:00:00.
           16:
-            title: Tampa Bay Buccaneers vs Carolina Panthers
-            originally_available: 2026-01-04
+            title: Pittsburgh Steelers vs Baltimore Ravens
+            originally_available: 2026-01-05
             url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/nfl/2025/s18/e16.jpg
             summary: >
-              Week 18 matchup at Raymond James Stadium (United States). Scheduled kickoff: January 04, 2026. Local
-              kickoff: 19:00:00.
+              Week 18 matchup at Acrisure Stadium (United States). Scheduled kickoff: January 05, 2026. Local
+              kickoff: 20:20:00.
