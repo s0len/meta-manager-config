@@ -6,10 +6,148 @@ overlays:
       group: ICONS
       weight: 100
     plex_all: true
+
+  # Networks below are either missing from Kometa's network defaults or, for
+  # the Sky family, folded into the generic Sky overlay there. Entries share
+  # Kometa's "networks" overlay group with a higher weight (defaults use 10)
+  # so the specific artwork wins over a generic match.
   Crave:
+    ignore_blank_results: true
     plex_search:
-        all:
-          network: Crave
+      all:
+        network: Crave
     overlay:
       name: crave
-      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/Crave.png 
+      group: networks
+      weight: 20
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/Crave.png
+  FOX Showcase:
+    ignore_blank_results: true
+    plex_search:
+      all:
+        network: FOX Showcase
+    overlay:
+      name: fox_showcase
+      group: networks
+      weight: 20
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/FOX Showcase.png
+  G4:
+    ignore_blank_results: true
+    plex_search:
+      all:
+        network: G4
+    overlay:
+      name: g4
+      group: networks
+      weight: 20
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/G4.png
+  More4:
+    ignore_blank_results: true
+    plex_search:
+      all:
+        network: More4
+    overlay:
+      name: more4
+      group: networks
+      weight: 20
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/More4.png
+  ORF 1:
+    ignore_blank_results: true
+    plex_search:
+      all:
+        network: ORF 1
+    overlay:
+      name: orf_1
+      group: networks
+      weight: 20
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/ORF 1.png
+  SBS On Demand:
+    ignore_blank_results: true
+    plex_search:
+      all:
+        network: SBS On Demand
+    overlay:
+      name: sbs_on_demand
+      group: networks
+      weight: 20
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/SBS.png
+  Sjuan:
+    ignore_blank_results: true
+    plex_search:
+      all:
+        network: Sjuan
+    overlay:
+      name: sjuan
+      group: networks
+      weight: 20
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/Sjuan.png
+  Sjónvarp Símans:
+    ignore_blank_results: true
+    plex_search:
+      all:
+        network: Sjónvarp Símans
+    overlay:
+      name: sjonvarp_simans
+      group: networks
+      weight: 20
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/Sjónvarp Símans.png
+  Sky Atlantic:
+    ignore_blank_results: true
+    plex_search:
+      all:
+        network: Sky Atlantic
+    overlay:
+      name: sky_atlantic
+      group: networks
+      weight: 20
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/Sky Atlantic.png
+  Sky Showcase:
+    ignore_blank_results: true
+    plex_search:
+      all:
+        network: Sky Showcase
+    overlay:
+      name: sky_showcase
+      group: networks
+      weight: 20
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/Sky.png
+  Sky Sports F1:
+    ignore_blank_results: true
+    plex_search:
+      all:
+        network: Sky Sports F1
+    overlay:
+      name: sky_sports_f1
+      group: networks
+      weight: 20
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/Sky Sports F1.png
+  SkyShowtime:
+    ignore_blank_results: true
+    plex_search:
+      all:
+        network: SkyShowtime
+    overlay:
+      name: skyshowtime
+      group: networks
+      weight: 20
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/SkyShowtime.png
+  TV 2 Charlie:
+    ignore_blank_results: true
+    plex_search:
+      all:
+        network: TV 2 Charlie
+    overlay:
+      name: tv_2_charlie
+      group: networks
+      weight: 20
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/TV 2 Charlie.png
+  TV2 Play:
+    ignore_blank_results: true
+    plex_search:
+      all:
+        network: TV2 Play
+    overlay:
+      name: tv2_play
+      group: networks
+      weight: 20
+      url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/TV2 Play.png
