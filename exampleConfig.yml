@@ -102,7 +102,7 @@ libraries:
           vertical_align: top
           back_width: 1000
           back_height: 1500
-          url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/<<key>>.png 
+          url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/<<key_encoded>>.png 
           back_color: 00 
 
   Anime Series:
@@ -115,7 +115,7 @@ libraries:
           vertical_offset: 0
           back_width: 1000
           back_height: 1500
-          url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/studio-top-left/<<key>>.png
+          url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/studio-top-left/<<key_encoded>>.png
           back_color: 00
       - pmm: status
         template_variables:
