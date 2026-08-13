@@ -74,6 +74,21 @@ Screenshots now live in the individual guides to keep this README scannable.
 ## Movies & TV Enhancements
 This repository also ships battle-tested overlays and collections for standard Plex libraries.
 
+### Sofa Picks – Discovery Collections
+Self-maintaining "what should we watch tonight?" collections. They only surface things you *haven't* seen and refresh as you watch — Hidden Gems and Quick Watch Tonight for movies, Binge-Ready Shows and Limited Series for TV:
+
+```yaml
+libraries:
+  Movies:
+    collection_files:
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/sofa_picks_movies.yaml
+  TV Shows:
+    collection_files:
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/sofa_picks_series.yaml
+```
+
+The movie collections are pure Plex smart filters (zero external APIs); the series ones use TMDb status lookups via Kometa. Rating thresholds assume a 0-10 critic scale — tweak `.gte` values in the file to taste.
+
 ### Movies – Replacement Collections
 Swap out Plex’s defaults with smarter “New Releases” and “Old Movies Just Added” collections:
 
