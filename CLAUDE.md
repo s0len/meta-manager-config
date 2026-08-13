@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What This Repository Is
 
-Curated [Kometa](https://kometa.wiki) (formerly Plex Meta Manager) configurations for sports, movies, and TV libraries. There is no build system, test suite, or application code — the deliverables are hand-crafted/generated YAML metadata files plus the artwork they reference. Users consume everything via raw GitHub URLs (`https://raw.githubusercontent.com/s0len/meta-manager-config/main/...`), so **file paths are public API**: renaming or moving a metadata file, poster, or overlay PNG breaks downstream Plex setups.
+Curated [Kometa](https://kometa.wiki) (formerly Plex Meta Manager) configurations for sports, movies, and TV libraries. There is no build system, test suite, or application code — the deliverables are hand-crafted/generated YAML metadata files plus the artwork they reference. Sports **metadata** is actively maintained at https://tvsportsdb.com/ these days; the metadata files here are a legacy archive kept online for existing configs. Users consume everything via raw GitHub URLs (`https://raw.githubusercontent.com/s0len/meta-manager-config/main/...`), so **file paths are public API**: renaming or moving a metadata file, poster, or overlay PNG breaks downstream Plex setups.
 
 ## Layout
 

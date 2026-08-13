@@ -1,6 +1,6 @@
 # Scripts
 
-Utilities that help regenerate or extend metadata files for Sports Organizer live here.
+Utilities for generating sports metadata and overlay artwork. Sports metadata is actively maintained at [TVSportsDB](https://tvsportsdb.com/) these days — the generators here are still handy for bulk-building a season as YAML, which TVSportsDB can import.
 
 ## `generate_resolution_overlay.py`
 
