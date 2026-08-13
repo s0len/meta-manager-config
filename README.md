@@ -1,12 +1,17 @@
 # Kometa Configs
 
-Curated Plex Meta Manager configurations for sports, movies, and TV. Each YAML file ships with matching posters/title cards plus optional overlays so you can build polished libraries without hunting down artwork.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/contributing.md)
+[![Buy Me A Coffee](https://img.shields.io/badge/support-Buy%20Me%20a%20Coffee-ffdd00.svg)](https://www.buymeacoffee.com/solen)
+
+Curated [Kometa](https://kometa.wiki) configurations for sports, movies, and TV. Every metadata file ships with matching posters and title cards, plus battle-tested overlays and discovery collections — build polished Plex libraries without hunting down artwork.
 
 ---
 
 ## Quick Start
+
 1. Install [Kometa](https://kometa.wiki/en/latest/).
-2. Point your Plex library at one or more metadata files:
+2. Point your library at one or more metadata files:
 
 ```yaml
 libraries:
@@ -14,67 +19,76 @@ libraries:
     metadata_files:
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/formula1/2025.yaml
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/motogp/2025.yaml
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/indycar-series/2025.yaml
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/wrc-2024.yaml
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/ufc/2026.yaml
 ```
 
 3. Enable `assets_for_all: true` so Kometa fetches posters/backgrounds automatically.
 4. Review the sport-specific guide (linked below) for folder naming and troubleshooting.
 
+A complete example config lives in [`exampleConfig.yaml`](exampleConfig.yaml).
+
 ---
 
 ## Repository Map
+
 | Path | Description |
 | --- | --- |
-| `metadata/` | Hand-crafted YAML per sport, league, or tournament. |
-| `scripts/` | Python generators that assemble new seasons from APIs/spreadsheets. |
+| `metadata/<sport>/<season>.yaml` | Hand-crafted or generated YAML per sport and season. |
+| `scripts/` | Python generators for metadata and overlays — see [`scripts/README.md`](scripts/README.md). |
 | `posters/` & `images/` | Published artwork plus documentation screenshots. |
-| `overlays/` | Ribbon + badge overlays for Plex libraries. |
-| `collection_files/` | Drop-in collections such as “New Releases”. |
+| `overlays/` | Network, streaming, studio, resolution, audio, status, and ribbon overlays. |
+| `collection_files/` | Drop-in collections: New Releases, Sofa Picks, and more. |
 | `templates/` | Photoshop starting points for posters/title cards/overlays. |
-| `docs/` | Setup guides and contribution docs (see template at `docs/SportDocTemplate.md`). |
+| `docs/` | Setup guides and contribution docs. |
 
 ---
 
 ## Supported Sports
-| Sport | Seasons Covered | Assets | Guide |
-| --- | --- | --- | --- |
-| Formula 1 | 2025 (24 rounds) | Metadata, posters, title cards | [Docs](docs/Formula1.md) |
-| MotoGP | 2025 (22 rounds) | Metadata, posters, title cards | [Docs](docs/MotoGP.md) |
-| IndyCar | 2025 | Metadata, posters, title cards | Coming soon |
-| Formula E | 2024-2026 | Metadata, posters, title cards | Coming soon |
-| Formula 2 | 2025 | Metadata, posters, title cards | Coming soon |
-| WorldSBK | 2023-2025 | Metadata, posters, title cards | Coming soon |
-| World Supersport | 2023-2025 | Metadata, posters, title cards | Coming soon |
-| World Supersport 300 | 2024-2025 | Metadata, posters, title cards | Coming soon |
-| World Rally Championship | 2024 | Metadata, posters, stage cards | Coming soon |
-| European Rally Championship | 2024 | Metadata, posters, stage cards | Coming soon |
-| Isle of Man TT | Latest events | Metadata, posters, race cards | Coming soon |
-| NBA | 2025-2026 | Metadata, posters, title cards | Coming soon |
-| NFL | 2025-2026 | Metadata, posters, title cards | Coming soon |
-| Premier League | 2025-2026 | Metadata, posters, match cards | Coming soon |
-| UEFA Champions League | 2025-2026 | Metadata, posters, match cards | Coming soon |
-| Women’s UEFA Euro | 2025 | Metadata, posters, match cards | Coming soon |
-| UFC | 2024-2025 | Metadata, posters, title cards | [Docs](docs/UFC.md) |
 
-Need another sport? Duplicate the template at `docs/SportDocTemplate.md`, add your metadata under `metadata/`, and link it in the table via PR.
+| Sport | Seasons | Metadata | Guide |
+| --- | --- | --- | --- |
+| Formula 1 | 2023–2025 | `metadata/formula1/<year>.yaml` | [Docs](docs/Formula1.md) |
+| Formula 2 | 2025 | `metadata/formula2/2025.yaml` | — |
+| Formula 3 | 2025 | `metadata/formula3/2025.yaml` | — |
+| Formula E | 2024–2026 | `metadata/formula-e/<season>.yaml` | — |
+| MotoGP | 2022–2025 | `metadata/motogp/<year>.yaml` | [Docs](docs/MotoGP.md) |
+| Moto2 | 2025 | `metadata/moto2/2025.yaml` | — |
+| Moto3 | 2025 | `metadata/moto3/2025.yaml` | — |
+| IndyCar | 2025 | `metadata/indycar-series/2025.yaml` | — |
+| WRC | 2024 | `metadata/wrc-2024.yaml` | — |
+| European Rally (ERC) | 2024 | `metadata/erc-2024.yaml` | — |
+| Isle of Man TT | Latest events | `metadata/isle-of-man-tt.yaml` | — |
+| WorldSBK | 2023–2025 | `metadata/wsbk-<year>.yaml` | — |
+| World Supersport | 2023–2025 | `metadata/wssp-<year>.yaml` | — |
+| World Supersport 300 | 2024–2025 | `metadata/wssp300-<year>.yaml` | — |
+| NBA | 2025–2026 | `metadata/nba/2025-2026.yaml` | — |
+| NFL | 2025–2026 | `metadata/nfl/2025.yaml` | — |
+| NHL | 2025–2026 | `metadata/nhl/2025-2026.yaml` | — |
+| Premier League | 2024–2026 | `metadata/premier-league/<season>.yaml` | — |
+| UEFA Champions League | 2025–2026 | `metadata/uefa-champions-league/2025-2026.yaml` | — |
+| Women's UEFA Euro | 2025 | `metadata/womens-uefa-euro.yaml` | — |
+| Figure Skating Grand Prix | 2025 | `metadata/figure-skating-grand-prix/2025.yaml` | — |
+| UFC | 2024–2026 | `metadata/ufc/<year>.yaml` | [Docs](docs/UFC.md) |
+
+Need another sport? Most of these are generated by the scripts in [`scripts/`](scripts/README.md) — duplicate the closest generator, add your metadata under `metadata/`, and open a PR (see [Contributing](#contributing)).
 
 ---
 
 ## Sport Guides
-- `docs/Formula1.md` – Folder layout, Kometa config, and preview shots for the full 2025 grid.
-- `docs/MotoGP.md` – Library settings, naming rules, and troubleshooting for 22-round seasons.
-- `docs/UFC.md` – Event numbering, metadata structure, and recommended Plex agents.
-- `docs/SportDocTemplate.md` – Copy this structure when documenting a new sport.
 
-Screenshots now live in the individual guides to keep this README scannable.
+- [`docs/Formula1.md`](docs/Formula1.md) – Folder layout, Kometa config, and preview shots for the full grid.
+- [`docs/MotoGP.md`](docs/MotoGP.md) – Library settings, naming rules, and troubleshooting.
+- [`docs/UFC.md`](docs/UFC.md) – Event numbering, metadata structure, and recommended Plex agents.
+- [`docs/SportDocTemplate.md`](docs/SportDocTemplate.md) – Copy this structure when documenting a new sport.
 
 ---
 
 ## Movies & TV Enhancements
-This repository also ships battle-tested overlays and collections for standard Plex libraries.
+
+Battle-tested overlays and collections for standard Plex libraries.
 
 ### Sofa Picks – Discovery Collections
+
 Self-maintaining "what should we watch tonight?" collections. They only surface things you *haven't* seen and refresh as you watch — Hidden Gems and Quick Watch Tonight for movies, Binge-Ready Shows and Limited Series for TV:
 
 ```yaml
@@ -90,10 +104,11 @@ libraries:
 The movie collections are pure Plex smart filters (zero external APIs); the series ones use TMDb status lookups via Kometa. Rating thresholds assume a 0-10 critic scale — tweak `.gte` values in the file to taste.
 
 ### Movies – Replacement Collections
-Swap out Plex’s defaults with smarter “New Releases” and “Old Movies Just Added” collections:
+
+Swap out Plex's defaults with smarter "New Releases" and "Old Movies Just Added" collections:
 
 ```yaml
-- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/better_new_and_old_movie_releases.yml
+- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/better_new_and_old_movie_releases.yaml
 ```
 
 ![new movie releases and old movies just added](https://github.com/s0len/meta-manager-config/blob/main/images/new-movie-releases-and-old-movies-just-added.png)
@@ -111,6 +126,7 @@ Swap out Plex’s defaults with smarter “New Releases” and “Old Movies Jus
 ![Common Sense collection](https://github.com/s0len/meta-manager-config/blob/main/images/commonsense-collection.jpg)
 
 ### Movies – Ribbon Background
+
 Run this once before stacking resolution/audio/studio overlays:
 
 ```yaml
@@ -202,12 +218,14 @@ Run this once before stacking resolution/audio/studio overlays:
 ### TV – Replacement Collections
 
 ```yaml
-- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/better_new_and_old_tv_shows_releases.yml
+- url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/better_new_and_old_tv_shows_releases.yaml
 ```
 
 ![new tv show releases and old TV Shows just added](https://github.com/s0len/meta-manager-config/blob/main/images/new-movie-releases-and-old-tv-shows-just-added.png)
 
 ### TV – Status + Network Overlays
+
+Over 300 network ribbons ship in `overlays/network-top-left/` — from the big streamers down to regional broadcasters. `<<key_encoded>>` is required so networks like `#0` and `U&Dave` resolve correctly. The fallback file adds a Plex ribbon for shows whose network has no artwork, plus specific artwork for networks that Kometa's defaults miss:
 
 ```yaml
 - default: status
@@ -287,32 +305,31 @@ Run this once before stacking resolution/audio/studio overlays:
 ---
 
 ## Automation & Scripts
-- `scripts/generate_nba_metadata.py` – Builds the full NBA season (games, rounds, key art) directly from league schedules.
-- `scripts/generate_motogp_metadata_sportsdb.py` – Pulls TheSportsDB data to assemble MotoGP weekends plus session posters.
-- Additional scripts follow the same pattern (collect data ➜ normalize ➜ emit YAML). Run them before major season updates and commit the resulting metadata changes.
 
-Document your workflow in the relevant sport guide so others can regenerate new seasons confidently.
+Everything under `scripts/` is documented in [`scripts/README.md`](scripts/README.md). Highlights:
+
+- **Metadata generators** – one per sport, built on TheSportsDB (`generate_<sport>_metadata_sportsdb.py`). They emit the season YAML and download artwork in one pass. Re-run them when fixtures shift and commit the diff.
+- **`generate_network_overlay.py`** – create a new network ribbon PNG from any logo, no Photoshop needed. It reproduces the exact style of the existing set. Missing your favorite channel? Generate it and open a PR.
+- **`generate_resolution_overlay.py`** – same idea for the 45° resolution/edition text overlays (this is how the HLG set was made).
+- **`validate_yaml.py`** – checks that every YAML file parses and that internal asset references resolve. Runs automatically on every PR.
 
 ---
 
 ## Contributing
-Read `docs/contributing.md` for the full workflow, naming rules, and submission checklist. Highlights:
-- Fork → branch → PR with screenshots where helpful.
-- Validate YAML (lint) and double-check that asset filenames match metadata references.
-- Follow the sport doc template when adding documentation for a new league.
 
-### Available Photoshop Templates
-- `templates/formula1_posters.psd`
-- `templates/formula1_title_card.psd`
-- `templates/uefa-euro-2024-titlecards.psd`
-- `templates/WSBK-poster.psd`
-- `templates/poster_overlay_network.psd`
-- `templates/poster_overlay_streaming_service.psd`
+Read [`docs/contributing.md`](docs/contributing.md) for the full workflow. Highlights:
+
+- Fork → branch → PR with screenshots where helpful.
+- Run `python3 scripts/validate_yaml.py` before submitting — CI runs it on every PR.
+- Name new files `.yaml` (existing `.yml` files keep their names: their URLs are live in other people's configs).
+- Asset filenames must match metadata references exactly; posters are 1000×1500 JPG, title cards 1920×1080.
+- Photoshop templates live in `templates/` if you want to match the house style, and the overlay generator scripts cover most cases without Photoshop.
 
 ---
 
 ## Support
-Questions? Open an issue or reach out on Discord (`@s0len`).  
+
+Questions? [Open an issue](https://github.com/s0len/meta-manager-config/issues) or reach out on Discord (`@s0len`).
 If these configs save you time, consider supporting the work:
 
 <a href="https://www.buymeacoffee.com/solen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
