@@ -1,7 +1,7 @@
 libraries:
   Movies:
     collection_files:
-    - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/better_new_and_old_movie_releases.yml
+    - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/better_new_and_old_movie_releases.yaml
 
     - pmm: content_rating_cs
       template_variables:
@@ -54,7 +54,7 @@ libraries:
 
   TV Shows:
     collection_files:
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/better_new_and_old_tv_shows_releases.yml
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/better_new_and_old_tv_shows_releases.yaml
       
     overlay_files:
       # Status in the top left corner
@@ -151,14 +151,14 @@ libraries:
 
   Sports:
     metadata_files:
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/formula1-2025.yaml
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/formulae-2025.yaml
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/indycar-2025.yaml
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/formula1/2025.yaml
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/formula-e/2025-2026.yaml
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/indycar-series/2025.yaml
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/isle-of-man-tt.yaml
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/moto2-2025.yaml
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/moto3-2025.yaml
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/motogp-2025.yaml
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/ufc.yaml
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/moto2/2025.yaml
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/moto3/2025.yaml
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/motogp/2025.yaml
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/ufc/2026.yaml
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/womens-uefa-euro.yaml
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/wsbk-2025.yaml
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/wssp-2025.yaml

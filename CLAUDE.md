@@ -10,7 +10,7 @@ Curated [Kometa](https://kometa.wiki) (formerly Plex Meta Manager) configuration
 
 - `metadata/<sport>/<season>.yaml` — one show per sport-season; SportsDB rounds map to Plex **seasons**, sessions/games/fight-blocks map to **episodes**. Older files live flat as `metadata/<league>-<season>.yaml`.
 - `posters/<sport>/<season>/sX/poster.jpg` and `.../sX/eY.jpg` — artwork the metadata's `url_poster` entries point to (X = round/matchweek, Y = episode index). Filenames must match metadata references exactly.
-- `scripts/` — Python generators (stdlib-only, Python 3) that build the metadata YAML from APIs. See `scripts/README.md` for per-script docs.
+- `scripts/` — Python generators that build metadata YAML from APIs (stdlib-only) plus overlay generators (`generate_network_overlay.py`, `generate_resolution_overlay.py`; need pillow+numpy) that recreate the house overlay styles without Photoshop. See `scripts/README.md` for per-script docs.
 - `overlays/`, `collection_files/`, `templates.yml` — Kometa overlay PNGs/configs and drop-in collections for movie/TV libraries.
 - `docs/` — per-sport setup guides; copy `docs/SportDocTemplate.md` for a new sport and link it in the README table.
 - `templates/` — Photoshop source files for posters/title cards.
@@ -38,4 +38,6 @@ python3 scripts/generate_premier_league_metadata_sportsdb.py --season 2025-2026
 - Season `sort_title` uses the `NN_Title` pattern so rounds order correctly in Plex.
 - Posters export as JPG at 1000x1500; title cards 1920x1080; overlays as transparent PNG. Lowercase-dash filenames.
 - Hand edits to generated YAML (e.g. corrected local kickoff times) are normal and committed directly — but note they will be overwritten if the generator is re-run, so significant fixes belong in the script.
-- `tmp/` holds scratch API payloads (e.g. cached NBA schedule JSON) and is not part of the published config.
+- New files use `.yaml`; existing `.yml` files must keep their names (raw URLs are live in other people's configs).
+- `python3 scripts/validate_yaml.py` validates YAML syntax and internal asset references; CI (`.github/workflows/validate.yaml`) runs it on every PR. Broken refs in README/docs/exampleConfig/overlays are errors; missing posters referenced from metadata are warnings (generators emit `url_poster` optimistically).
+- Changes to this repo go through pull requests (branch protection on main).

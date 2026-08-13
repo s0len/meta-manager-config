@@ -87,7 +87,7 @@ To add the MotoGP metadata to Plex, we use Kometa (a Plex metadata manager). Add
 libraries:
   Motorsport: # This is your Plex Library containing MotoGP
     metadata_files:
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata_files/motogp-2025.yaml
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/motogp/2025.yaml
     operations:
       assets_for_all: true
 ```
