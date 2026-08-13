@@ -171,7 +171,7 @@ Run this once before stacking resolution/audio/studio overlays:
     vertical_offset: 0
     back_width: 1000
     back_height: 1500
-    url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/studio-top-left/<<key>>.png
+    url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/studio-top-left/<<key_encoded>>.png
     back_color: 00
 - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon_awards.yml
 - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/ribbon_trending.yml
@@ -227,7 +227,7 @@ Run this once before stacking resolution/audio/studio overlays:
     vertical_align: top
     back_width: 1000
     back_height: 1500
-    url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/<<key>>.png
+    url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/<<key_encoded>>.png
     back_color: 00
 ```
 
@@ -244,7 +244,7 @@ Run this once before stacking resolution/audio/studio overlays:
     vertical_offset: 0
     back_width: 1000
     back_height: 1500
-    url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/studio-top-left/<<key>>.png
+    url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/studio-top-left/<<key_encoded>>.png
     back_color: 00
 - default: streaming
   template_variables:
@@ -254,7 +254,7 @@ Run this once before stacking resolution/audio/studio overlays:
     vertical_align: top
     back_width: 1000
     back_height: 1500
-    url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/streaming-top-left/<<key>>.png
+    url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/streaming-top-left/<<key_encoded>>.png
     back_color: 00
 ```
 
