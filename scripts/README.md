@@ -2,6 +2,27 @@
 
 Utilities that help regenerate or extend metadata files for Sports Organizer live here.
 
+## `generate_resolution_overlay.py`
+
+Creates new `overlays/resolution-top-left-45deg/<Name>.png` text overlays in
+the style of the existing set: 45° text with an optional white resolution
+prefix and a gradient-colored format tag. Glyph size, word gap, anchor
+positions and the HDR gradient were measured from the shipped overlays, and
+the `-Dovetail` variant (a byte-identical copy, matching the existing
+convention) is written automatically.
+
+```shell
+python3 -m pip install pillow numpy
+python3 scripts/generate_resolution_overlay.py \
+  --white 4K --gradient-text HLG --gradient '#12ab4f,#a8e214' --name 4K-HLG
+```
+
+- `--white` – the white prefix (`4K`, `1080P`, ...); omit for a tag-only
+  overlay like `HLG.png`
+- `--gradient-text` / `--gradient '#RRGGBB,#RRGGBB'` – the colored tag and
+  its left→right ramp (defaults to the HDR crimson→orange ramp)
+- `--skip-dovetail` – don't write the `-Dovetail` copy
+
 ## `generate_network_overlay.py`
 
 Creates a new `overlays/network-top-left/<Name>.png` ribbon without needing
