@@ -218,6 +218,19 @@ Run this once before stacking resolution/audio/studio overlays:
 ![movies_imdb](https://github.com/s0len/meta-manager-config/assets/35483234/6dfa41b0-568c-4a20-846c-753792f34929)
 ![movies_rotten](https://github.com/s0len/meta-manager-config/assets/35483234/6b0a7070-e5e3-4e13-aed5-73e1ab2cc8bf)
 
+### TV – Title Cards (Community-Maintained)
+
+Beautiful episode title cards, season posters, and show art for 450+ series, curated from [MediUX](https://mediux.pro) sets and keyed by TVDB id — one URL covers your whole library and grows over time:
+
+```yaml
+libraries:
+  TV Shows:
+    metadata_files:
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/series/title_cards.yaml
+```
+
+Missing a show? PRs are very welcome — add your show's TVDB id with a MediUX set, keep the credit comment format, and it ships to everyone. See [`docs/contributing.md`](docs/contributing.md).
+
 ### TV – Replacement Collections
 
 ```yaml
