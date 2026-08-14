@@ -38,6 +38,19 @@ PRs should describe:
 - Keep episodes/events ordered chronologically and use zero-padded numbering (`01`, `02`, …).
 - After editing, run `python3 scripts/validate_yaml.py` to catch syntax errors and broken asset references (CI runs it on every PR).
 
+## Adding Series Title Cards
+
+`metadata/series/title_cards.yaml` is a community-maintained file mapping TVDB
+ids to MediUX artwork. To add a show:
+
+1. Find (or create) a set on [MediUX](https://mediux.pro) for the show.
+2. Add an entry under `metadata:` keyed by the show's TVDB id, with
+   `url_poster`/`url_background` for the show and per-season/per-episode
+   `url_poster` entries, following the existing structure.
+3. Keep the credit comment on the id line:
+   `# TVDB id for <Show>. Set by <creator> on MediUX. <link to set>`
+4. Run `python3 scripts/validate_yaml.py` and open a PR.
+
 ## Docs & Communication
 - Follow the `docs/SportDocTemplate.md` structure when documenting a sport.
 - Link new docs from the README Supported Sports table.
