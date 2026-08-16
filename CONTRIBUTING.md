@@ -41,15 +41,49 @@ PRs should describe:
 ## Adding Series Title Cards
 
 `metadata/series/title_cards.yaml` is a community-maintained file mapping TVDB
-ids to MediUX artwork. To add a show:
+ids to MediUX artwork — this is what powers the
+[TV – Title Cards](README.md#tv--title-cards-community-maintained) section of
+the README. To add or update a show:
 
-1. Find (or create) a set on [MediUX](https://mediux.pro) for the show.
-2. Add an entry under `metadata:` keyed by the show's TVDB id, with
-   `url_poster`/`url_background` for the show and per-season/per-episode
-   `url_poster` entries, following the existing structure.
-3. Keep the credit comment on the id line:
+1. Go to [mediux.pro](https://mediux.pro) and search for the show.
+2. Open the set you want — pick one that actually has **title cards** (episode
+   artwork), not just a poster set.
+3. Use the set's **copy YAML** button to grab the Kometa block.
+4. Open `metadata/series/title_cards.yaml` and search for the show (by name in
+   the credit comments, or by its TVDB id):
+   - **Already there?** Replace the existing block with the new one — don't
+     leave two entries for the same id, the later one silently wins.
+   - **Not there?** Add it as a new entry under `metadata:`.
+5. Fix up the pasted YAML before committing — MediUX doesn't always emit a
+   complete block, and a missing key means the whole file fails to parse for
+   *everyone* consuming the URL:
+   - The block **must** be keyed by the show's **TVDB id** (not the show name,
+     not a TMDb id).
+   - Every season **must** have its own numbered key under `seasons:`; episodes
+     hang off `episodes:` inside it. Episode entries with no season above them
+     are a parse error.
+   - Indentation is 2 spaces, and the whole entry sits one level under
+     `metadata:`.
+6. Keep the credit comment on the id line so the set creator is credited:
    `# TVDB id for <Show>. Set by <creator> on MediUX. <link to set>`
-4. Run `python3 scripts/validate_yaml.py` and open a PR.
+7. Run `python3 scripts/validate_yaml.py` and open a PR.
+
+The expected shape:
+
+```yaml
+metadata:
+  436198: # TVDB id for Common Side Effects. Set by willtong93 on MediUX. https://mediux.pro/sets/31255
+    url_poster: https://api.mediux.pro/assets/f3c7ce8f-e165-4617-9118-6ffaab592697
+    url_background: https://api.mediux.pro/assets/97644f6e-d06a-4d76-855f-f5de9f6c67e1
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/54613457-78a1-4290-a3ba-38ba25c8cc83
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/a39ae3eb-764b-4a03-83b4-0162018c8aa7
+          2:
+            url_poster: https://api.mediux.pro/assets/eed3b585-faa8-4974-b402-95a8677afbf7
+```
 
 ## Docs & Communication
 - Follow the `docs/SportDocTemplate.md` structure when documenting a sport.

@@ -11,7 +11,7 @@
 #
 # Contributing: add your show under `metadata:` with its TVDB id, keep the
 # `# TVDB id for <Show>. Set by <creator> on MediUX. <set link>` comment
-# format, and open a PR. See docs/contributing.md.
+# format, and open a PR. See CONTRIBUTING.md.
 metadata:
   436198: # TVDB id for Common Side Effects. Set by willtong93 on MediUX. https://mediux.pro/sets/31255
     url_poster: https://api.mediux.pro/assets/f3c7ce8f-e165-4617-9118-6ffaab592697

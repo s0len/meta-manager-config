@@ -1,7 +1,7 @@
 # Kometa Configs
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/contributing.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Buy Me A Coffee](https://img.shields.io/badge/support-Buy%20Me%20a%20Coffee-ffdd00.svg)](https://www.buymeacoffee.com/solen)
 
 Curated [Kometa](https://kometa.wiki) configurations for Plex libraries: battle-tested overlays, discovery collections, artwork, and a legacy archive of sports metadata — build polished libraries without hunting down artwork.
@@ -40,7 +40,8 @@ A complete example config lives in [`exampleConfig.yaml`](exampleConfig.yaml).
 | `overlays/` | Network, streaming, studio, resolution, audio, status, and ribbon overlays. |
 | `collection_files/` | Drop-in collections: New Releases, Sofa Picks, and more. |
 | `templates/` | Photoshop starting points for posters/title cards/overlays. |
-| `docs/` | Setup guides and contribution docs. |
+| `docs/` | Per-sport setup guides. |
+| `CONTRIBUTING.md` | How to contribute artwork, metadata, and title cards. |
 
 ---
 
@@ -229,7 +230,9 @@ libraries:
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/series/title_cards.yaml
 ```
 
-Missing a show? PRs are very welcome — add your show's TVDB id with a MediUX set, keep the credit comment format, and it ships to everyone. See [`docs/contributing.md`](docs/contributing.md).
+![episode title cards in Plex](images/title-cards-preview.png)
+
+Missing a show? PRs are very welcome — add your show's TVDB id with a MediUX set, keep the credit comment format, and it ships to everyone. See [Adding Series Title Cards](CONTRIBUTING.md#adding-series-title-cards) for the step-by-step.
 
 ### TV – Replacement Collections
 
@@ -333,7 +336,7 @@ Everything under `scripts/` is documented in [`scripts/README.md`](scripts/READM
 
 ## Contributing
 
-Read [`docs/contributing.md`](docs/contributing.md) for the full workflow. Highlights:
+Read [`CONTRIBUTING.md`](CONTRIBUTING.md) for the full workflow. Highlights:
 
 - Fork → branch → PR with screenshots where helpful.
 - Run `python3 scripts/validate_yaml.py` before submitting — CI runs it on every PR.

@@ -72,6 +72,7 @@ def check_references(files: list[Path]) -> tuple[list[str], list[str]]:
     errors, warnings = [], []
     doc_files = [
         REPO_ROOT / "README.md",
+        REPO_ROOT / "CONTRIBUTING.md",
         *sorted(REPO_ROOT.glob("exampleConfig.y*ml")),
         *sorted((REPO_ROOT / "docs").glob("*.md")),
     ]
