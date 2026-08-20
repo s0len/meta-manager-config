@@ -31365,6 +31365,7 @@ metadata:
 
   421974: # TVDB id for Colin from Accounts. Set by defluo on MediUX. https://mediux.pro/sets/34048
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/52310d03-6344-4de1-82e1-89f694dc087a
@@ -31382,6 +31383,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/9af222b4-f50d-4249-9943-bf620eda9c33
           8:
             url_poster: https://api.mediux.pro/assets/52abbfba-68ad-489c-a4bf-a09ceb963355
+      2:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/95569eeb-a930-4fb0-b158-0f5c0370b206
@@ -31399,6 +31401,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/0c34da03-db51-454e-bca1-38137be2488d
           8:
             url_poster: https://api.mediux.pro/assets/f8aa63fa-c06c-4ca7-be1d-ff8ad8a0aaf0
+      3:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/b5674167-f42f-40ef-a70d-dfe80deadf9a
