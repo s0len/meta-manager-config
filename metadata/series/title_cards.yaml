@@ -13025,7 +13025,7 @@ metadata:
           10:
             url_poster: https://api.mediux.pro/assets/c3475eac-fcd0-46ba-99d7-e8023a11b93d
 
-  null: # TVDB id for Daemons of the Shadow Realm. Set by CrackerJack on MediUX. https://mediux.pro/sets/55118
+  452711: # TVDB id for Daemons of the Shadow Realm. Set by CrackerJack on MediUX. https://mediux.pro/sets/55118
     url_poster: https://api.mediux.pro/assets/e06d7e9d-590f-47c5-b489-44bb32402d92
     seasons:
       1:
@@ -33517,6 +33517,7 @@ metadata:
   453544: # TVDB id for Monsters: The Lyle and Erik Menendez Story. Set by willtong93 on MediUX. https://mediux.pro/sets/38580
     url_poster: https://api.mediux.pro/assets/2e9febab-bb05-4fdf-8593-50acc874b1dc
     seasons:
+      1:
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/c3d66507-489c-49d2-a65c-11cbaa3b722f
