@@ -1,10 +1,16 @@
 #!/usr/bin/env python3
 """Validate the repository's YAML files and internal asset references.
 
-Two checks, both aimed at the mistakes that actually break users' setups:
+Three checks, all aimed at the mistakes that actually break users'
+setups:
 
 1. Every ``.yaml``/``.yml`` file parses as valid YAML.
-2. Every ``raw.githubusercontent.com/s0len/meta-manager-config/main/...``
+2. No mapping contains a duplicate key. Kometa loads YAML through
+   ruamel, which *rejects* duplicates, while pyyaml's ``safe_load``
+   silently keeps the last one -- so a show missing a season key (its
+   ``episodes:`` blocks collapsing into one mapping) parses fine here
+   but aborts every user's run.
+3. Every ``raw.githubusercontent.com/s0len/meta-manager-config/main/...``
    URL found in YAML files, the README and docs points at a file that
    exists in the repo (asset filename mismatches are the most common PR
    error). Kometa template placeholders (``<<key>>`` etc.) are skipped.
@@ -49,6 +55,14 @@ def yaml_files(paths: list[str]) -> list[Path]:
     return sorted(found)
 
 
+def _rel(path: Path) -> Path:
+    """Repo-relative display path; explicit CLI args may be relative."""
+    try:
+        return path.resolve().relative_to(REPO_ROOT)
+    except ValueError:
+        return path
+
+
 def check_syntax(files: list[Path]) -> list[str]:
     errors = []
     for path in files:
@@ -56,8 +70,49 @@ def check_syntax(files: list[Path]) -> list[str]:
             with open(path, encoding="utf-8") as handle:
                 yaml.safe_load(handle)
         except yaml.YAMLError as exc:
-            errors.append(f"{path.relative_to(REPO_ROOT)}: {exc}")
+            errors.append(f"{_rel(path)}: {exc}")
     return errors
+
+
+def check_duplicate_keys(files: list[Path]) -> list[str]:
+    """Report every mapping key that appears twice in the same mapping.
+
+    ``yaml.safe_load`` accepts duplicates and keeps the last value, so
+    this needs the node tree rather than the loaded document. Walking it
+    (instead of raising from a custom constructor) reports every
+    duplicate in one pass instead of only the first.
+    """
+    errors = []
+    for path in files:
+        try:
+            with open(path, encoding="utf-8") as handle:
+                root = yaml.compose(handle)
+        except yaml.YAMLError:
+            continue  # already reported by check_syntax
+        if root is None:
+            continue
+        rel = _rel(path)
+        stack = [root]
+        while stack:
+            node = stack.pop()
+            if isinstance(node, yaml.MappingNode):
+                seen: dict[str, int] = {}
+                for key_node, value_node in node.value:
+                    stack.append(value_node)
+                    key = getattr(key_node, "value", None)
+                    if not isinstance(key, str):
+                        continue
+                    line = key_node.start_mark.line + 1
+                    if key in seen:
+                        errors.append(
+                            f"{rel}:{line}: duplicate key '{key}' "
+                            f"(first seen on line {seen[key]})"
+                        )
+                    else:
+                        seen[key] = line
+            elif isinstance(node, yaml.SequenceNode):
+                stack.extend(node.value)
+    return sorted(set(errors))
 
 
 def check_references(files: list[Path]) -> tuple[list[str], list[str]]:
@@ -79,7 +134,7 @@ def check_references(files: list[Path]) -> tuple[list[str], list[str]]:
     for path in [*files, *doc_files]:
         if not path.exists():
             continue
-        rel = path.relative_to(REPO_ROOT)
+        rel = _rel(path)
         soft = rel.parts[0] in ("metadata", "collection_files")
         text = path.read_text(encoding="utf-8", errors="replace")
         for match in RAW_URL.finditer(text):
@@ -95,20 +150,24 @@ def check_references(files: list[Path]) -> tuple[list[str], list[str]]:
 def main() -> int:
     files = yaml_files(sys.argv[1:])
     syntax_errors = check_syntax(files)
+    dupe_errors = check_duplicate_keys(files)
     ref_errors, ref_warnings = (
         check_references(files) if not sys.argv[1:] else ([], [])
     )
 
     for err in syntax_errors:
         print(f"SYNTAX  {err}")
+    for err in dupe_errors:
+        print(f"DUPKEY  {err}")
     for err in ref_errors:
         print(f"BROKEN  {err}")
     for warn in ref_warnings:
         print(f"warn    {warn}")
 
-    print(f"\n{len(syntax_errors)} syntax error(s), {len(ref_errors)} broken "
-          f"reference(s), {len(ref_warnings)} missing-asset warning(s)")
-    return 1 if (syntax_errors or ref_errors) else 0
+    print(f"\n{len(syntax_errors)} syntax error(s), {len(dupe_errors)} "
+          f"duplicate key(s), {len(ref_errors)} broken reference(s), "
+          f"{len(ref_warnings)} missing-asset warning(s)")
+    return 1 if (syntax_errors or dupe_errors or ref_errors) else 0
 
 
 if __name__ == "__main__":
