@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Validate the repository's YAML files and internal asset references.
 
-Three checks, all aimed at the mistakes that actually break users'
+Four checks, all aimed at the mistakes that actually break users'
 setups:
 
 1. Every ``.yaml``/``.yml`` file parses as valid YAML.
@@ -10,7 +10,13 @@ setups:
    silently keeps the last one -- so a show missing a season key (its
    ``episodes:`` blocks collapsing into one mapping) parses fine here
    but aborts every user's run.
-3. Every ``raw.githubusercontent.com/s0len/meta-manager-config/main/...``
+3. Every ``metadata:`` entry has the shape Kometa expects: a non-null
+   show key, and integer season/episode numbers. A show whose season
+   key is missing entirely collapses its ``episodes:`` block up into
+   ``seasons:``; when that happens only once in a show there is no
+   duplicate key to trip check 2, so it parses cleanly and then
+   silently applies nothing.
+4. Every ``raw.githubusercontent.com/s0len/meta-manager-config/main/...``
    URL found in YAML files, the README and docs points at a file that
    exists in the repo (asset filename mismatches are the most common PR
    error). Kometa template placeholders (``<<key>>`` etc.) are skipped.
@@ -115,6 +121,56 @@ def check_duplicate_keys(files: list[Path]) -> list[str]:
     return sorted(set(errors))
 
 
+def check_metadata_shape(files: list[Path]) -> list[str]:
+    """Check ``metadata:`` entries against the shape Kometa expects.
+
+    Season and episode keys are always numbers; a non-integer key means
+    a level of nesting was lost. A ``null`` show key means the TVDB id
+    was never filled in -- it parses, but matches nothing.
+    """
+    errors = []
+    for path in files:
+        try:
+            with open(path, encoding="utf-8") as handle:
+                doc = yaml.safe_load(handle)
+        except yaml.YAMLError:
+            continue  # already reported by check_syntax
+        if not isinstance(doc, dict):
+            continue
+        entries = doc.get("metadata")
+        if not isinstance(entries, dict):
+            continue
+        rel = _rel(path)
+        for show_key, show in entries.items():
+            if show_key is None:
+                errors.append(f"{rel}: show key is null (missing id?)")
+                continue
+            if not isinstance(show, dict):
+                continue
+            seasons = show.get("seasons")
+            if not isinstance(seasons, dict):
+                continue
+            for season_key, season in seasons.items():
+                if not isinstance(season_key, int):
+                    errors.append(
+                        f"{rel}: {show_key} has season key '{season_key}' -- "
+                        f"season numbers must be integers (missing season key?)"
+                    )
+                    continue
+                if not isinstance(season, dict):
+                    continue
+                episodes = season.get("episodes")
+                if not isinstance(episodes, dict):
+                    continue
+                for ep_key in episodes:
+                    if not isinstance(ep_key, int):
+                        errors.append(
+                            f"{rel}: {show_key} s{season_key} has episode key "
+                            f"'{ep_key}' -- episode numbers must be integers"
+                        )
+    return sorted(set(errors))
+
+
 def check_references(files: list[Path]) -> tuple[list[str], list[str]]:
     """Return (errors, warnings).
 
@@ -151,6 +207,7 @@ def main() -> int:
     files = yaml_files(sys.argv[1:])
     syntax_errors = check_syntax(files)
     dupe_errors = check_duplicate_keys(files)
+    shape_errors = check_metadata_shape(files)
     ref_errors, ref_warnings = (
         check_references(files) if not sys.argv[1:] else ([], [])
     )
@@ -159,15 +216,19 @@ def main() -> int:
         print(f"SYNTAX  {err}")
     for err in dupe_errors:
         print(f"DUPKEY  {err}")
+    for err in shape_errors:
+        print(f"SHAPE   {err}")
     for err in ref_errors:
         print(f"BROKEN  {err}")
     for warn in ref_warnings:
         print(f"warn    {warn}")
 
     print(f"\n{len(syntax_errors)} syntax error(s), {len(dupe_errors)} "
-          f"duplicate key(s), {len(ref_errors)} broken reference(s), "
+          f"duplicate key(s), {len(shape_errors)} shape error(s), "
+          f"{len(ref_errors)} broken reference(s), "
           f"{len(ref_warnings)} missing-asset warning(s)")
-    return 1 if (syntax_errors or dupe_errors or ref_errors) else 0
+    return 1 if (syntax_errors or dupe_errors or shape_errors
+                 or ref_errors) else 0
 
 
 if __name__ == "__main__":
