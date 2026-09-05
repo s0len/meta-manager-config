@@ -60,13 +60,13 @@ libraries:
       # Status in the top left corner
       - pmm: status
         template_variables:
-          text_airing: .
+          text_airing: airing
           url_airing: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/airing.png
-          text_returning: .
+          text_returning: returning
           url_returning: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/returning.png
-          text_canceled: . 
+          text_canceled: canceled
           url_canceled: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/cancelled.png
-          text_ended: .
+          text_ended: ended
           url_ended: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/ended.png
           horizontal_align: left
           horizontal_offset: 25
@@ -78,12 +78,12 @@ libraries:
           back_width_airing: 1000
           back_width_returning: 1000
           back_width_ended: 1000
-          back_width_cancelled: 1000
+          back_width_canceled: 1000
           back_width: 1000
           back_height_airing: 1500
           back_height_returning: 1500
           back_height_ended: 1500
-          back_height_cancelled: 1500
+          back_height_canceled: 1500
           back_height: 1500
           back_padding: 0
           back_line_width: 1000
@@ -119,13 +119,13 @@ libraries:
           back_color: 00
       - pmm: status
         template_variables:
-          text_airing: .
+          text_airing: airing
           url_airing: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/airing.png
-          text_returning: .
+          text_returning: returning
           url_returning: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/returning.png
-          text_canceled: . 
+          text_canceled: canceled
           url_canceled: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/cancelled.png
-          text_ended: .
+          text_ended: ended
           url_ended: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/ended.png
           horizontal_align: left
           horizontal_offset: 25
@@ -137,12 +137,12 @@ libraries:
           back_width_airing: 1000
           back_width_returning: 1000
           back_width_ended: 1000
-          back_width_cancelled: 1000
+          back_width_canceled: 1000
           back_width: 1000
           back_height_airing: 1500
           back_height_returning: 1500
           back_height_ended: 1500
-          back_height_cancelled: 1500
+          back_height_canceled: 1500
           back_height: 1500
           back_padding: 0
           back_line_width: 1000

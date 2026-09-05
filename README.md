@@ -249,13 +249,13 @@ Over 300 network ribbons ship in `overlays/network-top-left/` — from the big s
 ```yaml
 - default: status
   template_variables:
-    text_airing: .
+    text_airing: airing
     url_airing: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/airing.png
-    text_returning: .
+    text_returning: returning
     url_returning: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/continuing.png
-    text_canceled: .
+    text_canceled: canceled
     url_canceled: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/cancelled.png
-    text_ended: .
+    text_ended: ended
     url_ended: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/ended.png
     horizontal_align: left
     horizontal_offset: 25
@@ -282,6 +282,8 @@ Over 300 network ribbons ship in `overlays/network-top-left/` — from the big s
     url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/<<key_encoded>>.png
     back_color: 00
 ```
+
+> **Note:** the `text_*` values must be unique per status (`airing`, `returning`, `canceled`, `ended`). Kometa names each overlay `text(<value>)` and, since v2.4 (July 2026), caches the downloaded image under that name. If all four share the same value (the old `.` trick) they share one cached image and every show ends up with the same status overlay, typically `ended`. The text stays invisible thanks to `font_size: 1` and the transparent `font_color`.
 
 ![series_status_network_overlay](https://github.com/s0len/meta-manager-config/assets/35483234/f3a64377-b16b-46bc-9a77-4852f3695db4)
 
