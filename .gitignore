@@ -154,3 +154,5 @@ cython_debug/
 .DS_Store
 
 /scripts/prompt_template.txt
+# Scratch API payloads
+tmp/

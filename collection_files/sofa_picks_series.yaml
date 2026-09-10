@@ -1,0 +1,39 @@
+# Sofa Picks (Series) — discovery collections for "what should we start next?"
+#
+# Binge-Ready and Limited Series use TMDb status/type lookups (Kometa filters),
+# so membership refreshes on each Kometa run rather than live. Both drop shows
+# once someone starts watching them.
+#
+# critic_rating follows whatever your setup feeds Plex (0-10 scale) — tune the
+# .gte threshold to taste.
+#
+# Usage:
+#   collection_files:
+#     - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/sofa_picks_series.yaml
+collections:
+  Binge-Ready Shows:
+    plex_search:
+      all:
+        unplayed: true
+        critic_rating.gte: 7.5
+    filters:
+      tmdb_status:
+        - ended
+        - canceled
+    collection_order: random
+    sync_mode: sync
+    summary: Complete, well-rated shows nobody here has started. The whole story is already told — no waiting a year for the next season.
+    sort_title: "!015_Binge_Ready"
+    visible_library: true
+
+  Limited Series:
+    plex_search:
+      all:
+        unplayed: true
+    filters:
+      tmdb_type: miniseries
+    collection_order: random
+    sync_mode: sync
+    summary: Miniseries you haven't seen — a complete story in a handful of episodes. Perfect single-weekend commitments.
+    sort_title: "!016_Limited_Series"
+    visible_library: true

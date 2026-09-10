@@ -1,6 +1,56 @@
 # Scripts
 
-Utilities that help regenerate or extend metadata files for Sports Organizer live here.
+Utilities for generating sports metadata and overlay artwork. Sports metadata is actively maintained at [TVSportsDB](https://tvsportsdb.com/) these days — the generators here are still handy for bulk-building a season as YAML, which TVSportsDB can import.
+
+## `generate_resolution_overlay.py`
+
+Creates new `overlays/resolution-top-left-45deg/<Name>.png` text overlays in
+the style of the existing set: 45° text with an optional white resolution
+prefix and a gradient-colored format tag. Glyph size, word gap, anchor
+positions and the HDR gradient were measured from the shipped overlays, and
+the `-Dovetail` variant (a byte-identical copy, matching the existing
+convention) is written automatically.
+
+```shell
+python3 -m pip install pillow numpy
+python3 scripts/generate_resolution_overlay.py \
+  --white 4K --gradient-text HLG --gradient '#12ab4f,#a8e214' --name 4K-HLG
+```
+
+- `--white` – the white prefix (`4K`, `1080P`, ...); omit for a tag-only
+  overlay like `HLG.png`
+- `--gradient-text` / `--gradient '#RRGGBB,#RRGGBB'` – the colored tag and
+  its left→right ramp (defaults to the HDR crimson→orange ramp)
+- `--skip-dovetail` – don't write the `-Dovetail` copy
+
+## `generate_network_overlay.py`
+
+Creates a new `overlays/network-top-left/<Name>.png` ribbon without needing
+Photoshop. It reproduces the exact look of the existing set (the shading
+profiles were sampled from the shipped overlays, which were originally built
+from `templates/poster_overlay_network.psd`): brand-colored corner triangle,
+top-edge highlight, inner shading and soft drop shadow, with the network logo
+composited on top.
+
+```shell
+python3 -m pip install pillow numpy
+python3 scripts/generate_network_overlay.py \
+  --logo /tmp/dazn.png --color '#0c0c0c' --logo-color '#f8ff01' --name DAZN
+```
+
+- `--logo` – a transparent PNG of the network logo (Wikimedia Commons SVG
+  thumbnails work well). The logo is recolored to a white silhouette by
+  default; use `--logo-color '#RRGGBB'` for another color or
+  `--logo-color keep` to preserve the original colors (e.g. the Sky family
+  logos on the light `#c2cfd5` ribbon).
+- `--color` – ribbon color as `#RRGGBB`.
+- `--rotate` – lays the logo along the 45° diagonal; use it for wide
+  wordmarks (like the existing ESPN/tubi overlays). Compact or square logos
+  look better upright (the default).
+- `--logo-scale` / `--logo-center X,Y` – fine-tune size and placement when a
+  logo touches the ribbon edges.
+- `--name` – output filename; must match the network name Plex/Kometa reports
+  (the `<<key>>` in the overlay config).
 
 ## SportsDB configuration defaults
 

@@ -1,7 +1,7 @@
 libraries:
   Movies:
     collection_files:
-    - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/better_new_and_old_movie_releases.yml
+    - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/better_new_and_old_movie_releases.yaml
 
     - pmm: content_rating_cs
       template_variables:
@@ -54,19 +54,19 @@ libraries:
 
   TV Shows:
     collection_files:
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/better_new_and_old_tv_shows_releases.yml
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/better_new_and_old_tv_shows_releases.yaml
       
     overlay_files:
       # Status in the top left corner
       - pmm: status
         template_variables:
-          text_airing: .
+          text_airing: airing
           url_airing: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/airing.png
-          text_returning: .
+          text_returning: returning
           url_returning: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/returning.png
-          text_canceled: . 
+          text_canceled: canceled
           url_canceled: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/cancelled.png
-          text_ended: .
+          text_ended: ended
           url_ended: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/ended.png
           horizontal_align: left
           horizontal_offset: 25
@@ -78,12 +78,12 @@ libraries:
           back_width_airing: 1000
           back_width_returning: 1000
           back_width_ended: 1000
-          back_width_cancelled: 1000
+          back_width_canceled: 1000
           back_width: 1000
           back_height_airing: 1500
           back_height_returning: 1500
           back_height_ended: 1500
-          back_height_cancelled: 1500
+          back_height_canceled: 1500
           back_height: 1500
           back_padding: 0
           back_line_width: 1000
@@ -102,7 +102,7 @@ libraries:
           vertical_align: top
           back_width: 1000
           back_height: 1500
-          url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/<<key>>.png 
+          url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/<<key_encoded>>.png 
           back_color: 00 
 
   Anime Series:
@@ -115,17 +115,17 @@ libraries:
           vertical_offset: 0
           back_width: 1000
           back_height: 1500
-          url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/studio-top-left/<<key>>.png
+          url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/studio-top-left/<<key_encoded>>.png
           back_color: 00
       - pmm: status
         template_variables:
-          text_airing: .
+          text_airing: airing
           url_airing: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/airing.png
-          text_returning: .
+          text_returning: returning
           url_returning: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/returning.png
-          text_canceled: . 
+          text_canceled: canceled
           url_canceled: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/cancelled.png
-          text_ended: .
+          text_ended: ended
           url_ended: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/status-top-left/ended.png
           horizontal_align: left
           horizontal_offset: 25
@@ -137,12 +137,12 @@ libraries:
           back_width_airing: 1000
           back_width_returning: 1000
           back_width_ended: 1000
-          back_width_cancelled: 1000
+          back_width_canceled: 1000
           back_width: 1000
           back_height_airing: 1500
           back_height_returning: 1500
           back_height_ended: 1500
-          back_height_cancelled: 1500
+          back_height_canceled: 1500
           back_height: 1500
           back_padding: 0
           back_line_width: 1000
@@ -151,14 +151,14 @@ libraries:
 
   Sports:
     metadata_files:
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/formula1-2025.yaml
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/formulae-2025.yaml
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/indycar-2025.yaml
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/formula1/2025.yaml
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/formula-e/2025-2026.yaml
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/indycar-series/2025.yaml
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/isle-of-man-tt.yaml
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/moto2-2025.yaml
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/moto3-2025.yaml
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/motogp-2025.yaml
-      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/ufc.yaml
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/moto2/2025.yaml
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/moto3/2025.yaml
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/motogp/2025.yaml
+      - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/ufc/2026.yaml
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/womens-uefa-euro.yaml
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/wsbk-2025.yaml
       - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/metadata/wssp-2025.yaml

@@ -1,0 +1,35 @@
+# Sofa Picks (Movies) — discovery collections for "what should we watch tonight?"
+#
+# Both collections are self-maintaining local Plex queries (no external API
+# needed) and remove titles as you watch them.
+#
+# Rating fields follow whatever your setup feeds Plex: critic_rating is
+# Metacritic/RT-critics (0-10), audience_rating is your audience source.
+# Tune the .gte thresholds to taste.
+#
+# Usage:
+#   collection_files:
+#     - url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/collection_files/sofa_picks_movies.yaml
+collections:
+  Hidden Gems:
+    smart_filter:
+      sort_by: random
+      limit: 100
+      all:
+        unplayed: true
+        critic_rating.gte: 7.5
+    summary: Critically acclaimed movies nobody here has watched yet. Refreshes as you watch — the gems you find disappear, new ones surface.
+    sort_title: "!015_Hidden_Gems"
+    visible_library: true
+
+  Quick Watch Tonight:
+    smart_filter:
+      sort_by: random
+      limit: 100
+      all:
+        unplayed: true
+        duration.lte: 100
+        audience_rating.gte: 7.0
+    summary: Well-rated movies under 100 minutes that you haven't seen. For evenings when a three-hour epic is not happening.
+    sort_title: "!016_Quick_Watch_Tonight"
+    visible_library: true
