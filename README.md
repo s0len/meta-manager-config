@@ -281,6 +281,8 @@ This is a bit of a workaround to fill up the missing network logos by first writ
           back_width: 1000
           back_height: 1500
           url: https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/<<key>>.png 
+          # Kometa doesn't URL-encode <<key>>, so the "#" in "#0" breaks the URL. Override it with the encoded path.
+          "url_#0": https://raw.githubusercontent.com/s0len/meta-manager-config/main/overlays/network-top-left/%230.png
           back_color: 00 
 ```
 
