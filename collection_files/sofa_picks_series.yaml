@@ -14,7 +14,7 @@ collections:
   Binge-Ready Shows:
     plex_search:
       all:
-        unplayed: true
+        plays.lt: 1
         critic_rating.gte: 7.5
     filters:
       tmdb_status:
@@ -29,7 +29,7 @@ collections:
   Limited Series:
     plex_search:
       all:
-        unplayed: true
+        plays.lt: 1
     filters:
       tmdb_type: miniseries
     collection_order: random
