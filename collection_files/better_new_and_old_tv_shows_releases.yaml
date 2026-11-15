@@ -8,6 +8,7 @@ collections:
         episode_air_date: 365
       limit: 250
     summary: New releases added in the past three months. Sorted by Date Added.
+    visible_library: true
     sort_title: "!008_New_Releases"
     url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/new-releases/New_TV_Show_Releases.jpg
 
