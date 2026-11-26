@@ -57671,3 +57671,117 @@ metadata:
             url_poster: https://api.mediux.pro/assets/0202bf08-bc06-47f1-98b7-56c89eb70499
           66:
             url_poster: https://api.mediux.pro/assets/9b9888ff-9e63-453d-aaaa-e71c60bee023
+
+  424855: # TVDB id for Blade Runner 2099. Set by cuball on MediUX. https://mediux.pro/sets/63921
+    url_poster: https://api.mediux.pro/assets/c4f35d97-58f4-4de5-be73-0495bf13f961
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/80b3738e-1f03-4be7-acfb-325eafd2ea69
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/fd5fc31d-1eab-4aac-8bff-1b0bf3867d18
+          2:
+            url_poster: https://api.mediux.pro/assets/51b11032-bce7-472e-9980-54c2290adfe4
+          3:
+            url_poster: https://api.mediux.pro/assets/5ff4ad4b-dbb1-401d-9f04-87bc9b5d124b
+          4:
+            url_poster: https://api.mediux.pro/assets/d8d67100-e367-4101-8545-5ce14e865f31
+          5:
+            url_poster: https://api.mediux.pro/assets/6e25e43c-16b9-491e-a725-e336dce0431a
+          6:
+            url_poster: https://api.mediux.pro/assets/f250f0be-2270-4b7a-a42b-9de404ce176d
+          7:
+            url_poster: https://api.mediux.pro/assets/62118860-a45f-4773-a21f-2934371522b4
+          8:
+            url_poster: https://api.mediux.pro/assets/6362c1f4-e0df-442f-8f71-2a4b61f54d2e
+
+  456813: # TVDB id for Cape Fear. Set by willtong93 on MediUX. https://mediux.pro/sets/52055
+    url_poster: https://api.mediux.pro/assets/d1494070-f8ae-4bda-a855-a8c7c84005db
+    url_background: https://api.mediux.pro/assets/dd4dafec-f38a-4d5f-819e-cc290d2928b9
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/4660c799-175d-42a7-b57b-12552fe4a285
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/3c31a1c9-886e-4cd4-ab73-997f6e23c917
+          2:
+            url_poster: https://api.mediux.pro/assets/154ddeb2-b2f9-4c79-86c8-b2daec7fe677
+          3:
+            url_poster: https://api.mediux.pro/assets/e1c10df6-1e4a-4074-b8b3-eee7d04b8080
+          4:
+            url_poster: https://api.mediux.pro/assets/7ec7bdcb-7912-4948-b5ab-910e6a1aa9e6
+          5:
+            url_poster: https://api.mediux.pro/assets/1e22f55a-de93-43fa-8613-1d7e1d9cb474
+          6:
+            url_poster: https://api.mediux.pro/assets/875eeb4e-4ceb-4aee-a392-3f5f03fc6e33
+          7:
+            url_poster: https://api.mediux.pro/assets/64423128-ab2c-4d98-b953-c5691c4c7386
+          8:
+            url_poster: https://api.mediux.pro/assets/fc4df853-fe57-4296-9173-75c498228579
+          9:
+            url_poster: https://api.mediux.pro/assets/cc76450d-76c8-4ad3-991f-16499c8da920
+          10:
+            url_poster: https://api.mediux.pro/assets/973cabe8-39b1-44e8-ad59-b693db039ce5
+
+  74372: # TVDB id for The Blue Planet. Set by wiwer on MediUX. https://mediux.pro/sets/45861
+    seasons:
+      1:
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/ff05f8c7-b472-4ebc-aa15-18197cf34816
+          2:
+            url_poster: https://api.mediux.pro/assets/ccdaa8ff-a410-4cf9-88e8-cda957e030ff
+          3:
+            url_poster: https://api.mediux.pro/assets/0c850223-afb2-4e02-b342-d614a3a5e88d
+          4:
+            url_poster: https://api.mediux.pro/assets/78c8800e-c292-49f5-b6b3-91886912db27
+          5:
+            url_poster: https://api.mediux.pro/assets/e663412f-072e-4b1a-bf77-19d20ecaf9d1
+          6:
+            url_poster: https://api.mediux.pro/assets/763f504b-1243-45be-b4ef-5352211de685
+          7:
+            url_poster: https://api.mediux.pro/assets/58053548-207c-4183-b196-749db3971989
+          8:
+            url_poster: https://api.mediux.pro/assets/6e9e1ea2-7bde-40de-bca4-198e48937438
+
+  359250: # TVDB id for The Green Planet. Set by wiwer on MediUX. https://mediux.pro/sets/45912
+    seasons:
+      1:
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/f778231c-f42c-49f4-964e-4765e2ca6144
+          2:
+            url_poster: https://api.mediux.pro/assets/79dfa27d-354d-4484-8983-9fcc9d4e31e2
+          3:
+            url_poster: https://api.mediux.pro/assets/9a48c3fb-7d30-42d7-97a4-f1c2b8836ecc
+          4:
+            url_poster: https://api.mediux.pro/assets/bbb7c967-ae41-415f-94c2-5bc29973708c
+          5:
+            url_poster: https://api.mediux.pro/assets/a8476621-1feb-45a5-b575-aba7b4da52bd
+
+  364131: # TVDB id for The Planets. Set by st54tr2 on MediUX. https://mediux.pro/sets/52230
+    seasons:
+      0:
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/87f10c3e-7bcc-4dd5-b835-0acc7a26d55a
+          2:
+            url_poster: https://api.mediux.pro/assets/6702d640-7991-46a6-8986-7dbe7c72b4d8
+          3:
+            url_poster: https://api.mediux.pro/assets/1558a704-3445-460d-91e3-72c3c8c39912
+          4:
+            url_poster: https://api.mediux.pro/assets/aa3debef-1d68-48b1-8d9f-5e8b12763905
+          5:
+            url_poster: https://api.mediux.pro/assets/5bcc355f-c226-435d-9ead-5db83ad6fb59
+      1:
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/fe4d6c79-510e-458f-a7fd-3f6b4ba081f4
+          2:
+            url_poster: https://api.mediux.pro/assets/deb8ad8b-83c8-40fb-994a-6a8cd8c05987
+          3:
+            url_poster: https://api.mediux.pro/assets/b896d867-d619-4263-b414-4c10e6c3cab3
+          4:
+            url_poster: https://api.mediux.pro/assets/88fee55e-4bf3-428e-bce2-ffd35e09679b
+          5:
+            url_poster: https://api.mediux.pro/assets/0f2e0dfc-dcc2-4f43-90c3-a2e700d54f23
